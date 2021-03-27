@@ -1,7 +1,7 @@
 {
   "name": "tama",
-  "imgSrc": "assets/img/480x600.png",
-  "intro": "sadfsdfsafdsaf",
+  "imgSrc": "https://jim60105.file.core.windows.net/sound-buttons/quontama/tama.jpg?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+  "intro": "名字和外表給人貓咪的錯覺，但下半身不常見的長長絨毛尾巴證明她實則是狗狗女孩VTuber。 \n由負責繪畫過VTuber赤井心、宇津木沙和的畫師はる雪執筆、而Live2D身體由製作過姬森璐娜、常暗永遠等的製作師Date(ﾀﾞﾃ)負責。 \n對唱歌擅長，在中、高音音域有著出色的爆發力表現，Live演唱時有著穩定表現為特點。 \n其實力的歌唱，使得她成為受到注目的個人勢VTuber。 \n每周日２１：００～定期舉行歌回！",
   "color": "#593196",
   "buttonGroups": [{
     "name": "たま怪叫",
