@@ -1,0 +1,39 @@
+[{
+  "name": "tama",
+  "imgSrc": "assets/img/480x600.png",
+  "intro": "sadfsdfsafdsaf",
+  "color": "#593196",
+  "buttonGroups": [{
+    "name": "たま怪叫",
+    "baseRoute": "https://jim60105.file.core.windows.net/sound-buttons/quontama/",
+    "buttons": [{
+        "filename": "tama_gibberish.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+        "text": "Super cut off time!"
+      },
+      {
+        "filename": "tama_systemcall.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+        "text": "System Call"
+      },
+      {
+        "filename": "byebye.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+        "text": "まったまたねー"
+      },
+      {
+        "filename": "sensei.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+        "text": "老師~"
+      },
+      {
+        "filename": "星爆.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+        "text": "星爆氣流斬！"
+      },
+      {
+        "filename": "我要開動了.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+        "text": "我要開動了"
+      },
+      {
+        "filename": "tama_itai.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+        "text": "好痛，好痛呦~"
+      }
+    ]
+  }]
+}]
