@@ -1,6 +1,6 @@
 {
   "name": "tama",
-  "imgSrc": "https://jim60105.file.core.windows.net/sound-buttons/tama/tama.jpg?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
+  "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.jpg?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=6bqNfR7liCul%2FouJn3hftNSYiGXNoHxppDyDgntKIe8%3D",
   "intro": "名字和外表給人貓咪的錯覺，但下半身不常見的長長絨毛尾巴證明她實則是狗狗女孩VTuber。 \n由負責繪畫過VTuber赤井心、宇津木沙和的畫師はる雪執筆、而Live2D身體由製作過姬森璐娜、常暗永遠等的製作師Date(ﾀﾞﾃ)負責。 \n對唱歌擅長，在中、高音音域有著出色的爆發力表現，Live演唱時有著穩定表現為特點。 \n其實力的歌唱，使得她成為受到注目的個人勢VTuber。 \n每周日２１：００～定期舉行歌回！",
   "color": {
     "primary": "#593196",
@@ -8,37 +8,47 @@
   },
   "youtube": "https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw",
   "buttonGroups": [{
-    "name": "たま怪叫",
-    "baseRoute": "https://jim60105.file.core.windows.net/sound-buttons/tama/",
-    "buttons": [{
-        "filename": "tama_gibberish.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
-        "text": "Super cut off time!",
-        "source": "https://www.youtube.com/embed/rWaRgSIx8Vs?controls=0&amp;start=881"
-      },
-      {
-        "filename": "tama_systemcall.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
-        "text": "System Call"
-      },
-      {
-        "filename": "byebye.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
-        "text": "まったまたねー"
-      },
-      {
-        "filename": "sensei.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
-        "text": "老師~"
-      },
-      {
-        "filename": "星爆.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
-        "text": "星爆氣流斬！"
-      },
-      {
-        "filename": "我要開動了.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
-        "text": "我要開動了"
-      },
-      {
-        "filename": "tama_itai.mp3?sv=2018-03-28&si=%E6%B0%B8%E8%AE%80&sr=s&sig=nzIHL4oMo8bIBkZu0p3HeO0YjQX0kuF3i151xV0hX%2BQ%3D",
-        "text": "好痛，好痛呦~"
-      }
-    ]
-  }]
+      "name": "たま怪叫",
+      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "buttons": [{
+          "filename": "星爆.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "星爆氣流斬！",
+          "source": "https://www.youtube.com/embed/rWaRgSIx8Vs?controls=0&amp;start=881"
+        },
+        {
+          "filename": "tama_gibberish.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "Super cut off time!"
+        },
+        {
+          "filename": "byebye.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "まったまたねー"
+        },
+        {
+          "filename": "sensei.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "老師~"
+        },
+        {
+          "filename": "我要開動了.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "我要開動了"
+        },
+        {
+          "filename": "tama_itai.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "好痛，好痛呦~"
+        }
+      ]
+    },
+    {
+      "name": "詠唱",
+      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "buttons": [{
+          "filename": "Unlimited_Blade_Works.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "Unlimited Blade Works"
+        },
+        {
+          "filename": "tama_systemcall.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "System Call"
+        }
+      ]
+    }
+  ]
 }
