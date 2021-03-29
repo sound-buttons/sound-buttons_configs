@@ -8,36 +8,57 @@
   },
   "youtube": "https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw",
   "buttonGroups": [{
-      "name": "たま怪叫",
+      "name": {
+        "zh-tw": "たま汪汪",
+        "ja": "たまわんわん"
+      },
       "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [{
           "filename": "星爆.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "星爆氣流斬！",
+          "text": {
+            "zh-tw": "星爆氣流斬！",
+            "ja": "スターバースト・ストリーム"
+          },
           "source": "https://www.youtube.com/embed/rWaRgSIx8Vs?controls=0&amp;start=881"
         },
         {
           "filename": "星爆中文.wav?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "星爆氣流斬！(中文)"
-        },
-        {
-          "filename": "tama_gibberish.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "Super cut off time!"
+          "text": {
+            "zh-tw": "星爆氣流斬！(中文)",
+            "ja": "スターバースト・ストリーム(中国語)"
+          }
         },
         {
           "filename": "byebye.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "まったまたねー"
+          "text": {
+            "zh-tw": "まったまたねー(再見招呼語)",
+            "ja": "まったまたねー(さようなら挨拶)"
+          }
+        },
+        {
+          "filename": "tama_gibberish.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "text": "Super cut-off time!"
         },
         {
           "filename": "sensei.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "老師~"
+          "text": {
+            "zh-tw": "老師~",
+            "ja": "先生～"
+          }
         },
         {
           "filename": "我要開動了.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "我要開動了"
+          "text": {
+            "zh-tw": "我要開動了",
+            "ja": "いただきます"
+          }
         },
         {
           "filename": "tama_itai.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "好痛，好痛呦~"
+          "text": {
+            "zh-tw": "好痛，好痛呦~",
+            "ja": "痛い、痛いよー"
+          }
         }
       ]
     },
@@ -50,7 +71,10 @@
         },
         {
           "filename": "tama_systemcall.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "System Call"
+          "text": {
+            "zh-tw": "System Call",
+            "ja": "システムコール"
+          }
         }
       ]
     }
