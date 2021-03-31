@@ -7,6 +7,14 @@
     "secondary": "#a991d4"
   },
   "youtube": "https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw",
+  "introButton": {
+    "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+    "filename": "星爆中文.wav?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+    "text": {
+      "zh-tw": "星爆氣流斬！(中文)",
+      "ja": "スターバースト・ストリーム(中国語)"
+    }
+  },
   "buttonGroups": [{
       "name": {
         "zh-tw": "たま汪汪",
