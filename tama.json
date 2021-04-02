@@ -8,7 +8,11 @@
     "primary": "#593196",
     "secondary": "#a991d4"
   },
-  "youtube": "https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw",
+  "link": {
+    "youtube": "https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw",
+    "twitter": "https://twitter.com/quon01tama",
+    "facebook": "https://www.facebook.com/%E4%B9%85%E9%81%A0%E3%81%9F%E3%81%BE-QuonTama-113797037412914"
+  },
   "introButton": {
     "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
     "filename": "星爆中文.wav?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
