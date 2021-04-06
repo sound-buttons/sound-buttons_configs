@@ -11,84 +11,119 @@
   "link": {
     "youtube": "https://www.youtube.com/channel/UCBC7vYFNQoGPupe5NxPG4Bw",
     "twitter": "https://twitter.com/quon01tama",
-    "facebook": "https://www.facebook.com/%E4%B9%85%E9%81%A0%E3%81%9F%E3%81%BE-QuonTama-113797037412914"
+    "facebook": "https://www.facebook.com/%E4%B9%85%E9%81%A0%E3%81%9F%E3%81%BE-QuonTama-113797037412914",
+    "other": null
   },
   "introButton": {
-    "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
-    "filename": "星爆中文.wav?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+    "filename": "星爆中文.wav",
     "text": {
       "zh-tw": "星爆氣流斬！(中文)",
       "ja": "スターバースト・ストリーム(中国語)"
-    }
+    },
+    "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+    "source": null,
+    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
   },
-  "buttonGroups": [{
+  "buttonGroups": [
+    {
       "name": {
         "zh-tw": "たま汪汪",
         "ja": "たまわんわん"
       },
       "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
-          "filename": "星爆.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+      "buttons": [
+        {
+          "filename": "星爆.mp3",
           "text": {
             "zh-tw": "星爆氣流斬！",
             "ja": "スターバースト・ストリーム"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
-
         {
-          "filename": "byebye.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "byebye.mp3",
           "text": {
             "zh-tw": "まったまたねー(再見招呼語)",
             "ja": "まったまたねー(さようなら挨拶)"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
-          "filename": "tama_gibberish.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "Super cut-off time!"
+          "filename": "tama_gibberish.mp3",
+          "text": "Super cut-off time!",
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
-          "filename": "sensei.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "sensei.mp3",
           "text": {
             "zh-tw": "老師~",
             "ja": "先生～"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
-          "filename": "我要開動了.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "我要開動了.mp3",
           "text": {
             "zh-tw": "我要開動了",
             "ja": "いただきます"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
-          "filename": "tama_itai.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "tama_itai.mp3",
           "text": {
             "zh-tw": "好痛，好痛呦~",
             "ja": "痛い、痛いよー"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
-          "filename": "笨蛋變態吵死了不想理你了.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "笨蛋變態吵死了不想理你了.mp3",
           "text": {
             "zh-tw": "笨蛋！變態！吵死了！不想理你了！",
             "ja": "バカ！変態！うるさい！もう知らない！"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         }
       ]
     },
     {
-      "name": "詠唱",
+      "name": {
+        "zh-tw": "詠唱",
+        "ja": "詠唱"
+      },
       "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
-          "filename": "Unlimited_Blade_Works.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
-          "text": "Unlimited Blade Works"
+      "buttons": [
+        {
+          "filename": "Unlimited_Blade_Works.mp3",
+          "text": "Unlimited Blade Works",
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
-          "filename": "tama_systemcall.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "tama_systemcall.mp3",
           "text": {
             "zh-tw": "System Call",
             "ja": "システムコール"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         }
       ]
     },
@@ -98,58 +133,76 @@
         "ja": "中国語が本当に上手です"
       },
       "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
-          "filename": "星爆中文.wav?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+      "buttons": [
+        {
+          "filename": "星爆中文.wav",
           "text": {
             "zh-tw": "星爆氣流斬！",
             "ja": "スターバースト・ストリーム"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
-          "filename": "大家把錢包交出來.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "大家把錢包交出來.mp3",
           "text": {
             "zh-tw": "大家把錢包交出來",
             "ja": "みんなの財布を出してくれ"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
-
         {
-          "filename": "白癡喔.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "白癡喔.mp3",
           "text": {
             "zh-tw": "白癡喔",
             "ja": "アホか"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
-
         {
-          "filename": "我愛你.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "我愛你.mp3",
           "text": {
             "zh-tw": "我愛你",
             "ja": "愛してる"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
-
         {
-          "filename": "恭喜發財紅包拿來.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "恭喜發財紅包拿來.mp3",
           "text": {
             "zh-tw": "恭喜發財紅包拿來",
             "ja": "明けましておめでとうございます、お年玉をください"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
-
         {
-          "filename": "送啦.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "送啦.mp3",
           "text": {
             "zh-tw": "送啦",
             "ja": "やったああああああ"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
-          "filename": "謝謝今天來看たま.mp3?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D",
+          "filename": "謝謝今天來看たま.mp3",
           "text": {
             "zh-tw": "謝謝今天來看たま",
             "ja": "配信に来てくれて、ありがとうございました"
-          }
+          },
+          "baseRoute": null,
+          "source": null,
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         }
       ]
     }
