@@ -3,16 +3,7 @@
     "name": "tama",
     "fullName": "久遠たま",
     "fullConfigURL": "assets/configs/tama.json",
-    "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=yLenGW6c%2Fa5Lg5cHs7S3aZEGLNGLAqcVGIrFlweQs60%3D",
-    "color": {
-      "primary": "#593196",
-      "secondary": "#a991d4"
-    }
-  },
-  {
-    "name": "tama_liveupdate",
-    "fullName": "久遠たま",
-    "fullConfigURL": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ZP%2FhIFf84UUEqVAcJ5cpKrOPLFn%2BuuzyXEuKLAFQNy4%3D",
+    "liveUpdateURL": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ZP%2FhIFf84UUEqVAcJ5cpKrOPLFn%2BuuzyXEuKLAFQNy4%3D",
     "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=yLenGW6c%2Fa5Lg5cHs7S3aZEGLNGLAqcVGIrFlweQs60%3D",
     "color": {
       "primary": "#593196",
