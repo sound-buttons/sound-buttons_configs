@@ -3,7 +3,7 @@
   "fullName": "久遠たま",
   "fullConfigURL": "assets/configs/tama.json",
   "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=yLenGW6c%2Fa5Lg5cHs7S3aZEGLNGLAqcVGIrFlweQs60%3D",
-  "intro": "名字和外表給人貓咪的錯覺，但下半身不常見的長長絨毛尾巴證明她實則是狗狗女孩VTuber。 \n由負責繪畫過VTuber赤井心、宇津木沙和的畫師はる雪執筆、而Live2D身體由製作過姬森璐娜、常暗永遠等的製作師Date(ﾀﾞﾃ)負責。 \n對唱歌擅長，在中、高音音域有著出色的爆發力表現，Live演唱時有著穩定表現為特點。 \n其實力的歌唱，使得她成為受到注目的個人勢VTuber。 \n每周日２１：００～定期舉行歌回！",
+  "intro": "雖然看起來像貓咪，但實質上是真正的狗系Vtuber\n\"久遠たま\"擁有一定唱歌實力的她在短時間內成為受到矚目的個人勢VTuber\n且因當時翻唱爆紅的鬼滅主題曲\"紅蓮華\"更有部分網友戲稱她為V界裡的Lisa\n在多次Cover中廣受好評，其中部分影片的插圖、剪接、配音皆由たま本人自行製作\n這麼努力又可愛的狗狗怎麼能不支持一下呢? 如果對唱歌有興趣的您不如試著一起來訂閱、觀賞たま的成長吧!\n\n角色設定圖是由曾執筆過赤井心、宇津木沙和的繪師はる雪老師所繪製。\n\nLive2D模組是由製作過姬森璐娜、常暗永遠等的製作師Date(ﾀﾞﾃ)負責。",
   "color": {
     "primary": "#593196",
     "secondary": "#a991d4"
@@ -21,7 +21,11 @@
       "ja": "スターバースト・ストリーム(中国語)"
     },
     "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
-    "source": null,
+    "source": {
+      "videoId": "9bLORkCTZt4",
+      "start": 4795,
+      "end": 4798
+    },
     "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
   },
   "buttonGroups": [
