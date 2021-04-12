@@ -141,9 +141,10 @@
             "ja": "スターバースト・ストリーム"
           },
           "baseRoute": null,
-          "source":  {
+          "source": {
             "videoId": "9bLORkCTZt4",
-            "start": 4795
+            "start": 4795,
+            "end": 0
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
