@@ -116,7 +116,11 @@
           "filename": "Unlimited_Blade_Works.mp3",
           "text": "Unlimited Blade Works",
           "baseRoute": null,
-          "source": null,
+          "source": {
+            "videoId": "YVwC8zTXbsY",
+            "start": 6430,
+            "end": 6465
+          },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
         },
         {
@@ -128,6 +132,20 @@
           "baseRoute": null,
           "source": null,
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+        },
+        {
+          "filename": "Unlimited_Blade_Works_2.mp3",
+          "text": {
+            "zh-tw": "Unlimited Blade Works 2",
+            "ja": "Unlimited Blade Works 2"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "QcymUTP93Dk",
+            "start": 13983,
+            "end": 14012
+          },
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=JvONXtih6V2HRoCQng1TNu%2FjwxFQA1sl8VzSFzquSWc%3D"
         }
       ]
     },
@@ -211,6 +229,43 @@
           "baseRoute": null,
           "source": null,
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "悲鳴",
+        "ja": "悲鳴"
+      },
+      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "buttons": [
+        {
+          "filename": "悲鳴.m4a",
+          "text": {
+            "zh-tw": "悲鳴",
+            "ja": "悲鳴"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "Wm8hjZ7-qc4",
+            "start": 673,
+            "end": 677
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=svWcvYSr9rUEfG0ojhWp9idn38Qt1vlkEEGsn8gv5wo%3D"
+        },
+        {
+          "filename": "悲鳴2.m4a",
+          "text": {
+            "zh-tw": "悲鳴2",
+            "ja": "悲鳴2"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "Wm8hjZ7-qc4",
+            "start": 817,
+            "end": 818
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AX%2Bjro6BDWwT4kWTWVLrHG%2FcWU%2BybIbPrdJIKUrLXh0%3D"
         }
       ]
     }
