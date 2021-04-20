@@ -102,6 +102,34 @@
           "baseRoute": null,
           "source": null,
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+        },
+        {
+          "filename": "好像跑進眼睛裡了一代一代一代.m4a",
+          "text": {
+            "zh-tw": "好像跑進眼睛裡了一代一代一代",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "8xhwiCarTSo",
+            "start": 7035,
+            "end": 7039
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=594cwqzxKsPmb%2FhevtV1QqJRIiO8l4Qs1%2FOhbly4hKs%3D"
+        },
+        {
+          "filename": "怎麼會這樣啦!生氣了喔.m4a",
+          "text": {
+            "zh-tw": "怎麼會這樣啦!生氣了喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "w3pVjYAED20",
+            "start": 5215,
+            "end": 5218
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4p7tJrNc6uGYajoBxz2bGNgauw13f5Ml%2FOFxp5xExHA%3D"
         }
       ]
     },
@@ -234,8 +262,8 @@
     },
     {
       "name": {
-        "zh-tw": "悲鳴",
-        "ja": "悲鳴"
+        "zh-tw": "悲鳴 (注意音量)",
+        "ja": "悲鳴 (音量注意)"
       },
       "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
@@ -266,6 +294,62 @@
             "end": 818
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AX%2Bjro6BDWwT4kWTWVLrHG%2FcWU%2BybIbPrdJIKUrLXh0%3D"
+        },
+        {
+          "filename": "Safe→悲鳴.m4a",
+          "text": {
+            "zh-tw": "Safe→悲鳴",
+            "ja": "Safe→悲鳴"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "Wm8hjZ7-qc4",
+            "start": 6151,
+            "end": 6155
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hFnWw%2Bjlk41kc%2Fj7HfWGbFxdif2loAgIVur6pBWXbGY%3D"
+        },
+        {
+          "filename": "悲鳴_637543560135358561.m4a",
+          "text": {
+            "zh-tw": "悲鳴3",
+            "ja": "悲鳴3"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "Wm8hjZ7-qc4",
+            "start": 1789,
+            "end": 1791
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hSVKTkKLzssnFkIrz85WacxhWLqvfCN2gibrxvMkjmw%3D"
+        },
+        {
+          "filename": "嬌喘.m4a",
+          "text": {
+            "zh-tw": "悲鳴4",
+            "ja": "悲鳴4"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "Wm8hjZ7-qc4",
+            "start": 1792,
+            "end": 1793
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Ys1mebVqgHUoxU%2FYisNrobLYFhk5%2F30E97zDQU9edlg%3D"
+        },
+        {
+          "filename": "啊啊啊(長音).m4a",
+          "text": {
+            "zh-tw": "啊啊啊(長音)",
+            "ja": "あぁぁぁぁぁ〜"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "6iz-DR0aZ6k",
+            "start": 2819,
+            "end": 2839
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ipZmGQlP8iFydDpkwGrO5edxD%2BM6rOk9W%2FlGNg180JE%3D"
         }
       ]
     }

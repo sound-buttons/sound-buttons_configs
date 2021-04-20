@@ -3,7 +3,7 @@
   "fullName": "HACHI",
   "fullConfigURL": "assets/configs/hachi.json",
   "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/hachi/hachi.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=vEoKbkrFPnVRinoTVIZwLV%2BbXsydv9V5XOMnv%2FWO3rI%3D",
-  "intro": "",
+  "intro": "Virtual Singer HACHI\n------------------------------------------------\n『あなたの心に寄り添う歌を。』\n REALITY・YouTubeをメインに歌活動中。\n ------------------------------------------------\n 所属：ライブユニオン \n 契約レーベル：RK Music\n <a href='https://rkmusic.jp/' target='_black'>https://rkmusic.jp/</a>\n ------------------------------------------------",
   "color": {
     "primary": "#3c3942",
     "secondary": "#f4b505"
@@ -15,14 +15,14 @@
     "other": "https://reality.wrightflyer.net/profile/29631822"
   },
   "introButton": {
-    "filename": "星爆中文.wav",
+    "filename": "自介.mp3",
     "text": {
       "zh-tw": "自介語音",
       "ja": "自己紹介"
     },
     "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/hachi/",
     "source": null,
-    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=nziDKgCEREDm6AucBeFNipgh3glL8Ah6megGnXBgOAc%3D"
   },
   "buttonGroups": [
     {
@@ -32,6 +32,62 @@
       },
       "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/hachi/",
       "buttons": [
+        {
+          "filename": "遺忘光線.mp3",
+          "text": {
+            "zh-tw": "遺忘光線",
+            "ja": "忘れるビーム"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=cMIZOnuEXjDoZlEEkryD9hjNzGnyF%2FpWpyuauKH3KGA%3D"
+        },
+        {
+          "filename": "Ababababa.mp3",
+          "text": {
+            "zh-tw": "Ababababa",
+            "ja": "あばばばば"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AjXTJzG9bQk4A1pWAS6AVOkrK86D%2BwEN9ZwBYh8RwiY%3D"
+        },
+        {
+          "filename": "噴嚏.mp3",
+          "text": {
+            "zh-tw": "噴嚏",
+            "ja": "くしゃみ助かる"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2Bqo3rkrw%2FQ3%2BcHNiwa9m%2F077QqdWwn8L546y%2BxSWmNE%3D"
+        },
+        {
+          "filename": "Hitachi.mp3",
+          "text": {
+            "zh-tw": "Hitachi",
+            "ja": "Hitachi"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=p0fdE1wAwHQGlfXGmIBSALVvTMNe6bIzK8royfqA2ig%3D"
+        }
       ]
     }
   ]
