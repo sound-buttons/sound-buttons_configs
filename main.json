@@ -10,6 +10,17 @@
     }
   },
   {
+    "name": "yuna",
+    "fullName": "伊冬ユナ",
+    "fullConfigURL": "assets/configs/yuna.json",
+    "liveUpdateURL": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/yuna.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=qnQLvEf0jJDnVTuw6OQquewQByprHi7KX1e%2FJ%2BYmP%2F8%3D",
+    "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=gfSSs4cykGufLkvzpzioEs0wKc9o2CshaflNQSZrtlg%3D",
+    "color": {
+      "primary": "#3C7A9B",
+      "secondary": "#EEDED4"
+    }
+  },
+  {
     "name": "hachi",
     "fullName": "HACHI",
     "fullConfigURL": "assets/configs/hachi.json",

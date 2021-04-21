@@ -1,0 +1,39 @@
+{
+  "name": "yuna",
+  "fullName": "伊冬ユナ",
+  "fullConfigURL": "assets/configs/yuna.json",
+  "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=gfSSs4cykGufLkvzpzioEs0wKc9o2CshaflNQSZrtlg%3D",
+  "intro": "ネコ耳メイドの笑顔担当、バーチャルアイドル🎶伊冬ユナ(イトウユナ)だよ！\n個人勢Vtuberグループ〘GuildCQ〙所属\n少しでも気になってもらえたら\nチャンネル登録/高評価/コメント\nたくさんお待ちしています🐾\nぜひ生放送にも遊びに来てください🌟\n🤍Welcome to Yuna Family🤍\n。°.。❅°.。゜.❆。・。❅。。❅°.。゜.❆。・。。❅°.。゜.\n毎週月曜日21：00～定期歌枠をしています!!\nEvery Monday from 21:00 onwards,we have a regular song frame !!\n。°.。❅°.。゜.❆。・。❅。。❅°.。゜.❆。・。。❅°.。゜.",
+  "color": {
+    "primary": "#3C7A9B",
+    "secondary": "#EEDED4"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/c/ItouYuna",
+    "twitter": "https://twitter.com/itou_yuna_",
+    "facebook": "",
+    "other": ""
+  },
+  "introButton": {
+    "filename": "自介.mp3",
+    "text": {
+      "zh-tw": "自介語音",
+      "ja": "自己紹介"
+    },
+    "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/",
+    "source": null,
+    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=nziDKgCEREDm6AucBeFNipgh3glL8Ah6megGnXBgOAc%3D"
+  },
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "未分類",
+        "ja": "未分類"
+      },
+      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/",
+      "buttons": [
+
+      ]
+    }
+  ]
+}
