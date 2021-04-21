@@ -3,7 +3,7 @@
   "fullName": "久遠たま",
   "fullConfigURL": "assets/configs/tama.json",
   "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=yLenGW6c%2Fa5Lg5cHs7S3aZEGLNGLAqcVGIrFlweQs60%3D",
-  "intro": "雖然看起來像貓咪，但實質上是真正的狗系Vtuber\n\"久遠たま\"擁有一定唱歌實力的她在短時間內成為受到矚目的個人勢VTuber\n且因當時翻唱爆紅的鬼滅主題曲\"紅蓮華\"更有部分網友戲稱她為V界裡的Lisa\n在多次Cover中廣受好評，其中部分影片的插圖、剪接、配音皆由たま本人自行製作\n這麼努力又可愛的狗狗怎麼能不支持一下呢? 如果對唱歌有興趣的您不如試著一起來訂閱、觀賞たま的成長吧!\n\n角色設定圖是由曾執筆過赤井心、宇津木沙和的繪師はる雪老師所繪製。\n\nLive2D模組是由製作過姬森璐娜、常暗永遠等的製作師Date(ﾀﾞﾃ)負責。",
+  "intro": "Hello everyone，Welcome to TAMA world！\nバーチャルシンガーの久遠たま（くおんたま）です🥚🌏\nアニソンが大大大好きです💖\n少しでも興味を持ってくれた方は、生放送にぜひ遊びに来てください♪\nチャンネル登録、高評価お待ちしてます！！\n◌⑅◌┈┈┈┈┈┈┈┈🎧┈┈┈┈┈┈┈┈◌⑅◌\n毎週日曜日２１：００～定期歌枠してます！\nEvery Sunday from 21:00 onwards, we have a regular song frame!\n◌⑅◌┈┈┈┈┈┈┈┈🎧┈┈┈┈┈┈┈┈◌⑅◌",
   "color": {
     "primary": "#593196",
     "secondary": "#a991d4"
@@ -130,6 +130,62 @@
             "end": 5218
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4p7tJrNc6uGYajoBxz2bGNgauw13f5Ml%2FOFxp5xExHA%3D"
+        },
+        {
+          "filename": "生日快樂歌.m4a",
+          "text": {
+            "zh-tw": "生日快樂歌",
+            "ja": "お誕生日おめでとう"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "UsPGMk6EFnA",
+            "start": 3144,
+            "end": 3166
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=aDhSdBi2phAgmdi4EUjk%2FtDxbd%2B9D7yNa6ZDpXJ4ljk%3D"
+        },
+        {
+          "filename": "晚安~啾\uD83D\uDC97.m4a",
+          "text": {
+            "zh-tw": "晚安~啾\uD83D\uDC97",
+            "ja": "おやすみ〜chu\uD83D\uDC97"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "UsPGMk6EFnA",
+            "start": 5733,
+            "end": 5736
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=m3noeMBqXEZRszAnqX3oCYIdCqS4DrezqPL8YTIOuuM%3D"
+        },
+        {
+          "filename": "原諒我~_(*ˇωˇ*人).m4a",
+          "text": {
+            "zh-tw": "原諒我~ (*ˇωˇ*人)",
+            "ja": "許してニャン～ (*ˇωˇ*人)"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "UsPGMk6EFnA",
+            "start": 3529,
+            "end": 3538
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=A4j6ISv6cSRFFKhhGkznMFn8bE2tF3nIYjSJafjT%2F%2Fs%3D"
+        },
+        {
+          "filename": "まったまたね～_(關台招呼語).m4a",
+          "text": {
+            "zh-tw": "まったまたね～ (關台招呼語)",
+            "ja": "まったまたね～"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "L5dZlAEbIp4",
+            "start": 8563,
+            "end": 8566
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2DyJxYSZjE0zbnaICnxfcdrshtQbCn1NLMpksRPV35c%3D"
         }
       ]
     },
@@ -174,6 +230,20 @@
             "end": 14012
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=JvONXtih6V2HRoCQng1TNu%2FjwxFQA1sl8VzSFzquSWc%3D"
+        },
+        {
+          "filename": "桐人台詞.m4a",
+          "text": {
+            "zh-tw": "桐人台詞",
+            "ja": "キリトのセリフ"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "UsPGMk6EFnA",
+            "start": 3062,
+            "end": 3077
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=TociX%2BYP5%2Fvr4EnURmtEftPv6JLBP6ySK%2BBu1Vx87jA%3D"
         }
       ]
     },
@@ -257,6 +327,43 @@
           "baseRoute": null,
           "source": null,
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "Tamalish",
+        "ja": "Tamalish"
+      },
+      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "buttons": [
+        {
+          "filename": "I_am_dog.m4a",
+          "text": {
+            "zh-tw": "Are you cat or fox? Nonononono, I am dog.",
+            "ja": "Are you cat or fox? Nonononono, I am dog."
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "UsPGMk6EFnA",
+            "start": 7905,
+            "end": 7912
+          },
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=b6n8E9iTAM%2FNDxIt6kiFG6Fduh0dOLGhOHLrweECU5Q%3D"
+        },
+        {
+          "filename": "午餐！.m4a",
+          "text": {
+            "zh-tw": "午餐！",
+            "ja": "ランチ！"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "L5dZlAEbIp4",
+            "start": 8566,
+            "end": 8569
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=yY52wreYyJ93X3Kv12zVv%2FCZepMWwgXFETRaQIVI1qE%3D"
         }
       ]
     },
