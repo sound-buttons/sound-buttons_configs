@@ -186,6 +186,104 @@
             "end": 8566
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2DyJxYSZjE0zbnaICnxfcdrshtQbCn1NLMpksRPV35c%3D"
+        },
+        {
+          "filename": "OKx6.mp3",
+          "text": {
+            "zh-tw": "OKx6",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 591,
+            "end": 594
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=VkPQkp%2BKsE94Zo2zrLHQmiewAKgJr8QAHe4unUTXZ2k%3D"
+        },
+        {
+          "filename": "拍手拍手拍手.m4a",
+          "text": {
+            "zh-tw": "拍手拍手拍手",
+            "ja": "パチパチパチ"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "OZCLnS7zBLo",
+            "start": 3924,
+            "end": 3927
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=R33ZzsId0Usp3XXbtgRgPbD%2FqMzxCOniWU6LBPbQpOY%3D"
+        },
+        {
+          "filename": "miss.mp3",
+          "text": {
+            "zh-tw": "miss",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 3019,
+            "end": 3021
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=mAs27bN7KbGZg8DAK1EmWuAKCJpvJ1ZePooBos0%2BsgU%3D"
+        },
+        {
+          "filename": "Yeah~.mp3",
+          "text": {
+            "zh-tw": "Yeah~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 4074,
+            "end": 4077
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=fSPYUqpoEoTxVBZrERIfmaeH0TL6kbnAiw3ka2X0gfo%3D"
+        },
+        {
+          "filename": "欸Clear了嗎?可怕的部分結束了?.mp3",
+          "text": {
+            "zh-tw": "欸Clear了嗎?可怕的部分結束了?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 4102,
+            "end": 4107
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=QLv%2Bh4MzGwkQKoefqDNJSo8iloIIgF55ZywmHj5chDo%3D"
+        },
+        {
+          "filename": "吶吶也靠得太近了吧!變態!.mp3",
+          "text": {
+            "zh-tw": "吶吶也靠得太近了吧!變態!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 2584,
+            "end": 2590
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4xj3a%2BEG2BysqLSBINidYmo4PiNsj%2FEbIqYX%2FiST4a4%3D"
+        },
+        {
+          "filename": "真的不能原諒.mp3",
+          "text": {
+            "zh-tw": "真的不能原諒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 3146,
+            "end": 3148
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=bq7dr96RgoxQVTwuxLhWo%2FEhazluhOtsMV%2F1pq6mzAM%3D"
         }
       ]
     },
@@ -355,6 +453,48 @@
             "end": 0
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=UeswDA%2BJbpPmbYy6iPKp0C%2FJBLHg1KXdCXHZv40hGO0%3D"
+        },
+        {
+          "filename": "數數字.m4a",
+          "text": {
+            "zh-tw": "數數字",
+            "ja": "中国語で数を数える"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "OZCLnS7zBLo",
+            "start": 1126,
+            "end": 1144
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ZksjH9lrP9YUeF86MW%2BVSLwSKCR4Ok6nmgxZPSbY0Sg%3D"
+        },
+        {
+          "filename": "我正在減肥.m4a",
+          "text": {
+            "zh-tw": "我正在減肥",
+            "ja": "ダイエット中"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "OZCLnS7zBLo",
+            "start": 7493,
+            "end": 7496
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=xPrlJ7CZVFq8iX%2BMr55CyYRERPKl1f5xGUDh2Siaqqo%3D"
+        },
+        {
+          "filename": "請再來一碗飯.m4a",
+          "text": {
+            "zh-tw": "請再來一碗飯",
+            "ja": "おかわり"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "OZCLnS7zBLo",
+            "start": 7577,
+            "end": 7581
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=wWB9AM35vP04AfMHHKc3%2BNolkxfjYMHdoEbuneKlVyc%3D"
         }
       ]
     },
@@ -499,6 +639,118 @@
             "end": 9985
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=iT%2BcgZVyd3pCAp0dFQE881zOtHbQMqOAUZoWUM5IFXI%3D"
+        },
+        {
+          "filename": "悲鳴6.mp3",
+          "text": {
+            "zh-tw": "悲鳴6",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 544,
+            "end": 545
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4nEE41zvYxXHpdyPHtTvbQSHMv4dcKWenpwolI%2Few2k%3D"
+        },
+        {
+          "filename": "噫等一下等一下.mp3",
+          "text": {
+            "zh-tw": "噫等一下等一下",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 2121,
+            "end": 2127
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=whFRWWLuIUbdxmWRqknE5FB17m5i5hB2rWxRp9xbneY%3D"
+        },
+        {
+          "filename": "噫不要不要.mp3",
+          "text": {
+            "zh-tw": "噫不要不要",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 2318,
+            "end": 2324
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1r1uSoLUnmnFPv2UPT512ppZeVR5m0byvUXvH3BQD2g%3D"
+        },
+        {
+          "filename": "啊<3.mp3",
+          "text": {
+            "zh-tw": "啊<3",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 2384,
+            "end": 2386
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lMMSGF2X5qLRHU733uo367bEViWILcFFLxJ7L398kM4%3D"
+        },
+        {
+          "filename": "等下等下.mp3",
+          "text": {
+            "zh-tw": "等下等下",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 2508,
+            "end": 2515
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Vl39URf2o345xuXDEOvT9aaL%2B0DMaupBdUThbg0rRVg%3D"
+        },
+        {
+          "filename": "嫌だ.mp3",
+          "text": {
+            "zh-tw": "嫌だ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 3014,
+            "end": 3015
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hPVTFMol1y20PT0G6vVzyM%2FsmiZw6EKQS4AC4dDjRXg%3D"
+        },
+        {
+          "filename": "neeeeee.mp3",
+          "text": {
+            "zh-tw": "neeeeee",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 3035,
+            "end": 3037
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1x%2FSzh51Bl%2BIqyQGxGONFsJm41baysLRSqEOBkjcu0Y%3D"
+        },
+        {
+          "filename": "悲鳴7.mp3",
+          "text": {
+            "zh-tw": "悲鳴7",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "zlVqwu9vJi4",
+            "start": 3882,
+            "end": 3884
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nFvP3BoOdt7FZaLKgTkWCgs1MVq9UU4%2FXB%2FlUiqBT1w%3D"
         }
       ]
     }
