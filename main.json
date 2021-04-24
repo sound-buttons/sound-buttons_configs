@@ -30,5 +30,16 @@
       "primary": "#3c3942",
       "secondary": "#f4b505"
     }
+  },
+  {
+    "name": "yoruka",
+    "fullName": "須多夜花",
+    "fullConfigURL": "assets/configs/yoruka.json",
+    "liveUpdateURL": "https://jim60105.blob.core.windows.net/sound-buttons/yoruka/yoruka.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=J1ye1gPymNrM8%2FV5NXHUmtWooMduORXYp%2FJW2FwWnNs%3D",
+    "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=zuGFq5MhlrTNIdbfN73ZRV1m8zQkh%2BurcCsSQwZTW9c%3D",
+    "color": {
+      "primary": "#33272B",
+      "secondary": "#E55A74"
+    }
   }
 ]

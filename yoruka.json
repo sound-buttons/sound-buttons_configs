@@ -1,0 +1,28 @@
+{
+  "name": "yoruka",
+  "fullName": "須多夜花",
+  "fullConfigURL": "assets/configs/yoruka.json",
+  "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=zuGFq5MhlrTNIdbfN73ZRV1m8zQkh%2BurcCsSQwZTW9c%3D",
+  "intro": "✨RenewLive一期生✨台灣Vtuber｜極．清楚アイドル\n🌙須多 ヨルカ/須多 夜花 (すだ ヨルカ)🌸\n來自龍界的新星清楚偶像，作為RenewLive的一期生強勢登場！\n\n▍Fan mark/ファンマ→🌙🌸\n▍中国語 OK｜日本語 OK｜英語OK✨\n▍直播配信Tag→#夜歌物語\n▍Fan name/ファンネーム→#賞花油民\n▍Fan art tag/ファンアート→#夜Art花",
+  "color": {
+    "primary": "#33272B",
+    "secondary": "#E55A74"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/channel/UCuy-kZJ7HWwUU-eKv0zUZFQ/",
+    "twitter": "https://twitter.com/sudayoruka",
+    "facebook": "https://www.facebook.com/sudayoruka",
+    "other": "https://discord.com/invite/p6CRD63Mzc"
+  },
+  "introButton": {
+    "filename": "自介.mp3",
+    "text": {
+      "zh-tw": "自介語音",
+      "ja": "自己紹介"
+    },
+    "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/yoruka/",
+    "source": null,
+    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=nziDKgCEREDm6AucBeFNipgh3glL8Ah6megGnXBgOAc%3D"
+  },
+  "buttonGroups": []
+}
