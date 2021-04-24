@@ -327,6 +327,34 @@
           "baseRoute": null,
           "source": null,
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+        },
+        {
+          "filename": "我愛茄子蛋糕_我愛茄子蛋糕.m4a",
+          "text": {
+            "zh-tw": "我愛茄子蛋糕",
+            "ja": "なすケーキが大好きです"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "XyJONwZaSX8",
+            "start": 5825,
+            "end": 5832
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3Xz8oPe%2F9L3HbMHNyYJ0z%2F3ExFK6HQQywERaLI3MPfw%3D"
+        },
+        {
+          "filename": "謝謝斗內.mp3",
+          "text": {
+            "zh-tw": "謝謝斗內",
+            "ja": "スパチャありがとう"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=UeswDA%2BJbpPmbYy6iPKp0C%2FJBLHg1KXdCXHZv40hGO0%3D"
         }
       ]
     },
@@ -457,6 +485,20 @@
             "end": 2839
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ipZmGQlP8iFydDpkwGrO5edxD%2BM6rOk9W%2FlGNg180JE%3D"
+        },
+        {
+          "filename": "悲鳴_637546784347621768.m4a",
+          "text": {
+            "zh-tw": "悲鳴5",
+            "ja": "悲鳴5"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "Wm8hjZ7-qc4",
+            "start": 9964,
+            "end": 9985
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=iT%2BcgZVyd3pCAp0dFQE881zOtHbQMqOAUZoWUM5IFXI%3D"
         }
       ]
     }
