@@ -2,8 +2,8 @@
     "name": "tama",
     "fullName": "久遠たま",
     "fullConfigURL": "assets/configs/tama.json",
-    "liveUpdateURL": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ZP%2FhIFf84UUEqVAcJ5cpKrOPLFn%2BuuzyXEuKLAFQNy4%3D",
-    "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=yLenGW6c%2Fa5Lg5cHs7S3aZEGLNGLAqcVGIrFlweQs60%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
     "color": {
       "primary": "#593196",
       "secondary": "#a991d4"
@@ -13,8 +13,8 @@
     "name": "yuna",
     "fullName": "伊冬ユナ",
     "fullConfigURL": "assets/configs/yuna.json",
-    "liveUpdateURL": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/yuna.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=qnQLvEf0jJDnVTuw6OQquewQByprHi7KX1e%2FJ%2BYmP%2F8%3D",
-    "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=gfSSs4cykGufLkvzpzioEs0wKc9o2CshaflNQSZrtlg%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
     "color": {
       "primary": "#3C7A9B",
       "secondary": "#EEDED4"
@@ -24,8 +24,8 @@
     "name": "hachi",
     "fullName": "HACHI",
     "fullConfigURL": "assets/configs/hachi.json",
-    "liveUpdateURL": "https://jim60105.blob.core.windows.net/sound-buttons/hachi/hachi.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=4n6ErcRMI4WxFYG7QuDa4zkIK%2FvSxYCwLlV5s3mJCk4%3D",
-    "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/hachi/hachi.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=vEoKbkrFPnVRinoTVIZwLV%2BbXsydv9V5XOMnv%2FWO3rI%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
     "color": {
       "primary": "#3c3942",
       "secondary": "#f4b505"
@@ -35,8 +35,8 @@
     "name": "yoruka",
     "fullName": "須多夜花",
     "fullConfigURL": "assets/configs/yoruka.json",
-    "liveUpdateURL": "https://jim60105.blob.core.windows.net/sound-buttons/yoruka/yoruka.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=J1ye1gPymNrM8%2FV5NXHUmtWooMduORXYp%2FJW2FwWnNs%3D",
-    "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=zuGFq5MhlrTNIdbfN73ZRV1m8zQkh%2BurcCsSQwZTW9c%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
     "color": {
       "primary": "#33272B",
       "secondary": "#E55A74"

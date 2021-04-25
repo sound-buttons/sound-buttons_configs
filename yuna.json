@@ -2,7 +2,7 @@
   "name": "yuna",
   "fullName": "伊冬ユナ",
   "fullConfigURL": "assets/configs/yuna.json",
-  "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=gfSSs4cykGufLkvzpzioEs0wKc9o2CshaflNQSZrtlg%3D",
+  "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
   "intro": "ネコ耳メイドの笑顔担当、バーチャルアイドル\uD83C\uDFB6伊冬ユナ(イトウユナ)だよ！\n個人勢Vtuberグループ〘GuildCQ〙所属\n少しでも気になってもらえたら\nチャンネル登録/高評価/コメント\nたくさんお待ちしています\uD83D\uDC3E\nぜひ生放送にも遊びに来てください\uD83C\uDF1F\n\uD83E\uDD0DWelcome to Yuna Family\uD83E\uDD0D\n。°.。❅°.。゜.❆。・。❅。。❅°.。゜.❆。・。。❅°.。゜.\n毎週月曜日21：00～定期歌枠をしています!!\n。°.。❅°.。゜.❆。・。❅。。❅°.。゜.❆。・。。❅°.。゜.",
   "color": {
     "primary": "#3C7A9B",
@@ -21,7 +21,7 @@
         "zh-tw": "ユナ喵喵",
         "ja": "ユナニャーニャー"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/",
       "buttons": [
         {
           "filename": "早安啊.mp3",
@@ -35,7 +35,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Y5wr7JwHPefhaWNtHj7LazSGvZfuBqW%2F%2BZTDcmDPFg8%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "大叔笑聲.mp3",
@@ -49,7 +49,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=a%2FKDyrZC1K8p%2Bdyb%2Fo4lMQaax5v4zwV7QmpbM3XcWq8%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "歐拉歐拉.mp3",
@@ -63,7 +63,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2FaEgb74bp1Mn%2F6fSGsC2HQAO%2F874WjcY2OFm3xIIPzE%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "zh-tw": "中国語本当上手",
         "ja": "中国語が本当に上手です"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/yuna/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/",
       "buttons": [
         {
           "filename": "送啦.mp3",
@@ -86,7 +86,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=KjlARLhIorMpHjWXlTAjSvFaxvm%2BcTQsiY0A0k8%2FNLM%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "白癡喔_637548428215025334.mp3",
@@ -100,7 +100,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lE%2Bm%2BxxVbOv32SF1xDuJgMxzjAB%2BsnEZAFJV2c6gzLI%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "我愛你.m4a",
@@ -114,7 +114,7 @@
             "start": 0,
             "end": 8
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=c5Xss5PL8xPtYdpYalYKB%2BC11vZqbMAsLLixZmZG1Ik%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     }

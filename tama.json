@@ -2,7 +2,7 @@
   "name": "tama",
   "fullName": "久遠たま",
   "fullConfigURL": "assets/configs/tama.json",
-  "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=yLenGW6c%2Fa5Lg5cHs7S3aZEGLNGLAqcVGIrFlweQs60%3D",
+  "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
   "intro": "Hello everyone，Welcome to TAMA world！\nバーチャルシンガーの久遠たま（くおんたま）です🥚🌏\nアニソンが大大大好きです💖\n少しでも興味を持ってくれた方は、生放送にぜひ遊びに来てください♪\nチャンネル登録、高評価お待ちしてます！！\n◌⑅◌┈┈┈┈┈┈┈┈🎧┈┈┈┈┈┈┈┈◌⑅◌\n毎週日曜日２１：００～定期歌枠してます！\nEvery Sunday from 21:00 onwards, we have a regular song frame!\n◌⑅◌┈┈┈┈┈┈┈┈🎧┈┈┈┈┈┈┈┈◌⑅◌",
   "color": {
     "primary": "#593196",
@@ -20,13 +20,13 @@
       "zh-tw": "星爆氣流斬！(中文)",
       "ja": "スターバースト・ストリーム(中国語)"
     },
-    "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
     "source": {
       "videoId": "9bLORkCTZt4",
       "start": 4795,
       "end": 4798
     },
-    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
   },
   "buttonGroups": [
     {
@@ -34,7 +34,7 @@
         "zh-tw": "たま汪汪",
         "ja": "たまわんわん"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "星爆.mp3",
@@ -44,7 +44,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "byebye.mp3",
@@ -54,14 +54,14 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "tama_gibberish.mp3",
           "text": "Super cut-off time!",
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "sensei.mp3",
@@ -71,7 +71,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "我要開動了.mp3",
@@ -81,7 +81,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "tama_itai.mp3",
@@ -91,7 +91,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "笨蛋變態吵死了不想理你了.mp3",
@@ -101,7 +101,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "好像跑進眼睛裡了一代一代一代.m4a",
@@ -115,7 +115,7 @@
             "start": 7035,
             "end": 7039
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=594cwqzxKsPmb%2FhevtV1QqJRIiO8l4Qs1%2FOhbly4hKs%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "怎麼會這樣啦!生氣了喔.m4a",
@@ -129,7 +129,7 @@
             "start": 5215,
             "end": 5218
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4p7tJrNc6uGYajoBxz2bGNgauw13f5Ml%2FOFxp5xExHA%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "生日快樂歌.m4a",
@@ -143,7 +143,7 @@
             "start": 3144,
             "end": 3166
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=aDhSdBi2phAgmdi4EUjk%2FtDxbd%2B9D7yNa6ZDpXJ4ljk%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "晚安~啾\uD83D\uDC97.m4a",
@@ -157,7 +157,7 @@
             "start": 5733,
             "end": 5736
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=m3noeMBqXEZRszAnqX3oCYIdCqS4DrezqPL8YTIOuuM%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "原諒我~_(*ˇωˇ*人).m4a",
@@ -171,7 +171,7 @@
             "start": 3529,
             "end": 3538
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=A4j6ISv6cSRFFKhhGkznMFn8bE2tF3nIYjSJafjT%2F%2Fs%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "まったまたね～_(關台招呼語).m4a",
@@ -185,7 +185,7 @@
             "start": 8563,
             "end": 8566
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2DyJxYSZjE0zbnaICnxfcdrshtQbCn1NLMpksRPV35c%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "OKx6.mp3",
@@ -199,7 +199,7 @@
             "start": 591,
             "end": 594
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=VkPQkp%2BKsE94Zo2zrLHQmiewAKgJr8QAHe4unUTXZ2k%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "拍手拍手拍手.m4a",
@@ -213,7 +213,7 @@
             "start": 3924,
             "end": 3927
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=R33ZzsId0Usp3XXbtgRgPbD%2FqMzxCOniWU6LBPbQpOY%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "miss.mp3",
@@ -227,7 +227,7 @@
             "start": 3019,
             "end": 3021
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=mAs27bN7KbGZg8DAK1EmWuAKCJpvJ1ZePooBos0%2BsgU%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "Yeah~.mp3",
@@ -241,7 +241,7 @@
             "start": 4074,
             "end": 4077
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=fSPYUqpoEoTxVBZrERIfmaeH0TL6kbnAiw3ka2X0gfo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "欸Clear了嗎?可怕的部分結束了?.mp3",
@@ -255,7 +255,7 @@
             "start": 4102,
             "end": 4107
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=QLv%2Bh4MzGwkQKoefqDNJSo8iloIIgF55ZywmHj5chDo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "吶吶也靠得太近了吧!變態!.mp3",
@@ -269,7 +269,7 @@
             "start": 2584,
             "end": 2590
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4xj3a%2BEG2BysqLSBINidYmo4PiNsj%2FEbIqYX%2FiST4a4%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "真的不能原諒.mp3",
@@ -283,7 +283,7 @@
             "start": 3146,
             "end": 3148
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=bq7dr96RgoxQVTwuxLhWo%2FEhazluhOtsMV%2F1pq6mzAM%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     },
@@ -292,7 +292,7 @@
         "zh-tw": "詠唱",
         "ja": "詠唱"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "Unlimited_Blade_Works.mp3",
@@ -303,7 +303,7 @@
             "start": 6430,
             "end": 6465
           },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "tama_systemcall.mp3",
@@ -313,7 +313,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "Unlimited_Blade_Works_2.mp3",
@@ -327,7 +327,7 @@
             "start": 13983,
             "end": 14012
           },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=JvONXtih6V2HRoCQng1TNu%2FjwxFQA1sl8VzSFzquSWc%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "桐人台詞.m4a",
@@ -341,7 +341,7 @@
             "start": 3062,
             "end": 3077
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=TociX%2BYP5%2Fvr4EnURmtEftPv6JLBP6ySK%2BBu1Vx87jA%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     },
@@ -350,7 +350,7 @@
         "zh-tw": "中国語本当上手",
         "ja": "中国語が本当に上手です"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "星爆中文.wav",
@@ -364,7 +364,7 @@
             "start": 4795,
             "end": 4798
           },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "大家把錢包交出來.mp3",
@@ -374,7 +374,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "白癡喔.mp3",
@@ -384,7 +384,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "我愛你.mp3",
@@ -394,7 +394,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "恭喜發財紅包拿來.mp3",
@@ -404,7 +404,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "送啦.mp3",
@@ -414,7 +414,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "謝謝今天來看たま.mp3",
@@ -424,7 +424,7 @@
           },
           "baseRoute": null,
           "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=SHBgAVNCFUsSwwYCrDskS65Og49PvcoV3szqRxdRcPo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "我愛茄子蛋糕_我愛茄子蛋糕.m4a",
@@ -438,7 +438,7 @@
             "start": 5825,
             "end": 5832
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3Xz8oPe%2F9L3HbMHNyYJ0z%2F3ExFK6HQQywERaLI3MPfw%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "謝謝斗內.mp3",
@@ -452,7 +452,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=UeswDA%2BJbpPmbYy6iPKp0C%2FJBLHg1KXdCXHZv40hGO0%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "數數字.m4a",
@@ -466,7 +466,7 @@
             "start": 1126,
             "end": 1144
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ZksjH9lrP9YUeF86MW%2BVSLwSKCR4Ok6nmgxZPSbY0Sg%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "我正在減肥.m4a",
@@ -480,7 +480,7 @@
             "start": 7493,
             "end": 7496
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=xPrlJ7CZVFq8iX%2BMr55CyYRERPKl1f5xGUDh2Siaqqo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "請再來一碗飯.m4a",
@@ -494,7 +494,7 @@
             "start": 7577,
             "end": 7581
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=wWB9AM35vP04AfMHHKc3%2BNolkxfjYMHdoEbuneKlVyc%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     },
@@ -503,7 +503,7 @@
         "zh-tw": "Tamalish",
         "ja": "Tamalish"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "I_am_dog.m4a",
@@ -517,7 +517,7 @@
             "start": 7905,
             "end": 7912
           },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=b6n8E9iTAM%2FNDxIt6kiFG6Fduh0dOLGhOHLrweECU5Q%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "午餐！.m4a",
@@ -531,7 +531,7 @@
             "start": 8566,
             "end": 8569
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=yY52wreYyJ93X3Kv12zVv%2FCZepMWwgXFETRaQIVI1qE%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     },
@@ -540,7 +540,7 @@
         "zh-tw": "悲鳴 (注意音量)",
         "ja": "悲鳴 (音量注意)"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "悲鳴.m4a",
@@ -554,7 +554,7 @@
             "start": 673,
             "end": 677
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=svWcvYSr9rUEfG0ojhWp9idn38Qt1vlkEEGsn8gv5wo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "悲鳴2.m4a",
@@ -568,7 +568,7 @@
             "start": 817,
             "end": 818
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AX%2Bjro6BDWwT4kWTWVLrHG%2FcWU%2BybIbPrdJIKUrLXh0%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "Safe→悲鳴.m4a",
@@ -582,7 +582,7 @@
             "start": 6151,
             "end": 6155
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hFnWw%2Bjlk41kc%2Fj7HfWGbFxdif2loAgIVur6pBWXbGY%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "悲鳴_637543560135358561.m4a",
@@ -596,7 +596,7 @@
             "start": 1789,
             "end": 1791
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hSVKTkKLzssnFkIrz85WacxhWLqvfCN2gibrxvMkjmw%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "嬌喘.m4a",
@@ -610,7 +610,7 @@
             "start": 1792,
             "end": 1793
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Ys1mebVqgHUoxU%2FYisNrobLYFhk5%2F30E97zDQU9edlg%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "啊啊啊(長音).m4a",
@@ -624,7 +624,7 @@
             "start": 2819,
             "end": 2839
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ipZmGQlP8iFydDpkwGrO5edxD%2BM6rOk9W%2FlGNg180JE%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "悲鳴_637546784347621768.m4a",
@@ -638,7 +638,7 @@
             "start": 9964,
             "end": 9985
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=iT%2BcgZVyd3pCAp0dFQE881zOtHbQMqOAUZoWUM5IFXI%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "悲鳴6.mp3",
@@ -652,7 +652,7 @@
             "start": 544,
             "end": 545
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4nEE41zvYxXHpdyPHtTvbQSHMv4dcKWenpwolI%2Few2k%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "噫等一下等一下.mp3",
@@ -666,7 +666,7 @@
             "start": 2121,
             "end": 2127
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=whFRWWLuIUbdxmWRqknE5FB17m5i5hB2rWxRp9xbneY%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "噫不要不要.mp3",
@@ -680,7 +680,7 @@
             "start": 2318,
             "end": 2324
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1r1uSoLUnmnFPv2UPT512ppZeVR5m0byvUXvH3BQD2g%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "啊<3.mp3",
@@ -694,7 +694,7 @@
             "start": 2384,
             "end": 2386
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lMMSGF2X5qLRHU733uo367bEViWILcFFLxJ7L398kM4%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "等下等下.mp3",
@@ -708,7 +708,7 @@
             "start": 2508,
             "end": 2515
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Vl39URf2o345xuXDEOvT9aaL%2B0DMaupBdUThbg0rRVg%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "嫌だ.mp3",
@@ -722,7 +722,7 @@
             "start": 3014,
             "end": 3015
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hPVTFMol1y20PT0G6vVzyM%2FsmiZw6EKQS4AC4dDjRXg%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "neeeeee.mp3",
@@ -736,7 +736,7 @@
             "start": 3035,
             "end": 3037
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1x%2FSzh51Bl%2BIqyQGxGONFsJm41baysLRSqEOBkjcu0Y%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "悲鳴7.mp3",
@@ -750,7 +750,7 @@
             "start": 3882,
             "end": 3884
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nFvP3BoOdt7FZaLKgTkWCgs1MVq9UU4%2FXB%2FlUiqBT1w%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     }

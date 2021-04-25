@@ -2,7 +2,7 @@
   "name": "hachi",
   "fullName": "HACHI",
   "fullConfigURL": "assets/configs/hachi.json",
-  "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/hachi/hachi.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=vEoKbkrFPnVRinoTVIZwLV%2BbXsydv9V5XOMnv%2FWO3rI%3D",
+  "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
   "intro": "Virtual Singer HACHI\n------------------------------------------------\n『あなたの心に寄り添う歌を。』\n REALITY・YouTubeをメインに歌活動中。\n ------------------------------------------------\n 所属：ライブユニオン \n 契約レーベル：RK Music\n <a href='https://rkmusic.jp/' target='_black'>https://rkmusic.jp/</a>\n ------------------------------------------------",
   "color": {
     "primary": "#3c3942",
@@ -20,9 +20,9 @@
       "zh-tw": "自介語音",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/hachi/",
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/",
     "source": null,
-    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=nziDKgCEREDm6AucBeFNipgh3glL8Ah6megGnXBgOAc%3D"
+    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
   },
   "buttonGroups": [
     {
@@ -30,7 +30,7 @@
         "zh-tw": "未分類",
         "ja": "未分類"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/hachi/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/",
       "buttons": [
         {
           "filename": "遺忘光線.mp3",
@@ -44,7 +44,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=cMIZOnuEXjDoZlEEkryD9hjNzGnyF%2FpWpyuauKH3KGA%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "Ababababa.mp3",
@@ -58,7 +58,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AjXTJzG9bQk4A1pWAS6AVOkrK86D%2BwEN9ZwBYh8RwiY%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "噴嚏.mp3",
@@ -72,7 +72,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2Bqo3rkrw%2FQ3%2BcHNiwa9m%2F077QqdWwn8L546y%2BxSWmNE%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "Hitachi.mp3",
@@ -86,7 +86,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=p0fdE1wAwHQGlfXGmIBSALVvTMNe6bIzK8royfqA2ig%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": ".mp3",
@@ -100,7 +100,7 @@
             "start": 2519,
             "end": 2528
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2BQb86MLXuCqeuQuf9CeZP%2FMh2pcp4HveXDjQk83ISg4%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "2.mp3",
@@ -114,7 +114,7 @@
             "start": 1555,
             "end": 1570
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=PSQeacNHAyPZKb1Phv8sXkF5firlYwxQ7PZGKiRduwo%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "_637545736298174237.mp3",
@@ -128,7 +128,7 @@
             "start": 1452,
             "end": 1468
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=iX93Vl4HirFIUkkTA3arVyW6lmKrkvObJauXk%2BBRQ4U%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "_637545737657847798.mp3",
@@ -142,7 +142,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3A4nZgwHJ%2FlMvdgQMqoNvOnt2UoqX9aFGXZTQfkau4I%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "2_637545738747295964.mp3",
@@ -156,7 +156,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=teL0Go9VCk0vJdK1%2BAJ6syRaZvEX7GDNJIhi2fzC56U%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
           "filename": "_637545752121326937.mp3",
@@ -170,7 +170,7 @@
             "start": 0,
             "end": 0
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=VlLnmYO7cMmeeZOwoLhfAiZedftfq8KMY%2Fz1qYLdS4g%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     }

@@ -2,7 +2,7 @@
   "name": "yoruka",
   "fullName": "須多夜花",
   "fullConfigURL": "assets/configs/yoruka.json",
-  "imgSrc": "https://jim60105.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=zuGFq5MhlrTNIdbfN73ZRV1m8zQkh%2BurcCsSQwZTW9c%3D",
+  "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
   "intro": "✨RenewLive一期生✨台灣Vtuber｜極．清楚アイドル\n\uD83C\uDF19須多 ヨルカ/須多 夜花 (すだ ヨルカ)\uD83C\uDF38\n來自龍界的新星清楚偶像，作為RenewLive的一期生強勢登場！",
   "color": {
     "primary": "#E55A74",
@@ -21,7 +21,7 @@
         "zh-tw": "龍叫",
         "ja": "龍叫"
       },
-      "baseRoute": "https://jim60105.blob.core.windows.net/sound-buttons/yoruka/",
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
       "buttons": [
         {
           "filename": "能龍叫嗎？.m4a",
@@ -35,7 +35,7 @@
             "start": 251,
             "end": 256
           },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Gw07p0lSxpshrK5V%2FPmsoI9lCIkIg6UBMOw2JbBl%2FnQ%3D"
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     }
