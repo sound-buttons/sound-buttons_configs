@@ -30,6 +30,7 @@
             "ja": "おはよう"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -44,6 +45,7 @@
             "ja": ""
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -58,6 +60,7 @@
             "ja": ""
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -81,6 +84,7 @@
             "ja": ""
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -95,6 +99,7 @@
             "ja": "ばか？"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -109,6 +114,7 @@
             "ja": ""
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "qsMlOxBP8Ns",
             "start": 0,

@@ -21,6 +21,7 @@
       "ja": "自己紹介"
     },
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/",
+    "volume": 1,
     "source": null,
     "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
   },
@@ -39,6 +40,7 @@
             "ja": "忘れるビーム"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -53,6 +55,7 @@
             "ja": "あばばばば"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -67,6 +70,7 @@
             "ja": "くしゃみ助かる"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -81,6 +85,7 @@
             "ja": "Hitachi"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -95,6 +100,7 @@
             "ja": "ミス"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "_gMxBrpisyE",
             "start": 2519,
@@ -109,6 +115,7 @@
             "ja": "ミス２"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "GEVrzTEvS_s",
             "start": 1555,
@@ -123,6 +130,7 @@
             "ja": "口笛"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "Ms6ydLXV4zI",
             "start": 1452,
@@ -137,6 +145,7 @@
             "ja": "びっくりした"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -151,6 +160,7 @@
             "ja": "くしゃみ助かる２"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -165,6 +175,7 @@
             "ja": "笑い声"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "null",
             "start": 0,
@@ -179,6 +190,7 @@
             "ja": "あ゙ーあ゙ー"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "2WVoN18E6sw",
             "start": 6747,

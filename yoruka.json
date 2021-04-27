@@ -30,6 +30,7 @@
             "ja": "ドラゴンの叫び"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "gMxpoF85w0A",
             "start": 251,
@@ -53,6 +54,7 @@
             "ja": "悲鳴"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "cHFMQVT1SqA",
             "start": 2425,
@@ -67,6 +69,7 @@
             "ja": "怖い怖い"
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "cHFMQVT1SqA",
             "start": 2489,
@@ -81,6 +84,7 @@
             "ja": ""
           },
           "baseRoute": null,
+          "volume": 1,
           "source": {
             "videoId": "cHFMQVT1SqA",
             "start": 3271,
