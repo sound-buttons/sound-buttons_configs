@@ -171,6 +171,20 @@
             "end": 0
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "啊\"—啊\"—.mp3",
+          "text": {
+            "zh-tw": "啊—啊—",
+            "ja": "あ゙ーあ゙ー"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "2WVoN18E6sw",
+            "start": 6747,
+            "end": 6755
+          },
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Rl6taE7DZb6u%2BEvsmObUzVnuwSWxsxNDN8IJAEnzOTY%3D"
         }
       ]
     }
