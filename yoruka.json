@@ -38,6 +38,57 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
+    },
+    {
+      "name": {
+        "zh-tw": "悲鳴",
+        "ja": "悲鳴"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
+      "buttons": [
+        {
+          "filename": "悲鳴.m4a",
+          "text": {
+            "zh-tw": "悲鳴",
+            "ja": "悲鳴"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "cHFMQVT1SqA",
+            "start": 2425,
+            "end": 2436
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4FiTdjC1%2FpKaTP%2F%2BWFQrH82diK0UmfUiHZaHbF7SlMg%3D"
+        },
+        {
+          "filename": "好可怕好可怕.m4a",
+          "text": {
+            "zh-tw": "好可怕好可怕",
+            "ja": "怖い怖い"
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "cHFMQVT1SqA",
+            "start": 2489,
+            "end": 2497
+          },
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=8KXoQyF9xPgKk8pnkmmqxkw0whnMqRDg8Swy%2BeUQTxM%3D"
+        },
+        {
+          "filename": "唱個國動KING壯壯膽இдஇ.m4a",
+          "text": {
+            "zh-tw": "唱個國動KING壯壯膽இдஇ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "source": {
+            "videoId": "cHFMQVT1SqA",
+            "start": 3271,
+            "end": 3296
+          },
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=S4gyMzmsJP2YsQ501FY8FLnI4WOp9WqYMXrddMg6r00%3D"
+        }
+      ]
     }
   ]
 }
