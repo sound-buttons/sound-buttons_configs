@@ -14,16 +14,314 @@
     "facebook": "https://www.facebook.com/sudayoruka",
     "other": "https://discord.com/invite/p6CRD63Mzc"
   },
-  "introButton": null,
-  "buttonGroups": [
+  "introButton": {
+    "filename": "自我介紹.m4a",
+    "text": {
+      "zh-tw": "自我介紹",
+      "ja": "自己紹介"
+    },
+    "baseRoute": null,
+    "volume": 1,
+    "source": {
+      "videoId": "a6AY-ea-OGM",
+      "start": 5848,
+      "end": 5858
+    },
+    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N5btNbQoEXtVpZW0y4RhZlKjkSy%2FvUxVazudKri1z0I%3D"
+  },
+  "buttonGroups": [{
+      "name": {
+        "zh-tw": "\uD83C\uDF19夜花花\uD83C\uDF38",
+        "ja": "\uD83C\uDF19夜花花\uD83C\uDF38"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
+      "buttons": [{
+          "filename": "自我介紹.m4a",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 5848,
+            "end": 5858
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N5btNbQoEXtVpZW0y4RhZlKjkSy%2FvUxVazudKri1z0I%3D"
+        },
+        {
+          "filename": "晚上好.m4a",
+          "text": {
+            "zh-tw": "晚上好，歡迎來到我的歌枠！",
+            "ja": "こんこんこんヨル～"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 268,
+            "end": 275
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ApAJwHkYpIZPk33innoTluRG41MzRz5l%2BNPhHWlvOtI%3D"
+        },
+        {
+          "filename": "我真的是無能為力耶x2.m4a",
+          "text": {
+            "zh-tw": "我真的是無能為力耶x2",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 1754,
+            "end": 1763
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=dyaZmzQYQUBFUiHLv54uCtVWqRCX5azb0I88Tu0dP7k%3D"
+        },
+        {
+          "filename": "你們喜歡是不是那就來啊唱幾次都可以啦.m4a",
+          "text": {
+            "zh-tw": "你們喜歡是不是，那就來啊！唱幾次都可以啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 1767,
+            "end": 1773
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=OVnDFisVScYV8yP8NbxWbzE9R757cVu8ejDNrE5E%2FxI%3D"
+        },
+        {
+          "filename": "哈哈哈你們真的很奇怪誒怎麼要聽這種奇怪的歌.m4a",
+          "text": {
+            "zh-tw": "哈哈哈，你們真的很奇怪誒，怎麼要聽這種奇怪的歌",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 1886,
+            "end": 1896
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7IRZgm%2FhZTDi1DZ8gEAqGAQojF4vni0zYbR12eJoYJ0%3D"
+        },
+        {
+          "filename": "你們一直說ㄩㄇㄩㄇㄩㄇㄩ你個頭啊.m4a",
+          "text": {
+            "zh-tw": "你們一直說ㄩㄇㄩㄇㄩㄇ，ㄩ你個頭啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 1933,
+            "end": 1941
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=oo87h%2Fj1Am8SJLkmSuJN%2FRz%2BP9IXCnGBJ8sTRy41zJ8%3D"
+        },
+        {
+          "filename": "誒等一下我才不是你阿嬤勒林阿嬤勒亂喊一通.m4a",
+          "text": {
+            "zh-tw": "誒等一下，我才不是你阿嬤勒！林阿嬤勒，亂喊一通",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 2720,
+            "end": 2725
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kH1a1A3AewUVQnqFkAopLL75O9TL0AVSMt2oitv7A2Y%3D"
+        },
+        {
+          "filename": "阿嬤阿嬤你怎麼沒感覺.m4a",
+          "text": {
+            "zh-tw": "阿嬤阿嬤你怎麼沒感覺",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 3042,
+            "end": 3044
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=htOA4eZGXeXZfkRIo1buFxfjj1pUymr66GIu98FnKvs%3D"
+        },
+        {
+          "filename": "讚啦釣魚大成功.m4a",
+          "text": {
+            "zh-tw": "讚啦，釣魚大成功！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 4692,
+            "end": 4696
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=GJleWDb075R3k4%2FoUK%2FwP%2Fl7CyqI081hJQNl9MlXisg%3D"
+        },
+        {
+          "filename": "不是我就不是鍬形蟲.m4a",
+          "text": {
+            "zh-tw": "不是！我就不是鍬形蟲！",
+            "ja": "いいえ！ 私はクワガタムシではありません！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 4793,
+            "end": 4802
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=P%2Fe%2BQ2Q%2FAonCB%2FrY2kWwmDXDWUL40evYUrgueCLub1Y%3D"
+        },
+        {
+          "filename": "大笑.m4a",
+          "text": {
+            "zh-tw": "大笑",
+            "ja": "笑い"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 5727,
+            "end": 5733
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=UkPAmmUU9WNRspO1mENl%2FbUBLCejCQstkCAEjXd6q28%3D"
+        },
+        {
+          "filename": "當然台V最清楚的就是我啦.m4a",
+          "text": {
+            "zh-tw": "當然台V最清楚的就是我啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 5980,
+            "end": 5983
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=B%2FG4HMy%2F0wr7CJr35O84CCZiWVIpGnVnctktkGShfZ0%3D"
+        },
+        {
+          "filename": "閃電閃電鳥叫聲.m4a",
+          "text": {
+            "zh-tw": "閃電！(閃電鳥叫聲)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 6357,
+            "end": 6364
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=SXiHhtUiblVfISS9BE42RubG9BxdM5aW4X1mG0iyP1Q%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "奇怪的歌",
+        "ja": "奇怪的歌"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
+      "buttons": [{
+          "filename": "ㄩㄇ.m4a",
+          "text": {
+            "zh-tw": "ㄩㄇ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 1803,
+            "end": 1831
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6RmElvP9AV0GcEYEnZ8m9vkmG2Ch1QkKhPiTycMryGY%3D"
+        },
+        {
+          "filename": "老司機帶帶我小妹年紀輕.m4a",
+          "text": {
+            "zh-tw": "老司機帶帶我，小妹年紀輕",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 1966,
+            "end": 1981
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=c2liNsShY12dAo7qVO4Nxcy0xG%2BUoMOjhN1Jc6a0Lu4%3D"
+        },
+        {
+          "filename": "一閃一閃亮晶晶滿天都是SC.m4a",
+          "text": {
+            "zh-tw": "一閃一閃亮晶晶，滿天都是SC",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 2261,
+            "end": 2268
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2BQiyAaIpJlr7bXvW%2BByHnKV9zvSzJhTaylWPBfbp2ig%3D"
+        },
+        {
+          "filename": "我身騎白馬走三關.m4a",
+          "text": {
+            "zh-tw": "我身騎白馬~走三關~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 3737,
+            "end": 3744
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=xDpGgnXLAMcpgjjYKH36DbK7EH4ZeA76dqwGIzaP35k%3D"
+        },
+        {
+          "filename": "給垃圾車.m4a",
+          "text": {
+            "zh-tw": "給垃圾車",
+            "ja": "台湾のごみ収集車の歌"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 3101,
+            "end": 3124
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7605AmIR2gDH8BtJG%2B4uOWRcIqtBDHIvf3d8vklgads%3D"
+        }
+      ]
+    },
     {
       "name": {
         "zh-tw": "龍叫",
         "ja": "龍叫"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
-      "buttons": [
-        {
+      "buttons": [{
           "filename": "能龍叫嗎？.m4a",
           "text": {
             "zh-tw": "能龍叫嗎？",
@@ -37,6 +335,21 @@
             "end": 256
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "用龍語跟狗狗尬掐.m4a",
+          "text": {
+            "zh-tw": "用龍語跟狗狗尬掐",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6AY-ea-OGM",
+            "start": 3813,
+            "end": 3819
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=DrxOOcR%2Fv04WcIN9JuFGTbpGRGIa2idAqV1TuDZfPmc%3D"
         }
       ]
     },
@@ -46,8 +359,7 @@
         "ja": "悲鳴"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
-      "buttons": [
-        {
+      "buttons": [{
           "filename": "悲鳴.m4a",
           "text": {
             "zh-tw": "悲鳴",
