@@ -20,7 +20,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": null,
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
     "volume": 1,
     "source": {
       "videoId": "a6AY-ea-OGM",
