@@ -29,13 +29,15 @@
     },
     "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N5btNbQoEXtVpZW0y4RhZlKjkSy%2FvUxVazudKri1z0I%3D"
   },
-  "buttonGroups": [{
+  "buttonGroups": [
+    {
       "name": {
         "zh-tw": "\uD83C\uDF19夜花花\uD83C\uDF38",
         "ja": "\uD83C\uDF19夜花花\uD83C\uDF38"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "自我介紹.m4a",
           "text": {
             "zh-tw": "自我介紹",
@@ -229,6 +231,201 @@
             "end": 6364
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=SXiHhtUiblVfISS9BE42RubG9BxdM5aW4X1mG0iyP1Q%3D"
+        },
+        {
+          "filename": "要不要課金呢課不要再違背你的基因了.m4a",
+          "text": {
+            "zh-tw": "要不要課金呢？課！不要再違背你的基因了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bzlmmeFXZBU",
+            "start": 883,
+            "end": 915
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=34COOckpBkO5M5BQWVxVMjNGXmeV3sM9Svy%2B3enjsl4%3D"
+        },
+        {
+          "filename": "我們中出了一個叛徒.m4a",
+          "text": {
+            "zh-tw": "我們中出了一個叛徒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bzlmmeFXZBU",
+            "start": 3324,
+            "end": 3327
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=23dWNIoAEDitt8BDlGtEiCreitJExmStJE92IRnmQCk%3D"
+        },
+        {
+          "filename": "出事了阿北.m4a",
+          "text": {
+            "zh-tw": "出事了阿北！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 413,
+            "end": 415
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=whN1HyQHR8Pqy9M9SinRdZw%2FF9XEdZeuhKc5f5Y%2FlWw%3D"
+        },
+        {
+          "filename": "放開我.m4a",
+          "text": {
+            "zh-tw": "放開我！",
+            "ja": "離せ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 816,
+            "end": 820
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=37JX72ojGqI4mdldCFUFFU%2FZ9IFPXLT979%2BIXkhCUiw%3D"
+        },
+        {
+          "filename": "我們是很環保的沒在用吸管的啦.m4a",
+          "text": {
+            "zh-tw": "我們是很環保的，沒在用吸管的啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 2259,
+            "end": 2261
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3jEfhOb8zn%2FqS2HOVNB%2Fqot1u1Prr78VinFbJAZ4sBo%3D"
+        },
+        {
+          "filename": "聽話讓我看看.m4a",
+          "text": {
+            "zh-tw": "聽話，讓我看看",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 2958,
+            "end": 2960
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=xRIODcRBquQNih0TlkgNFaW0ID7lIOtrgPvRr5LB%2Fd4%3D"
+        },
+        {
+          "filename": "歐尼醬蘿莉音.m4a",
+          "text": {
+            "zh-tw": "歐尼醬 (蘿莉音)",
+            "ja": "お兄ちゃん (ロリ声)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 4192,
+            "end": 4203
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=WIhAkB%2BHk2mVz%2FMraMoVPHmZ74rOZ4vlAYXx7%2BUovP4%3D"
+        },
+        {
+          "filename": "啊啦啊啦這樣不行呢.m4a",
+          "text": {
+            "zh-tw": "啊啦啊啦，這樣不行呢",
+            "ja": "あらあら、いけないね"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 4589,
+            "end": 4594
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=wBDfdEaOvZbYLI0CJcCikj6WwYqhzQkri%2B0Cvl1iE6o%3D"
+        },
+        {
+          "filename": "我對夜花一心一意真的嗎不是騙人的話我也愛你喔.m4a",
+          "text": {
+            "zh-tw": "(我對夜花一心一意) 真的嗎? 不是騙人的話，我也愛你喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 6063,
+            "end": 6076
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lqwvU%2B44UqymcRKRnbGyIjClM6U2y0ot1tUxeJldadw%3D"
+        },
+        {
+          "filename": "現在的人需求真的很奇怪你們真的是有毛病誒.m4a",
+          "text": {
+            "zh-tw": "現在的人需求真的很奇怪，你們真的是有毛病誒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 6263,
+            "end": 6268
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7KNIKn%2Ff77g3mcLVrv3zklEG9XKl8YalCvekUw0Cfzc%3D"
+        },
+        {
+          "filename": "笑聲.m4a",
+          "text": {
+            "zh-tw": "笑聲",
+            "ja": "笑い"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WIm1jNFQOMI",
+            "start": 4885,
+            "end": 4893
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hrFD1SSzWC29zxyyBnnsg9jjWVxsnsqhULdgw2kgmag%3D"
+        },
+        {
+          "filename": "你們就是我的交往對象可以嗎我就跟你們全部人交往謝謝.m4a",
+          "text": {
+            "zh-tw": "你們就是我的交往對象可以嗎，我就跟你們全部人交往，謝謝",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WIm1jNFQOMI",
+            "start": 6909,
+            "end": 6915
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=81PdlTrJwq8knTsVzXfmcPZeIDHrQKnNbSeP%2FhEOWRc%3D"
+        },
+        {
+          "filename": "戀愛的戀是斂財的斂沒有錯喔.m4a",
+          "text": {
+            "zh-tw": "戀愛的戀是斂財的斂，沒有錯喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WIm1jNFQOMI",
+            "start": 7102,
+            "end": 7107
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tUIZ5DsZm0tR8IgODwrEgZOUN0a14SQqv5wYfF55QjI%3D"
         }
       ]
     },
@@ -238,7 +435,8 @@
         "ja": "奇怪的歌"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "ㄩㄇ.m4a",
           "text": {
             "zh-tw": "ㄩㄇ",
@@ -312,20 +510,66 @@
             "end": 3124
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7605AmIR2gDH8BtJG%2B4uOWRcIqtBDHIvf3d8vklgads%3D"
+        },
+        {
+          "filename": "生日快樂歌.m4a",
+          "text": {
+            "zh-tw": "生日快樂歌",
+            "ja": "お誕生日おめでとう"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jJDtGWDHchw",
+            "start": 7226,
+            "end": 7242
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=g08vJtrsjSIlExL8Tj1P5jv68DM21QrzZTNj9Zhjhss%3D"
+        },
+        {
+          "filename": "遊戲王熱烈的決鬥者.m4a",
+          "text": {
+            "zh-tw": "遊戲王 熱烈的決鬥者",
+            "ja": "遊戯王 熱き決闘者たち"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "K4sHo8GDvck",
+            "start": 715,
+            "end": 746
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=smfZgXsBM%2FNikdsKItABLTiNEFUyivi8vaIwaF6iDb0%3D"
+        },
+        {
+          "filename": "團子大家族.m4a",
+          "text": {
+            "zh-tw": "團子大家族",
+            "ja": "だんご大家族"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A3I8EoPF1wk",
+            "start": 3822,
+            "end": 3831
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tZ1MLaYRKKVC9i%2FF7FdflgLrvzMVBb9ZSkdASw9FbhE%3D"
         }
       ]
     },
     {
       "name": {
         "zh-tw": "龍叫",
-        "ja": "龍叫"
+        "ja": "ドラゴンの声"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "能龍叫嗎？.m4a",
           "text": {
             "zh-tw": "能龍叫嗎？",
-            "ja": "ドラゴンの叫び"
+            "ja": "ドラゴンの声"
           },
           "baseRoute": null,
           "volume": 1,
@@ -350,16 +594,47 @@
             "end": 3819
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=DrxOOcR%2Fv04WcIN9JuFGTbpGRGIa2idAqV1TuDZfPmc%3D"
+        },
+        {
+          "filename": "龍叫.m4a",
+          "text": {
+            "zh-tw": "龍叫",
+            "ja": "ドラゴンの声"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WIm1jNFQOMI",
+            "start": 6850,
+            "end": 6851
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=VvkxZWV32ieVmy9ygd9Mh9HIMJZQcqqYk1O6948dSr8%3D"
+        },
+        {
+          "filename": "可以用龍叫來表白嗎.m4a",
+          "text": {
+            "zh-tw": "可以用龍叫來表白嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WIm1jNFQOMI",
+            "start": 7129,
+            "end": 7146
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=anjpNxSfXqj6p2zcM%2F0r36AmSnoow2nJqmo9fGFk4P8%3D"
         }
       ]
     },
     {
       "name": {
-        "zh-tw": "悲鳴",
-        "ja": "悲鳴"
+        "zh-tw": "悲鳴 (注意音量)",
+        "ja": "悲鳴 (注意音量)"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "悲鳴.m4a",
           "text": {
             "zh-tw": "悲鳴",
@@ -403,6 +678,81 @@
             "end": 3296
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=S4gyMzmsJP2YsQ501FY8FLnI4WOp9WqYMXrddMg6r00%3D"
+        },
+        {
+          "filename": "尖叫.m4a",
+          "text": {
+            "zh-tw": "尖叫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bzlmmeFXZBU",
+            "start": 2876,
+            "end": 2879
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6gWZRzyua7v8iQQlCm8pc3raRZn2TUBXSKToj6cwmrc%3D"
+        },
+        {
+          "filename": "尖叫2.m4a",
+          "text": {
+            "zh-tw": "尖叫2",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bzlmmeFXZBU",
+            "start": 2902,
+            "end": 2903
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RReuSn8JagjhsTLzrR8a8Lhq1LyJ9qvmATRSw0y5RkY%3D"
+        },
+        {
+          "filename": "尖叫3.m4a",
+          "text": {
+            "zh-tw": "尖叫3",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bzlmmeFXZBU",
+            "start": 3141,
+            "end": 3142
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=qVbUVN0kgina2MnfGpVB%2BzxmIAGl%2ByQ1XWDCWhF9R5o%3D"
+        },
+        {
+          "filename": "尖叫長.m4a",
+          "text": {
+            "zh-tw": "尖叫(長~~)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bzlmmeFXZBU",
+            "start": 3215,
+            "end": 3221
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=qDopG2KclXpVnwPg3S%2Ba5RszLCFtpQkdwdP9z24zOgY%3D"
+        },
+        {
+          "filename": "被地震嚇到的龍.m4a",
+          "text": {
+            "zh-tw": "被地震嚇到的龍",
+            "ja": "地震におびえるドラゴン"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A3I8EoPF1wk",
+            "start": 4456,
+            "end": 4483
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6Tt8ShBQv2pxfcPCW%2BUlTvfIZm5uXgRtT3Mxl2CQYEY%3D"
         }
       ]
     }
