@@ -305,6 +305,66 @@
             "end": 3148
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "早安.m4a",
+          "text": {
+            "zh-tw": "早安~",
+            "ja": "おはようございます"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5S-OG4sI6k8",
+            "start": 826,
+            "end": 832
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=t95kqpbDSRVqMNOAqL3DTgsq%2FJ5CLQQFKzSCHkVhjGY%3D"
+        },
+        {
+          "filename": "たたたたたたま.mp3",
+          "text": {
+            "zh-tw": "たたたたたたま",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uwdWYIYpiJc",
+            "start": 4897,
+            "end": 4905
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=NVMOjada1KNKzJO4SdGd0jMUOMqtMKYT1qdddwLSEqc%3D"
+        },
+        {
+          "filename": "たたたたたたま_637554654322763936.mp3",
+          "text": {
+            "zh-tw": "たたたたたたま~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uwdWYIYpiJc",
+            "start": 4923,
+            "end": 4936
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Z1v0Ue4IwUog8Y3TbP%2BLdrQfuOAsi7Qn3YV2D0ZsYkM%3D"
+        },
+        {
+          "filename": "FullCombo噠咚.m4a",
+          "text": {
+            "zh-tw": "Full Combo噠咚！",
+            "ja": "フルコンボだドン！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZLCZcj5N7II",
+            "start": 3249,
+            "end": 3252
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=flAqDDPvZ2NCI249qkhCOiGG8Dd4DPRa6DnV5U7gP7g%3D"
         }
       ]
     },
@@ -571,6 +631,51 @@
             "end": 8569
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "HaveyoutastedJapanesefoodIeatパン.m4a",
+          "text": {
+            "zh-tw": "Have you tasted Japanese food? I eat ... パン！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5S-OG4sI6k8",
+            "start": 394,
+            "end": 403
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9vPfjtbKKiOt8bvxgIoEwb2hxcKpQchQYt6R0bbc50Q%3D"
+        },
+        {
+          "filename": "HiGoodmorning.m4a",
+          "text": {
+            "zh-tw": "Hi~Good morning~",
+            "ja": "Hi~Good morning~"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5S-OG4sI6k8",
+            "start": 424,
+            "end": 429
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HNCj%2Bw92uPvmqZcP0q2%2FI4D9NssmPUZVfoHEGc2j150%3D"
+        },
+        {
+          "filename": "HeyHeyComeonComeon.m4a",
+          "text": {
+            "zh-tw": "Hey! Hey! Come on! Come on!",
+            "ja": "Hey! Hey! Come on! Come on!"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5S-OG4sI6k8",
+            "start": 984,
+            "end": 1003
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tkRyw5W5cESEZo6F4khddxI%2BeJPggB1w9qUxFgkwWQA%3D"
         }
       ]
     },
