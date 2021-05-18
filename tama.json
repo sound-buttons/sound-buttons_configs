@@ -365,6 +365,186 @@
             "end": 3252
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=flAqDDPvZ2NCI249qkhCOiGG8Dd4DPRa6DnV5U7gP7g%3D"
+        },
+        {
+          "filename": "咦.m4a",
+          "text": {
+            "zh-tw": "咦???",
+            "ja": "はい？？？"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6Bfjm5fZz0",
+            "start": 4792,
+            "end": 4795
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Er6jcDiIYZMUmzk7BpX3QJ45fOMOu4nXTR2SPl4nHsY%3D"
+        },
+        {
+          "filename": "哼被騙了.m4a",
+          "text": {
+            "zh-tw": "哼，被騙了?",
+            "ja": "だまされた？"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6Bfjm5fZz0",
+            "start": 4842,
+            "end": 4847
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9h2TAhR3h3icSdUwHWvtpKg8UHOXd17w%2B4MKJGz9%2Bj0%3D"
+        },
+        {
+          "filename": "罪惡深重的女人對不起我是罪惡深重的女人.m4a",
+          "text": {
+            "zh-tw": "「罪惡深重的女人」? 對不起，我是罪惡深重的女人",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DzoxJMZoxGY",
+            "start": 983,
+            "end": 988
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2F01uNnJUiSrojg%2BIbaCSeyS%2FW00g%2BuHuOddtYR%2FM9fA%3D"
+        },
+        {
+          "filename": "眨眼失敗的遜炮たま.m4a",
+          "text": {
+            "zh-tw": "眨眼失敗的遜炮たま",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "h_Pz0HTsE6g",
+            "start": 2041,
+            "end": 2064
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=KUX2pozyAtpL%2FVDEpJw4M19LlUZr8phx%2BYAwGtKDcUw%3D"
+        },
+        {
+          "filename": "早安不好了要遲到了咚啊對不起沒事嗎.m4a",
+          "text": {
+            "zh-tw": "早安~不好了，要遲到了~咚！啊！對不起，沒事嗎？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 584,
+            "end": 603
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7XKZMbQWhf8VC%2F%2BWGCNg2DduQ48bLeBsdvL2zE%2FLAMw%3D"
+        },
+        {
+          "filename": "たま醬真好對付沒辦法啊.m4a",
+          "text": {
+            "zh-tw": "たま醬太好拐了？沒辦法啊～",
+            "ja": "たまちゃんちょろい？しょうがない～"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 626,
+            "end": 632
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FjBLa8zbF1cGw0MMt3MvswMw782SysgqdnAVUog85Eo%3D"
+        },
+        {
+          "filename": "叭叭啦叭叭叭叭嗙.m4a",
+          "text": {
+            "zh-tw": "叭叭啦叭叭叭叭嗙~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 1184,
+            "end": 1188
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=gBCIJrrYEIzi3F32fPgOBECE%2FZMqxfAOYgpRtOcvw7U%3D"
+        },
+        {
+          "filename": "蛤完全搞不懂.m4a",
+          "text": {
+            "zh-tw": "蛤？完全搞不懂～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 3065,
+            "end": 3071
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=gfhxehMvQzEUfOnln%2B9FLlM%2BWTcwGzLGwHTyIyjBXgg%3D"
+        },
+        {
+          "filename": "太好了通關了回家吧.m4a",
+          "text": {
+            "zh-tw": "太好了！通關了！回家吧～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 4608,
+            "end": 4613
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1ycZna6dRzFg2vPYiOx1AjldKDx7e1ZeVUmIUFiX8Sk%3D"
+        },
+        {
+          "filename": "再見.m4a",
+          "text": {
+            "zh-tw": "再見～",
+            "ja": "またね～"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 5145,
+            "end": 5147
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=P364gSwbOnKHZbeY%2BCrgtbwRg2LiL8bog1efKCyGFT4%3D"
+        },
+        {
+          "filename": "啊笨蛋這是不可能的.m4a",
+          "text": {
+            "zh-tw": "啊笨蛋！這是不可能的～",
+            "ja": "ありえないわ～"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 6902,
+            "end": 6912
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=QYQprSgojuDhWWNZKzmtMixmwhRKoftY9of9SFk8HMA%3D"
+        },
+        {
+          "filename": "肚子餓了.m4a",
+          "text": {
+            "zh-tw": "肚子餓了！",
+            "ja": "おなかがすいた！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 8410,
+            "end": 8413
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=fgzPNVVzdaYP9zbPdDbsSAAkDBWd02WweicJMYM%2BE%2B4%3D"
         }
       ]
     },
@@ -592,6 +772,51 @@
             "end": 7581
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "早安_637560655929323361.m4a",
+          "text": {
+            "zh-tw": "早安",
+            "ja": "おはよう"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6Bfjm5fZz0",
+            "start": 4244,
+            "end": 4245
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RihJly%2BGF%2Bar54AOs0IEKSoUKN%2Bl6WhmBGvcK%2BuLaT4%3D"
+        },
+        {
+          "filename": "晚安.m4a",
+          "text": {
+            "zh-tw": "晚安~",
+            "ja": "こんばんは~"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6Bfjm5fZz0",
+            "start": 4247,
+            "end": 4249
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=e5xm4i6to67npR16u%2BsJwpeGRM4hArfWpfzJuab%2BC3I%3D"
+        },
+        {
+          "filename": "晚上好晚上好.m4a",
+          "text": {
+            "zh-tw": "晚上好~晚上好~",
+            "ja": "こんばんは~こんばんは~"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6Bfjm5fZz0",
+            "start": 4271,
+            "end": 4274
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=88cSXFB5PHVV7cC%2Bt8yVahcIdL1h8ivsEqrmPDbuuh4%3D"
         }
       ]
     },
@@ -676,6 +901,51 @@
             "end": 1003
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tkRyw5W5cESEZo6F4khddxI%2BeJPggB1w9qUxFgkwWQA%3D"
+        },
+        {
+          "filename": "HelloThankyouforcomingtomystream.m4a",
+          "text": {
+            "zh-tw": "Hello~Thank you for coming to my stream~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6Bfjm5fZz0",
+            "start": 4310,
+            "end": 4319
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lWGSRi4hqj1WQ9dej9aWO0W%2BnZ%2B585xe1CAi8E7PBRw%3D"
+        },
+        {
+          "filename": "HowareyouImverysleepynow.m4a",
+          "text": {
+            "zh-tw": "How are you? I'm very sleepy now.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 232,
+            "end": 238
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zVo1kvMg6r05FaExRNp%2BgCGFdWfaCM7nhG5WI2KQEvA%3D"
+        },
+        {
+          "filename": "Timeismoney.m4a",
+          "text": {
+            "zh-tw": "​Time is money!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 5031,
+            "end": 5034
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FZHYggpfsbVyaHS6LQV2Pym3QHRHBp1C7Va8RnwJj6k%3D"
         }
       ]
     },
@@ -910,6 +1180,90 @@
             "end": 3884
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "靈魂是什麼顏色呢ANIMA.m4a",
+          "text": {
+            "zh-tw": "靈魂是什麼顏色呢↗↗↗ (ANIMA)",
+            "ja": "魂の色は、何色ですか↗↗↗ (ANIMA)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 1093,
+            "end": 1099
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nouFhFG26XG8cj0Ej721sq1hjwzD8KJ8%2Fc3hhHowa38%3D"
+        },
+        {
+          "filename": "嘿好痛對不起對不起.m4a",
+          "text": {
+            "zh-tw": "嘿～好痛！對不起！對不起！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 1283,
+            "end": 1288
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=CbldXR%2BNfySZr%2BrRUvY%2BK1jrRjUaFMbMduOrjXrkkH0%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "隨口哼",
+        "ja": "隨口哼"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "buttons": [
+        {
+          "filename": "ヴァンパイア吸血鬼.m4a",
+          "text": {
+            "zh-tw": "ヴァンパイア (吸血鬼)",
+            "ja": "ヴァンパイア"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 651,
+            "end": 665
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zjT%2B2lNYpZIXpH3bRe70aolRVEscL4IWxT3xabKl7Ls%3D"
+        },
+        {
+          "filename": "ANIMA.m4a",
+          "text": {
+            "zh-tw": "ANIMA",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oqfJ-KQBxmE",
+            "start": 1156,
+            "end": 1167
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vtUO9xKT%2FFf%2B4DyDBDOM1P7%2F3IB%2FWCayyeBfHnmHe2o%3D"
+        },
+        {
+          "filename": "喵喵喵喵.m4a",
+          "text": {
+            "zh-tw": "喵喵喵喵",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "h_Pz0HTsE6g",
+            "start": 8366,
+            "end": 8377
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2Bm9Sv7ix6GClXU8FzGCsLsnq%2B8UiUHaWb7B9LJDitdg%3D"
         }
       ]
     }
