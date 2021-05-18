@@ -15,19 +15,19 @@
     "other": null
   },
   "introButton": {
-    "filename": "星爆中文.wav",
+    "filename": "自我介紹.m4a",
     "text": {
-      "zh-tw": "星爆氣流斬！(中文)",
-      "ja": "スターバースト・ストリーム(中国語)"
+      "zh-tw": "自我介紹",
+      "ja": "自己紹介"
     },
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
     "volume": 1,
     "source": {
-      "videoId": "9bLORkCTZt4",
-      "start": 4795,
-      "end": 4798
+      "videoId": "h_Pz0HTsE6g",
+      "start": 13220,
+      "end": 13243
     },
-    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N16e7vSpgnLnMix6qrQyLX9NO8VCUyxJpm4i1T0yNiI%3D"
   },
   "buttonGroups": [
     {
@@ -545,6 +545,81 @@
             "end": 8413
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=fgzPNVVzdaYP9zbPdDbsSAAkDBWd02WweicJMYM%2BE%2B4%3D"
+        },
+        {
+          "filename": "我會娶妳.m4a",
+          "text": {
+            "zh-tw": "我會娶妳！",
+            "ja": "俺が結婚してやんよ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "h_Pz0HTsE6g",
+            "start": 11513,
+            "end": 11516
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=rJIDnpBRVTORuTKxzYKy2EFT%2BKbs2r9fMkoW9aE5Rnw%3D"
+        },
+        {
+          "filename": "星爆氣流斬.m4a",
+          "text": {
+            "zh-tw": "星爆...氣流斬！",
+            "ja": "スターバースト....ストリーム！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "h_Pz0HTsE6g",
+            "start": 12751,
+            "end": 12764
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=PJAwZDkxfwGrcP4Mb%2BipPGRE5NHYD5OUQ2YqFrmf2Qw%3D"
+        },
+        {
+          "filename": "我回來了音量好大對不起.m4a",
+          "text": {
+            "zh-tw": "我回來了～！音量好大，對不起....",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "h_Pz0HTsE6g",
+            "start": 13182,
+            "end": 13196
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=dTJ9tsRcRm0%2FCYdneBN1fYesBxPIENf09L08BVqd8EM%3D"
+        },
+        {
+          "filename": "自我介紹.m4a",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "h_Pz0HTsE6g",
+            "start": 13220,
+            "end": 13243
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N16e7vSpgnLnMix6qrQyLX9NO8VCUyxJpm4i1T0yNiI%3D"
+        },
+        {
+          "filename": "封閉者不錯的名字對我就是封閉者.m4a",
+          "text": {
+            "zh-tw": "封閉者？不錯的名字...對，我就是「封閉者」！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "h_Pz0HTsE6g",
+            "start": 13326,
+            "end": 13333
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hJLIXO10wKeYCDpaBu%2Ffn%2B0ytXLXwyD6MP5fYw8jZXQ%3D"
         }
       ]
     },
