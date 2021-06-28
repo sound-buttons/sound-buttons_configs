@@ -620,6 +620,81 @@
             "end": 13333
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hJLIXO10wKeYCDpaBu%2Ffn%2B0ytXLXwyD6MP5fYw8jZXQ%3D"
+        },
+        {
+          "filename": "好可愛好可愛找到正太了好可愛.m4a",
+          "text": {
+            "zh-tw": "好可愛！好可愛！找到正太了！好可愛！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "s0FoKtR_794",
+            "start": 2143,
+            "end": 2170
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2CFXD6dZZdhRWli1xqJfU8u5zXFbFNJfUQswpKj1tC0%3D"
+        },
+        {
+          "filename": "正太能和我好好相處嗎當然啊和姊姊好好相處吧喜歡.m4a",
+          "text": {
+            "zh-tw": "(正太: 能和我好好相處嗎) 當然啊！和姊姊好好相處吧！喜歡！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "s0FoKtR_794",
+            "start": 2254,
+            "end": 2269
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ekQRexEeJTKgxA%2FsuYUf%2FMw0LmzAz4%2F6W0ci2jdsdY0%3D"
+        },
+        {
+          "filename": "怎麼辦等下等下突然出現我心裡凖備還沒做好ｑ.m4a",
+          "text": {
+            "zh-tw": "怎麼辦等下等下突然出現我心裡凖備還沒做好(´◓ｑ◔｀)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "s0FoKtR_794",
+            "start": 3375,
+            "end": 3389
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FiCMuTz5uhTUtyWl6VBA8d%2F66pnFK8wg60mCpdgqYQU%3D"
+        },
+        {
+          "filename": "萬歲大聲.m4a",
+          "text": {
+            "zh-tw": "萬歲！(大聲)",
+            "ja": "やった！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9QIU3ZM1MSY",
+            "start": 6507,
+            "end": 6511
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=dXd0DcRtZR1lyvQ9Uim6PjLb3nVoq6YPvndxyPhXo4M%3D"
+        },
+        {
+          "filename": "俺様の宝具さえ覚えてないか雑種.m4a",
+          "text": {
+            "zh-tw": "「俺様の宝具さえ覚えてないか？雑種」",
+            "ja": "「俺様の宝具さえ覚えてないか？雑種」"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WSCMFgOnAdU",
+            "start": 9015,
+            "end": 9027
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3OiIhuD%2BTQ9EFxKceBhSFLkjLh9E8FsNfJrWEneA%2BN0%3D"
         }
       ]
     },
@@ -682,6 +757,51 @@
             "end": 3077
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "GaeBolg.wav",
+          "text": {
+            "zh-tw": "Gae Bolg",
+            "ja": "Gae Bolg"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fAlGoDNt6kg",
+            "start": 7620,
+            "end": 7623
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FS0VPgRJkezptrp5nDHeYsKID1zAD0PNYZ3%2BNr3GVGc%3D"
+        },
+        {
+          "filename": "Excalibur.wav",
+          "text": {
+            "zh-tw": "Excalibur",
+            "ja": "Excalibur"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Bwvq5JNb%2FDzbCuH1z4WmRu6t8SFDVcqOKFXtFM%2BbYKc%3D"
+        },
+        {
+          "filename": "英靈召喚咒文.m4a",
+          "text": {
+            "zh-tw": "英靈召喚咒文",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WSCMFgOnAdU",
+            "start": 9117,
+            "end": 9165
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=K6ZxO2n67m%2BJZa7BbgloweXxFvE0%2FHkFJM1wKaKqzrk%3D"
         }
       ]
     },
@@ -1021,6 +1141,51 @@
             "end": 5034
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FZHYggpfsbVyaHS6LQV2Pym3QHRHBp1C7Va8RnwJj6k%3D"
+        },
+        {
+          "filename": "MYHOUSEのすぐ近くLUCKY.m4a",
+          "text": {
+            "zh-tw": "MY HOUSEのすぐ近く！LUCKY!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "s0FoKtR_794",
+            "start": 2865,
+            "end": 2876
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=gbj%2FKmcPGFdViiujRqHophMZcezQsDOb2WhjeNbBLaQ%3D"
+        },
+        {
+          "filename": "TamasEnglishpronunciationisgreat.m4a",
+          "text": {
+            "zh-tw": "Tama's English pronunciation is great!!",
+            "ja": "Tama's English pronunciation is great!!"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WSCMFgOnAdU",
+            "start": 8039,
+            "end": 8054
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=wyD%2FZSatttOWuwCn5RuoqEo4CEsqH0UxGpUsgCPN3c8%3D"
+        },
+        {
+          "filename": "たま英文自介.m4a",
+          "text": {
+            "zh-tw": "たま英文自介",
+            "ja": "たまの英語の自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WSCMFgOnAdU",
+            "start": 8137,
+            "end": 8163
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JbwGILt%2BQSJxYOreIpiwUBtrao4YPR2o8V3C8SVrc8A%3D"
         }
       ]
     },

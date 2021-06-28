@@ -726,6 +726,96 @@
             "end": 7456
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=QLh4Tcfq4BvPl2mPFgxBIv0BspAyIFjw%2Bas0mKKz%2BTw%3D"
+        },
+        {
+          "filename": "呀吼.m4a",
+          "text": {
+            "zh-tw": "呀吼~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "rxdF05nbt0M",
+            "start": 279,
+            "end": 281
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=UNrgr0oYq2UY3ezqeJ9uWLYdRD14u51Q7nby9TYQMx0%3D"
+        },
+        {
+          "filename": "你是不是想跟我吵架.m4a",
+          "text": {
+            "zh-tw": "你是不是想跟我吵架?!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_cIc_wE8Hl0",
+            "start": 3488,
+            "end": 3500
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=t6MRqqAzcDjZMHag605w%2Fdy9uUQaunVWd70Hc46SzqI%3D"
+        },
+        {
+          "filename": "他沒有ㄋㄟㄋㄟ誒.m4a",
+          "text": {
+            "zh-tw": "他沒有ㄋㄟㄋㄟ誒！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_cIc_wE8Hl0",
+            "start": 3267,
+            "end": 3269
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5osxLEkTrOIcZli1pi2kObioO7%2FwaCvGmvWXxkrvcjY%3D"
+        },
+        {
+          "filename": "相黏鍵誒可以打節奏.m4a",
+          "text": {
+            "zh-tw": "相黏鍵？誒可以打節奏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_cIc_wE8Hl0",
+            "start": 3625,
+            "end": 3635
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vfp6ztyHuBo4ae8uSdhNV0yYhM1HRozzsAkPBwp0U6I%3D"
+        },
+        {
+          "filename": "這很明顯是廠商的疏失卡普空要不要負責啊.m4a",
+          "text": {
+            "zh-tw": "這很明顯是廠商的疏失，卡普空要不要負責啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_cIc_wE8Hl0",
+            "start": 3935,
+            "end": 3941
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=x0Qahpe13ooTRVFFbum1F3TG7B8ChW3T0cu6oa60aN4%3D"
+        },
+        {
+          "filename": "啊我遊戲斷線了哈哈哈哈.m4a",
+          "text": {
+            "zh-tw": "啊我遊戲斷線了哈哈哈哈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_cIc_wE8Hl0",
+            "start": 4246,
+            "end": 4250
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=T6VlyGWe0jACAl7JxvCZfUIBOH%2BP4FcAsh0NW%2BEqCOA%3D"
         }
       ]
     },
@@ -1167,6 +1257,21 @@
             "end": 251
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9LEGaIfU2de1J9UnRNxNAGxU5i07IdwBiXn7cUmn5Tg%3D"
+        },
+        {
+          "filename": "打噴嚏助かる_637602949589786449.m4a",
+          "text": {
+            "zh-tw": "打噴嚏助かる",
+            "ja": "くしゃみ助かる"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "BVFEn15L8Z0",
+            "start": 11121,
+            "end": 11129
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MeNY3YKo0IoJgKbgQM84%2BD5ABoZqG3fUjOHnEPlhB3g%3D"
         }
       ]
     }
