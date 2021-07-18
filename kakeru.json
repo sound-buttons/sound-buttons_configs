@@ -1,0 +1,18 @@
+{
+  "name": "kakeru",
+  "fullName": "間取かける",
+  "fullConfigURL": "assets/configs/kakeru.json",
+  "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/kakeru.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=MO6HckL6p%2F7%2Bynr85RIHVsUPDnFPtlMBJNH2TTu24WQ%3D",
+  "intro": "\u307c\u304f\u306e\u652f\u914d\u3059\u308b\u7a7a\u9593\u3078\u3088\u3046\u3053\u305d\u3063\ud83d\udc3e\u2728\n\u305c\u3093\u3076\u306e\u3053\u3068\u306b\u597d\u5947\u5fc3\u65fa\u76db\uff01\u30d0\u30fc\u30c1\u30e3\u30eb\u30d5\u30a7\u30f3\u30ea\u30eb\u2728\u9593\u53d6\u304b\u3051\u308b\ud83d\udc3a\n\n\u5c11\u3057\u3067\u3082\u8208\u5473\u6301\u3063\u3066\u9802\u3051\u305f\u3089\u3001\u307b\u307c\u6bce\u65e5\u914d\u4fe1\u3057\u3066\u308b\u306e\u3067\u751f\u653e\u9001\u306b\u904a\u3073\u306b\u6765\u3066\u304f\u3060\u3055\u3044\uff01\uff01\n\u307c\u304f\u3068\u4e00\u7dd2\u306b\u697d\u3057\u3044\u6642\u9593\u3092\u904e\u3054\u305d\u3046\ud83d\udc96\n\n\u500b\u4eba\u52e2Vtuber\u30b0\u30eb\u30fc\u30d7\u25c6GuildCQ\u25c6\u6240\u5c5e\u3060\u3088\uff01\n(\u7d20\u6575\u306a\u30ae\u30eb\u30c9\u30e1\u30f3\u30d0\u30fc\u3057\u304b\u3044\u306a\u3044\u3088\ud83d\ude0e\u2728)",
+  "color": {
+    "primary": "#2C252C",
+    "secondary": "#F9D95E"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/channel/UCiLt4FLjMXszLOh5ISi1oqw",
+    "twitter": "https://twitter.com/matorikakeru",
+    "other": null
+  },
+  "introButton": null,
+  "buttonGroups": []
+}
