@@ -1504,6 +1504,21 @@
             "end": 8377
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2Bm9Sv7ix6GClXU8FzGCsLsnq%2B8UiUHaWb7B9LJDitdg%3D"
+        },
+        {
+          "filename": "魔物獵人崛起兔兔糰子歌日文版.m4a",
+          "text": {
+            "zh-tw": "魔物獵人崛起兔兔糰子歌(日文版)",
+            "ja": "モンスターハンターライズうさ団子の歌(日本語)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yFzIg39iR00",
+            "start": 426,
+            "end": 449
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=w0XJOhahqJAcUvvSNIgUwWwypns4M0h3y5IzwXagHE4%3D"
         }
       ]
     }

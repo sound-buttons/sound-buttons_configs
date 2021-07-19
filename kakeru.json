@@ -3,16 +3,188 @@
   "fullName": "間取かける",
   "fullConfigURL": "assets/configs/kakeru.json",
   "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/kakeru.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=MO6HckL6p%2F7%2Bynr85RIHVsUPDnFPtlMBJNH2TTu24WQ%3D",
-  "intro": "\u307c\u304f\u306e\u652f\u914d\u3059\u308b\u7a7a\u9593\u3078\u3088\u3046\u3053\u305d\u3063\ud83d\udc3e\u2728\n\u305c\u3093\u3076\u306e\u3053\u3068\u306b\u597d\u5947\u5fc3\u65fa\u76db\uff01\u30d0\u30fc\u30c1\u30e3\u30eb\u30d5\u30a7\u30f3\u30ea\u30eb\u2728\u9593\u53d6\u304b\u3051\u308b\ud83d\udc3a\n\n\u5c11\u3057\u3067\u3082\u8208\u5473\u6301\u3063\u3066\u9802\u3051\u305f\u3089\u3001\u307b\u307c\u6bce\u65e5\u914d\u4fe1\u3057\u3066\u308b\u306e\u3067\u751f\u653e\u9001\u306b\u904a\u3073\u306b\u6765\u3066\u304f\u3060\u3055\u3044\uff01\uff01\n\u307c\u304f\u3068\u4e00\u7dd2\u306b\u697d\u3057\u3044\u6642\u9593\u3092\u904e\u3054\u305d\u3046\ud83d\udc96\n\n\u500b\u4eba\u52e2Vtuber\u30b0\u30eb\u30fc\u30d7\u25c6GuildCQ\u25c6\u6240\u5c5e\u3060\u3088\uff01\n(\u7d20\u6575\u306a\u30ae\u30eb\u30c9\u30e1\u30f3\u30d0\u30fc\u3057\u304b\u3044\u306a\u3044\u3088\ud83d\ude0e\u2728)",
+  "intro": "ぼくの支配する空間へようこそっ\uD83D\uDC3E✨\n\nぜんぶのことに好奇心旺盛！バーチャルフェンリル✨間取かける(ﾏﾄﾘｶｹﾙ)\uD83D\uDC3A\n\n少しでも興味持って頂けたら、ほぼ毎日配信してるので生放送に遊びに来てください！！\nぼくと一緒に楽しい時間を過ごそう\uD83D\uDC96\n\nチャンネル登録/高評価/コメントもらえたら、とっっっても嬉しいです！！✨\n\n個人勢Vtuberグループ◆GuildCQ◆所属だよ！\n(素敵なギルドメンバーしかいないよ\uD83D\uDE0E✨)",
   "color": {
-    "primary": "#2C252C",
-    "secondary": "#F9D95E"
+    "primary": "#3F3939",
+    "secondary": "#FFD960"
   },
   "link": {
     "youtube": "https://www.youtube.com/channel/UCiLt4FLjMXszLOh5ISi1oqw",
     "twitter": "https://twitter.com/matorikakeru",
+    "facebook": null,
     "other": null
   },
-  "introButton": null,
-  "buttonGroups": []
+  "introButton":{
+    "filename": "自我介紹.m4a",
+    "text": {
+      "zh-tw": "自我介紹",
+      "ja": "自己紹介"
+    },
+    "baseRoute": null,
+    "volume": 1,
+    "source": {
+      "videoId": "JzX9tm3vzBs",
+      "start": 259,
+      "end": 271
+    },
+    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ykGHaUQDLtiZ11Ra4hG7z59BZnIO%2FgPZd3QRUzYcf3g%3D"
+  },
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "かけるアウ〜ン",
+        "ja": "かけるアウ〜ン"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+      "buttons": [
+        {
+          "filename": "裝可愛.m4a",
+          "text": {
+            "zh-tw": "裝可愛",
+            "ja": "かわいいかける"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XJBBQOUP4sA",
+            "start": 7072,
+            "end": 7150
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=pjURHrFpGMpNMLDq1bK60pvtSsCn0PRmeoYAprSmd1o%3D"
+        },
+        {
+          "filename": "西薩.m4a",
+          "text": {
+            "zh-tw": "西薩!!!!!",
+            "ja": "シーザー！！！！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XJBBQOUP4sA",
+            "start": 5644,
+            "end": 5648
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AJmzVQD3l5lTSJkc99exiPXNvAyNrQblpww528v6xkY%3D"
+        },
+        {
+          "filename": "學貓叫擬真.m4a",
+          "text": {
+            "zh-tw": "學貓叫 (擬真)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "1OF7lBciXcE",
+            "start": 5378,
+            "end": 5402
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MX%2BeYvlqL01GWOvCf6SiKHZHYTJXmFnlJZ2Sx2TAEOo%3D"
+        },
+        {
+          "filename": "自我介紹.m4a",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "JzX9tm3vzBs",
+            "start": 259,
+            "end": 271
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ykGHaUQDLtiZ11Ra4hG7z59BZnIO%2FgPZd3QRUzYcf3g%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "大\uD83C\uDF63",
+        "ja": "大\uD83C\uDF63"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+      "buttons": [
+        {
+          "filename": "大.m4a",
+          "text": {
+            "zh-tw": "大\uD83C\uDF63",
+            "ja": "大\uD83C\uDF63"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "PDu43uYi640",
+            "start": 8438,
+            "end": 8447
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=sUSSvqQQ%2BonUeynnNwmiGoBcOqHJE4GpSO0FVapHHy8%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "悲鳴 (注意音量)",
+        "ja": "悲鳴 (注意音量)"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+      "buttons": [
+        {
+          "filename": "貓車.m4a",
+          "text": {
+            "zh-tw": "貓車",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XJBBQOUP4sA",
+            "start": 5634,
+            "end": 5644
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tpsRCSvlcPuhWRiY1ZwziFy3Ge9AeauBd6G829ZfVWw%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "隨口哼",
+        "ja": "隨口哼"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+      "buttons": [
+        {
+          "filename": "魔物獵人崛起兔兔糰子歌日文版.m4a",
+          "text": {
+            "zh-tw": "魔物獵人崛起兔兔糰子歌(日文版)",
+            "ja": "モンスターハンターライズうさ団子の歌(日本語)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XJBBQOUP4sA",
+            "start": 1505,
+            "end": 1538
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=v%2F8yEZzvKZlQgHCpW%2B0Ut%2BFL7ZJBGNOEbelssH8batY%3D"
+        },
+        {
+          "filename": "PIEN的歌.m4a",
+          "text": {
+            "zh-tw": "PIEN的歌\ud83e\udd7a",
+            "ja": "「ぴえん」のうた\ud83e\udd7a"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "JzX9tm3vzBs",
+            "start": 7021,
+            "end": 7041
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5RODg2obBIWD%2BPKSajoU%2F6gvhaN1JYAIHsSk%2F7uMUVU%3D"
+        }
+      ]
+    }
+  ]
 }
