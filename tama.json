@@ -695,6 +695,66 @@
             "end": 9027
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3OiIhuD%2BTQ9EFxKceBhSFLkjLh9E8FsNfJrWEneA%2BN0%3D"
+        },
+        {
+          "filename": "請吸我的血這樣好嗎我開動了.m4a",
+          "text": {
+            "zh-tw": "(請吸我的血) 這樣好嗎？我開動了！",
+            "ja": "(血を吸うでください) いただきます！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "d_WCgzf04JI",
+            "start": 4812,
+            "end": 4820
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kPNokMOfBngt6GJODWL9Pd1076J2K9m%2BCp7Mi4gkIHw%3D"
+        },
+        {
+          "filename": "金的たまOUT金玉是睾丸的日文.m4a",
+          "text": {
+            "zh-tw": "金的たま? OUT～(金玉是睾丸的日文)",
+            "ja": "金の玉？OUT～"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "d_WCgzf04JI",
+            "start": 6898,
+            "end": 6929
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=BfpPf8j4qAwOjJysvpIzubHkR%2FTXu8c8PhtmH0wTeWI%3D"
+        },
+        {
+          "filename": "大家肚子餓了嗎たま也肚子餓了.m4a",
+          "text": {
+            "zh-tw": "大家肚子餓了嗎?たま也肚子餓了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "d_WCgzf04JI",
+            "start": 8032,
+            "end": 8037
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=L6z69TxHQIbT0pq4VQWOPd7yWeAj483WyKxSR%2F%2FisNA%3D"
+        },
+        {
+          "filename": "午餐的貓罐頭錢たま是貓嗎喵.m4a",
+          "text": {
+            "zh-tw": "(午餐的貓罐頭錢) たま是貓嗎？喵～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "d_WCgzf04JI",
+            "start": 8982,
+            "end": 8991
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MtjlmUUChkP9yOjO%2F3KURyX08d2aOIBnrgb6kQgypFU%3D"
         }
       ]
     },
@@ -1186,6 +1246,36 @@
             "end": 8163
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JbwGILt%2BQSJxYOreIpiwUBtrao4YPR2o8V3C8SVrc8A%3D"
+        },
+        {
+          "filename": "TamaboingboingImboingboingNO.m4a",
+          "text": {
+            "zh-tw": "(Tama boing boing) I'm boing boing, NO.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "d_WCgzf04JI",
+            "start": 4913,
+            "end": 4920
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=uWMP3dQA3qcc84rE9GZpfpfA2gzHWK46BOMmLHy5ago%3D"
+        },
+        {
+          "filename": "Canyoubemyhusbandhusband是什麼.m4a",
+          "text": {
+            "zh-tw": "(Can you be my husband?) husband是什麼?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "FrxMvwOCjKs",
+            "start": 5151,
+            "end": 5168
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=pgCdzoH3Stk2GG393iQ8Mqm0VhnqGP77rQDSWK0Xj%2Bk%3D"
         }
       ]
     },
@@ -1450,6 +1540,21 @@
             "end": 1288
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=CbldXR%2BNfySZr%2BrRUvY%2BK1jrRjUaFMbMduOrjXrkkH0%3D"
+        },
+        {
+          "filename": "啊我的聲音好吵.m4a",
+          "text": {
+            "zh-tw": "啊！...我的聲音好吵",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "d_WCgzf04JI",
+            "start": 4983,
+            "end": 4990
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=E4PLDAyJtH7CzsOZtEvtfpt%2BrTURP64Qh763KjcisJ8%3D"
         }
       ]
     },

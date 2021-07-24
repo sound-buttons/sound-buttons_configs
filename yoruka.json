@@ -816,6 +816,111 @@
             "end": 4250
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=T6VlyGWe0jACAl7JxvCZfUIBOH%2BP4FcAsh0NW%2BEqCOA%3D"
+        },
+        {
+          "filename": "你就儘管嘲笑好了但現在在你面前的是一個贏家.m4a",
+          "text": {
+            "zh-tw": "你就儘管嘲笑好了，但現在在你面前的是一個贏家！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wVain3qWBko",
+            "start": 9038,
+            "end": 9045
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=A4lbJQuNAOcJD4e1Xqv4xWd3Rp411z5UWnEP%2Bfz%2FzBE%3D"
+        },
+        {
+          "filename": "我是贏家夾到娃娃你是輸家哭著找媽媽.m4a",
+          "text": {
+            "zh-tw": "我是贏家，夾到娃娃；你是輸家，哭著找媽媽！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wVain3qWBko",
+            "start": 9074,
+            "end": 9080
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=EWVntecGWgL8E9p0bC%2FDXpn3w8Dt2StJaP3yD%2FZu1dM%3D"
+        },
+        {
+          "filename": "變夾子x3.m4a",
+          "text": {
+            "zh-tw": "變夾子x3",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wVain3qWBko",
+            "start": 9111,
+            "end": 9122
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ouOK%2FBmgpfEpMpANFdZTcynqd2PNqD5R953LWoVbNK0%3D"
+        },
+        {
+          "filename": "這什麼東西啊wwww這什麼東西.m4a",
+          "text": {
+            "zh-tw": "這什麼東西啊wwww這什麼東西？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wVain3qWBko",
+            "start": 9167,
+            "end": 9173
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=mi8DL88bES7dOmUXmzBe4uF08ipLfsMi1fN9FId9Kik%3D"
+        },
+        {
+          "filename": "我就知道又是琳那個瘋子.m4a",
+          "text": {
+            "zh-tw": "我就知道又是琳，那個瘋子",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wVain3qWBko",
+            "start": 9133,
+            "end": 9137
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=DCRyXaz12tK8JhpGMmwhHZlyDZUrJBAeTpOo4fe2mR0%3D"
+        },
+        {
+          "filename": "琳桑真的很有病誒ww.m4a",
+          "text": {
+            "zh-tw": "琳桑真的很有病誒ww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wVain3qWBko",
+            "start": 9781,
+            "end": 9786
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kjZFHDcCQYPxKgeFD794ap52J8VmpO6FT4VOCAQb7hs%3D"
+        },
+        {
+          "filename": "我喜歡那個軟軟的ぷにぷに的最高だぜ.m4a",
+          "text": {
+            "zh-tw": "我喜歡那個軟軟的、ぷにぷに的，最高だぜ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XPETwYh0u3Q",
+            "start": 7656,
+            "end": 7662
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=wwSUgRDcudV4rfSLmizewiWOB8nk9y3nAw00gkY0lX8%3D"
         }
       ]
     },
@@ -1188,6 +1293,21 @@
             "end": 346
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2rXpnlAT9oNALmJzqkhcwqNZY6sP7hocHk4PtOPZhWA%3D"
+        },
+        {
+          "filename": "我已經沒有再去那家買早餐了我太生氣了我換一家.m4a",
+          "text": {
+            "zh-tw": "我已經沒有再去那家買早餐了，我太生氣了，我換一家",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wVain3qWBko",
+            "start": 9690,
+            "end": 9706
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=VFpLJfij43tVykw1JCST0Ak5455CRoaTefCToX%2BA6JU%3D"
         }
       ]
     },
