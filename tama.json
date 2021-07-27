@@ -755,6 +755,36 @@
             "end": 8991
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MtjlmUUChkP9yOjO%2F3KURyX08d2aOIBnrgb6kQgypFU%3D"
+        },
+        {
+          "filename": "其實在唱歌的瞬間會咻的一聲換人.m4a",
+          "text": {
+            "zh-tw": "其實在唱歌的瞬間，會「咻」的一聲換人",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "nBsJc3vNfk8",
+            "start": 2673,
+            "end": 2683
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=aHCQ%2F%2FC5XjGhmtcJtUfF1Qbg%2Bg0b8QupdVTO2Bb4X54%3D"
+        },
+        {
+          "filename": "ジャンヌゥ龍之介謝謝3Q.m4a",
+          "text": {
+            "zh-tw": "ジャンヌゥ～龍之介～謝謝3Q～",
+            "ja": "ジャンヌゥ～龍之介～ありがとう3Q～"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "nBsJc3vNfk8",
+            "start": 2302,
+            "end": 2308
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3fXGNKkr3gUby1yXmviItLWJo9Aw0z42PqAiNnsvkoM%3D"
         }
       ]
     },
@@ -1276,6 +1306,21 @@
             "end": 5168
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=pgCdzoH3Stk2GG393iQ8Mqm0VhnqGP77rQDSWK0Xj%2Bk%3D"
+        },
+        {
+          "filename": "ElPsyKongroo.m4a",
+          "text": {
+            "zh-tw": "El Psy Kongroo",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "nBsJc3vNfk8",
+            "start": 3984,
+            "end": 3988
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Fa9mqPJjtjxwDytXFPl%2Bf4ArYzE%2Bb6WlQVKhZUS%2Bhkw%3D"
         }
       ]
     },
