@@ -52,7 +52,7 @@
           "filename": "byebye.mp3",
           "text": {
             "zh-tw": "まったまたねー(再見招呼語)",
-            "ja": "まったまたねー(さようなら挨拶)"
+            "ja": "まったまたねー(配信終了の挨拶)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -115,7 +115,7 @@
           "filename": "好像跑進眼睛裡了一代一代一代.m4a",
           "text": {
             "zh-tw": "好像跑進眼睛裡了一代一代一代",
-            "ja": ""
+            "ja": "なんか目に入った痛い痛い痛い"
           },
           "baseRoute": null,
           "volume": 1,
@@ -130,7 +130,7 @@
           "filename": "怎麼會這樣啦!生氣了喔.m4a",
           "text": {
             "zh-tw": "怎麼會這樣啦!生氣了喔",
-            "ja": ""
+            "ja": "なんでこんなの！怒るよ！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -145,7 +145,7 @@
           "filename": "生日快樂歌.m4a",
           "text": {
             "zh-tw": "生日快樂歌",
-            "ja": "お誕生日おめでとう"
+            "ja": "お誕生日の歌"
           },
           "baseRoute": null,
           "volume": 1,
@@ -265,7 +265,7 @@
           "filename": "欸Clear了嗎可怕的部分結束了.mp3",
           "text": {
             "zh-tw": "欸Clear了嗎?可怕的部分結束了?",
-            "ja": ""
+            "ja": "えっもうクリア？怖いとこ終わった？"
           },
           "baseRoute": null,
           "volume": 1,
@@ -280,7 +280,7 @@
           "filename": "吶吶也靠得太近了吧!變態!.mp3",
           "text": {
             "zh-tw": "吶吶也靠得太近了吧!變態!",
-            "ja": ""
+            "ja": "ねねそれは近すぎるじゃん！変態！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -295,7 +295,7 @@
           "filename": "真的不能原諒.mp3",
           "text": {
             "zh-tw": "真的不能原諒",
-            "ja": ""
+            "ja": "マジで許さん！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -310,7 +310,7 @@
           "filename": "早安.m4a",
           "text": {
             "zh-tw": "早安~",
-            "ja": "おはようございます"
+            "ja": "おはよう挨拶"
           },
           "baseRoute": null,
           "volume": 1,
@@ -325,7 +325,7 @@
           "filename": "たたたたたたま.mp3",
           "text": {
             "zh-tw": "たたたたたたま",
-            "ja": ""
+            "ja": "たたたたたたま"
           },
           "baseRoute": null,
           "volume": 1,
@@ -340,7 +340,7 @@
           "filename": "たたたたたたま_637554654322763936.mp3",
           "text": {
             "zh-tw": "たたたたたたま~",
-            "ja": ""
+            "ja": "たたたたたたま~"
           },
           "baseRoute": null,
           "volume": 1,
@@ -400,7 +400,7 @@
           "filename": "罪惡深重的女人對不起我是罪惡深重的女人.m4a",
           "text": {
             "zh-tw": "「罪惡深重的女人」? 對不起，我是罪惡深重的女人",
-            "ja": ""
+            "ja": "罪な女"
           },
           "baseRoute": null,
           "volume": 1,
@@ -415,7 +415,7 @@
           "filename": "眨眼失敗的遜炮たま.m4a",
           "text": {
             "zh-tw": "眨眼失敗的遜炮たま",
-            "ja": ""
+            "ja": "ウィンク失敗のポンたま"
           },
           "baseRoute": null,
           "volume": 1,
@@ -430,7 +430,7 @@
           "filename": "早安不好了要遲到了咚啊對不起沒事嗎.m4a",
           "text": {
             "zh-tw": "早安~不好了，要遲到了~咚！啊！對不起，沒事嗎？",
-            "ja": ""
+            "ja": "朝のシチュエーション"
           },
           "baseRoute": null,
           "volume": 1,
@@ -475,7 +475,7 @@
           "filename": "蛤完全搞不懂.m4a",
           "text": {
             "zh-tw": "蛤？完全搞不懂～",
-            "ja": ""
+            "ja": "はー？訳わかない"
           },
           "baseRoute": null,
           "volume": 1,
@@ -490,7 +490,7 @@
           "filename": "太好了通關了回家吧.m4a",
           "text": {
             "zh-tw": "太好了！通關了！回家吧～",
-            "ja": ""
+            "ja": "やった！クリア！さぁ帰ろうかな"
           },
           "baseRoute": null,
           "volume": 1,
@@ -580,7 +580,7 @@
           "filename": "我回來了音量好大對不起.m4a",
           "text": {
             "zh-tw": "我回來了～！音量好大，對不起....",
-            "ja": ""
+            "ja": "ただいまー！あ でっか！え...."
           },
           "baseRoute": null,
           "volume": 1,
@@ -610,7 +610,7 @@
           "filename": "封閉者不錯的名字對我就是封閉者.m4a",
           "text": {
             "zh-tw": "封閉者？不錯的名字...對，我就是「封閉者」！",
-            "ja": ""
+            "ja": "ビーター？いい名前だ...そうだ、俺は「ビーター」だ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -625,7 +625,7 @@
           "filename": "好可愛好可愛找到正太了好可愛.m4a",
           "text": {
             "zh-tw": "好可愛！好可愛！找到正太了！好可愛！",
-            "ja": ""
+            "ja": "可愛い！可愛い！ショタだ！捕まえろ捕まえろ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -640,7 +640,7 @@
           "filename": "正太能和我好好相處嗎當然啊和姊姊好好相處吧喜歡.m4a",
           "text": {
             "zh-tw": "(正太: 能和我好好相處嗎) 當然啊！和姊姊好好相處吧！喜歡！",
-            "ja": ""
+            "ja": "(ショタ: 僕とも仲良くはしてくれる？)当たり前だよ "
           },
           "baseRoute": null,
           "volume": 1,
@@ -655,7 +655,7 @@
           "filename": "怎麼辦等下等下突然出現我心裡凖備還沒做好ｑ.m4a",
           "text": {
             "zh-tw": "怎麼辦等下等下突然出現我心裡凖備還沒做好(´◓ｑ◔｀)",
-            "ja": ""
+            "ja": "待って待って心の準備しなかったんだけど(´◓ｑ◔｀)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -730,7 +730,7 @@
           "filename": "大家肚子餓了嗎たま也肚子餓了.m4a",
           "text": {
             "zh-tw": "大家肚子餓了嗎?たま也肚子餓了",
-            "ja": ""
+            "ja": "皆お腹空いてきました？たまも腹空いてきました"
           },
           "baseRoute": null,
           "volume": 1,
@@ -745,7 +745,7 @@
           "filename": "午餐的貓罐頭錢たま是貓嗎喵.m4a",
           "text": {
             "zh-tw": "(午餐的貓罐頭錢) たま是貓嗎？喵～",
-            "ja": ""
+            "ja": "(ランチの猫缶代)たまねこか？にゃー"
           },
           "baseRoute": null,
           "volume": 1,
@@ -881,7 +881,7 @@
         {
           "filename": "英靈召喚咒文.m4a",
           "text": {
-            "zh-tw": "英靈召喚咒文",
+            "zh-tw": "英霊召喚呪文",
             "ja": ""
           },
           "baseRoute": null,
@@ -898,7 +898,7 @@
     {
       "name": {
         "zh-tw": "中国語本当上手",
-        "ja": "中国語が本当に上手です"
+        "ja": "中国語本当上手"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
@@ -1266,7 +1266,7 @@
           "filename": "たま英文自介.m4a",
           "text": {
             "zh-tw": "たま英文自介",
-            "ja": "たまの英語の自己紹介"
+            "ja": "たまの英語自己紹介"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1440,7 +1440,7 @@
           "filename": "悲鳴6.mp3",
           "text": {
             "zh-tw": "悲鳴6",
-            "ja": ""
+            "ja": "悲鳴6"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1455,7 +1455,7 @@
           "filename": "噫等一下等一下.mp3",
           "text": {
             "zh-tw": "噫等一下等一下",
-            "ja": ""
+            "ja": "イーーー！待って待って"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1470,7 +1470,7 @@
           "filename": "噫不要不要.mp3",
           "text": {
             "zh-tw": "噫不要不要",
-            "ja": ""
+            "ja": "いやぁぁぁあああ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1485,7 +1485,7 @@
           "filename": "啊<3.mp3",
           "text": {
             "zh-tw": "啊<3",
-            "ja": ""
+            "ja": "あぁ♡"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1500,7 +1500,7 @@
           "filename": "等下等下.mp3",
           "text": {
             "zh-tw": "等下等下",
-            "ja": ""
+            "ja": "待って(恐怖)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1515,7 +1515,7 @@
           "filename": "嫌だ.mp3",
           "text": {
             "zh-tw": "嫌だ",
-            "ja": ""
+            "ja": "嫌だ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1545,7 +1545,7 @@
           "filename": "悲鳴7.mp3",
           "text": {
             "zh-tw": "悲鳴7",
-            "ja": ""
+            "ja": "悲鳴7"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1575,7 +1575,7 @@
           "filename": "嘿好痛對不起對不起.m4a",
           "text": {
             "zh-tw": "嘿～好痛！對不起！對不起！",
-            "ja": ""
+            "ja": "へい！痛い！ごめんなさい！ごめんなさい！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1590,7 +1590,7 @@
           "filename": "啊我的聲音好吵.m4a",
           "text": {
             "zh-tw": "啊！...我的聲音好吵",
-            "ja": ""
+            "ja": "あぁぁぁ！...うるさ...自分の声"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1606,7 +1606,7 @@
     {
       "name": {
         "zh-tw": "隨口哼",
-        "ja": "隨口哼"
+        "ja": "歌フレーズ"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
@@ -1644,7 +1644,7 @@
           "filename": "喵喵喵喵.m4a",
           "text": {
             "zh-tw": "喵喵喵喵",
-            "ja": ""
+            "ja": "にゃんにゃん"
           },
           "baseRoute": null,
           "volume": 1,
