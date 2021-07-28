@@ -1,4 +1,7 @@
-name: Build main repository on push
+# yaml-language-server: $schema=https://json.schemastore.org/github-workflow
+# Workaround: https://github.com/redhat-developer/vscode-yaml/issues/397
+
+name: Minify and Build main repository
 on: push
 
 jobs:
