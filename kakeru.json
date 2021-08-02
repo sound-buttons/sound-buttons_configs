@@ -29,13 +29,15 @@
     },
     "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ykGHaUQDLtiZ11Ra4hG7z59BZnIO%2FgPZd3QRUzYcf3g%3D"
   },
-  "buttonGroups": [{
+  "buttonGroups": [
+    {
       "name": {
         "zh-tw": "かけるアウ〜ン",
         "ja": "かけるアウ〜ン"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "裝可愛.m4a",
           "text": {
             "zh-tw": "裝可愛",
@@ -109,6 +111,141 @@
             "end": 6989
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=maKlRv5wq7UlZrOP1Nzje4wnmpZc1Vm%2FvW5uAGI%2F34s%3D"
+        },
+        {
+          "filename": "笑聲.m4a",
+          "text": {
+            "zh-tw": "笑聲",
+            "ja": "笑い"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 3386,
+            "end": 3395
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=TtRkWGpKA2068If96EOBmV%2FB7Fo41ZVbPs2J%2BvfQjcc%3D"
+        },
+        {
+          "filename": "笑聲.m4a",
+          "text": {
+            "zh-tw": "笑聲",
+            "ja": "笑い"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 3386,
+            "end": 3395
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=pfxe2XVH9LWhVIEMBoN%2BEMMYgzOB9DhDXiyc9Zk%2F6nw%3D"
+        },
+        {
+          "filename": "Canyoubemywifi.m4a",
+          "text": {
+            "zh-tw": "Can you be my wifi?",
+            "ja": "Can you be my wifi?"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 3607,
+            "end": 3616
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6VVa8E%2BDJ7e1BQWv50biFwN8LYQNyduMNvwWivrDIqQ%3D"
+        },
+        {
+          "filename": "棉花糖偵探かけるん福爾摩斯.m4a",
+          "text": {
+            "zh-tw": "棉花糖偵探かけるん福爾摩斯",
+            "ja": "マシュマロ探偵かけるんホームズ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 4031,
+            "end": 4061
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=uPoSgc1pdVdOiU8VkhxxZMZ9hvGGpo9RJWbtI2t4jUk%3D"
+        },
+        {
+          "filename": "我最喜歡妳平常的聲音真的真的嗎謝謝.m4a",
+          "text": {
+            "zh-tw": "(我最喜歡妳平常的聲音)真的？真的嗎？謝謝",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 4071,
+            "end": 4082
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=uxjDZ1MnLmw7ixOKOq3J9ggJfUcd1e3ye1YBabjy5lE%3D"
+        },
+        {
+          "filename": "啊啦真的嗎謝謝.m4a",
+          "text": {
+            "zh-tw": "啊啦真的嗎？謝謝～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 4159,
+            "end": 4166
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=D7ZbtQGuqyuwtCPc9kjd7JMuRwIMvXnWJ%2BPeYgzA8DM%3D"
+        },
+        {
+          "filename": "貓的叫聲.m4a",
+          "text": {
+            "zh-tw": "貓的叫聲",
+            "ja": "猫の鳴き声"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 4938,
+            "end": 4943
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vFP4SQmwUP3%2FIapZFtTiIowuD2ZOqC8RWnjXGGOyttA%3D"
+        },
+        {
+          "filename": "請用可愛有元氣的聲音說嘎喔.m4a",
+          "text": {
+            "zh-tw": "(請用可愛有元氣的聲音說「嘎喔！」)",
+            "ja": "(がおー！って可愛く元気よく言ってください)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 5510,
+            "end": 5516
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RxnTcLWZTYb%2B5sLZJx5vCoq3w1Y59jzhfZoDf6Z1rus%3D"
+        },
+        {
+          "filename": "アンコールフアンコールフ.m4a",
+          "text": {
+            "zh-tw": "アンコールフ！アンコールフ！",
+            "ja": "アンコールフ！アンコールフ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0_EoY5UPKtQ",
+            "start": 6726,
+            "end": 6747
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=0Zjcz2G9DNfjo7Jvu8WSHLYCNNTJWQCHn1eDxbopoqw%3D"
         }
       ]
     },
@@ -118,7 +255,8 @@
         "ja": "隨口哼"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "魔物獵人崛起兔兔糰子歌日文版.m4a",
           "text": {
             "zh-tw": "魔物獵人崛起兔兔糰子歌(日文版)",
@@ -156,21 +294,38 @@
         "ja": "特大感謝"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
-      "buttons": [{
-        "filename": "特大感謝的歌版.m4a",
-        "text": {
-          "zh-tw": "特大感謝的歌\uD83E\uDD7A版",
-          "ja": "「特大感謝」のうた\uD83E\uDD7Aバージョン"
+      "buttons": [
+        {
+          "filename": "特大感謝的歌版.m4a",
+          "text": {
+            "zh-tw": "特大感謝的歌\uD83E\uDD7A版",
+            "ja": "「特大感謝」のうた\uD83E\uDD7Aバージョン"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "JzX9tm3vzBs",
+            "start": 7052,
+            "end": 7076
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=qc4QJigpbipbODDeNY6WAW6v0vZVajkPlSf%2BAqRuVe0%3D"
         },
-        "baseRoute": null,
-        "volume": 1,
-        "source": {
-          "videoId": "JzX9tm3vzBs",
-          "start": 7052,
-          "end": 7076
-        },
-        "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=qc4QJigpbipbODDeNY6WAW6v0vZVajkPlSf%2BAqRuVe0%3D"
-      }]
+        {
+          "filename": "特大感謝xN.m4a",
+          "text": {
+            "zh-tw": "特大感謝xN",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "t75D3NLY3lk",
+            "start": 6516,
+            "end": 6528
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=SN5mVGc%2BAQfvkcPdcYXUaT%2Fy06NM6VZPRVvjI2yN3zc%3D"
+        }
+      ]
     },
     {
       "name": {
@@ -178,21 +333,23 @@
         "ja": "大\uD83C\uDF63"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
-      "buttons": [{
-        "filename": "大.m4a",
-        "text": {
-          "zh-tw": "大\uD83C\uDF63",
-          "ja": "大\uD83C\uDF63"
-        },
-        "baseRoute": null,
-        "volume": 1,
-        "source": {
-          "videoId": "PDu43uYi640",
-          "start": 8438,
-          "end": 8447
-        },
-        "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=sUSSvqQQ%2BonUeynnNwmiGoBcOqHJE4GpSO0FVapHHy8%3D"
-      }]
+      "buttons": [
+        {
+          "filename": "大.m4a",
+          "text": {
+            "zh-tw": "大\uD83C\uDF63",
+            "ja": "大\uD83C\uDF63"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "PDu43uYi640",
+            "start": 8438,
+            "end": 8447
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=sUSSvqQQ%2BonUeynnNwmiGoBcOqHJE4GpSO0FVapHHy8%3D"
+        }
+      ]
     },
     {
       "name": {
@@ -200,7 +357,8 @@
         "ja": "悲鳴 (注意音量)"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "貓車.m4a",
           "text": {
             "zh-tw": "貓車",

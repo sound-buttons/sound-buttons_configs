@@ -44,7 +44,7 @@
             "ja": "スターバースト・ストリーム"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 0.2,
           "source": null,
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
@@ -785,6 +785,126 @@
             "end": 2308
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3fXGNKkr3gUby1yXmviItLWJo9Aw0z42PqAiNnsvkoM%3D"
+        },
+        {
+          "filename": "Q.m4a",
+          "text": {
+            "zh-tw": "Q~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "U6QtaTeBo9g",
+            "start": 1500,
+            "end": 1505
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6OAg9coalR1ja8pkr9DJwykomAQUL8BQUkBV%2FX5fz1g%3D"
+        },
+        {
+          "filename": "這是少年偵探團的出場了我出發了.m4a",
+          "text": {
+            "zh-tw": "這是少年偵探團的出場了！我出發了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DPbrxidHOrw",
+            "start": 1727,
+            "end": 1733
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=YL1JTAUn%2BlBDM2xVFV4rcl6BLb%2B%2BKTFBI%2BqNeJD5A74%3D"
+        },
+        {
+          "filename": "看招たま拳頭.m4a",
+          "text": {
+            "zh-tw": "看招！たま拳頭！",
+            "ja": "くらえ！たまパンチ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 2742,
+            "end": 2747
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nnEJhaTEKxsxrHE%2FLKE7mW2ynLajW%2F18SlwuGSatKV4%3D"
+        },
+        {
+          "filename": "LUNCH.m4a",
+          "text": {
+            "zh-tw": "LUNCH!",
+            "ja": "ランチ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 4546,
+            "end": 4548
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=59%2BJTN043%2B6ks2cKT%2BbU%2BS8fQfDNZ%2FWw0YCDOYCpoWk%3D"
+        },
+        {
+          "filename": "サンQさんQ.m4a",
+          "text": {
+            "zh-tw": "サンQさん～Q！",
+            "ja": "サンQさん～Q！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7GFCQTVxlKk",
+            "start": 8192,
+            "end": 8197
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Mp62crE5m0DiIjz%2F77Bp%2BxxXgxa66Y5201yiyeFOOpk%3D"
+        },
+        {
+          "filename": "我是たま子請多指教不對不對たま子是這樣QQQQQ.m4a",
+          "text": {
+            "zh-tw": "(我是たま子，請多指教)不對不對，たま子是這樣:「Q~QQQ~Q!」",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7GFCQTVxlKk",
+            "start": 7442,
+            "end": 7456
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Fhboy2mLLp1wiwOBuvro0VtgPx9wm8wQVYALg1P8A%2Fo%3D"
+        },
+        {
+          "filename": "Windows錯誤音.m4a",
+          "text": {
+            "zh-tw": "Windows錯誤音",
+            "ja": "Windowsエラー音"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7GFCQTVxlKk",
+            "start": 7597,
+            "end": 7601
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JMZBExnLfgRStM0fuWE8F8vNs%2BM0vsAoRFOrnv40iy8%3D"
+        },
+        {
+          "filename": "啊就是那個那個那個.m4a",
+          "text": {
+            "zh-tw": "啊！就是那個，那個那個！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7GFCQTVxlKk",
+            "start": 7707,
+            "end": 7713
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9Ua2PHMCo7LN9kluon%2BBYdceo6hvhyh27Ejamw7Z4m4%3D"
         }
       ]
     },
@@ -1600,6 +1720,441 @@
             "end": 4990
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=E4PLDAyJtH7CzsOZtEvtfpt%2BrTURP64Qh763KjcisJ8%3D"
+        },
+        {
+          "filename": "APEX掉到虛空.m4a",
+          "text": {
+            "zh-tw": "(APEX掉到虛空)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "U6QtaTeBo9g",
+            "start": 6502,
+            "end": 6511
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Za4d2xS53MWczTxhe%2BEwSAAmmVDbxyTNNtNaljxubHU%3D"
+        },
+        {
+          "filename": "APEX再次掉到虛空.m4a",
+          "text": {
+            "zh-tw": "(APEX再次掉到虛空)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "U6QtaTeBo9g",
+            "start": 8365,
+            "end": 8370
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zbmZje8gVV2vBElZguVHV4OP3KskUr382efDiRbijKs%3D"
+        },
+        {
+          "filename": "例外配達.m4a",
+          "text": {
+            "zh-tw": "例外配達",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DPbrxidHOrw",
+            "start": 4139,
+            "end": 4143
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RGXo%2BDHIk4BFIFc%2F2JsNztW0Az5nTOoJs1FlEHzstW0%3D"
+        },
+        {
+          "filename": "怕到叫媽媽.m4a",
+          "text": {
+            "zh-tw": "(怕到叫媽媽)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DPbrxidHOrw",
+            "start": 4514,
+            "end": 4521
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hH20ZoDJBcdjSJr%2FMmcPr84v%2BcuGIxb6TfFXg2b0uTA%3D"
+        },
+        {
+          "filename": "例外配達2.m4a",
+          "text": {
+            "zh-tw": "例外配達2",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DPbrxidHOrw",
+            "start": 4782,
+            "end": 4784
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7oM7SPTVAqAJFnKW%2By7bHtUqFcwsV4dAnpXbtMZUXk8%3D"
+        },
+        {
+          "filename": "被丟罐子.m4a",
+          "text": {
+            "zh-tw": "(被丟罐子)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DPbrxidHOrw",
+            "start": 523,
+            "end": 532
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=V28J95sTmlm3c2%2B5Cd8%2BRq5OFVAeFpU29OV8asRg4aQ%3D"
+        },
+        {
+          "filename": "被普通的大叔嚇到.m4a",
+          "text": {
+            "zh-tw": "(被普通的大叔嚇到)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DPbrxidHOrw",
+            "start": 974,
+            "end": 984
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=OYgv5zpuuw%2B4n0hV27yoaPK7XR0qnlWhUbhi5IX3VRU%3D"
+        },
+        {
+          "filename": "被歪頭的女人嚇到.m4a",
+          "text": {
+            "zh-tw": "(被歪頭的女人嚇到)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DPbrxidHOrw",
+            "start": 1575,
+            "end": 1578
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FmKpgX30yA%2BoPMFQyPa46UopkLQlcCl3v%2B7y5NryskU%3D"
+        },
+        {
+          "filename": "PAON.m4a",
+          "text": {
+            "zh-tw": "PAON",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 340,
+            "end": 346
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=DzRQliU4qHpFNMeNPCN3O%2B%2B%2Fp4g7FqZK6JulCBjsbdA%3D"
+        },
+        {
+          "filename": "PAON2.m4a",
+          "text": {
+            "zh-tw": "PAON2",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 486,
+            "end": 489
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4q3WwH%2Fdn0q9nj37xozusM1ZxuiX%2FHOZ5i5qQm1ieBk%3D"
+        },
+        {
+          "filename": "PAON3.m4a",
+          "text": {
+            "zh-tw": "PAON3",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 572,
+            "end": 573
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=f2nDl1QsaTNfL%2FrMDswiklQbX710d16zsgrMHFl0JRA%3D"
+        },
+        {
+          "filename": "PAON4.m4a",
+          "text": {
+            "zh-tw": "PAON4",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 579,
+            "end": 584
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=a4npQFdzBFLY%2BItCOpKDdDhStHylfX0P4yzji2ERIuU%3D"
+        },
+        {
+          "filename": "PAON5.m4a",
+          "text": {
+            "zh-tw": "PAON5",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 616,
+            "end": 621
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5EBWp7XlO%2BzypQxaEn4dLqETdzofnycn1uclIcvwAhA%3D"
+        },
+        {
+          "filename": "PAON6.m4a",
+          "text": {
+            "zh-tw": "PAON6",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 823,
+            "end": 828
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3KM0cS17y93HI3uwZ6dr2dxRyJCxZt%2FqS5u3G9ys5zU%3D"
+        },
+        {
+          "filename": "PAON7.m4a",
+          "text": {
+            "zh-tw": "PAON7",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 883,
+            "end": 903
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hJr3zKk4%2F2MYW18ebJ6%2BShF%2BO0%2FqpOvDN2p45Twz86g%3D"
+        },
+        {
+          "filename": "PAON8.m4a",
+          "text": {
+            "zh-tw": "PAON8",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 955,
+            "end": 958
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4nJOCKg%2BxBQNgk%2Fh535H%2FVCTYpa4yO%2BWZb0cO61ELv0%3D"
+        },
+        {
+          "filename": "尖叫真的不要這對心臟不好.m4a",
+          "text": {
+            "zh-tw": "(尖叫)真的不要！這對心臟不好！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1060,
+            "end": 1065
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=I0GydLz26P8GPIQMeYPPVMHd0CbpkMgvvSC4m4%2B1Diw%3D"
+        },
+        {
+          "filename": "尖叫生氣的聲音.m4a",
+          "text": {
+            "zh-tw": "(尖叫)(生氣的聲音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1116,
+            "end": 1122
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=EzsG1uDSAJJ5XUxrlrH16085%2B%2FZdsadIuAWhWTQkE2g%3D"
+        },
+        {
+          "filename": "尖叫什麼住手啦剛剛那是什麼.m4a",
+          "text": {
+            "zh-tw": "(尖叫)什麼？住手啦！剛剛那是什麼？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 955,
+            "end": 970
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vZTW3DilUii7uWDPNG1EwdBEMgLdk1n3O1Ex6W4uULw%3D"
+        },
+        {
+          "filename": "PAON9.m4a",
+          "text": {
+            "zh-tw": "PAON9",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1306,
+            "end": 1314
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=pNlTmr46Y%2BsrzTgaumDqeU8uDHy6cdD3W%2BHW2EF3Fs4%3D"
+        },
+        {
+          "filename": "PAON10.m4a",
+          "text": {
+            "zh-tw": "PAON10",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1409,
+            "end": 1420
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ll87Ayjt6qRAEu%2FgvmrLTNTo2JZ4DDET8l589135WDs%3D"
+        },
+        {
+          "filename": "PAON11.m4a",
+          "text": {
+            "zh-tw": "PAON11",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1462,
+            "end": 1466
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=8xKwmFOFYlzxLYuqaKKMf4tR5UZr%2FXYP08r%2FtaHaWGk%3D"
+        },
+        {
+          "filename": "パパ.m4a",
+          "text": {
+            "zh-tw": "パパ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1654,
+            "end": 1666
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3C47kji4p%2FPq5gUobz5KDc5wXNEWngenn9aZ0birRaY%3D"
+        },
+        {
+          "filename": "PAON12.m4a",
+          "text": {
+            "zh-tw": "PAON12",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1673,
+            "end": 1678
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2BZn%2BcVShtvodM15dqiKVr%2BzSHqM35OVC6KziqSaaZ4A%3D"
+        },
+        {
+          "filename": "PAON13.m4a",
+          "text": {
+            "zh-tw": "PAON13",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1787,
+            "end": 1790
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=a482jCtItqgZpXtbPQd7y5HW1nTDN41jwK4uB6655GM%3D"
+        },
+        {
+          "filename": "PAON14.m4a",
+          "text": {
+            "zh-tw": "PAON14",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 1935,
+            "end": 1945
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9Y1V5wpOkyIJqozN39iWiuK72gLI1xOFOOvmk9Uqamg%3D"
+        },
+        {
+          "filename": "PAON15.m4a",
+          "text": {
+            "zh-tw": "PAON15",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 2128,
+            "end": 2131
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HM%2BVc2H0c5oWZ0%2B9uc6ehY3n7abSebZsQlcCfAcZBd0%3D"
+        },
+        {
+          "filename": "PAON16.m4a",
+          "text": {
+            "zh-tw": "PAON16",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 2162,
+            "end": 2165
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=xxqAiHy8gmQLjTFhiHypyZ1ZkfyFiC3BCR%2FJ62HlC7M%3D"
+        },
+        {
+          "filename": "PAON17.m4a",
+          "text": {
+            "zh-tw": "PAON17",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 2328,
+            "end": 2340
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=G4N6ngj34Mz04rEjfHwm8xqiuaHNRnKARvrivb9JN80%3D"
         }
       ]
     },
@@ -1669,6 +2224,21 @@
             "end": 449
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=w0XJOhahqJAcUvvSNIgUwWwypns4M0h3y5IzwXagHE4%3D"
+        },
+        {
+          "filename": "SingMyPleasurewithPAON.m4a",
+          "text": {
+            "zh-tw": "Sing My Pleasure (with PAON)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 2613,
+            "end": 2677
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hwl1EeVqRLiqTiw6cJfY6Xe7soFaDrJBfV6Kt1jhvOI%3D"
         }
       ]
     }
