@@ -61,7 +61,10 @@
         },
         {
           "filename": "tama_gibberish.mp3",
-          "text": "Super cut-off time!",
+          "text": {
+            "zh-tw": "Super cut-off time!",
+            "ja": "Super cut-off time!"
+          },
           "baseRoute": null,
           "volume": 1,
           "source": null,
@@ -280,7 +283,7 @@
           "filename": "吶吶也靠得太近了吧!變態!.mp3",
           "text": {
             "zh-tw": "吶吶也靠得太近了吧!變態!",
-            "ja": "ねねそれは近すぎるじゃん！変態！"
+            "ja": "ねぇねぇそれは近すぎるじゃん！変態！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -400,7 +403,7 @@
           "filename": "罪惡深重的女人對不起我是罪惡深重的女人.m4a",
           "text": {
             "zh-tw": "「罪惡深重的女人」? 對不起，我是罪惡深重的女人",
-            "ja": "罪な女"
+            "ja": "罪な女？ごめんなさい罪な女って本当に、申し訳がない"
           },
           "baseRoute": null,
           "volume": 1,
@@ -475,7 +478,7 @@
           "filename": "蛤完全搞不懂.m4a",
           "text": {
             "zh-tw": "蛤？完全搞不懂～",
-            "ja": "はー？訳わかない"
+            "ja": "はー？わーーけわかない"
           },
           "baseRoute": null,
           "volume": 1,
@@ -520,7 +523,7 @@
           "filename": "啊笨蛋這是不可能的.m4a",
           "text": {
             "zh-tw": "啊笨蛋！這是不可能的～",
-            "ja": "ありえないわ～"
+            "ja": "ねぇぇおバカ！ありえないわ～"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1341,7 +1344,7 @@
           "filename": "Timeismoney.m4a",
           "text": {
             "zh-tw": "Time is money!",
-            "ja": ""
+            "ja": "Time is money~"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2184,7 +2187,7 @@
           "filename": "ANIMA.m4a",
           "text": {
             "zh-tw": "ANIMA",
-            "ja": ""
+            "ja": "ANIMA"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2229,7 +2232,7 @@
           "filename": "SingMyPleasurewithPAON.m4a",
           "text": {
             "zh-tw": "Sing My Pleasure (with PAON)",
-            "ja": ""
+            "ja": "Sing My Pleasure"
           },
           "baseRoute": null,
           "volume": 1,
