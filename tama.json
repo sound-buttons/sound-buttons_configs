@@ -205,7 +205,7 @@
           "filename": "OKx6.mp3",
           "text": {
             "zh-tw": "OKx6",
-            "ja": ""
+            "ja": "OK x6"
           },
           "baseRoute": null,
           "volume": 1,
@@ -235,7 +235,7 @@
           "filename": "miss.mp3",
           "text": {
             "zh-tw": "miss",
-            "ja": ""
+            "ja": "ミス！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -250,7 +250,7 @@
           "filename": "Yeah~.mp3",
           "text": {
             "zh-tw": "Yeah~",
-            "ja": ""
+            "ja": "イエーーイ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -460,7 +460,7 @@
           "filename": "叭叭啦叭叭叭叭嗙.m4a",
           "text": {
             "zh-tw": "叭叭啦叭叭叭叭嗙~",
-            "ja": ""
+            "ja": "バッバラバッバッバッパンー"
           },
           "baseRoute": null,
           "volume": 1,
@@ -760,7 +760,7 @@
           "filename": "其實在唱歌的瞬間會咻的一聲換人.m4a",
           "text": {
             "zh-tw": "其實在唱歌的瞬間，會「咻」的一聲換人",
-            "ja": ""
+            "ja": "実はね、歌の瞬間にね。あの、シュッて、シュッて、シュッてスワイプするんですよ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -790,7 +790,7 @@
           "filename": "Q.m4a",
           "text": {
             "zh-tw": "Q~",
-            "ja": ""
+            "ja": "きゅー"
           },
           "baseRoute": null,
           "volume": 1,
@@ -805,7 +805,7 @@
           "filename": "這是少年偵探團的出場了我出發了.m4a",
           "text": {
             "zh-tw": "這是少年偵探團的出場了！我出發了！",
-            "ja": ""
+            "ja": "これは...少年探偵団の出番ですね！行ってきます！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -865,7 +865,7 @@
           "filename": "我是たま子請多指教不對不對たま子是這樣QQQQQ.m4a",
           "text": {
             "zh-tw": "(我是たま子，請多指教)不對不對，たま子是這樣:「Q~QQQ~Q!」",
-            "ja": ""
+            "ja": "そう、僕たま子、僕たま子。みんなよろしくね！違う違う違う、たま子ちゃんはね【Q~QQQ~Q!】と鳴きます"
           },
           "baseRoute": null,
           "volume": 1,
@@ -895,7 +895,7 @@
           "filename": "啊就是那個那個那個.m4a",
           "text": {
             "zh-tw": "啊！就是那個，那個那個！",
-            "ja": ""
+            "ja": "あーーん！！それ！それそれ！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1001,8 +1001,8 @@
         {
           "filename": "英靈召喚咒文.m4a",
           "text": {
-            "zh-tw": "英霊召喚呪文",
-            "ja": ""
+            "zh-tw": "英靈召喚咒文",
+            "ja": "英霊召喚呪文"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1266,7 +1266,7 @@
           "filename": "HaveyoutastedJapanesefoodIeatパン.m4a",
           "text": {
             "zh-tw": "Have you tasted Japanese food? I eat ... パン！",
-            "ja": ""
+            "ja": "Have you tasted Japanese food? I eat ... パン！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1311,7 +1311,7 @@
           "filename": "HelloThankyouforcomingtomystream.m4a",
           "text": {
             "zh-tw": "Hello~Thank you for coming to my stream~",
-            "ja": ""
+            "ja": "Hello~ Hello~ Thank you for coming to my stream~"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1326,7 +1326,7 @@
           "filename": "HowareyouImverysleepynow.m4a",
           "text": {
             "zh-tw": "How are you? I'm very sleepy now.",
-            "ja": ""
+            "ja": "How are you? I'm very sleepy now."
           },
           "baseRoute": null,
           "volume": 1,
@@ -1340,7 +1340,7 @@
         {
           "filename": "Timeismoney.m4a",
           "text": {
-            "zh-tw": "​Time is money!",
+            "zh-tw": "Time is money!",
             "ja": ""
           },
           "baseRoute": null,
@@ -1356,7 +1356,7 @@
           "filename": "MYHOUSEのすぐ近くLUCKY.m4a",
           "text": {
             "zh-tw": "MY HOUSEのすぐ近く！LUCKY!",
-            "ja": ""
+            "ja": "MY HOUSEのすぐ近く！LUCKY!"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1401,7 +1401,7 @@
           "filename": "TamaboingboingImboingboingNO.m4a",
           "text": {
             "zh-tw": "(Tama boing boing) I'm boing boing, NO.",
-            "ja": ""
+            "ja": "【Tama boing boing】（笑） I'm boing boing, NO."
           },
           "baseRoute": null,
           "volume": 1,
@@ -1416,7 +1416,7 @@
           "filename": "Canyoubemyhusbandhusband是什麼.m4a",
           "text": {
             "zh-tw": "(Can you be my husband?) husband是什麼?",
-            "ja": ""
+            "ja": "【Can you be my husband?】 husband? husbandって何だろう？わかんないけどOK！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1431,7 +1431,7 @@
           "filename": "ElPsyKongroo.m4a",
           "text": {
             "zh-tw": "El Psy Kongroo",
-            "ja": ""
+            "ja": "エル・プサイ・コングルゥ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1650,7 +1650,7 @@
           "filename": "neeeeee.mp3",
           "text": {
             "zh-tw": "neeeeee",
-            "ja": ""
+            "ja": "ねぇぇぇぇぇぇぇ"
           },
           "baseRoute": null,
           "volume": 1,
