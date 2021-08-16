@@ -208,7 +208,7 @@
           "filename": "OKx6.mp3",
           "text": {
             "zh-tw": "OKx6",
-            "ja": "OK x6"
+            "ja": "OKx6"
           },
           "baseRoute": null,
           "volume": 1,
@@ -908,6 +908,21 @@
             "end": 7713
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9Ua2PHMCo7LN9kluon%2BBYdceo6hvhyh27Ejamw7Z4m4%3D"
+        },
+        {
+          "filename": "午餐！.m4a",
+          "text": {
+            "zh-tw": "午餐！",
+            "ja": "ランチ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "L5dZlAEbIp4",
+            "start": 8566,
+            "end": 8569
+          },
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         }
       ]
     },
@@ -1251,21 +1266,6 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "午餐！.m4a",
-          "text": {
-            "zh-tw": "午餐！",
-            "ja": "ランチ！"
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "L5dZlAEbIp4",
-            "start": 8566,
-            "end": 8569
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
-        },
-        {
           "filename": "HaveyoutastedJapanesefoodIeatパン.m4a",
           "text": {
             "zh-tw": "Have you tasted Japanese food? I eat ... パン！",
@@ -1283,8 +1283,8 @@
         {
           "filename": "HiGoodmorning.m4a",
           "text": {
-            "zh-tw": "Hi~Good morning~",
-            "ja": "Hi~Good morning~"
+            "zh-tw": "Hi~ Good morning~",
+            "ja": "Hi~ Good morning~"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1313,8 +1313,8 @@
         {
           "filename": "HelloThankyouforcomingtomystream.m4a",
           "text": {
-            "zh-tw": "Hello~Thank you for coming to my stream~",
-            "ja": "Hello~ Hello~ Thank you for coming to my stream~"
+            "zh-tw": "Hello~ Thank you for coming to my stream~",
+            "ja": "Hello~ Thank you for coming to my stream~"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1344,7 +1344,7 @@
           "filename": "Timeismoney.m4a",
           "text": {
             "zh-tw": "Time is money!",
-            "ja": "Time is money~"
+            "ja": "Time is money!"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1404,7 +1404,7 @@
           "filename": "TamaboingboingImboingboingNO.m4a",
           "text": {
             "zh-tw": "(Tama boing boing) I'm boing boing, NO.",
-            "ja": "【Tama boing boing】（笑） I'm boing boing, NO."
+            "ja": "(Tama boing boing) I'm boing boing, NO."
           },
           "baseRoute": null,
           "volume": 1,
@@ -1419,7 +1419,7 @@
           "filename": "Canyoubemyhusbandhusband是什麼.m4a",
           "text": {
             "zh-tw": "(Can you be my husband?) husband是什麼?",
-            "ja": "【Can you be my husband?】 husband? husbandって何だろう？わかんないけどOK！"
+            "ja": "(Can you be my husband?) husbandって何だろう"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2232,7 +2232,7 @@
           "filename": "SingMyPleasurewithPAON.m4a",
           "text": {
             "zh-tw": "Sing My Pleasure (with PAON)",
-            "ja": "Sing My Pleasure"
+            "ja": "Sing My Pleasure (with PAON)"
           },
           "baseRoute": null,
           "volume": 1,
