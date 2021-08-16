@@ -197,6 +197,75 @@
             "end": 6755
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Rl6taE7DZb6u%2BEvsmObUzVnuwSWxsxNDN8IJAEnzOTY%3D"
+        },
+        {
+          "filename": "哼哼.m4a",
+          "text": {
+            "zh-tw": "哼，哼！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "NzoOUilyqxw",
+            "start": 1720,
+            "end": 1733
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1xcyx8NpGS1oLavfC%2FCUNNhUkaZ48v5g74M6049LMUI%3D"
+        },
+        {
+          "filename": "高音厨音域テスト.m4a",
+          "text": {
+            "zh-tw": "高音厨音域テスト",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "NzoOUilyqxw",
+            "start": 2524,
+            "end": 2584
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7BUKFl2QzIf6oCp9fjg%2F84G9Oj1nmuJuApbeRkEKE%2BA%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "",
+        "ja": ""
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/",
+      "buttons": [
+        {
+          "filename": "口哨2.m4a",
+          "text": {
+            "zh-tw": "口哨2",
+            "ja": "口笛2"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vAoy9it_nso",
+            "start": 6107,
+            "end": 6118
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6xgBmqKbp7nFLf82GUj6ucZEYLwu65JfVzRZiL0QLZw%3D"
+        },
+        {
+          "filename": "口哨3.m4a",
+          "text": {
+            "zh-tw": "口哨3",
+            "ja": "口笛3"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vAoy9it_nso",
+            "start": 6179,
+            "end": 6195
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5zXHsArHpf3maODDMRFmzPyIkrF1ZhfwoiwsUVgvgU8%3D"
         }
       ]
     }

@@ -910,9 +910,189 @@
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9Ua2PHMCo7LN9kluon%2BBYdceo6hvhyh27Ejamw7Z4m4%3D"
         },
         {
+          "filename": "是錯覺啦大家的幻覺啦乾笑.m4a",
+          "text": {
+            "zh-tw": "是錯覺啦，大家的幻覺啦(乾笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 2803,
+            "end": 2810
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Jd5lPqbaven1tE%2FPK8n9312XlXS1fS8zEqxcnlQrGDI%3D"
+        },
+        {
+          "filename": "大家對不起.m4a",
+          "text": {
+            "zh-tw": "大家對不起～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 133,
+            "end": 141
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JFlXYHuHkj6SUqtxeNqULp9Ywjb%2FB4AhQzVUCX68zDs%3D"
+        },
+        {
+          "filename": "沒關係的啦請大家安心.m4a",
+          "text": {
+            "zh-tw": "沒關係的啦！請大家安心！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 752,
+            "end": 756
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=UK24z2NZqpG872hB6pNbmqx22kHYhYefFctPff1q3lo%3D"
+        },
+        {
+          "filename": "沒有暴露x2.m4a",
+          "text": {
+            "zh-tw": "沒有暴露x2",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 2746,
+            "end": 2748
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=bmWYC83DroIdt1SuR%2BgHsk6%2BjG6L%2FQ%2FreBeBTwr07YI%3D"
+        },
+        {
+          "filename": "一二三四五六.m4a",
+          "text": {
+            "zh-tw": "一、二、三、四、五、六！",
+            "ja": "いち、に、さん、よん、ご、ろく！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 2749,
+            "end": 2762
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=j7f2xWKvJLT7hsngTPqDEuRt2Xs7OObatOaRgFpGZAM%3D"
+        },
+        {
+          "filename": "天天板天板是什麼我不知道呢.m4a",
+          "text": {
+            "zh-tw": "天....天板...天板是什麼? 我不知道呢...",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 3226,
+            "end": 3240
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3LO6pgw74Sd6%2FvlQrjbG%2F6ZiB%2F6F%2BkpIv0yTO3MI6P8%3D"
+        },
+        {
+          "filename": "做好了喔各位我做好了喔.m4a",
+          "text": {
+            "zh-tw": "做好了喔！各位，我做好了喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 3406,
+            "end": 3411
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Ld5U9FOcxejAHeDdGxec2HnHTzC%2FO1plJmOVEs6yo2E%3D"
+        },
+        {
+          "filename": "料理我讓給隔壁的人為什麼我叫你吃.m4a",
+          "text": {
+            "zh-tw": "((料理)我讓給隔壁的人)為什麼？我叫你吃！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 3824,
+            "end": 3830
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7BDdKqgRcvPLq%2B9445eUau9YBr45DZJujY7tySb99wA%3D"
+        },
+        {
+          "filename": "加太多了胡言亂語.m4a",
+          "text": {
+            "zh-tw": "加太多了(胡言亂語)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 4454,
+            "end": 4457
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=K%2FowFEzkVR%2BoIIXWSArKXoK7N%2BCJpxo3iDyFOpCUyX8%3D"
+        },
+        {
+          "filename": "拍手.m4a",
+          "text": {
+            "zh-tw": "(拍手)",
+            "ja": "(拍手)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 5012,
+            "end": 5015
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vUj1J0VgLYW0eX7N%2Fn8%2BBkv5UsWpB2H8Ok42%2BvGuJ%2BQ%3D"
+        },
+        {
+          "filename": "果然料理是很簡單的呢有沒有成為大家的參考呢.m4a",
+          "text": {
+            "zh-tw": "果然料理就是要憑感覺去做的呀各位！有沒有覺得獲益良多阿？",
+            "ja": "やっぱ料理はね感覚で作るものですよ皆さん！とても、参考になったのではないでしょうか？"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 5072,
+            "end": 5078
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=z3gp4GVwzv%2FpmuLvWquBYN2Mo%2BK3hRdvwxwfN4q7XIw%3D"
+        },
+        {
+          "filename": "LUNCH_637643606590896349.m4a",
+          "text": {
+            "zh-tw": "LUN~~~CH!",
+            "ja": "ラン～～チ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 6423,
+            "end": 6427
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=59GiFSNb731HOsg6cBRUXEL11DRNSamYVCOLGGXVpHg%3D"
+        },
+        {
           "filename": "午餐！.m4a",
           "text": {
-            "zh-tw": "午餐！",
+            "zh-tw": "LUNCH！",
             "ja": "ランチ！"
           },
           "baseRoute": null,
@@ -923,6 +1103,36 @@
             "end": 8569
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "這個節目是以下贊助商贊助播出.mp3",
+          "text": {
+            "zh-tw": "這個節目是以下贊助商贊助播出",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "xVjdWQeB08I",
+            "start": 3181,
+            "end": 3185
+          },
+          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=oafgUbMIiKCktuu7CdEWr4OFdRIJcvmMAvw9HMh5J9M%3D"
+        },
+        {
+          "filename": "謝謝たま子的贊助.wav",
+          "text": {
+            "zh-tw": "謝謝たま子的贊助！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "xVjdWQeB08I",
+            "start": 3186,
+            "end": 3190
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zBNuLtZ1yr%2Bpz2tZhHvNcaGMaIGHmQvvh%2B67BpytdOo%3D"
         }
       ]
     },
@@ -1965,6 +2175,21 @@
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4nJOCKg%2BxBQNgk%2Fh535H%2FVCTYpa4yO%2BWZb0cO61ELv0%3D"
         },
         {
+          "filename": "尖叫什麼住手啦剛剛那是什麼.m4a",
+          "text": {
+            "zh-tw": "(尖叫)什麼？住手啦！剛剛那是什麼？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A0gwmKXXpi8",
+            "start": 955,
+            "end": 970
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vZTW3DilUii7uWDPNG1EwdBEMgLdk1n3O1Ex6W4uULw%3D"
+        },
+        {
           "filename": "尖叫真的不要這對心臟不好.m4a",
           "text": {
             "zh-tw": "(尖叫)真的不要！這對心臟不好！",
@@ -1993,21 +2218,6 @@
             "end": 1122
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=EzsG1uDSAJJ5XUxrlrH16085%2B%2FZdsadIuAWhWTQkE2g%3D"
-        },
-        {
-          "filename": "尖叫什麼住手啦剛剛那是什麼.m4a",
-          "text": {
-            "zh-tw": "(尖叫)什麼？住手啦！剛剛那是什麼？",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "A0gwmKXXpi8",
-            "start": 955,
-            "end": 970
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vZTW3DilUii7uWDPNG1EwdBEMgLdk1n3O1Ex6W4uULw%3D"
         },
         {
           "filename": "PAON9.m4a",
@@ -2158,6 +2368,51 @@
             "end": 2340
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=G4N6ngj34Mz04rEjfHwm8xqiuaHNRnKARvrivb9JN80%3D"
+        },
+        {
+          "filename": "漢堡解體大叫為什麼會這樣啦.m4a",
+          "text": {
+            "zh-tw": "(漢堡解體、大叫)為什麼會這樣啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 1214,
+            "end": 1221
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4UexjmlWJ9oKN1Xacrjhz0DEGpoLnqPXMZNcNYudwO4%3D"
+        },
+        {
+          "filename": "把湯弄灑尖叫.m4a",
+          "text": {
+            "zh-tw": "(把湯弄灑、尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 2718,
+            "end": 2722
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Q2MJFPkxJyMqNyYA5M0zKTMgaxg750NuYJTDPs1%2FkCk%3D"
+        },
+        {
+          "filename": "把料理全灑了尖叫.m4a",
+          "text": {
+            "zh-tw": "(把料理全灑了、尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Za0AMX-rFc0",
+            "start": 5782,
+            "end": 5791
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1DSOQgZYW24H9oWj%2BvsDh7ATO1QHv%2BWJsNaq1z8X3qg%3D"
         }
       ]
     },
