@@ -35,7 +35,7 @@
     "name": "emurii",
     "fullName": "苓吃エムリィ",
     "fullConfigURL": "assets/configs/emurii.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/kakeru.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=uKwr%2BOrsHyv4AtYrXfX9jx9iHRv4cYCXlDuQxOrOoJ8%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=FHrOoiDoqAjSG7%2FfjaCF7DR2%2BS4MZh%2FSJiRRn6D7oqk%3D",
     "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=VGKiUySZRaaQiGy5XIcNFTm1NfjvZ1dmsIhS0piwl78%3D",
     "color": {
       "primary": "#B933F8",
