@@ -3,7 +3,7 @@
   "fullName": "苓吃エムリィ",
   "fullConfigURL": "assets/configs/emurii.json",
   "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=VGKiUySZRaaQiGy5XIcNFTm1NfjvZ1dmsIhS0piwl78%3D",
-  "intro": "\ud83e\udd0d\u2694\u3088\u3046\u3053\u305d\u6b66\u5668\u5c4b\u30ec\u30af\u30a4\u30a8\u30e0\u3078\u2694\ud83d\udda4\u000d\u000a\u0047\u0075\u0069\u006c\u0064\u0043\u0051\u306e\u6b66\u5668\u5546\u4eba\u3001\u82d3\u5403\u30a8\u30e0\u30ea\u30a3\u3067\u3059\ud83e\udd0d\u2694\ud83d\udda4\u000d\u000a\u30a2\u30cc\u30d3\u30b9\u306a\u306e\u306b\u4eba\u9593\u754c\u3067\u793e\u755c\u3092\u3057\u306a\u304c\u3089\u6b66\u5668\u5546\u4eba\u3068\u3057\u3066\u50cd\u3044\u3066\u308b\u3088\ud83e\udd7a\ud83d\udca6\u000d\u000a\u000d\u000a\u500b\u4eba\u52e2\u0056\u0074\u0075\u0062\u0065\u0072\u30b0\u30eb\u30fc\u30d7\u25c6\u0047\u0075\u0069\u006c\u0064\u0043\u0051\u25c6\u6240\u5c5e\u000d\u000a\u000d\u000a\u2661\u2694\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u2694\u2661\u000d\u000a\u5b9a\u671f\u6b4c\u67a0\u266a\u6bce\u9031\u6728\u66dc\u0020\u0032\u0030\u003a\u0030\u0030\u301c\u0020\ud83e\udd0d\u2694\ud83d\udda4\u000d\u000a\u0073\u0069\u006e\u0067\u0020\u0073\u006f\u006e\u0067\u0020\u266a\u0020\u0045\u0076\u0065\u0072\u0079\u0020\u0054\u0068\u0075\u0072\u0073\u0064\u0061\u0079\u0020\u000d\u000a\u2661\u2694\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u002d\u2694\u2661",
+  "intro": "\uD83E\uDD0D⚔ようこそ武器屋レクイエムへ⚔\uD83D\uDDA4\r\nGuildCQの武器商人、苓吃エムリィです\uD83E\uDD0D⚔\uD83D\uDDA4\r\nアヌビスなのに人間界で社畜をしながら武器商人として働いてるよ\uD83E\uDD7A\uD83D\uDCA6\r\n\r\n個人勢Vtuberグループ◆GuildCQ◆所属\r\n\r\n♡⚔-------------------------------------⚔♡\r\n定期歌枠♪毎週木曜 20:00〜 \uD83E\uDD0D⚔\uD83D\uDDA4\r\nsing song ♪ Every Thursday \r\n♡⚔-------------------------------------⚔♡",
   "color": {
     "primary": "#B933F8",
     "secondary": "#DEC5E5"
@@ -15,14 +15,318 @@
     "other": null
   },
   "introButton": null,
-  "buttonGroups": [{
-    "name": {
-      "zh-tw": "🤍⚔🖤",
-      "ja": ""
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "\uD83E\uDD0D⚔\uD83D\uDDA4",
+        "ja": ""
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/",
+      "buttons": [
+        {
+          "filename": "有氣無力的招呼.m4a",
+          "text": {
+            "zh-tw": "有氣無力的招呼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 158,
+            "end": 177
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=GT7628dS0pZA9X1jLeBn%2B5e1Q253CXCDACMlkS7HYAM%3D"
+        },
+        {
+          "filename": "沒睡飽的招呼.m4a",
+          "text": {
+            "zh-tw": "沒睡飽的招呼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "TQ9Lael1Lms",
+            "start": 109,
+            "end": 136
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=pcv%2B%2Bfrwj57cto3iTHT7bPIk0L4fqMYFxSF6C0%2FEG1M%3D"
+        },
+        {
+          "filename": "叫我婆婆的人真的無法原諒一生都不原諒.m4a",
+          "text": {
+            "zh-tw": "叫我婆婆的人真的無法原諒，一生都不原諒\uD83D\uDD2A",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "hOrs9B5p2lI",
+            "start": 6177,
+            "end": 6186
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=elphqIB0aiZx1v23biTs%2FpdG5Tfj%2Fi8vBDQ%2Fogg5NPY%3D"
+        },
+        {
+          "filename": "蘿莉エムリィ.m4a",
+          "text": {
+            "zh-tw": "蘿莉エムリィ",
+            "ja": "ロリエムリィ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "hOrs9B5p2lI",
+            "start": 6267,
+            "end": 6325
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2FoLa2t4mFRN0cCtWdrG%2BCDj8PahXJ4nbNZKEKPCRA%2FU%3D"
+        },
+        {
+          "filename": "蘿莉エムリィ我很棒對吧x3.m4a",
+          "text": {
+            "zh-tw": "(蘿莉エムリィ) 我很棒對吧x3",
+            "ja": "（ロリエムリィ）偉いでしょx3"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "hOrs9B5p2lI",
+            "start": 6336,
+            "end": 6350
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=mhfVF1FaWIpx9YZu0QsLKnq0CkQU0ajXSvWxbBThEw8%3D"
+        },
+        {
+          "filename": "很棒對吧我很棒.m4a",
+          "text": {
+            "zh-tw": "很棒對吧，我很棒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "EjjcWlUkgcI",
+            "start": 167,
+            "end": 175
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=aEsNXJCaMhg18klHsWb1KxIU8IP78ZXYU%2FRPuYpIQZ4%3D"
+        },
+        {
+          "filename": "啊正太正太好可愛啊誒嘿.m4a",
+          "text": {
+            "zh-tw": "啊，正太正太好可愛啊，誒嘿",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "EjjcWlUkgcI",
+            "start": 6354,
+            "end": 6360
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ziDaNilUIyjzV1Tv9dlZkq649fmdl1HPWoUbZ11v%2FY4%3D"
+        },
+        {
+          "filename": "這個世界是天堂因為有正太.m4a",
+          "text": {
+            "zh-tw": "這個世界是天堂，因為有正太",
+            "ja": "ショタがいるからこの世は天国"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "EjjcWlUkgcI",
+            "start": 6366,
+            "end": 6369
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JdtH6OweMZ3aM9uzQGFDgdvuLyCqjKK5Eztt3it8ATk%3D"
+        },
+        {
+          "filename": "仔細想一想有錢沒問題.m4a",
+          "text": {
+            "zh-tw": "仔細想一想~有錢沒問題~",
+            "ja": "よ〜く考えよ〜お金は大丈夫だよ〜"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "EjjcWlUkgcI",
+            "start": 10967,
+            "end": 10975
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=u3hYT2Y9%2BCPP7p4b2LiJRBMvvK15luF2352kZeFiE3Q%3D"
+        },
+        {
+          "filename": "好吵.m4a",
+          "text": {
+            "zh-tw": "好吵",
+            "ja": "うるさい"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 2646,
+            "end": 2647
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=DTCwUPHoKl29I9ep5rgNxyns70h5mZhbvZWJrwF78M0%3D"
+        },
+        {
+          "filename": "KP.m4a",
+          "text": {
+            "zh-tw": "KP\uD83C\uDF7B",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 372,
+            "end": 381
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=P5fmaS2nMpUa5Rqsx4EH3ghZ0uZRM68RG2PcHTyzbno%3D"
+        }
+      ]
     },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/",
-    "buttons": [
-
-    ]
-  }]
+    {
+      "name": {
+        "zh-tw": "吸嘴脣的聲音",
+        "ja": "吸嘴脣的聲音"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/",
+      "buttons": [
+        {
+          "filename": "吸嘴脣x5.m4a",
+          "text": {
+            "zh-tw": "吸嘴脣x5",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "hOrs9B5p2lI",
+            "start": 6229,
+            "end": 6246
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MH%2BHpaucnKD2%2BgXOoyOERFr%2FdIJFoYnMer5QGadDSQc%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "大叫 (注意音量)",
+        "ja": "大叫 (注意音量)"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/",
+      "buttons": [
+        {
+          "filename": "被影片嚇到.m4a",
+          "text": {
+            "zh-tw": "被影片嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 509,
+            "end": 519
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=cBkTBcIuo843U39WnggOFSXfydwbPEIyK5iwUZpyS1k%3D"
+        },
+        {
+          "filename": "被轉場畫面嚇到.m4a",
+          "text": {
+            "zh-tw": "被轉場畫面嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 569,
+            "end": 604
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=opDv0MHzrniQ2%2Ba1DcmhA%2F%2BrwKiwmawJ37FX1FfsIxA%3D"
+        },
+        {
+          "filename": "開手電筒嚇到.m4a",
+          "text": {
+            "zh-tw": "開手電筒嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 1172,
+            "end": 1176
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lvLkvE%2FchAkLscsP9vSGEQnOb%2Bl3Cy3eWBQtM8uBbuw%3D"
+        },
+        {
+          "filename": "門後什麼都沒有被嚇到.m4a",
+          "text": {
+            "zh-tw": "門後什麼都沒有被嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 1191,
+            "end": 1206
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RVLRYcJw2F5mgTj35aoQ%2BagP6Y%2FpiyaF9j7C04OCnok%3D"
+        },
+        {
+          "filename": "被爬到手上的G嚇到.m4a",
+          "text": {
+            "zh-tw": "被爬到手上的G嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 1306,
+            "end": 1308
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=UJIj4IYCG54beOQEYcLF3hLqH7gZUuTj2e%2BI3BZFVtI%3D"
+        },
+        {
+          "filename": "放錄影帶嚇到.m4a",
+          "text": {
+            "zh-tw": "放錄影帶嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 1705,
+            "end": 1711
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=sthlwjRDznwL6Umg7GPrFguqN%2FwbFcvZUEz%2FWX2aslc%3D"
+        },
+        {
+          "filename": "被照片嚇到.m4a",
+          "text": {
+            "zh-tw": "被照片嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XL5JLUZmp0A",
+            "start": 2644,
+            "end": 2645
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=r7jgPaXe9b6C7lnMazYSBMvQdh9I6atfWsiOC9sd%2Fyo%3D"
+        }
+      ]
+    }
+  ]
 }
