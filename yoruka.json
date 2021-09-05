@@ -1641,6 +1641,456 @@
             "end": 781
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Zr3%2BQVLmz8dmPBoATz1v47rTjKTTUFaxggIKbVSrxwg%3D"
+        },
+        {
+          "filename": "美環嗯哼花輪.m4a",
+          "text": {
+            "zh-tw": "(美環) 嗯哼~花輪~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZdIIqvRuuVU",
+            "start": 6897,
+            "end": 6900
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7ShW%2FgMcm4snCprige34LG4pILDD%2BUyqShV5HRSFHmk%3D"
+        },
+        {
+          "filename": "なにバカな怎麼會這樣.m4a",
+          "text": {
+            "zh-tw": "なに？ バカな！怎麼會這樣",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Ib6xqHnmzuE",
+            "start": 5611,
+            "end": 5616
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=DKDzKcjzNle%2BTsAX6vwmF7U9N2V77yTNmZwmersj514%3D"
+        },
+        {
+          "filename": "好害羞啊天才謝謝.m4a",
+          "text": {
+            "zh-tw": "好害羞啊，天才，謝謝",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.5,
+          "source": {
+            "videoId": "DlzUgdp3WNk",
+            "start": 7424,
+            "end": 7440
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=A%2Bp1LQf8O7o9Cvbwr8G4MgAWzvNIogAhUAaP9yUjHy8%3D"
+        },
+        {
+          "filename": "嘎.m4a",
+          "text": {
+            "zh-tw": "嘎！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 2694,
+            "end": 2695
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=48HYZDLarSEJkR%2BKOqC9BEuP%2FnqU1EZelEUXxKQGYqQ%3D"
+        },
+        {
+          "filename": "我是男生.m4a",
+          "text": {
+            "zh-tw": "我是男生",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 2632,
+            "end": 2634
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=8mUz4M%2Fs1yRDmMwOhxrvjr%2FfSEX1S9UrEju24n57YQo%3D"
+        },
+        {
+          "filename": "我不理解x3.m4a",
+          "text": {
+            "zh-tw": "我不理解x3",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 2637,
+            "end": 2643
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kGtc0AmkdARK4G6wlkKYVgGxYIHheis48MVaBBKsr%2Bc%3D"
+        },
+        {
+          "filename": "肥宅音那個可以踢我嗎.m4a",
+          "text": {
+            "zh-tw": "(肥宅音)那個...可以踢我嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 2686,
+            "end": 2690
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=LPRKDuKu3U41SK%2FW%2F2hPnErCP%2BkSp66lWet01dxOobI%3D"
+        },
+        {
+          "filename": "肥宅音其實我好喜歡夜花所以可以踩我嗎.m4a",
+          "text": {
+            "zh-tw": "(肥宅音)其實我好喜歡夜花，所以可以踩我嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 2699,
+            "end": 2703
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=p88VfdOEpW%2Fj5gKUcbIJ6EHQGfJ67X9mZ88EnQOFAsw%3D"
+        },
+        {
+          "filename": "什麼東西啊哈哈哈.m4a",
+          "text": {
+            "zh-tw": "什麼東西啊，哈↗哈↗哈↗",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 2889,
+            "end": 2892
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=V37tXLE2FY1XwV778%2BYC147EmlwljITsNPSRCXsAHzY%3D"
+        },
+        {
+          "filename": "噁心.m4a",
+          "text": {
+            "zh-tw": "噁心！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 2967,
+            "end": 2968
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=m5%2FarCPN7bIZ9n%2BLcEZEf6YqUQ%2BsxwT6Nsb1iMQRQ9A%3D"
+        },
+        {
+          "filename": "你是不是有病啊為什麼要這樣迫害我啊.m4a",
+          "text": {
+            "zh-tw": "你是不是有病啊！為什麼要這樣迫害我啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3029,
+            "end": 3033
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4U6NMIyoqAr66FWWqDL7MB7njSPBpMbgorO6DPP3J50%3D"
+        },
+        {
+          "filename": "哈哈哈哈哈哈.m4a",
+          "text": {
+            "zh-tw": "哈↗哈↗哈↗哈↗哈↗哈↗",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3044,
+            "end": 3048
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=yeDkIi8Mf2zXaSws0sdPdNdoKmpn6cv5Hb0XkMAFJtU%3D"
+        },
+        {
+          "filename": "外面的狗在叫.m4a",
+          "text": {
+            "zh-tw": "(外面的狗在叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3198,
+            "end": 3203
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=B1BBxtQ%2B%2BptO6NdzcTY6DnH9xiAXnqB3yMDhrwfyI4Q%3D"
+        },
+        {
+          "filename": "你明明愛的是男人為什麼要謊稱說愛我.m4a",
+          "text": {
+            "zh-tw": "你明明愛的是男人，為什麼要謊稱說愛我！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3272,
+            "end": 3276
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=wIoFXloLWVfzrlbsRWL3we802iY2sbTjfvR1Wc5OKa8%3D"
+        },
+        {
+          "filename": "蛤.m4a",
+          "text": {
+            "zh-tw": "蛤？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3284,
+            "end": 3285
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Qg3j2b45MglpCm2La1HW8boLou8K2Jtzm1dZ6ko%2BHO0%3D"
+        },
+        {
+          "filename": "好噁喔天啊臭甲噁心不要靠近我噁心.m4a",
+          "text": {
+            "zh-tw": "好噁喔，天啊！臭甲，噁心！不要靠近我，噁心！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3492,
+            "end": 3499
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=eesnAnkk8CoGsf8UmC0Yy2APgZYy4bWWuiORo5wDIq8%3D"
+        },
+        {
+          "filename": "噁甲.m4a",
+          "text": {
+            "zh-tw": "噁甲",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3546,
+            "end": 3548
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=fyNa9g%2FPC0RkMF2yMMj%2Bql54sYwLOPb7wdn2zWF5%2Buk%3D"
+        },
+        {
+          "filename": "我叫你不知道你來亂的是不是啊.m4a",
+          "text": {
+            "zh-tw": "我叫你不知道！你來亂的是不是啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3761,
+            "end": 3766
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3AL6L2YuanAsDHbI9s8i6YHRtFkWitZ0vKhNdsey1io%3D"
+        },
+        {
+          "filename": "肥宅音一代一代一代.m4a",
+          "text": {
+            "zh-tw": "(肥宅音)一代一代一代",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3781,
+            "end": 3784
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=msBqdqenZCy8sQ0CJ2g4DKkB9MZ9SITIb%2F1qKO8QBzI%3D"
+        },
+        {
+          "filename": "現在的人需求真的很奇怪你真的是有毛病誒.m4a",
+          "text": {
+            "zh-tw": "現在的人需求真的很奇怪，你真的是有毛病誒！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3776,
+            "end": 3781
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=10koO%2Bd4%2Bm8%2B%2B%2FSZRA18LhN2Tvyp%2F%2BEUMgNX7qpfdqc%3D"
+        },
+        {
+          "filename": "可以請你去死嗎.m4a",
+          "text": {
+            "zh-tw": "可以請你去死嗎..",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 4087,
+            "end": 4089
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=GTJjgiM37JSgIyRaEPBtgedlaKhMcQQosYdrjNdm0HM%3D"
+        },
+        {
+          "filename": "很噁心誒小心我報警喔.m4a",
+          "text": {
+            "zh-tw": "很噁心誒，小心我報警喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 4165,
+            "end": 4169
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=r%2BN0FABXUtBhwxt2y6dST2P4eXRbYyeePpySnGF%2BZC0%3D"
+        },
+        {
+          "filename": "我真的要報警囉我的手越來越靠近電話囉.m4a",
+          "text": {
+            "zh-tw": "我真的要報警囉，我的手越來越靠近電話囉",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 4171,
+            "end": 4174
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Yk2agK5QH1mDm2j7TDumUfpDfiMnOMbS7BCZ2J63X%2FE%3D"
+        },
+        {
+          "filename": "日文你這傢伙別用下流的眼神看著我很噁心誒.m4a",
+          "text": {
+            "zh-tw": "(日文)你這傢伙，別用下流的眼神看著我，很噁心誒！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 4181,
+            "end": 4188
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=sjyMrMlW2cBfrhEHPJjKQoym1SFI37JO4FkryrixLIo%3D"
+        },
+        {
+          "filename": "日文我要叫警察囉.m4a",
+          "text": {
+            "zh-tw": "(日文)我要叫警察囉！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 4194,
+            "end": 4197
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ij763ElO2J5yfexxraJgFq9HeJ9vWgGBOVZkw86gK7g%3D"
+        },
+        {
+          "filename": "北七的人誒到底在幹嘛.m4a",
+          "text": {
+            "zh-tw": "北七的人誒，到底在幹嘛",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 4557,
+            "end": 4560
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=EE01UjJw3uP%2Fse2Gu97KQncTzoi0QXv9Z50mqMirp%2Fw%3D"
+        },
+        {
+          "filename": "夢話留到夢裡說好嗎醒醒.m4a",
+          "text": {
+            "zh-tw": "夢話留到夢裡說，好嗎？醒醒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 5602,
+            "end": 5606
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=0k2ASzrtC6Ukha4rmBGxfpRGD7qLDD2EyBKp8ejDlkQ%3D"
+        },
+        {
+          "filename": "你給我吹.m4a",
+          "text": {
+            "zh-tw": "你給我吹！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 7119,
+            "end": 7121
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=cMf4DepDeBJ3UFa2ACRcEZHxi6hxisVXenx7p9CfAUo%3D"
+        },
+        {
+          "filename": "馬上給我退訂廢物滾.m4a",
+          "text": {
+            "zh-tw": "馬上給我退訂，廢物！滾！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 7364,
+            "end": 7369
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=izRFgUABs5%2FY3M0LVmBhI0%2FG92T1ce%2F9Dvy2T5Dt10c%3D"
+        },
+        {
+          "filename": "爽啦Idontfuckingcare.m4a",
+          "text": {
+            "zh-tw": "爽啦，I don't fucking care",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 1321,
+            "end": 1326
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=W9By5uHTMru%2FicP6jH6f1KFPJCHbv10keAmKQT9D7hQ%3D"
         }
       ]
     },
@@ -2133,6 +2583,21 @@
             "end": 948
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=EF1FYp%2BUtBdhjgRwsYqv%2FSe228DH6SW1%2Fk%2FIU7I%2B5QY%3D"
+        },
+        {
+          "filename": "大叫有蟑螂爬到我腳上了去死大叫它爬上來了.m4a",
+          "text": {
+            "zh-tw": "(大叫)有蟑螂爬到我腳上了！去死！(大叫)它爬上來了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbtSj1fbdDw",
+            "start": 3021,
+            "end": 3027
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=a1YeAkSwtfUlqEipvTsWHv4ZfuQPLb6Y7nk%2BUFbbbE4%3D"
         }
       ]
     },
