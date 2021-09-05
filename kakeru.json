@@ -235,7 +235,7 @@
         {
           "filename": "アンコールフアンコールフ.m4a",
           "text": {
-            "zh-tw": "アンコールフ！アンコールフ！",
+            "zh-tw": "(安可)アンコールフ！アンコールフ！",
             "ja": "アンコールフ！アンコールフ！"
           },
           "baseRoute": null,
@@ -246,6 +246,156 @@
             "end": 6747
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=0Zjcz2G9DNfjo7Jvu8WSHLYCNNTJWQCHn1eDxbopoqw%3D"
+        },
+        {
+          "filename": "失敗的自我介紹.m4a",
+          "text": {
+            "zh-tw": "失敗的自我介紹",
+            "ja": "自己紹介の失敗"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "utdVtVNn5QA",
+            "start": 2226,
+            "end": 2258
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kxAtNcKXXQ8Rrf0T%2Ft8%2FjsOn9y2tFZYfU%2Bx%2BidIBX1c%3D"
+        },
+        {
+          "filename": "KKRKKR子猫じゃないよかける.m4a",
+          "text": {
+            "zh-tw": "KKR！KKR！猫じゃないよ！フェンリル！(feat. RCC)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ia1e_YzS7wE",
+            "start": 3904,
+            "end": 3933
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3x1K84A87obJiL7%2BeHxlvHzEi2%2BT49mx3YzxeiaDXlQ%3D"
+        },
+        {
+          "filename": "狼叫.m4a",
+          "text": {
+            "zh-tw": "(擬真狼叫)",
+            "ja": "(本物のオオカミの鳴き声を真似る)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yKUhJ1agkRo",
+            "start": 4834,
+            "end": 4842
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=SyOulot9KBeWc3mEctNZAo4kIro2MC%2F%2B6sqOOi%2FLUTo%3D"
+        },
+        {
+          "filename": "OneTwo.m4a",
+          "text": {
+            "zh-tw": "One Two",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "cB64CmqMM08",
+            "start": 3613,
+            "end": 3614
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kILWX1dVM3roUfKVc7iaRH2ePafdYXW2o4qnVtR8F0s%3D"
+        },
+        {
+          "filename": "歡迎來到かける的空間.m4a",
+          "text": {
+            "zh-tw": "歡迎來到かける的...空間",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "cB64CmqMM08",
+            "start": 12780,
+            "end": 12786
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tgP4W3pVaQp8snjMufzOlOArQwJoboMujbVwqF3oUDo%3D"
+        },
+        {
+          "filename": "模仿皮卡丘.m4a",
+          "text": {
+            "zh-tw": "(模仿皮卡丘)",
+            "ja": "(ピカチュウを真似る)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "utdVtVNn5QA",
+            "start": 7387,
+            "end": 7390
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=eNSKLKoevkjayTWRAtmswcYFzKq0d2jpwL5Y6zjU%2BII%3D"
+        },
+        {
+          "filename": "AhoyAhoyAhoy.m4a",
+          "text": {
+            "zh-tw": "Ahoy! Ahoy! Ahoy!",
+            "ja": "Ahoy! Ahoy! Ahoy!"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "JPYiKl--JVQ",
+            "start": 4150,
+            "end": 4153
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RAf7oEoR7FYvh%2Fzq4hWyC%2Be89aGEw8q%2F2pbih3yuDL0%3D"
+        },
+        {
+          "filename": "HeySiriHeySiri.m4a",
+          "text": {
+            "zh-tw": "Hey Siri! Hey Siri!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "JPYiKl--JVQ",
+            "start": 7047,
+            "end": 7053
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Qh84mVYKAe4D68WziC7i3xbZFB9ekdSqGext1FnVih4%3D"
+        },
+        {
+          "filename": "我想起來了那個那個聽我說聽我說.m4a",
+          "text": {
+            "zh-tw": "我想起來了！那個那個～聽我說聽我說～",
+            "ja": "あ、そうだ！そうだ！思い出した！あのね、あのね、聞いてや！聞いてや！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "al902eWkbGM",
+            "start": 1340,
+            "end": 1345
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AagK05BpC8Qy4yAW9syPuS0XKybDF6oM5xP93PrNDHk%3D"
+        },
+        {
+          "filename": "c61721b79d344f8f9d37c215071e3bb8.m4a",
+          "text": {
+            "zh-tw": "$%#^$#",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "al902eWkbGM",
+            "start": 1475,
+            "end": 1478
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2Bx6DIt2DVqWDHSvqzQJidf7YUvqR02TLZHQr%2FDVvh3A%3D"
         }
       ]
     },
@@ -324,16 +474,52 @@
             "end": 6528
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=SN5mVGc%2BAQfvkcPdcYXUaT%2Fy06NM6VZPRVvjI2yN3zc%3D"
-        }
-      ]
-    },
-    {
-      "name": {
-        "zh-tw": "大\uD83C\uDF63",
-        "ja": "大\uD83C\uDF63"
-      },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
-      "buttons": [
+        },
+        {
+          "filename": "謝謝SC感謝.m4a",
+          "text": {
+            "zh-tw": "謝謝SC！感謝～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "al902eWkbGM",
+            "start": 1403,
+            "end": 1407
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=G6Oh2c5r6Gah2z2j80956vrrdPwT5qG%2BG5l8pEy5%2FSo%3D"
+        },
+        {
+          "filename": "如此誇獎我也什麼都沒有的喔.m4a",
+          "text": {
+            "zh-tw": "如此誇獎我也什麼都沒有的喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "al902eWkbGM",
+            "start": 1490,
+            "end": 1494
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ekyaxmWop5dge7aqEAT0yRwHyBKWcR2EoPg1L6gp9mo%3D"
+        },
+        {
+          "filename": "迷之配樂.m4a",
+          "text": {
+            "zh-tw": "(迷之配樂)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_tEXjaqRvZU",
+            "start": 6468,
+            "end": 6473
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ctk%2Fl56Jdez%2B%2FTGjwCuagbaC9E24%2BzqyuJrDgzRP8JU%3D"
+        },
         {
           "filename": "大.m4a",
           "text": {
@@ -348,13 +534,28 @@
             "end": 8447
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=sUSSvqQQ%2BonUeynnNwmiGoBcOqHJE4GpSO0FVapHHy8%3D"
+        },
+        {
+          "filename": "大恐佈風格.m4a",
+          "text": {
+            "zh-tw": "大\uD83C\uDF63(恐佈風格)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fsAuOsGVjUg",
+            "start": 6444,
+            "end": 6448
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=qnWaeSouULq5DiyKDMssRYkcI3jWHmMszkzXDiDWKqA%3D"
         }
       ]
     },
     {
       "name": {
-        "zh-tw": "悲鳴 (注意音量)",
-        "ja": "悲鳴 (注意音量)"
+        "zh-tw": "大叫 (注意音量)",
+        "ja": "悲鳴 (音量注意)"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
       "buttons": [

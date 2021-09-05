@@ -1133,6 +1133,96 @@
             "end": 3190
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zBNuLtZ1yr%2Bpz2tZhHvNcaGMaIGHmQvvh%2B67BpytdOo%3D"
+        },
+        {
+          "filename": "私は狗狗.m4a",
+          "text": {
+            "zh-tw": "私は狗狗",
+            "ja": "私はここ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9EtlvkZfIlQ",
+            "start": 3401,
+            "end": 3408
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HIoJLr0%2F7%2FHsFbxGrswb8HCiRX8HY7yLkOvUC56pS8A%3D"
+        },
+        {
+          "filename": "奇怪的音效.m4a",
+          "text": {
+            "zh-tw": "奇怪的音效",
+            "ja": "奇妙な効果音"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QsbbnUD8OQE",
+            "start": 382,
+            "end": 389
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=BTxwDnnln9ExhKo7wGYHiBdvlR4RAkAVb%2Bw2PppTjvM%3D"
+        },
+        {
+          "filename": "早安N.m4a",
+          "text": {
+            "zh-tw": "早安*N",
+            "ja": "おはよう*N"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QsbbnUD8OQE",
+            "start": 892,
+            "end": 899
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=r%2Bj%2Fatre9r%2BNSX%2BU2ZQMVvEVOWXTdbecen0CgJ17%2Fpg%3D"
+        },
+        {
+          "filename": "哇.m4a",
+          "text": {
+            "zh-tw": "哇",
+            "ja": "あ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QsbbnUD8OQE",
+            "start": 5851,
+            "end": 5852
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ontgpt40ugPOqJCFJO4WsvQgs5ADHU%2Fbm7dxDS0AlcY%3D"
+        },
+        {
+          "filename": "有人會怕嗎沒有吧.m4a",
+          "text": {
+            "zh-tw": "有人會怕嗎?沒有吧?!",
+            "ja": "ひよってるやついる？いねえよなぁ？"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QsbbnUD8OQE",
+            "start": 6040,
+            "end": 6048
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=K8Tt%2FqvREHxuuzr2UpiqOzpxzIa8IB%2FTVbrLKTQnIMI%3D"
+        },
+        {
+          "filename": "嘿鈴花的口頭禪.m4a",
+          "text": {
+            "zh-tw": "嘿！ (鈴花的口頭禪)",
+            "ja": "コラァー！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QsbbnUD8OQE",
+            "start": 10095,
+            "end": 10100
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=rsq3lIp3B0AJ6nkZzD6pftuagVqTuPeWp6wN8iJezUw%3D"
         }
       ]
     },
@@ -1240,6 +1330,21 @@
             "end": 9165
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=K6ZxO2n67m%2BJZa7BbgloweXxFvE0%2FHkFJM1wKaKqzrk%3D"
+        },
+        {
+          "filename": "英靈召喚咒文2.m4a",
+          "text": {
+            "zh-tw": "英靈召喚咒文2",
+            "ja": "英霊召喚呪文2"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QsbbnUD8OQE",
+            "start": 11282,
+            "end": 11312
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=J1G0y97m6U73jaqDOWTwck09Dx9jYgZLoHmQwPuec24%3D"
         }
       ]
     },
@@ -1654,6 +1759,21 @@
             "end": 3988
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Fa9mqPJjtjxwDytXFPl%2Bf4ArYzE%2Bb6WlQVKhZUS%2Bhkw%3D"
+        },
+        {
+          "filename": "ThesongisadorableThankyou.m4a",
+          "text": {
+            "zh-tw": "(The song is adorable.) Thank you!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QsbbnUD8OQE",
+            "start": 7759,
+            "end": 7770
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2FyJ3nwkfW8atV%2BXDeuXiLa7fH6lkJKql3RjQRvzLLA%3D"
         }
       ]
     },
@@ -2413,6 +2533,21 @@
             "end": 5791
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1DSOQgZYW24H9oWj%2BvsDh7ATO1QHv%2BWJsNaq1z8X3qg%3D"
+        },
+        {
+          "filename": "被音樂聲嚇到.m4a",
+          "text": {
+            "zh-tw": "被音樂聲嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QsbbnUD8OQE",
+            "start": 6287,
+            "end": 6301
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=G%2F3tOm%2F9MosgdwcxWNWul1lqTlA32vTba8k97SNLov8%3D"
         }
       ]
     },

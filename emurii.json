@@ -14,7 +14,21 @@
     "facebook": null,
     "other": null
   },
-  "introButton": null,
+  "introButton": {
+    "filename": "招呼.m4a",
+    "text": {
+      "zh-tw": "自介語音",
+      "ja": "自己紹介"
+    },
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/",
+    "volume": 1,
+    "source": {
+      "videoId": "sIb2JTMZtq4",
+      "start": 73,
+      "end": 81
+    },
+    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MJ%2Fg0WepTk%2BZMoAkE6vUR%2FpATUKlvg8B1ERuHiGmYLY%3D"
+  },
   "buttonGroups": [
     {
       "name": {
@@ -187,6 +201,306 @@
             "end": 381
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=P5fmaS2nMpUa5Rqsx4EH3ghZ0uZRM68RG2PcHTyzbno%3D"
+        },
+        {
+          "filename": "早安早安好想睡.m4a",
+          "text": {
+            "zh-tw": "早安～早安～好想睡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 49,
+            "end": 61
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hM0gTWqZw8DKpgtixiMDaGiHF1eHeUv32LFv%2FuiW0%2BY%3D"
+        },
+        {
+          "filename": "招呼.m4a",
+          "text": {
+            "zh-tw": "招呼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 73,
+            "end": 81
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MJ%2Fg0WepTk%2BZMoAkE6vUR%2FpATUKlvg8B1ERuHiGmYLY%3D"
+        },
+        {
+          "filename": "GoodmorningEmurii.m4a",
+          "text": {
+            "zh-tw": "Good morning, Emurii",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 116,
+            "end": 121
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kWN2nfx2jm1vS3SNws9NdcOYUGm0CweESTehI8TYUus%3D"
+        },
+        {
+          "filename": "機關槍.m4a",
+          "text": {
+            "zh-tw": "機關槍",
+            "ja": "マシーンガン"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 891,
+            "end": 895
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tXsPdUzbzkwo7OGjaYkyQvzycFMWeLWqQFK1jE10fVc%3D"
+        },
+        {
+          "filename": "很可愛對吧給我說可愛.m4a",
+          "text": {
+            "zh-tw": "很可愛對吧，給我說可愛\uD83D\uDD2A",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 995,
+            "end": 1004
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Ztlvzs0E5puOIKotzh2khQN7tosIo1LY%2FaJB0zngljo%3D"
+        },
+        {
+          "filename": "KISS.m4a",
+          "text": {
+            "zh-tw": "(Kiss)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1022,
+            "end": 1029
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1I06WzNN%2Fjq6LiRC8ZQGSRN0optSydF57mpKiR%2Fi9lY%3D"
+        },
+        {
+          "filename": "請跟我結婚被求婚了エムリィ是大家的エムリィ怎麼能和某人結婚什麼的.m4a",
+          "text": {
+            "zh-tw": "(請跟我結婚) 被求婚了，エムリィ是大家的エムリィ，怎麼能和某人結婚什麼的！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1083,
+            "end": 1091
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=f6DvQXOiXZghCdY%2FDiECqS1B0d%2Fu9CIVzB%2B4qQuNjRE%3D"
+        },
+        {
+          "filename": "裝傻.m4a",
+          "text": {
+            "zh-tw": "裝傻",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1146,
+            "end": 1156
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=LieGKDgfSgJAcwmcmkAYy1nbhJNsUDpYDEKBoOfT958%3D"
+        },
+        {
+          "filename": "GoodmorningIloveyouGoodmorningKiss.m4a",
+          "text": {
+            "zh-tw": "Good morning! I love you! Good morning! (Kiss)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1252,
+            "end": 1258
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=afHYFlxxsON6L5uHIBdImYvK7CdPoTSXkcH%2B93raTE8%3D"
+        },
+        {
+          "filename": "是性騷擾嗎在說エムリィ的歐派的事H大變態色小鬼H.m4a",
+          "text": {
+            "zh-tw": "是性騷擾嗎！在說エムリィ的歐派的事，H！大變態、色小鬼，H！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1564,
+            "end": 1595
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7ekb8X2lSF6Wb60antLYQ0XLIdS8u81Ty0jkMxAY0%2Bc%3D"
+        },
+        {
+          "filename": "H色小孩嗎青春期嗎.m4a",
+          "text": {
+            "zh-tw": "H！色小孩嗎？青春期嗎？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1593,
+            "end": 1599
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=QlfoSZ9aGOoHcvGT%2Fl6XH89%2FEFq8G8kFiQWrLmkQ7%2BQ%3D"
+        },
+        {
+          "filename": "真是的嘟嘴.m4a",
+          "text": {
+            "zh-tw": "真是的～(嘟嘴)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1617,
+            "end": 1624
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2EYLr%2FkamGFl%2F%2FwEWUWseAuoIm8U5oE%2B30G4PtVvQTU%3D"
+        },
+        {
+          "filename": "加油Fight.m4a",
+          "text": {
+            "zh-tw": "加油，Fight！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1737,
+            "end": 1745
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=i9Ip1M3X6B9DX%2FiaXOJuDEP%2BgjvgBvkeLf%2Bl8Zk8Jdc%3D"
+        },
+        {
+          "filename": "工作請加油FIGHTKiss.m4a",
+          "text": {
+            "zh-tw": "工作請加油！FIGHT！(Kiss)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1996,
+            "end": 2004
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=z1kbQ2S%2FRPMqJbs%2FM7YG7Z1%2Fo1MZ2u6uAp6iaPpYXp0%3D"
+        },
+        {
+          "filename": "Micenraft的JAVA版買這個就行了對吧.m4a",
+          "text": {
+            "zh-tw": "(Micenraft的) JAVA版，買這個就行了對吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 2040,
+            "end": 2046
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4uhal8NmB7KullcJ3egAJWHWYC6jbbMuEcDoCQc169w%3D"
+        },
+        {
+          "filename": "打哈欠幫大忙.m4a",
+          "text": {
+            "zh-tw": "打哈欠幫大忙",
+            "ja": "あくび助かる"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 2055,
+            "end": 2058
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nAN59Q4xrTIjP5oA2mctvN7%2BqI3dKpOms1H8bYS588A%3D"
+        },
+        {
+          "filename": "裝可愛的病嬌招呼.m4a",
+          "text": {
+            "zh-tw": "裝可愛的病嬌招呼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 2066,
+            "end": 2084
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lBX7hUOqmWKYTZin5HSVca96PdbNfZUebgivdK2Oj7A%3D"
+        },
+        {
+          "filename": "ImhungryImveryveryhungry.m4a",
+          "text": {
+            "zh-tw": "I'm hungry. I'm very very hungry.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 2486,
+            "end": 2492
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=PLgW10QF0n6hOM3N6oAg7Pnxxh9CYd8yR0P3Nb8KVmQ%3D"
+        },
+        {
+          "filename": "苓吃あんぐり苓吃はんぐり苓吃ねんむり.m4a",
+          "text": {
+            "zh-tw": "(苓吃あんぐり)(苓吃はんぐり)(苓吃ねんむり)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 2542,
+            "end": 2558
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tmxdWQuW4MEstEEh2llqw2rPPVFP9Aua44hxURNmE%2Fw%3D"
+        },
+        {
+          "filename": "模仿鋼之鍊金術師庫拉多尼.m4a",
+          "text": {
+            "zh-tw": "(模仿 鋼之鍊金術師 庫拉多尼)",
+            "ja": "(模倣 鋼の錬金術師 グラトニー)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 2588,
+            "end": 2595
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=H2mqf2LzTCjPfJJXop1JWHCA%2FY2xnANlvmteXTbknZ8%3D"
         }
       ]
     },
@@ -211,6 +525,21 @@
             "end": 6246
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MH%2BHpaucnKD2%2BgXOoyOERFr%2FdIJFoYnMer5QGadDSQc%3D"
+        },
+        {
+          "filename": "吸嘴脣不懂w.m4a",
+          "text": {
+            "zh-tw": "(吸嘴脣)....不懂w",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "sIb2JTMZtq4",
+            "start": 1956,
+            "end": 1962
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=BkWijsQy%2BqB%2FExz8b1%2FqZRsvvbc5C8sQjk2z1qERbaA%3D"
         }
       ]
     },
@@ -325,6 +654,21 @@
             "end": 2645
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=r7jgPaXe9b6C7lnMazYSBMvQdh9I6atfWsiOC9sd%2Fyo%3D"
+        },
+        {
+          "filename": "被自己打開的門嚇到.m4a",
+          "text": {
+            "zh-tw": "被自己打開的門嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3Cyv_qXTGWo",
+            "start": 778,
+            "end": 779
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=psr%2FP7LffzUVwg%2BTVJ8uXuoEfUcFarbP9R0LThvV4h4%3D"
         }
       ]
     }
