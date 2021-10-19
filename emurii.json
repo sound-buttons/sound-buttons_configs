@@ -15,19 +15,19 @@
     "other": null
   },
   "introButton": {
-    "filename": "招呼.m4a",
+    "filename": "自己紹介EhUELDMcE_o.m4a",
     "text": {
-      "zh-tw": "自介語音",
+      "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/",
     "volume": 1,
     "source": {
-      "videoId": "sIb2JTMZtq4",
-      "start": 73,
-      "end": 81
+      "videoId": "EhUELDMcE_o",
+      "start": 0,
+      "end": 220
     },
-    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MJ%2Fg0WepTk%2BZMoAkE6vUR%2FpATUKlvg8B1ERuHiGmYLY%3D"
+    "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=6BeQShAWlhmofKB8QfldMt40mSyzAHzMZLEhbb21ylo%3D"
   },
   "buttonGroups": [
     {
@@ -506,8 +506,8 @@
     },
     {
       "name": {
-        "zh-tw": "吸嘴脣的聲音",
-        "ja": "吸嘴脣的聲音"
+        "zh-tw": "奇怪的聲音",
+        "ja": "奇妙な音"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/",
       "buttons": [
