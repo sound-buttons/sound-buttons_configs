@@ -396,6 +396,156 @@
             "end": 1478
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2Bx6DIt2DVqWDHSvqzQJidf7YUvqR02TLZHQr%2FDVvh3A%3D"
+        },
+        {
+          "filename": "笑我不是WIFI.m4a",
+          "text": {
+            "zh-tw": "(笑) 我不是WIFI",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "x6CtBdTkX-g",
+            "start": 5987,
+            "end": 5992
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5pJJxeeL98ktYkWCe4gBMroHa94dmDHklAeUOmQ%2Bh%2Bk%3D"
+        },
+        {
+          "filename": "こんかける你好你好Hello.m4a",
+          "text": {
+            "zh-tw": "こんかける~你好~你好，Hello!",
+            "ja": "こんかける~你好~你好，Hello!"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_P0cPatfqL4",
+            "start": 1623,
+            "end": 1632
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=KcJuGDEWPjYu1jxZyHDZ%2FDEAy%2FOdCU6nVO61qDvyhg0%3D"
+        },
+        {
+          "filename": "自我介紹.m4a",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8m2E7hnfOZ8",
+            "start": 5042,
+            "end": 5059
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=v%2FMAz22L7gvYAVMKUJGv1%2FeQGxCXRRd5PVSH3doBgVk%3D"
+        },
+        {
+          "filename": "摩托車的聲音.m4a",
+          "text": {
+            "zh-tw": "摩托車的聲音",
+            "ja": "オートバイの音"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8m2E7hnfOZ8",
+            "start": 5738,
+            "end": 5744
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=j0wE0HEjTbtyxcx3VXPwZuk%2F1yeq1EEyXeIVm%2FWgui4%3D"
+        },
+        {
+          "filename": "遺忘光線.m4a",
+          "text": {
+            "zh-tw": "遺忘光線~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8m2E7hnfOZ8",
+            "start": 6017,
+            "end": 6021
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RTnP37jDT5mvylJ06kNQPWPwJLXBgOZ%2BXs86pN6oiHM%3D"
+        },
+        {
+          "filename": "WhatWhatheppend.m4a",
+          "text": {
+            "zh-tw": "What...What heppend?!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8m2E7hnfOZ8",
+            "start": 6022,
+            "end": 6025
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IwuPcurpTifeq53wK9qYrJwfEhPZCcZL6%2Fjy%2FF7KE2E%3D"
+        },
+        {
+          "filename": "奇妙的音效.m4a",
+          "text": {
+            "zh-tw": "(奇妙的音效)",
+            "ja": "(微妙な効果音)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8m2E7hnfOZ8",
+            "start": 6138,
+            "end": 6141
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6AVXQzg99gty05Z%2FzKdVA3Z76UStbhdIKSDrFBl2hGA%3D"
+        },
+        {
+          "filename": "哭哭かける.m4a",
+          "text": {
+            "zh-tw": "哭哭かける",
+            "ja": "泣いているかける"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8m2E7hnfOZ8",
+            "start": 8191,
+            "end": 8207
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Zoa4%2BAmJLpmz6PAJU4Q8%2FYAajgkmpu25TV7gINhDyFY%3D"
+        },
+        {
+          "filename": "歡迎回來要先吃飯先洗澡還是睡覺.m4a",
+          "text": {
+            "zh-tw": "歡迎回來！要先吃飯、先洗澡，還是.....睡覺？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8m2E7hnfOZ8",
+            "start": 8566,
+            "end": 8579
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Bw5jgwDT0gzfNEHKBgvFbRQtk179jvyd4W%2FR9FmwpKI%3D"
+        },
+        {
+          "filename": "裝酷的自我介紹.m4a",
+          "text": {
+            "zh-tw": "裝酷的自我介紹",
+            "ja": "かっこいいの自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8v9UgEkZAV8",
+            "start": 4764,
+            "end": 4780
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Lx7hTHLF%2BAhOCVC5T815Oru4voaQd04NXnVXyWDkwzo%3D"
         }
       ]
     },
@@ -435,6 +585,21 @@
             "end": 7041
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5RODg2obBIWD%2BPKSajoU%2F6gvhaN1JYAIHsSk%2F7uMUVU%3D"
+        },
+        {
+          "filename": "PIEN的歌.m4a",
+          "text": {
+            "zh-tw": "PIEN的歌\uD83E\uDD7A",
+            "ja": "PIENの歌\uD83E\uDD7A"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "VUEqZaBL7gQ",
+            "start": 6000,
+            "end": 6020
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=l99LX%2BhjBf8aYxdB3NjMy%2FXuHCnEeKIlrIpZ01oshrY%3D"
         }
       ]
     },

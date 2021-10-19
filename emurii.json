@@ -540,6 +540,21 @@
             "end": 1962
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=BkWijsQy%2BqB%2FExz8b1%2FqZRsvvbc5C8sQjk2z1qERbaA%3D"
+        },
+        {
+          "filename": "奇怪的音效.m4a",
+          "text": {
+            "zh-tw": "奇怪的音效",
+            "ja": "奇妙な効果音"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "U_b5GB6mOMY",
+            "start": 1467,
+            "end": 1475
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=o7Hyw%2FtXuG0svyTUAFMY%2FwFq6Wp90GrfsGbbjPOrZ4E%3D"
         }
       ]
     },

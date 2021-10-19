@@ -1223,6 +1223,51 @@
             "end": 10100
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=rsq3lIp3B0AJ6nkZzD6pftuagVqTuPeWp6wN8iJezUw%3D"
+        },
+        {
+          "filename": "快起床請給我一個早安吻吻沒辦法親.m4a",
+          "text": {
+            "zh-tw": "快起床! (請給我一個早安吻) 吻?! 沒辦法，(親)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pWWnR074QpM",
+            "start": 6341,
+            "end": 6354
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=xYaJWkwbqSdhHO7%2FbpanFi2h4%2FVNFjA25nsVt%2B0w7Fo%3D"
+        },
+        {
+          "filename": "たま是生草的朋友嗎生草的朋友是什麼啦第一次聽到呦喂.m4a",
+          "text": {
+            "zh-tw": "(たま是生草的朋友嗎?) 生草的朋友是什麼啦!第一次聽到呦喂!",
+            "ja": "(たまは草のフレンズですか？)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DoTrSqVubHU",
+            "start": 2215,
+            "end": 2224
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Cn6NbYuLkTImy6AT6BL%2FLdGcgmZnWTeoQJI4KwaMJVs%3D"
+        },
+        {
+          "filename": "敲門聲給我糖果.m4a",
+          "text": {
+            "zh-tw": "(敲門聲)給我糖果！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DoTrSqVubHU",
+            "start": 7952,
+            "end": 7958
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=f845TfGtxRH%2FPp205496p1IyRzs8txChvu8SkvGAwSw%3D"
         }
       ]
     },
@@ -1774,6 +1819,36 @@
             "end": 7770
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2FyJ3nwkfW8atV%2BXDeuXiLa7fH6lkJKql3RjQRvzLLA%3D"
+        },
+        {
+          "filename": "Goodmorningeveryone.m4a",
+          "text": {
+            "zh-tw": "​Good morning everyone.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pWWnR074QpM",
+            "start": 299,
+            "end": 304
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Ik6Xak8vvdUbMFk7ooeYw2yyzUP1w%2FYgpsB9UNog%2Bjo%3D"
+        },
+        {
+          "filename": "我們什麼都沒看到Yesyourenotsee.m4a",
+          "text": {
+            "zh-tw": "(我們什麼都沒看到) Yes, you're not see!",
+            "ja": "(俺たちなにもみてない) Yes, you're not see!"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DoTrSqVubHU",
+            "start": 2227,
+            "end": 2237
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zljbQ3iuH8Ji5xRARlT7pQY10rIEMv2kccgmzTA0bdU%3D"
         }
       ]
     },
@@ -2632,6 +2707,21 @@
             "end": 2677
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hwl1EeVqRLiqTiw6cJfY6Xe7soFaDrJBfV6Kt1jhvOI%3D"
+        },
+        {
+          "filename": "手舞足蹈迪士尼鬼怪的歌.m4a",
+          "text": {
+            "zh-tw": "(手舞足蹈)迪士尼鬼怪的歌",
+            "ja": "ディズニーおばけの歌"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DoTrSqVubHU",
+            "start": 8560,
+            "end": 8598
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IXmV48z2hF9OypJvDOswKKfCq7NipX0LABgdRDZywRQ%3D"
         }
       ]
     }
