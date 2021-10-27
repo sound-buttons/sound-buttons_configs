@@ -71,7 +71,7 @@
           "filename": "學貓叫擬真.m4a",
           "text": {
             "zh-tw": "學貓叫 (擬真)",
-            "ja": ""
+            "ja": "猫の鳴き真似(迫真)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -176,7 +176,7 @@
           "filename": "我最喜歡妳平常的聲音真的真的嗎謝謝.m4a",
           "text": {
             "zh-tw": "(我最喜歡妳平常的聲音)真的？真的嗎？謝謝",
-            "ja": ""
+            "ja": "(いつもの声が一番好きだよ)本当？本当かい？本当かい？ありがとう！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -191,7 +191,7 @@
           "filename": "啊啦真的嗎謝謝.m4a",
           "text": {
             "zh-tw": "啊啦真的嗎？謝謝～",
-            "ja": ""
+            "ja": "あら～本当？ありがとう！えへ！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -310,8 +310,8 @@
         {
           "filename": "歡迎來到かける的空間.m4a",
           "text": {
-            "zh-tw": "歡迎來到かける的...空間",
-            "ja": ""
+            "zh-tw": "歡迎來到かける的空間",
+            "ja": "ようこそかけるの空間"
           },
           "baseRoute": null,
           "volume": 1,
@@ -400,8 +400,8 @@
         {
           "filename": "笑我不是WIFI.m4a",
           "text": {
-            "zh-tw": "(笑) 我不是WIFI",
-            "ja": ""
+            "zh-tw": "(笑)我不是WIFI",
+            "ja": "（笑）僕はWi-Fiじゃないよ！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -461,7 +461,7 @@
           "filename": "遺忘光線.m4a",
           "text": {
             "zh-tw": "遺忘光線~~",
-            "ja": ""
+            "ja": "忘れろビーム～！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -521,7 +521,7 @@
           "filename": "歡迎回來要先吃飯先洗澡還是睡覺.m4a",
           "text": {
             "zh-tw": "歡迎回來！要先吃飯、先洗澡，還是.....睡覺？",
-            "ja": ""
+            "ja": "おかえりんご～ご飯にする？お風呂にする？それとも……寝る？"
           },
           "baseRoute": null,
           "volume": 1,
@@ -566,7 +566,7 @@
           "filename": "但是在那之前有需要的東西你懂吧錢錢就是錢啦嘖.m4a",
           "text": {
             "zh-tw": "但是在那之前有需要的東西，你懂吧？錢。錢，就是錢啦，嘖！",
-            "ja": ""
+            "ja": "だがその前に必要なものがある。わかるだろう？金。金だよ金！ちっ！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -581,7 +581,7 @@
           "filename": "你好有快遞.m4a",
           "text": {
             "zh-tw": "你好！有快遞！",
-            "ja": ""
+            "ja": "こんにちは～宅配便でーす！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -704,7 +704,7 @@
           "filename": "謝謝SC感謝.m4a",
           "text": {
             "zh-tw": "謝謝SC！感謝～",
-            "ja": ""
+            "ja": "スーパーチャットありがとう！感謝！感謝～"
           },
           "baseRoute": null,
           "volume": 1,
@@ -719,7 +719,7 @@
           "filename": "如此誇獎我也什麼都沒有的喔.m4a",
           "text": {
             "zh-tw": "如此誇獎我也什麼都沒有的喔！",
-            "ja": ""
+            "ja": "そんな褒めても何も出ないよ！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -734,7 +734,7 @@
           "filename": "迷之配樂.m4a",
           "text": {
             "zh-tw": "(迷之配樂)",
-            "ja": ""
+            "ja": "（謎のBGM）"
           },
           "baseRoute": null,
           "volume": 1,
@@ -764,7 +764,7 @@
           "filename": "大恐佈風格.m4a",
           "text": {
             "zh-tw": "大\uD83C\uDF63(恐佈風格)",
-            "ja": ""
+            "ja": "大\uD83C\uDF63(ホラー風)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -787,8 +787,8 @@
         {
           "filename": "貓車.m4a",
           "text": {
-            "zh-tw": "貓車",
-            "ja": ""
+            "zh-tw": "(貓車)",
+            "ja": "(力尽きました)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -803,7 +803,7 @@
           "filename": "好可怕他就在後面.m4a",
           "text": {
             "zh-tw": "好可怕，他就在後面\uD83D\uDE28",
-            "ja": ""
+            "ja": "ヤバい！ヤバい！うしろ！後ろにいるんだけど！\uD83D\uDE28"
           },
           "baseRoute": null,
           "volume": 1,
@@ -817,8 +817,8 @@
         {
           "filename": "人狼遊戲輸了.m4a",
           "text": {
-            "zh-tw": "人狼遊戲輸了",
-            "ja": ""
+            "zh-tw": "(人狼遊戲輸了)",
+            "ja": "(人狼ゲームで負けた)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -832,8 +832,8 @@
         {
           "filename": "被狗叫聲嚇到.m4a",
           "text": {
-            "zh-tw": "被狗叫聲嚇到",
-            "ja": ""
+            "zh-tw": "(被冷氣的噪音嚇到)",
+            "ja": "(エアコンの騒音でびっくりした)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -848,7 +848,7 @@
           "filename": "三連叫.m4a",
           "text": {
             "zh-tw": "三連叫",
-            "ja": ""
+            "ja": "悲鳴三連"
           },
           "baseRoute": null,
           "volume": 1,
@@ -893,7 +893,7 @@
           "filename": "哭エムリィエムリィ不在的話我不行的啦.m4a",
           "text": {
             "zh-tw": "(哭) エムリィ～エムリィ不在的話，我不行的啦！",
-            "ja": ""
+            "ja": "エムリィ～エムリィ居られないと僕……無理だよ～"
           },
           "baseRoute": null,
           "volume": 1,
@@ -907,8 +907,8 @@
         {
           "filename": "關門嚇到.m4a",
           "text": {
-            "zh-tw": "關門嚇到",
-            "ja": ""
+            "zh-tw": "(關門嚇到)",
+            "ja": "(ドアが閉められることでびっくりした)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -922,8 +922,8 @@
         {
           "filename": "門關起來後慘叫.m4a",
           "text": {
-            "zh-tw": "門關起來後慘叫",
-            "ja": ""
+            "zh-tw": "(門關起來後慘叫)",
+            "ja": "(閉じ込められて悲鳴)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -953,7 +953,7 @@
           "filename": "尖叫Ohmygod.m4a",
           "text": {
             "zh-tw": "(尖叫) Oh my god!",
-            "ja": ""
+            "ja": "(悲鳴) Oh my god!"
           },
           "baseRoute": null,
           "volume": 1,
@@ -982,8 +982,8 @@
         {
           "filename": "慘叫什麼什麼.m4a",
           "text": {
-            "zh-tw": "(慘叫) 什麼什麼！",
-            "ja": ""
+            "zh-tw": "(慘叫)什麼什麼！",
+            "ja": "(悲鳴)なになに！？"
           },
           "baseRoute": null,
           "volume": 1,
