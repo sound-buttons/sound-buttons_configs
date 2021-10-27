@@ -546,6 +546,66 @@
             "end": 4780
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Lx7hTHLF%2BAhOCVC5T815Oru4voaQd04NXnVXyWDkwzo%3D"
+        },
+        {
+          "filename": "嚕嚕嚕嚕嚕嚕嚕.m4a",
+          "text": {
+            "zh-tw": "嚕~嚕嚕嚕嚕嚕嚕",
+            "ja": "ル～ルルルルルル"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 1815,
+            "end": 1821
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=LG6T6JywGp0D1G5W4Fz74%2B%2FpQQ5txQAbfpl7qteRAvk%3D"
+        },
+        {
+          "filename": "但是在那之前有需要的東西你懂吧錢錢就是錢啦嘖.m4a",
+          "text": {
+            "zh-tw": "但是在那之前有需要的東西，你懂吧？錢。錢，就是錢啦，嘖！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 2251,
+            "end": 2261
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=EivbhwR9lYmbIcDzZe8FyUkcgr3FonICIMLFIzGsZv4%3D"
+        },
+        {
+          "filename": "你好有快遞.m4a",
+          "text": {
+            "zh-tw": "你好！有快遞！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 3005,
+            "end": 3011
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=yQC4nWHFrd4ieig3NLRqDMiEUS4vGMOOarfxtGz5Loo%3D"
+        },
+        {
+          "filename": "OpenandClose.m4a",
+          "text": {
+            "zh-tw": "Open and Close!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 3730,
+            "end": 3733
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=oYCwnKG9kmf7KJgnUjtzajuQe2Uy0Yu6Fe3hoM2bdxU%3D"
         }
       ]
     },
@@ -768,6 +828,171 @@
             "end": 6011
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=YAAcXfY5GuyU6dPkl6eH1WRe2NviB%2FhOsciMt2VxP0A%3D"
+        },
+        {
+          "filename": "被狗叫聲嚇到.m4a",
+          "text": {
+            "zh-tw": "被狗叫聲嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 1374,
+            "end": 1376
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=cjiIUhJ9AeJ9d0RjOE8N46iEMQPLM0P4sdQp6wYYiuQ%3D"
+        },
+        {
+          "filename": "三連叫.m4a",
+          "text": {
+            "zh-tw": "三連叫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 1374,
+            "end": 1392
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2j9TnNDi%2FUIpDclpsN8nzLLDPxdJx6X6I5wSchrTho4%3D"
+        },
+        {
+          "filename": "經典尖叫.m4a",
+          "text": {
+            "zh-tw": "經典尖叫",
+            "ja": "古典的な悲鳴"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 1770,
+            "end": 1771
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=uyVEO7hHYqrGUOehSA8E4g%2FWonSUZOEAmaAplJ9Irh4%3D"
+        },
+        {
+          "filename": "經典尖叫2.m4a",
+          "text": {
+            "zh-tw": "經典尖叫2",
+            "ja": "古典的な悲鳴2"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 2728,
+            "end": 2730
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5BZqRQqT9hjTfgDMlSqnr%2FFmtw0vsREUQG2C3DbF%2Fko%3D"
+        },
+        {
+          "filename": "哭エムリィエムリィ不在的話我不行的啦.m4a",
+          "text": {
+            "zh-tw": "(哭) エムリィ～エムリィ不在的話，我不行的啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 3394,
+            "end": 3407
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=qwZ8O6TfrvSq04F1CZEyjz5WwxOO1DizaMH03KC6QNs%3D"
+        },
+        {
+          "filename": "關門嚇到.m4a",
+          "text": {
+            "zh-tw": "關門嚇到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 3673,
+            "end": 3678
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=I7nsOejl05zEKO5dT8l1Y0p9I42GAInYwM0dDt0i9%2BA%3D"
+        },
+        {
+          "filename": "門關起來後慘叫.m4a",
+          "text": {
+            "zh-tw": "門關起來後慘叫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 4104,
+            "end": 4135
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=B%2BK7J5oDVO%2FY8o696X6gWE2cK%2FrdXv7o91hqqHGF8Ck%3D"
+        },
+        {
+          "filename": "經典尖叫3.m4a",
+          "text": {
+            "zh-tw": "經典尖叫3",
+            "ja": "古典的な悲鳴3"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 4536,
+            "end": 4538
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Rw9LYypfzLXAxuS8ORgpeHa6HtYwZdnH7Vi%2B98ePV9k%3D"
+        },
+        {
+          "filename": "尖叫Ohmygod.m4a",
+          "text": {
+            "zh-tw": "(尖叫) Oh my god!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 4596,
+            "end": 4611
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=k55SJqDbb0cPrCdAWo46kup8MeuotofZHXAP9fNH4%2B4%3D"
+        },
+        {
+          "filename": "慘叫.m4a",
+          "text": {
+            "zh-tw": "慘叫",
+            "ja": "絶叫"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 5879,
+            "end": 5886
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=F%2FYRCBXIlTPkqKNszIVPtqkw5wdo6da9y7wO7%2FZadHE%3D"
+        },
+        {
+          "filename": "慘叫什麼什麼.m4a",
+          "text": {
+            "zh-tw": "(慘叫) 什麼什麼！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pPxwV7K363Y",
+            "start": 5899,
+            "end": 5901
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=NvOx2%2F5SZXhSAV9YEZI1ZCMpK6F5YvTX9aCLe9afYqM%3D"
         }
       ]
     }
