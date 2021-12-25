@@ -1268,6 +1268,141 @@
             "end": 7958
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=f845TfGtxRH%2FPp205496p1IyRzs8txChvu8SkvGAwSw%3D"
+        },
+        {
+          "filename": "三連休三連休好棒好棒三連休.m4a",
+          "text": {
+            "zh-tw": "三連休！三連休！好棒好棒三連休！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XDH7HBAe4-4",
+            "start": 2637,
+            "end": 2643
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1ITn7rhJYCMBByk6PaQ5N6Mq96e13XOFP6WeNpXB5qI%3D"
+        },
+        {
+          "filename": "抱歉xN.m4a",
+          "text": {
+            "zh-tw": "抱歉xN",
+            "ja": "ごめんxN"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XDH7HBAe4-4",
+            "start": 4356,
+            "end": 4364
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=H%2B%2BeN89RNb3zKedymAE7t29pOGrvC1tnJy0hrIXK0H0%3D"
+        },
+        {
+          "filename": "聽說是睡眠導入過來但是被騙了たま騙了你對不起會好好導入的.m4a",
+          "text": {
+            "zh-tw": "(聽說是睡眠導入過來但是...被騙了！) たま騙了你！.....對不起，會好好導入的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XDH7HBAe4-4",
+            "start": 4433,
+            "end": 4448
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=fAB2JlmB8G9udmks8zmKbQrhQRX7TWL07aAytt3ov6U%3D"
+        },
+        {
+          "filename": "怎麼辦xN.m4a",
+          "text": {
+            "zh-tw": "怎麼辦xN",
+            "ja": "どうしようxN"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XDH7HBAe4-4",
+            "start": 5700,
+            "end": 5720
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IfL%2FjT4LC0XIc%2B7C9GCu5X4%2F72bmXxBSfQbyK4dW6QU%3D"
+        },
+        {
+          "filename": "一段落語.webm",
+          "text": {
+            "zh-tw": "(一段落語)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uL8TlDCVRxw",
+            "start": 1241,
+            "end": 1259
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HqNPHdHeLdibRnQLQVGl%2FlL719FjZSd2%2FEVkL1%2B92hI%3D"
+        },
+        {
+          "filename": "Duck學鴨子叫聲.webm",
+          "text": {
+            "zh-tw": "Duck? (學鴨子叫聲)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uL8TlDCVRxw",
+            "start": 5563,
+            "end": 5569
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4f4MAfhY%2FVMOq0HBtsREYWYpO7hYrYHXZshckozXxBg%3D"
+        },
+        {
+          "filename": "能開槍的只有有覺悟被殺之人.wav",
+          "text": {
+            "zh-tw": "能開槍的只有有覺悟被殺之人",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IpYs4P9kbcfsXUjwGlUP1bbpfb4tGsemPy3TKHhvOJs%3D"
+        },
+        {
+          "filename": "不行呢.wav",
+          "text": {
+            "zh-tw": "不行呢",
+            "ja": "無理ですね"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=TcdiPZ1UruYCpgZ2uCsOkJvEB3DNCf9qMGme4X%2FOEYs%3D"
+        },
+        {
+          "filename": "はい.wav",
+          "text": {
+            "zh-tw": "はい？",
+            "ja": "はい？"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Q5eG%2F9TNaWxrYYKxENuDkD93lBEe%2Ffab7mykDN9qXPU%3D"
         }
       ]
     },
@@ -1849,6 +1984,111 @@
             "end": 2237
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zljbQ3iuH8Ji5xRARlT7pQY10rIEMv2kccgmzTA0bdU%3D"
+        },
+        {
+          "filename": "TodayismybirthdayCanyoucelebrateforme.m4a",
+          "text": {
+            "zh-tw": "Today is my birthday. Can you celebrate for me?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ADjq2m3ICJU",
+            "start": 212,
+            "end": 236
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HNFck52%2Fp2WaLCD4AND53kgxQdLjaM3iMBYJ3jJ4POk%3D"
+        },
+        {
+          "filename": "Celebratecelebrate是什麼意思啊.m4a",
+          "text": {
+            "zh-tw": "Celebrate, celebrate是什麼意思啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ADjq2m3ICJU",
+            "start": 260,
+            "end": 264
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=PYDuA4eF4WNGP0PaxHFwifNZB16ob794hKMll%2Btxt0g%3D"
+        },
+        {
+          "filename": "TamaGrassNograssたまisnograss.m4a",
+          "text": {
+            "zh-tw": "(Tama = Grass) No grass! たま is no grass!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ADjq2m3ICJU",
+            "start": 4267,
+            "end": 4274
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Rvdcxx447rkfvoDJMF7F4q9YT7foL%2BhOxWOVevCzpUA%3D"
+        },
+        {
+          "filename": "AreyouacatNoIamdog.webm",
+          "text": {
+            "zh-tw": "Are you a cat? No, I am dog.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uL8TlDCVRxw",
+            "start": 5492,
+            "end": 5496
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nPwBU5qflIbUjvOaVXzPVyM8qoutA6NBuEHKNaiA0%2B4%3D"
+        },
+        {
+          "filename": "NotfoxIamdogandhumanshalfHalfandhalf.webm",
+          "text": {
+            "zh-tw": "Not fox. I am dog and human's half. Half and half.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uL8TlDCVRxw",
+            "start": 5522,
+            "end": 5531
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IxvU6giU0aPPVwMOlV4VAfQeYLmHvhFH8sFjj6y6C%2BE%3D"
+        },
+        {
+          "filename": "初見ですcutecatNoNo.webm",
+          "text": {
+            "zh-tw": "(初見です cute cat) No! No!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uL8TlDCVRxw",
+            "start": 5585,
+            "end": 5590
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AYA5eWGos%2FEzKu%2B58LbXeSqnKlVYQWjAJMSwAVJLXX0%3D"
+        },
+        {
+          "filename": "Dogen.webm",
+          "text": {
+            "zh-tw": "Doge*n",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uL8TlDCVRxw",
+            "start": 5610,
+            "end": 5621
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=udCj4FCnlRfZyCqa1DBsJ%2BDL8tQnpcdr8ra199HQHyg%3D"
         }
       ]
     },
@@ -2623,6 +2863,21 @@
             "end": 6301
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=G%2F3tOm%2F9MosgdwcxWNWul1lqTlA32vTba8k97SNLov8%3D"
+        },
+        {
+          "filename": "哇有蟲哇.webm",
+          "text": {
+            "zh-tw": "哇有蟲，哇！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uL8TlDCVRxw",
+            "start": 1968,
+            "end": 1970
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=0svr%2Fui5DnfrvkAy%2Buh6V2l6Sk%2BMsBrF2TEnvYgAJN0%3D"
         }
       ]
     },

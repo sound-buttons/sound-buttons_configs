@@ -67,6 +67,36 @@
             "end": 0
           },
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        },
+        {
+          "filename": "姆啾姆啾prpr.mp3",
+          "text": {
+            "zh-tw": "姆啾姆啾prpr",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=cMCa7GFuOJOruccF7EUvVYViaf9drZdCOmKfZKiHLr0%3D"
+        },
+        {
+          "filename": "戰鬥模式.wav",
+          "text": {
+            "zh-tw": "戰鬥模式",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=sCnrTyTMYTUgqiOxBmIqbmk0F9Rgsflj8sSx4pFISV4%3D"
         }
       ]
     },

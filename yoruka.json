@@ -2091,6 +2091,21 @@
             "end": 1326
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=W9By5uHTMru%2FicP6jH6f1KFPJCHbv10keAmKQT9D7hQ%3D"
+        },
+        {
+          "filename": "奇妙的招呼聲.m4a",
+          "text": {
+            "zh-tw": "奇妙的招呼聲",
+            "ja": "奇妙な挨拶"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5RlMERTjc6A",
+            "start": 295,
+            "end": 300
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=X4WKLsPBpiExD%2BI5Zk2hp3EP%2BNU8AzkDDea2Ryi561M%3D"
         }
       ]
     },

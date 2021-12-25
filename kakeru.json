@@ -15,7 +15,7 @@
     "other": null
   },
   "introButton": {
-    "filename": "自我介紹.m4a",
+    "filename": "完美的自我介紹.webm",
     "text": {
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
@@ -23,11 +23,11 @@
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
     "volume": 1,
     "source": {
-      "videoId": "JzX9tm3vzBs",
-      "start": 259,
-      "end": 271
+      "videoId": "ZdMUltQafvo",
+      "start": 3485,
+      "end": 3505
     },
-    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ykGHaUQDLtiZ11Ra4hG7z59BZnIO%2FgPZd3QRUzYcf3g%3D"
+    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lZbcZ6I6WKZX8Y2Iufvb5M44QIK6MjjP4CJkSA5aA2s%3D"
   },
   "buttonGroups": [
     {
@@ -606,6 +606,126 @@
             "end": 3733
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=oYCwnKG9kmf7KJgnUjtzajuQe2Uy0Yu6Fe3hoM2bdxU%3D"
+        },
+        {
+          "filename": "下一首歌是對不起.webm",
+          "text": {
+            "zh-tw": "下一首歌是#$%@#$%，對不起",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8UaFFC3tu9w",
+            "start": 963,
+            "end": 969
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=XAynB1QPyTdEE55K3dE5h5E5OzUKmI6y3mpa0VNTHt8%3D"
+        },
+        {
+          "filename": "最喜歡哥哥了.webm",
+          "text": {
+            "zh-tw": "最喜歡哥哥了",
+            "ja": "お兄たん大好き"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8UaFFC3tu9w",
+            "start": 4234,
+            "end": 4238
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=l1c3kZNvGPZnVnCEfL%2Fn0N9uARvofi3cebPZ7R%2B59lw%3D"
+        },
+        {
+          "filename": "誒這是什麼.webm",
+          "text": {
+            "zh-tw": "誒，這是什麼？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "OtBGtOiNc9k",
+            "start": 3298,
+            "end": 3310
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=LoFHtDoAolX%2BP88alDMb3IrHXBa0qxrXnjZNol2Y8BA%3D"
+        },
+        {
+          "filename": "最喜歡辛拉麵.wav",
+          "text": {
+            "zh-tw": "最喜歡辛拉麵",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2B2WOSfSXf6wwHgnUSfDDz9hzb8LSQncYTcAjv4Atao8%3D"
+        },
+        {
+          "filename": "久遠第四加護.wav",
+          "text": {
+            "zh-tw": "久遠第四加護",
+            "ja": "クーリアンセ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nQomAM9aKyA5DYCYLU3%2FARhoIQNdBGUZRcotwe0B93s%3D"
+        },
+        {
+          "filename": "咬到舌頭.webm",
+          "text": {
+            "zh-tw": "咬到舌頭",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZdMUltQafvo",
+            "start": 3447,
+            "end": 3457
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=wO1j5j5dsBq1eDOnSzigZuR4WkqcHfv9KnSOgGAGEfY%3D"
+        },
+        {
+          "filename": "完美的自我介紹.webm",
+          "text": {
+            "zh-tw": "完美的自我介紹",
+            "ja": "完璧の自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZdMUltQafvo",
+            "start": 3485,
+            "end": 3505
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lZbcZ6I6WKZX8Y2Iufvb5M44QIK6MjjP4CJkSA5aA2s%3D"
+        },
+        {
+          "filename": "打不開門.webm",
+          "text": {
+            "zh-tw": "(打不開門)",
+            "ja": "(ドアを開けられない)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZdMUltQafvo",
+            "start": 6777,
+            "end": 6789
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JlRs065g36vjz%2FbwoprbSJqiUHchzoIaLLkJOhyPv9Y%3D"
         }
       ]
     },
@@ -774,6 +894,36 @@
             "end": 6448
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=qnWaeSouULq5DiyKDMssRYkcI3jWHmMszkzXDiDWKqA%3D"
+        },
+        {
+          "filename": "大.webm",
+          "text": {
+            "zh-tw": "大\uD83C\uDF63",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZdMUltQafvo",
+            "start": 9967,
+            "end": 9970
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=TPR5laPwerBhUCUHHZ%2B7GzQTVwgFAD983PHl0KSKZ9c%3D"
+        },
+        {
+          "filename": "大_637757622578175097.webm",
+          "text": {
+            "zh-tw": "大\uD83C\uDF63",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZdMUltQafvo",
+            "start": 9955,
+            "end": 9962
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=V5XuBBKEvcC9vF2%2BiGe3S7z1Wz3Xf07lZQhSOghZbiw%3D"
         }
       ]
     },
@@ -993,6 +1143,21 @@
             "end": 5901
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=NvOx2%2F5SZXhSAV9YEZI1ZCMpK6F5YvTX9aCLe9afYqM%3D"
+        },
+        {
+          "filename": "音源被切歌啊確實是這樣啊.webm",
+          "text": {
+            "zh-tw": "(音源被切歌) 啊！確實是這樣，啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "T_eGvUxWj7Y",
+            "start": 4474,
+            "end": 4480
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kDHQFJyfSje7Cod4FwkhRo1dexxsuR%2FKkz7sGGZUoFk%3D"
         }
       ]
     }

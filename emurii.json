@@ -501,6 +501,66 @@
             "end": 2595
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=H2mqf2LzTCjPfJJXop1JWHCA%2FY2xnANlvmteXTbknZ8%3D"
+        },
+        {
+          "filename": "GEASS.webm",
+          "text": {
+            "zh-tw": "(GEASS)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "zuxwNgc5wXU",
+            "start": 7883,
+            "end": 7893
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=8rYo5AsNuzLgSDpI6u%2BrgJw%2B%2FV4%2FFzBmJspB%2Fp67yE0%3D"
+        },
+        {
+          "filename": "IdontknowsongsorrysorryIdontknowSorrysorry.webm",
+          "text": {
+            "zh-tw": "I don't know song, sorry sorry I don't know. Sorry, sorry!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "cmJW5SgTxuk",
+            "start": 4715,
+            "end": 4722
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RjvA0Sh5wt2zffFiI4kLis7QzyR7DN3zXmHGW0MXN2U%3D"
+        },
+        {
+          "filename": "忘卻光線嗶嗶嗶嗶.webm",
+          "text": {
+            "zh-tw": "忘卻光線！嗶嗶嗶嗶—",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "cmJW5SgTxuk",
+            "start": 5415,
+            "end": 5420
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=8BYxwe67ktn7tmkUu5D8Y9AkRBWZqq4H4Ay8yPOoS%2BI%3D"
+        },
+        {
+          "filename": "歇斯底里baba.wav",
+          "text": {
+            "zh-tw": "歇斯底里baba",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "null",
+            "start": 0,
+            "end": 0
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=GSRphJ64fD7TWYbebxA0TEwbXibV1QVhLSJdTtnAJUE%3D"
         }
       ]
     },
