@@ -9,17 +9,17 @@
       "secondary": "#a991d4"
     }
   },
-  {
-    "name": "yuna",
-    "fullName": "伊冬ユナ",
-    "fullConfigURL": "assets/configs/yuna.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-    "color": {
-      "primary": "#3C7A9B",
-      "secondary": "#EEDED4"
-    }
-  },
+  // {
+  //   "name": "yuna",
+  //   "fullName": "伊冬ユナ",
+  //   "fullConfigURL": "assets/configs/yuna.json",
+  //   "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+  //   "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+  //   "color": {
+  //     "primary": "#3C7A9B",
+  //     "secondary": "#EEDED4"
+  //   }
+  // },
   {
     "name": "kakeru",
     "fullName": "間取かける",
@@ -43,6 +43,17 @@
     }
   },
   {
+    "name": "aruma",
+    "fullName": "薬袋アルマ",
+    "fullConfigURL": "assets/configs/aruma.json",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.json?sv=2020-10-02&si=%E6%B0%B8%E8%AE%80&sr=b&sig=90GLNScpEQbQ2msy8B86j7VRnku%2Bp9KoDm7JzFyIkks%3D",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.png?sv=2020-10-02&si=%E6%B0%B8%E8%AE%80&sr=b&sig=G4qtcOZULvr19XC0%2Bb5b6ZGWffT5PJT8ei5VdOFCnBY%3D",
+    "color": {
+      "primary": "#2DA1E9",
+      "secondary": "#FFFFFF"
+    }
+  },
+  {
     "name": "yoruka",
     "fullName": "須多夜花",
     "fullConfigURL": "assets/configs/yoruka.json",
@@ -52,16 +63,16 @@
       "primary": "#33272B",
       "secondary": "#E55A74"
     }
-  },
-  {
-    "name": "hachi",
-    "fullName": "HACHI",
-    "fullConfigURL": "assets/configs/hachi.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-    "color": {
-      "primary": "#3c3942",
-      "secondary": "#f4b505"
-    }
   }
+  // {
+  //   "name": "hachi",
+  //   "fullName": "HACHI",
+  //   "fullConfigURL": "assets/configs/hachi.json",
+  //   "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+  //   "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+  //   "color": {
+  //     "primary": "#3c3942",
+  //     "secondary": "#f4b505"
+  //   }
+  // }
 ]

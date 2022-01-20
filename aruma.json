@@ -1,0 +1,40 @@
+{
+  "name": "aruma",
+  "fullName": "薬袋アルマ",
+  "fullConfigURL": "assets/configs/aruma.json",
+  "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.png?sv=2020-10-02&si=%E6%B0%B8%E8%AE%80&sr=b&sig=G4qtcOZULvr19XC0%2Bb5b6ZGWffT5PJT8ei5VdOFCnBY%3D",
+  "intro": "ご機嫌よう～\n個人勢VtuberグループGuildCQ所属の薬袋アルマ（Minai Aruma）です🌿🧪\n\nおしゃべりが大好きなので、様々な配信を挑戦して行きたいと思います！\nお時間ありましたら是非遊びにいらしてください✨\nもしお気になって頂けたら\nチャンネル登録・高評価・コメントして頂けるととても嬉しいです💋",
+  "color": {
+    "primary": "#2DA1E9",
+    "secondary": "#FFFFFF"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/c/ArumaCh%E8%96%AC%E8%A2%8B%E3%82%A2%E3%83%AB%E3%83%9E",
+    "twitter": "https://twitter.com/MinaiAlma",
+    "facebook": "",
+    "other": "https://www.instagram.com/minaiaruma/"
+  },
+  "introButton": {
+    "filename": "自我介紹.m4a",
+    "text": {
+      "zh-tw": "自我介紹",
+      "ja": "自己紹介"
+    },
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+    "volume": 1,
+    "source": {
+      "videoId": "h_Pz0HTsE6g",
+      "start": 13220,
+      "end": 13243
+    },
+    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N16e7vSpgnLnMix6qrQyLX9NO8VCUyxJpm4i1T0yNiI%3D"
+  },
+  "buttonGroups": [{
+    "name": {
+      "zh-tw": "咩",
+      "ja": "メー"
+    },
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+    "buttons": []
+  }]
+}
