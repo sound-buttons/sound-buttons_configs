@@ -29,26 +29,558 @@
     },
     "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ePW6Rm%2Fp1kglBSF9CZVHSqOsLBtvM96UglOv5D9mbhE%3D"
   },
-  "buttonGroups": [{
-    "name": {
-      "zh-tw": "咩",
-      "ja": "メー"
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "咩Ꮚ•̀ꈊ•́Ꮚ",
+        "ja": "メーᏊ•̀ꈊ•́Ꮚ"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "buttons": [
+        {
+          "filename": "自我介紹.webm",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "X7NyMoi-8Pk",
+            "start": 493,
+            "end": 545
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ePW6Rm%2Fp1kglBSF9CZVHSqOsLBtvM96UglOv5D9mbhE%3D"
+        },
+        {
+          "filename": "呀就是這樣呦就是這樣.webm",
+          "text": {
+            "zh-tw": "呀~就是這樣呦，就是這樣",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 6995,
+            "end": 6999
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ICOa49Dxa242SjGedozrNEoCYI06d7pK0QteEIVU06U%3D"
+        },
+        {
+          "filename": "笨蛋.webm",
+          "text": {
+            "zh-tw": "笨蛋",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jAJvoVjV7Ig",
+            "start": 3553,
+            "end": 3554
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=GOrCrY8u8ZRYyNeqNZr3YnXOqr86CmqQUJkJW21Dghg%3D"
+        },
+        {
+          "filename": "好過份好過份喔.webm",
+          "text": {
+            "zh-tw": "好過份，好過份喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jAJvoVjV7Ig",
+            "start": 4448,
+            "end": 4450
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=A2Q4i6N0driGrJ7lPMbFLFYgG4PlfRiJ%2BmmuzX%2FJdfg%3D"
+        },
+        {
+          "filename": "學奇怪的東南亞口音.webm",
+          "text": {
+            "zh-tw": "(學奇怪的東南亞口音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 6089,
+            "end": 6109
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=wsKX5PrH0EUbjCf857e9uyswJ4267XWGbXNNPsz3X8M%3D"
+        },
+        {
+          "filename": "學奇怪的東南亞口音2.webm",
+          "text": {
+            "zh-tw": "(學奇怪的東南亞口音)2",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 6058,
+            "end": 6079
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=dkX9bnfGwL5V65W2HRsVHSZkQlBjX6Pa10o1NIxch2M%3D"
+        },
+        {
+          "filename": "咩.webm",
+          "text": {
+            "zh-tw": "咩Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": "メーᏊ•̀ꈊ•́Ꮚ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bK7OqZVARQU",
+            "start": 1596,
+            "end": 1603
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=lRfPZBwI2FD0ZIY4ay6lgfktWueyFQo4neXd3r0joiY%3D"
+        },
+        {
+          "filename": "ComeonbabyAmerica.webm",
+          "text": {
+            "zh-tw": "Come on baby America",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bK7OqZVARQU",
+            "start": 1611,
+            "end": 1619
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=tgMBTTPMTrrtslubg9FZLDAENGlTRgCrCI%2B3G5SteiA%3D"
+        },
+        {
+          "filename": "宇宙戰艦アルマED.webm",
+          "text": {
+            "zh-tw": "宇宙戰艦アルマ ED",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "s78U7mgXFlU",
+            "start": 9310,
+            "end": 9416
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=hIHofxIzys%2B1aPsfFIksERtfG9ys1PP26xUGcD%2Bt0zE%3D"
+        }
+      ]
     },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
-    "buttons": [{
-      "filename": "自我介紹.webm",
-      "text": {
-        "zh-tw": "自我介紹",
-        "ja": "自己紹介"
+    {
+      "name": {
+        "zh-tw": "中文Ꮚ•̀ꈊ•́Ꮚ",
+        "ja": "中国語Ꮚ•̀ꈊ•́Ꮚ"
       },
-      "baseRoute": null,
-      "volume": 1,
-      "source": {
-        "videoId": "X7NyMoi-8Pk",
-        "start": 493,
-        "end": 545
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "buttons": [
+        {
+          "filename": "我這個人做事非常效率的艦長做事非常有效路咬到.webm",
+          "text": {
+            "zh-tw": "我這個人做事非常效率的，艦長做事非常有效路((咬到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 221,
+            "end": 226
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=n0VY2D58hDNjK8FH7yeSKIsFbKnVg26p1%2FGphDE0mwE%3D"
+        },
+        {
+          "filename": "嘛誰敢找我我就讓你社會性死亡ハハᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "嘛，誰敢找我，我就讓你社會性死亡 ハハᏊ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 6853,
+            "end": 6858
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=eUq2ZOeITWSbzm2V6S9hsEuEwLjUArG5VFyJgYt9jEY%3D"
+        },
+        {
+          "filename": "看是你的人脈廣還是我的人脈廣來啊ハハᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "看是你的人脈廣還是我的人脈廣，來啊！ハハᏊ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 6858,
+            "end": 6864
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=aqb0jPpg%2B3I0CegayA2rcSZACwLOfRcQPHRDXfm0%2BSU%3D"
+        },
+        {
+          "filename": "你腦子還好嗎.webm",
+          "text": {
+            "zh-tw": "你腦子還好嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 6927,
+            "end": 6929
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=FshGaBxLera9xvRNd7qUTMAQdfcOduj1sXR%2BE2J7nNM%3D"
+        },
+        {
+          "filename": "不會殺了你們的安心吧.webm",
+          "text": {
+            "zh-tw": "不會殺了你們的，安心吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7021,
+            "end": 7024
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=0brx4gd%2Be67bcrVLQUz8%2F%2FExk6R%2FTaT33n6Q2jiN8k8%3D"
+        },
+        {
+          "filename": "字正腔圓艦長覺得你各位可以刷慢一點太快了.webm",
+          "text": {
+            "zh-tw": "(字正腔圓) 艦長覺得～你各位可以刷慢一點，太快了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7126,
+            "end": 7134
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=u4l6eAuyPZ8EFBdZ9BZMapFJvaG9CUAifC6xNQEryFE%3D"
+        },
+        {
+          "filename": "字正腔圓艦長今天想用發音標準的方式來和大家聊聊天大家覺得如何呢.webm",
+          "text": {
+            "zh-tw": "(字正腔圓) 艦長今天想用發音標準的方式來和大家聊聊天，大家覺得如何呢?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7176,
+            "end": 7192
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=JMGdAtJxtATQReg300rHDJOYRmV1aNQGs1bSWf6Qht8%3D"
+        },
+        {
+          "filename": "字正腔圓草怎麼會草呢艦長這麼努力努力到肚子都餓了呢.webm",
+          "text": {
+            "zh-tw": "(字正腔圓) 「草」，怎麼會草呢？艦長這麼努力，努力到肚子都餓了呢！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7207,
+            "end": 7214
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=MQwbjppXTaxSuj%2BkM7URFw810X7ipDg1b2G74wshcxk%3D"
+        },
+        {
+          "filename": "好清楚謝謝艦長的解析度一直都是高清的.webm",
+          "text": {
+            "zh-tw": "「好清楚」，謝謝，艦長的解析度一直都是高清的！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7246,
+            "end": 7251
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=7NjDPwYora8tP32sCHuDA7eZw4pDWgQ0Q%2Fx2N%2F7iCc4%3D"
+        },
+        {
+          "filename": "您撥的號碼是空號請查明後再撥.webm",
+          "text": {
+            "zh-tw": "「您撥的號碼是空號,請查明後再撥」",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7322,
+            "end": 7327
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=1j1I9KHI5tnlMoajXJvRoXnN2B4SZ3V%2FAsHKidh3rm4%3D"
+        },
+        {
+          "filename": "字正腔圓我知道你們都是來自4V那個V還要故意這樣唸.webm",
+          "text": {
+            "zh-tw": "(字正腔圓) 我知道你們都是來自4V～那個V還要故意這樣唸",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7469,
+            "end": 7477
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=gPgXlLtr8NXa0fviKuvG4vsU5Y%2FEEghr3x6B7g5cvxQ%3D"
+        },
+        {
+          "filename": "哥哥你看給我這什麼爛貨啦我的眼睛捕捉不良.webm",
+          "text": {
+            "zh-tw": "哥哥你看給我這什麼爛貨啦！我的眼睛！(捕捉不良)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7888,
+            "end": 7893
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=XfiH9RvCKQ0Ku11XCHVelFEHMoA%2FQTV40K287Dk4WcI%3D"
+        },
+        {
+          "filename": "我也不會我只能問哥哥問哥哥.webm",
+          "text": {
+            "zh-tw": "我也不會我只能問哥哥。問哥哥！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 8081,
+            "end": 8085
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=SV8AF9H7VJL2yDKhxvOrlMy3ff2N25qEwE2pUFziRUI%3D"
+        },
+        {
+          "filename": "辣辣魚.webm",
+          "text": {
+            "zh-tw": "辣辣魚",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bK7OqZVARQU",
+            "start": 1642,
+            "end": 1644
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=HQXp62A%2FvYi%2FpXzhYzB3%2ByDPQt6e%2B09Oezpj603pUI4%3D"
+        },
+        {
+          "filename": "魚好大的魚.webm",
+          "text": {
+            "zh-tw": "魚，好大的魚~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bK7OqZVARQU",
+            "start": 1636,
+            "end": 1639
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=7YZUJzIV9e8fWTUs3Ws8rf4P6m7m%2FdqtfrQnA1AERqU%3D"
+        },
+        {
+          "filename": "腦子很重要每個人都需要一個.webm",
+          "text": {
+            "zh-tw": "腦子很重要，每個人都需要一個！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "km2khgE7l0g",
+            "start": 1442,
+            "end": 1446
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=gaBqmAsNL512h45a7iitj5txM6KFApZJv%2Fg9%2BvJ7mSk%3D"
+        },
+        {
+          "filename": "粵語你好啊你好啊.webm",
+          "text": {
+            "zh-tw": "(粵語) 你好啊～你好啊～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "s78U7mgXFlU",
+            "start": 8025,
+            "end": 8028
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=j%2F9%2FNKUMO8QexdW%2BwVOlmbR04tWGtuJqC5bMxlRcEW4%3D"
+        },
+        {
+          "filename": "超真實罵倒.webm",
+          "text": {
+            "zh-tw": "(超真實罵倒..)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "s78U7mgXFlU",
+            "start": 8783,
+            "end": 8829
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=2FpxAJXv6dAJGAPSv4dEJ0CvwzBygdtrMM81Gl%2BjBwk%3D"
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+        "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
       },
-      "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ePW6Rm%2Fp1kglBSF9CZVHSqOsLBtvM96UglOv5D9mbhE%3D"
-    }]
-  }]
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "buttons": [
+        {
+          "filename": "ハハᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7480,
+            "end": 7481
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=rJBe5HFZxBIANXv7GanVdeGc1I2dGbClC0NqLKt6MOo%3D"
+        },
+        {
+          "filename": "ハハᏊꈊᏊ_637787100792165245.webm",
+          "text": {
+            "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yrKGu6EmDNY",
+            "start": 7798,
+            "end": 7801
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=j%2F2w7G5T%2Bye7OiRpDIgGQgMqAqTDdJOC2YRYF1GVA94%3D"
+        },
+        {
+          "filename": "童貞啦哈哈童貞ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "童貞啦！哈哈童貞！Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jAJvoVjV7Ig",
+            "start": 3545,
+            "end": 3551
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=YBfs3wvoLhjdQweuaPZT09sC36VIhwMjYi5PtV70t3Y%3D"
+        },
+        {
+          "filename": "哈哈ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bK7OqZVARQU",
+            "start": 5982,
+            "end": 5984
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=FsOiijXgRwbKgJRnICEIotSStZ%2BO5MXaqEM%2FYbgNk3o%3D"
+        },
+        {
+          "filename": "哈哈ᏊꈊᏊ_637787264087283812.webm",
+          "text": {
+            "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bK7OqZVARQU",
+            "start": 6732,
+            "end": 6734
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=5sOzNUmdp%2BLQeu%2Fi2SUx3pjclYCqPdRzeJ8USsAzOSc%3D"
+        },
+        {
+          "filename": "哈哈ᏊꈊᏊ_637787264896421735.webm",
+          "text": {
+            "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bK7OqZVARQU",
+            "start": 1103,
+            "end": 1106
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=tzl8tzGbAoNq8Ne9ZrhrUIxZrOpM6ATyaenVdYl3ms4%3D"
+        },
+        {
+          "filename": "哈哈ᏊꈊᏊ_637787272063288029.webm",
+          "text": {
+            "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5kimmzFDw0g",
+            "start": 1126,
+            "end": 1127
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=effzenH1tsr%2Bm%2Bwc4MSWwAmSBGfDk%2BGuapTsC%2BYUbdI%3D"
+        },
+        {
+          "filename": "哈哈ᏊꈊᏊ_637787276986075677.webm",
+          "text": {
+            "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "s78U7mgXFlU",
+            "start": 8830,
+            "end": 8832
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=7DjVpIU7qOgQ0HDbSJi7s6HM1pQiHrr7ZRbbJoG1cKs%3D"
+        }
+      ]
+    }
+  ]
 }
