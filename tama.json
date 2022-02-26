@@ -23,21 +23,19 @@
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
     "volume": 1,
     "source": {
-      "videoId": "h_Pz0HTsE6g",
-      "start": 13220,
-      "end": 13243
+      "videoId": "qccmGkKJ5ZQ",
+      "start": 1388,
+      "end": 1456
     },
-    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N16e7vSpgnLnMix6qrQyLX9NO8VCUyxJpm4i1T0yNiI%3D"
+    "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ocTWxJN%2B4B%2BDtfy%2FBNnD70toijLxQwEn%2FfhyTdTCTq4%3D"
   },
-  "buttonGroups": [
-    {
+  "buttonGroups": [{
       "name": {
         "zh-tw": "たま汪汪",
         "ja": "たまわんわん"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [
-        {
+      "buttons": [{
           "filename": "星爆.mp3",
           "text": {
             "zh-tw": "星爆氣流斬！",
@@ -1457,8 +1455,7 @@
         "ja": "詠唱"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [
-        {
+      "buttons": [{
           "filename": "Unlimited_Blade_Works.mp3",
           "text": "Unlimited Blade Works",
           "baseRoute": null,
@@ -1579,8 +1576,7 @@
         "ja": "中国語本当上手"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [
-        {
+      "buttons": [{
           "filename": "星爆中文.wav",
           "text": {
             "zh-tw": "星爆氣流斬！",
@@ -1789,8 +1785,7 @@
         "ja": "Tamalish"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [
-        {
+      "buttons": [{
           "filename": "I_am_dog.m4a",
           "text": {
             "zh-tw": "Are you cat or fox? Nonononono, I am dog.",
@@ -2143,8 +2138,7 @@
         "ja": "悲鳴 (音量注意)"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [
-        {
+      "buttons": [{
           "filename": "悲鳴.m4a",
           "text": {
             "zh-tw": "悲鳴",
@@ -2947,8 +2941,7 @@
         "ja": "歌フレーズ"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [
-        {
+      "buttons": [{
           "filename": "ヴァンパイア吸血鬼.m4a",
           "text": {
             "zh-tw": "ヴァンパイア (吸血鬼)",
