@@ -9,17 +9,6 @@
       "secondary": "#a991d4"
     }
   },
-  // {
-  //   "name": "yuna",
-  //   "fullName": "伊冬ユナ",
-  //   "fullConfigURL": "assets/configs/yuna.json",
-  //   "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-  //   "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-  //   "color": {
-  //     "primary": "#3C7A9B",
-  //     "secondary": "#EEDED4"
-  //   }
-  // },
   {
     "name": "kakeru",
     "fullName": "間取かける",
@@ -64,15 +53,4 @@
       "secondary": "#E55A74"
     }
   }
-  // {
-  //   "name": "hachi",
-  //   "fullName": "HACHI",
-  //   "fullConfigURL": "assets/configs/hachi.json",
-  //   "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-  //   "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-  //   "color": {
-  //     "primary": "#3c3942",
-  //     "secondary": "#f4b505"
-  //   }
-  // }
 ]

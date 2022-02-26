@@ -2106,8 +2106,188 @@
             "end": 300
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=X4WKLsPBpiExD%2BI5Zk2hp3EP%2BNU8AzkDDea2Ryi561M%3D"
+        },
+        {
+          "filename": "親愛的你看我今天有沒有什麼不一樣.webm",
+          "text": {
+            "zh-tw": "親愛的，你看我今天有沒有什麼不一樣?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WoHLU644Ntc",
+            "start": 1136,
+            "end": 1166
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=XJM7m6hR%2FSrIZMChrIHLtnb2M%2BZOrsfQiV9R%2BwGUfZY%3D"
+        },
+        {
+          "filename": "唉呀妳今天特別可愛呢所以我以前不可愛嗎.webm",
+          "text": {
+            "zh-tw": "「唉呀，妳今天特別可愛呢！」「所以我以前不可愛嗎?」",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WoHLU644Ntc",
+            "start": 1184,
+            "end": 1188
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=AzxQGaOZq2FVyohNH24REQEm67Sr9HLVHf9dgkQP%2FQQ%3D"
+        },
+        {
+          "filename": "夜花今天好可愛喔我知道謝謝.webm",
+          "text": {
+            "zh-tw": "(夜花今天好可愛喔) 我知道，謝謝",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WoHLU644Ntc",
+            "start": 1230,
+            "end": 1234
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=hcHDhevDubwfP8S06%2BspkpwayhlY8MPLNCzvcIXpHSE%3D"
+        },
+        {
+          "filename": "事件的背後矢張始終在.webm",
+          "text": {
+            "zh-tw": "「事件的背後，矢張始終在」",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WoHLU644Ntc",
+            "start": 8821,
+            "end": 8823
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Jq8IW6ustd%2FEq%2F9aAtGugLYvYs0OIXjaFTaWPqj9bAM%3D"
+        },
+        {
+          "filename": "我下播了就變成窩在床裡面的廢物這樣子爆笑.webm",
+          "text": {
+            "zh-tw": "我下播了就變成窩在床裡面的廢物這樣子 (爆笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WLMZ2XwzHMw",
+            "start": 700,
+            "end": 710
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ZSrwTeQk%2FIT7Pmy4YQIRGbRThA9oxig%2BpMYYl8gaEME%3D"
+        },
+        {
+          "filename": "沒有NTR沒有NTR人家沒有跟你在一起那叫失戀.webm",
+          "text": {
+            "zh-tw": "沒有NTR沒有NTR，人家沒有跟你在一起，那叫失戀",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WLMZ2XwzHMw",
+            "start": 548,
+            "end": 563
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=dF8XujV04L%2FrIBVtzuBXTJiZcGKMcfJYbPedQH%2F88UQ%3D"
+        },
+        {
+          "filename": "醒醒吧你們真的要醒醒啊.webm",
+          "text": {
+            "zh-tw": "醒醒吧，你們真的要醒醒啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WLMZ2XwzHMw",
+            "start": 756,
+            "end": 761
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=wrv2vgicF7a6CMNy833TQWdWhKjtWjarltjX7d4Q5Mg%3D"
+        },
+        {
+          "filename": "我只是路過的假面騎士給我記住了.webm",
+          "text": {
+            "zh-tw": "我只是路過的假面騎士，給我記住了！",
+            "ja": "通りすがりの仮面ライダーだ、覚えておけ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1775,
+            "end": 1780
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=JygWq2%2BTStN3nJi8cViCixL1%2B%2BqlEHbXDav6EjCu6h4%3D"
+        },
+        {
+          "filename": "肥宅音歡迎回來主人.webm",
+          "text": {
+            "zh-tw": "(肥宅音) 歡迎回來主人！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 875,
+            "end": 882
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=h69uZjJ9z%2Flv%2FkmpRRYwnKcp0KqR%2B7F6WM9iN8mNyQs%3D"
+        },
+        {
+          "filename": "誒為什麼會有人加入會員你是有病是不是ww如果我是你我就退費了哈哈哈ww.webm",
+          "text": {
+            "zh-tw": "誒為什麼會有人加入會員，你是有病是不是ww 如果我是你我就退費了哈哈哈ww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1474,
+            "end": 1484
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=qmmRGCbpVzSLDxnxeSmiEQNid5IDy6hkTaCiGkGV4h8%3D"
+        },
+        {
+          "filename": "醒醒夜花不是你婆.webm",
+          "text": {
+            "zh-tw": "醒醒，夜花不是你婆！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 693,
+            "end": 698
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=1rvql0qEdvXvM4oRnSM17q7izkQBRfjYFea12nner4M%3D"
         }
-      ]
+      ,
+        {
+          "filename": "你們今天都可以說夜花是婆沒有關係.webm",
+          "text": {
+            "zh-tw": "你們今天都可以說夜花是婆沒有關係",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 961,
+            "end": 967
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=zcx1A6YSUtE1YqN97ZzITPADgW%2BYGNksWbkrWgw8OCM%3D"
+        }]
     },
     {
       "name": {
@@ -2325,6 +2505,21 @@
             "end": 1332
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2BpoItZeoMsq%2Bnw8xzouDHaC7Z1ty1qFbheGT8hmFO%2BM%3D"
+        },
+        {
+          "filename": "ㄩㄇ台女版本.webm",
+          "text": {
+            "zh-tw": "ㄩㄇ (台女版本)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WoHLU644Ntc",
+            "start": 1290,
+            "end": 1304
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=iUQXo%2F1fWOW6lZRCh0t1XRgi2EW4Q0kVDYhZQxfmlMs%3D"
         }
       ]
     },
@@ -2712,10 +2907,456 @@
             "end": 3410
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vMBbHzXAFbpS9aWnaC8DdSSE7XpasGhGrqZt%2FTJgK64%3D"
+        },
+        {
+          "filename": "可愛噴嚏.webm",
+          "text": {
+            "zh-tw": "可愛噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "X0I4X8JqUKk",
+            "start": 8087,
+            "end": 8092
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=HC7B1DLrMZJNZXPvPUb4pIz2wXKtDK5FuP83MNpMttA%3D"
         }
       ]
     },
+
     {
+      "name": {
+        "zh-tw": "\uD83D\uDC9D虛擬情人\uD83D\uDC9D",
+        "ja": "\uD83D\uDC9D虛擬情人\uD83D\uDC9D"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
+      "buttons": [
+        {
+          "filename": "活動介紹.webm",
+          "text": {
+            "zh-tw": "活動介紹",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 2146,
+            "end": 2161
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=N4aL7sTvjJg1Yh3Yx%2FhqQVfqtE1k4YCvHn28oPTpvXQ%3D"
+        },
+        {
+          "filename": "情人節快樂HappyValentine.webm",
+          "text": {
+            "zh-tw": "情人節快樂，Happy Valentine!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 433.095,
+            "end": 440.999
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=rdVORnLyKKGTDzKmIUsrsu4ZFc%2FrhMZPBK9eYd%2ByItg%3D"
+        },
+        {
+          "filename": "我是夜花啊你們怎麼不認識我了親愛的.webm",
+          "text": {
+            "zh-tw": "我是夜花啊，你們怎麼不認識我了，親愛的...",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 254,
+            "end": 270
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=XgWDBYCbjvu5jHxwBjtsVLDWwM9pCVXvmfLD3KoIdhA%3D"
+        },
+        {
+          "filename": "麵麵好燙燙幫人家吹吹好不好.webm",
+          "text": {
+            "zh-tw": "麵麵、好燙燙、幫人家吹吹，好不好",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 280,
+            "end": 301
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=pUuGYDZxavQh9nweRxec6EGm90UrTVQPbmnVARqG%2Ffw%3D"
+        },
+        {
+          "filename": "北鼻人家今天天想吃牛肉麵麵不要辣辣還要一杯珍珠奶茶茶喔最好是每個字都可以疊字字白痴喔.webm",
+          "text": {
+            "zh-tw": "「北鼻~人家今天天想吃牛肉麵麵，不要辣辣，還要一杯珍珠奶茶茶喔！」最好是每個字都可以疊字字，白痴喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1361,
+            "end": 1374
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=7cmerVOgnHqB0YuimFHxfgXBM8fiZo3x5E0UEUWC%2BSA%3D"
+        },
+        {
+          "filename": "初見安安Darling安安嘔新朋友嚇到了對不起假笑.webm",
+          "text": {
+            "zh-tw": "初見安安，Darling安安 (嘔) 新朋友嚇到了，對不起 (假笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 358,
+            "end": 378
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=zbJiZ0cIT6raPlL%2FaUVXQPeqlf9nUf8TCcipxxDn%2BTk%3D"
+        },
+        {
+          "filename": "請問哪一個才是主播呢當然是你眼前拿著巧克力很害羞的這個啊假笑.webm",
+          "text": {
+            "zh-tw": "請問哪一個才是主播呢? 當然是你眼前拿著巧克力很害羞的這個啊 (假笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 416,
+            "end": 428
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=b3XkqHHNrxL5p0mxFetbF2FaXpKYzLN61jhfdDBvLTc%3D"
+        },
+        {
+          "filename": "日文我從以前就一直喜歡著你請跟我交往.webm",
+          "text": {
+            "zh-tw": "(日文) 我從以前就一直喜歡著你，請跟我交往！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 496,
+            "end": 505
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=2NDUeJtmuwqBrOwZLm%2FVpc2wsSDZ%2FFdH%2BCfztywsfGc%3D"
+        },
+        {
+          "filename": "日文決鬥來決鬥吧.webm",
+          "text": {
+            "zh-tw": "(日文) 決鬥！來決鬥吧！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 558,
+            "end": 564
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=bk%2BuGdb7e8gf%2FlGBf5cQ1WU3N5qKlsbSgYDt95q13bo%3D"
+        },
+        {
+          "filename": "你們都給我去旁邊蹲好你們沒有女朋友可憐.webm",
+          "text": {
+            "zh-tw": "你們都給我去旁邊蹲好，你們沒有女朋友！可憐！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 565,
+            "end": 571
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=vAgcy5aGW7bsFF9Ks1VMclJLg0iEKR64l9ViQ0HnK6c%3D"
+        },
+        {
+          "filename": "我要色色可以嗎.webm",
+          "text": {
+            "zh-tw": "我要色色，可以嗎？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 577,
+            "end": 582
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=EU%2FyWZTBh7zskLupaajFEyp3AB7orLTPZr128CRWATk%3D"
+        },
+        {
+          "filename": "請用很婆的聲音說強韌無敵最強粉碎玉碎大喝采.webm",
+          "text": {
+            "zh-tw": "(請用很婆的聲音說) 強韌、無敵、最強！！粉碎、玉碎、大喝采！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 594,
+            "end": 608
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=xeWZYDOdfjz1%2Bfd5GhYNg0XNYqObdynMZ%2FNS9d%2FJ3xM%3D"
+        },
+        {
+          "filename": "日文這個巧克力給你所以希望能摸摸我的頭.webm",
+          "text": {
+            "zh-tw": "(日文) 這個巧克力...給你！所以，希望能摸摸我的頭",
+            "ja": "このチョコ...あげる！だから...なでなでして欲しい"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 664,
+            "end": 675
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=DmksvWvrfL%2BWJxzd3GWOSbcpDBrrdlZ7FdLBWsQ8s34%3D"
+        },
+        {
+          "filename": "釘宮三連.webm",
+          "text": {
+            "zh-tw": "釘宮三連",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 682,
+            "end": 692
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Q%2FRTXLyh4xUQFy6IS1VSgty2uu6KUSSHR%2BeNDWHVKew%3D"
+        },
+        {
+          "filename": "日文把你那些熱熱的全部都給我.webm",
+          "text": {
+            "zh-tw": "(日文) 把你那些...熱熱的...全部都給我❤️",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 730,
+            "end": 740
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=6STOWiGVgUMnqw7NG2dMQXT4sc3rYYalgpsHCbS1wnY%3D"
+        },
+        {
+          "filename": "用日文說要先吃飯呢還是洗澡還是說要哇哇哇哇噠噠噠噠你已經死了什麼.webm",
+          "text": {
+            "zh-tw": "用日文說「要先吃飯呢，還是洗澡，還是說要哇..哇..哇..哇噠噠噠噠，你已經死了，什麼」",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 759,
+            "end": 774
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Kmz3iBHg0J3FGjgeKfNDqd1TwZF1vVsN9lObP4Eny78%3D"
+        },
+        {
+          "filename": "叫哥哥起床的夜花.webm",
+          "text": {
+            "zh-tw": "(叫哥哥起床的夜花)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 789,
+            "end": 801
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=6VW1%2FBNov2sKBdgMhLerqLHD5KYnmhPby0MpaRW1BZs%3D"
+        },
+        {
+          "filename": "情人節快樂雖然你們沒有情人.webm",
+          "text": {
+            "zh-tw": "情人節快樂！雖然你們沒有情人！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 860,
+            "end": 865
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=R2xxqB3R7HWY9P%2BWPjman%2BirViPkuWKQ93WMajhVlMs%3D"
+        },
+        {
+          "filename": "我真的快笑死了可以笑一天幹wwww.webm",
+          "text": {
+            "zh-tw": "(我真的快笑死了，可以笑一天) 幹wwww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 922,
+            "end": 929
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Ooq6QsDb1r0McQMCLVBcrr6vajpy65QZJWjU12Tjxas%3D"
+        },
+        {
+          "filename": "不管你身上被切去多少的部位夜花依然會那麽愛你的老公.webm",
+          "text": {
+            "zh-tw": "不管你身上被切去多少的部位，夜花依然會那麽愛你的，老~公~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1016,
+            "end": 1024
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=U%2B4xFe63DwFHg7JeEmtMkOyCeA2lOec9JXgq0RlbOTw%3D"
+        },
+        {
+          "filename": "我不管我不管我就是喜歡你嘛我就是要一直一直跟你在一起啦.webm",
+          "text": {
+            "zh-tw": "我不管我不管！我就是喜歡你嘛！我就是要一直一直跟你在一起啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1281,
+            "end": 1289
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=HTiGAsh6KVglFUHUrnR2OgT%2BeeWFu%2FB0%2BlevSJiAxxU%3D"
+        },
+        {
+          "filename": "加入會員可以得到我跟夜花婚禮的喜帖一張幹你去吃屎我是說不要講出來啦腦公.webm",
+          "text": {
+            "zh-tw": "(加入會員可以得到我跟夜花婚禮的喜帖一張) 幹你去吃屎，我是說，不要講出來啦腦公~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1595,
+            "end": 1607
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=xmmmoZnNiNjtIB%2FayIjn4ERJ5cKrF3rQE72Zdx7uPjg%3D"
+        },
+
+        {
+          "filename": "腦公縮尼哀不哀窩.webm",
+          "text": {
+            "zh-tw": "腦公~縮尼哀不哀窩",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 511.591,
+            "end": 520.795
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=sCyYSzrsWUIqNGmjJytCbOHQE%2F3BbrjHGwMqlcaOYbY%3D"
+        },
+        {
+          "filename": "我我最愛你了Darling喘氣.webm",
+          "text": {
+            "zh-tw": "我..我最愛你了，Darling❤️ (喘氣)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 750.595,
+            "end": 755.595
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=OiE6xr16SFiMW4KACrbRmiOcAN5CfvMdoj37NtPYdME%3D"
+        },
+        {
+          "filename": "大吼叫妳現在心理的真心話吼怎麼會這麼難啊.webm",
+          "text": {
+            "zh-tw": "(大吼叫妳現在心理的真心話) 吼！怎麼會這麼難啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 534.643,
+            "end": 542.795
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=g9jVOfId0fSdqaeXNTBc45id5AOTQj2tyqHoZ9R8CxA%3D"
+        },
+        {
+          "filename": "日文回家三連.webm",
+          "text": {
+            "zh-tw": "(日文) 回家三連",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1134.724,
+            "end": 1146.999
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=wXGtYh8274tAJwXlcOgL3hbqoFNfmnfHLWZ83DxaPOM%3D"
+        },
+                {
+          "filename": "中文小櫻台詞.webm",
+          "text": {
+            "zh-tw": "(中文) 小櫻台詞",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1794,
+            "end": 1804
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=oY2s6R8MJ78QICv4vRHMoRBdMm0wy12n3%2FtVSS2Dz%2BI%3D"
+        },
+        {
+          "filename": "日文小櫻的台詞.webm",
+          "text": {
+            "zh-tw": "(日文) 小櫻的台詞",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "AUSxefN2ID0",
+            "start": 1691.175,
+            "end": 1703.566
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=xKXYH97jZmcK7qkLcfNpr8CMD7rPqlcwH4gd%2BsXOEmY%3D"
+        }
+      ]
+    },
+        {
       "name": {
         "zh-tw": "自肥",
         "ja": "自肥"
@@ -2766,6 +3407,21 @@
             "end": 9786
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kjZFHDcCQYPxKgeFD794ap52J8VmpO6FT4VOCAQb7hs%3D"
+        },
+        {
+          "filename": "等一下我要剪這個不要啦不要啦不要剪啦不要wwww.webm",
+          "text": {
+            "zh-tw": "(等一下我要剪這個) 不要啦，不要啦，不要剪啦！不要wwww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WoHLU644Ntc",
+            "start": 1319,
+            "end": 1327
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=yg%2FmIzs11M%2Bvc0cCJBMj5Tx86gZnYZdJkuQRtUmza2I%3D"
         }
       ]
     }

@@ -726,6 +726,96 @@
             "end": 6789
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JlRs065g36vjz%2FbwoprbSJqiUHchzoIaLLkJOhyPv9Y%3D"
+        },
+        {
+          "filename": "喜歡中文.webm",
+          "text": {
+            "zh-tw": "喜歡 (中文)",
+            "ja": "好き(中国語)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0eIMUXdCYck",
+            "start": 13910,
+            "end": 13915
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2FaTiDhAWDHooNle%2FFH9bd%2FKTm3TCqPOZkE4F3cn6NKc%3D"
+        },
+        {
+          "filename": "查間取的中文發音卻被翻譯為平面圖.webm",
+          "text": {
+            "zh-tw": "(查\"間取\"的中文發音，卻被翻譯為平面圖)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0eIMUXdCYck",
+            "start": 13944,
+            "end": 13950
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=KSIvctjut49Izc83mYaiz7PsI4ioWYHfP836CipIZ2g%3D"
+        },
+        {
+          "filename": "很高興見到你中文.webm",
+          "text": {
+            "zh-tw": "很高興見到你 (中文)",
+            "ja": "会えて嬉しい (中国語)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0eIMUXdCYck",
+            "start": 14044,
+            "end": 14048
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=8HCCtNcT4dNAfLPUbb8SerDG2cZtDzWTjDQ2uQm4N30%3D"
+        },
+        {
+          "filename": "951ba9b47e874d15b0e744ace7aae327.webm",
+          "text": {
+            "zh-tw": "#$%#$%#@$%@#$",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UD-5hTA9lT4",
+            "start": 1739,
+            "end": 1744
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=9PYQHMuYsY9M1K3bHWhxOIdAgszLqywz9O9X6wjJJic%3D"
+        },
+        {
+          "filename": "鴨子.webm",
+          "text": {
+            "zh-tw": "鴨子",
+            "ja": "アヒル"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UD-5hTA9lT4",
+            "start": 5787,
+            "end": 5799
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=cwdoMjfm2j5xPwQaHen4exM9Bojn6axGqdHMCuhnQew%3D"
+        },
+        {
+          "filename": "拜託了幫我撐十秒星爆氣流斬.webm",
+          "text": {
+            "zh-tw": "拜託了，幫我撐十秒！星爆...氣流斬！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "CEvUcooGuaM",
+            "start": 1254,
+            "end": 1266
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=1TJT%2FNGukY2gWF5WiHUA7OXXpju93C9U2e0RsT2w5qo%3D"
         }
       ]
     },
@@ -780,6 +870,36 @@
             "end": 6020
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=l99LX%2BhjBf8aYxdB3NjMy%2FXuHCnEeKIlrIpZ01oshrY%3D"
+        },
+        {
+          "filename": "香蕉牛奶之歌.webm",
+          "text": {
+            "zh-tw": "香蕉牛奶之歌",
+            "ja": "バナナミルクソング"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UD-5hTA9lT4",
+            "start": 2791,
+            "end": 2820
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=R%2BtTBp2ISkPsXFgqpESV5oiFM3xI2WR13mRxD3cYEVY%3D"
+        },
+        {
+          "filename": "高音厨音域テスト.webm",
+          "text": {
+            "zh-tw": "高音厨音域テスト",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UD-5hTA9lT4",
+            "start": 6142,
+            "end": 6231
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=69JwD0ppWpBzc%2BQ4dvPzaXhJPBztwbGZadTf3lF8jnE%3D"
         }
       ]
     },
@@ -924,6 +1044,21 @@
             "end": 9962
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=V5XuBBKEvcC9vF2%2BiGe3S7z1Wz3Xf07lZQhSOghZbiw%3D"
+        },
+        {
+          "filename": "大.webm",
+          "text": {
+            "zh-tw": "大\uD83C\uDF63",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "I74vrknOAY8",
+            "start": 12896,
+            "end": 12915
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=J738s3TWKP7hOnhgWn7ruY7ayLBmVA4NT1RtcdmtOj0%3D"
         }
       ]
     },
@@ -1158,6 +1293,21 @@
             "end": 4480
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kDHQFJyfSje7Cod4FwkhRo1dexxsuR%2FKkz7sGGZUoFk%3D"
+        },
+        {
+          "filename": "沒開BGM大叫.webm",
+          "text": {
+            "zh-tw": "沒開BGM (大叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UD-5hTA9lT4",
+            "start": 808,
+            "end": 841
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=HckX49wI5tJikgPLR3dEPYVYmMff8j%2BD5tz0J4TTTqs%3D"
         }
       ]
     }

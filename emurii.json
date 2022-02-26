@@ -615,6 +615,36 @@
             "end": 1475
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=o7Hyw%2FtXuG0svyTUAFMY%2FwFq6Wp90GrfsGbbjPOrZ4E%3D"
+        },
+        {
+          "filename": "我搞砸了.webm",
+          "text": {
+            "zh-tw": "我搞砸了!",
+            "ja": "ぽん"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "c3HDbtY4nxI",
+            "start": 291,
+            "end": 300
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=B8%2BL2L4vJ8I5boCS65f6vfRlzz9dt3ubG%2Ba10%2BHHhD4%3D"
+        },
+        {
+          "filename": "エムリィ的Kiss.webm",
+          "text": {
+            "zh-tw": "エムリィ的Kiss(?)",
+            "ja": "エムリィのキス(?)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "S4gdA636T5U",
+            "start": 4001,
+            "end": 4008
+          },
+          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=E59Q6QgY4aCPI2%2F%2FFcCKZlx%2Bdnd4CLNfl%2FhdERMYRvA%3D"
         }
       ]
     },

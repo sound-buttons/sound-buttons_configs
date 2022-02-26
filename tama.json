@@ -1403,6 +1403,51 @@
             "end": 0
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Q5eG%2F9TNaWxrYYKxENuDkD93lBEe%2Ffab7mykDN9qXPU%3D"
+        },
+        {
+          "filename": "2021年最後的星爆氣流斬3D星爆.webm",
+          "text": {
+            "zh-tw": "2021年最後的星爆氣流斬！ (3D星爆)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9X97k0NKPyM",
+            "start": 7150,
+            "end": 7171
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=8COf%2Fv09bKcrs6XVLxnjKrZz0c%2BdD%2F1ZH6oq40u%2FzJw%3D"
+        },
+        {
+          "filename": "很長的自我介紹.webm",
+          "text": {
+            "zh-tw": "很長的自我介紹",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qccmGkKJ5ZQ",
+            "start": 1388,
+            "end": 1456
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ocTWxJN%2B4B%2BDtfy%2FBNnD70toijLxQwEn%2FfhyTdTCTq4%3D"
+        },
+        {
+          "filename": "我就是鋼彈.webm",
+          "text": {
+            "zh-tw": "我就是鋼彈",
+            "ja": "俺がガンダムだ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GoUxh9gnFpk",
+            "start": 3742,
+            "end": 3745
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=3xSYKrRhon8fF44Nb%2BXuuCr3jrhefUohXBn6q6T%2BbR0%3D"
         }
       ]
     },
@@ -2878,6 +2923,21 @@
             "end": 1970
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=0svr%2Fui5DnfrvkAy%2Buh6V2l6Sk%2BMsBrF2TEnvYgAJN0%3D"
+        },
+        {
+          "filename": "轉身絆倒麥克風.webm",
+          "text": {
+            "zh-tw": "(轉身絆倒麥克風)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "uBDZOVC-MzM",
+            "start": 875,
+            "end": 894
+          },
+          "SASToken": "?sv=2020-10-02&si=%E6%B0%B8%E8%AE%80&sr=b&sig=xrNDd4Lg2kub2qDRyW0J8Jjnk4SB1iTsio0RbEb%2F0Kg%3D"
         }
       ]
     },
