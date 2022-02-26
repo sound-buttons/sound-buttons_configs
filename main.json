@@ -1,4 +1,14 @@
 [{
+    "name": "yoruka",
+    "fullName": "須多夜花",
+    "fullConfigURL": "assets/configs/yoruka.json",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+    "color": {
+      "primary": "#33272B",
+      "secondary": "#E55A74"
+    }
+  }, {
     "name": "tama",
     "fullName": "久遠たま",
     "fullConfigURL": "assets/configs/tama.json",
@@ -40,17 +50,6 @@
     "color": {
       "primary": "#2A5CAB",
       "secondary": "#B3CEF0"
-    }
-  },
-  {
-    "name": "yoruka",
-    "fullName": "須多夜花",
-    "fullConfigURL": "assets/configs/yoruka.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-    "color": {
-      "primary": "#33272B",
-      "secondary": "#E55A74"
     }
   }
 ]
