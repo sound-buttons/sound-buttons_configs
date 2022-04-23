@@ -818,6 +818,51 @@
             "end": 1266
           },
           "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=1TJT%2FNGukY2gWF5WiHUA7OXXpju93C9U2e0RsT2w5qo%3D"
+        },
+        {
+          "filename": "英文歡迎詞.webm",
+          "text": {
+            "zh-tw": "(英文歡迎詞)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DOiavRT-zq4",
+            "start": 1959.729,
+            "end": 1984.511
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=mEZgQ5XvSIoGvo9uif1IX6lmQdO%2B4jGUZ%2FgS%2B%2FZXujs%3D"
+        },
+        {
+          "filename": "噴嚏.webm",
+          "text": {
+            "zh-tw": "噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "mvUEfVMJEG4",
+            "start": 1094,
+            "end": 1099
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=8vnfNcilNOTSTN%2Bf1Xhgw23FS1uycDbfN%2FHZmUb0jzk%3D"
+        },
+        {
+          "filename": "奇怪的叫聲.webm",
+          "text": {
+            "zh-tw": "奇怪的叫聲",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bpTKl75dtxM",
+            "start": 9969,
+            "end": 9971
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=oHYRZtDpPxeKE4zv691yB9z2N7%2BZwbQmtxXgFJbEoKY%3D"
         }
       ]
     },

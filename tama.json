@@ -25,19 +25,21 @@
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
     "volume": 1,
     "source": {
-      "videoId": "qccmGkKJ5ZQ",
-      "start": 1388,
-      "end": 1456
+      "videoId": "h_Pz0HTsE6g",
+      "start": 13220,
+      "end": 13243
     },
-    "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ocTWxJN%2B4B%2BDtfy%2FBNnD70toijLxQwEn%2FfhyTdTCTq4%3D"
+    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N16e7vSpgnLnMix6qrQyLX9NO8VCUyxJpm4i1T0yNiI%3D"
   },
-  "buttonGroups": [{
+  "buttonGroups": [
+    {
       "name": {
         "zh-tw": "たま汪汪",
         "ja": "たまわんわん"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "星爆.mp3",
           "text": {
             "zh-tw": "星爆氣流斬！",
@@ -1448,6 +1450,36 @@
             "end": 3745
           },
           "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=3xSYKrRhon8fF44Nb%2BXuuCr3jrhefUohXBn6q6T%2BbR0%3D"
+        },
+        {
+          "filename": "釘宮三連.webm",
+          "text": {
+            "zh-tw": "釘宮三連",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3ibI_RXSDt8",
+            "start": 3553,
+            "end": 3557
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=cYg8n5PC0%2F0Y0t4ftzltDdniJ5ZP9S9Q7u9RqNUlc%2BU%3D"
+        },
+        {
+          "filename": "烏魯賽.webm",
+          "text": {
+            "zh-tw": "烏魯賽!",
+            "ja": "うるさい！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3ibI_RXSDt8",
+            "start": 3574,
+            "end": 3580
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=cNOyo5m%2F2YUvwkRf1HH6UdDHV95m%2FDfET3v3oQHsGFQ%3D"
         }
       ]
     },
@@ -1457,7 +1489,8 @@
         "ja": "詠唱"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "Unlimited_Blade_Works.mp3",
           "text": "Unlimited Blade Works",
           "baseRoute": null,
@@ -1578,7 +1611,8 @@
         "ja": "中国語本当上手"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "星爆中文.wav",
           "text": {
             "zh-tw": "星爆氣流斬！",
@@ -1787,7 +1821,8 @@
         "ja": "Tamalish"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "I_am_dog.m4a",
           "text": {
             "zh-tw": "Are you cat or fox? Nonononono, I am dog.",
@@ -2140,7 +2175,8 @@
         "ja": "悲鳴 (音量注意)"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "悲鳴.m4a",
           "text": {
             "zh-tw": "悲鳴",
@@ -2943,7 +2979,8 @@
         "ja": "歌フレーズ"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "ヴァンパイア吸血鬼.m4a",
           "text": {
             "zh-tw": "ヴァンパイア (吸血鬼)",
@@ -3032,6 +3069,21 @@
             "end": 8598
           },
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IXmV48z2hF9OypJvDOswKKfCq7NipX0LABgdRDZywRQ%3D"
+        },
+        {
+          "filename": "絕唱.webm",
+          "text": {
+            "zh-tw": "絕唱",
+            "ja": "絶唱"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "KqkGAdKvmt0",
+            "start": 0,
+            "end": 42
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=0if5P2bAseWtqHiPYJk8IdQQDwZAmt5oey7s9H7ARhQ%3D"
         }
       ]
     }
