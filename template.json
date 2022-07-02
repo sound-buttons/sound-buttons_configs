@@ -29,7 +29,7 @@
       "start": 13220,
       "end": 13243
     },
-    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N16e7vSpgnLnMix6qrQyLX9NO8VCUyxJpm4i1T0yNiI%3D"
+    "SASToken": ""
   },
   "buttonGroups": [{
     "name": {
@@ -47,7 +47,7 @@
           "start": 6430,
           "end": 6465
         },
-        "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+        "SASToken": ""
       },
       {
         "filename": "晚安.m4a",
@@ -62,7 +62,7 @@
           "start": 4247,
           "end": 4249
         },
-        "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=e5xm4i6to67npR16u%2BsJwpeGRM4hArfWpfzJuab%2BC3I%3D"
+        "SASToken": ""
       }
     ]
   }]

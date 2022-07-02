@@ -2,8 +2,8 @@
     "name": "yoruka",
     "fullName": "須多夜花",
     "fullConfigURL": "assets/configs/yoruka.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.json",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.png",
     "color": {
       "primary": "#33272B",
       "secondary": "#E55A74"
@@ -12,8 +12,8 @@
     "name": "tama",
     "fullName": "久遠たま",
     "fullConfigURL": "assets/configs/tama.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.json",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.png",
     "color": {
       "primary": "#593196",
       "secondary": "#a991d4"
@@ -23,8 +23,8 @@
     "name": "kakeru",
     "fullName": "間取かける",
     "fullConfigURL": "assets/configs/kakeru.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/kakeru.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=uKwr%2BOrsHyv4AtYrXfX9jx9iHRv4cYCXlDuQxOrOoJ8%3D",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/kakeru.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=MO6HckL6p%2F7%2Bynr85RIHVsUPDnFPtlMBJNH2TTu24WQ%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/kakeru.json",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/kakeru.png",
     "color": {
       "primary": "#2C252C",
       "secondary": "#F9D95E"
@@ -34,8 +34,8 @@
     "name": "emurii",
     "fullName": "苓吃エムリィ",
     "fullConfigURL": "assets/configs/emurii.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.json?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=FHrOoiDoqAjSG7%2FfjaCF7DR2%2BS4MZh%2FSJiRRn6D7oqk%3D",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.png?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=VGKiUySZRaaQiGy5XIcNFTm1NfjvZ1dmsIhS0piwl78%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.json",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.png",
     "color": {
       "primary": "#B933F8",
       "secondary": "#DEC5E5"
@@ -45,8 +45,8 @@
     "name": "aruma",
     "fullName": "薬袋アルマ",
     "fullConfigURL": "assets/configs/aruma.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.json?sv=2020-10-02&si=%E6%B0%B8%E8%AE%80&sr=b&sig=90GLNScpEQbQ2msy8B86j7VRnku%2Bp9KoDm7JzFyIkks%3D",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.png?sv=2020-10-02&si=%E6%B0%B8%E8%AE%80&sr=b&sig=G4qtcOZULvr19XC0%2Bb5b6ZGWffT5PJT8ei5VdOFCnBY%3D",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.json",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.png",
     "color": {
       "primary": "#2A5CAB",
       "secondary": "#B3CEF0"
