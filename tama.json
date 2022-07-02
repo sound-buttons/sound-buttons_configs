@@ -28,8 +28,7 @@
       "videoId": "h_Pz0HTsE6g",
       "start": 13220,
       "end": 13243
-    },
-    "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N16e7vSpgnLnMix6qrQyLX9NO8VCUyxJpm4i1T0yNiI%3D"
+    }
   },
   "buttonGroups": [
     {
@@ -47,8 +46,7 @@
           },
           "baseRoute": null,
           "volume": 0.2,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "byebye.mp3",
@@ -58,8 +56,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "tama_gibberish.mp3",
@@ -69,8 +66,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "sensei.mp3",
@@ -80,8 +76,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "我要開動了.mp3",
@@ -91,8 +86,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "tama_itai.mp3",
@@ -102,8 +96,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "笨蛋變態吵死了不想理你了.mp3",
@@ -113,8 +106,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "好像跑進眼睛裡了一代一代一代.m4a",
@@ -128,8 +120,7 @@
             "videoId": "8xhwiCarTSo",
             "start": 7035,
             "end": 7039
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "怎麼會這樣啦!生氣了喔.m4a",
@@ -143,8 +134,7 @@
             "videoId": "w3pVjYAED20",
             "start": 5215,
             "end": 5218
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "生日快樂歌.m4a",
@@ -158,8 +148,7 @@
             "videoId": "UsPGMk6EFnA",
             "start": 3144,
             "end": 3166
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "晚安~啾\uD83D\uDC97.m4a",
@@ -173,8 +162,7 @@
             "videoId": "UsPGMk6EFnA",
             "start": 5733,
             "end": 5736
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "原諒我~_(*ˇωˇ*人).m4a",
@@ -188,8 +176,7 @@
             "videoId": "UsPGMk6EFnA",
             "start": 3529,
             "end": 3538
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "まったまたね～_(關台招呼語).m4a",
@@ -203,8 +190,7 @@
             "videoId": "L5dZlAEbIp4",
             "start": 8563,
             "end": 8566
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "OKx6.mp3",
@@ -218,8 +204,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 591,
             "end": 594
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "拍手拍手拍手.m4a",
@@ -233,8 +218,7 @@
             "videoId": "OZCLnS7zBLo",
             "start": 3924,
             "end": 3927
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "miss.mp3",
@@ -248,8 +232,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 3019,
             "end": 3021
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "Yeah~.mp3",
@@ -263,8 +246,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 4074,
             "end": 4077
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "欸Clear了嗎可怕的部分結束了.mp3",
@@ -278,8 +260,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 4102,
             "end": 4107
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "吶吶也靠得太近了吧!變態!.mp3",
@@ -293,8 +274,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 2584,
             "end": 2590
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "真的不能原諒.mp3",
@@ -308,8 +288,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 3146,
             "end": 3148
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "早安.m4a",
@@ -323,8 +302,7 @@
             "videoId": "5S-OG4sI6k8",
             "start": 826,
             "end": 832
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=t95kqpbDSRVqMNOAqL3DTgsq%2FJ5CLQQFKzSCHkVhjGY%3D"
+          }
         },
         {
           "filename": "たたたたたたま.mp3",
@@ -338,8 +316,7 @@
             "videoId": "uwdWYIYpiJc",
             "start": 4897,
             "end": 4905
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=NVMOjada1KNKzJO4SdGd0jMUOMqtMKYT1qdddwLSEqc%3D"
+          }
         },
         {
           "filename": "たたたたたたま_637554654322763936.mp3",
@@ -353,8 +330,7 @@
             "videoId": "uwdWYIYpiJc",
             "start": 4923,
             "end": 4936
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Z1v0Ue4IwUog8Y3TbP%2BLdrQfuOAsi7Qn3YV2D0ZsYkM%3D"
+          }
         },
         {
           "filename": "FullCombo噠咚.m4a",
@@ -368,8 +344,7 @@
             "videoId": "ZLCZcj5N7II",
             "start": 3249,
             "end": 3252
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=flAqDDPvZ2NCI249qkhCOiGG8Dd4DPRa6DnV5U7gP7g%3D"
+          }
         },
         {
           "filename": "咦.m4a",
@@ -383,8 +358,7 @@
             "videoId": "a6Bfjm5fZz0",
             "start": 4792,
             "end": 4795
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Er6jcDiIYZMUmzk7BpX3QJ45fOMOu4nXTR2SPl4nHsY%3D"
+          }
         },
         {
           "filename": "哼被騙了.m4a",
@@ -398,8 +372,7 @@
             "videoId": "a6Bfjm5fZz0",
             "start": 4842,
             "end": 4847
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9h2TAhR3h3icSdUwHWvtpKg8UHOXd17w%2B4MKJGz9%2Bj0%3D"
+          }
         },
         {
           "filename": "罪惡深重的女人對不起我是罪惡深重的女人.m4a",
@@ -413,8 +386,7 @@
             "videoId": "DzoxJMZoxGY",
             "start": 983,
             "end": 988
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2F01uNnJUiSrojg%2BIbaCSeyS%2FW00g%2BuHuOddtYR%2FM9fA%3D"
+          }
         },
         {
           "filename": "眨眼失敗的遜炮たま.m4a",
@@ -428,8 +400,7 @@
             "videoId": "h_Pz0HTsE6g",
             "start": 2041,
             "end": 2064
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=KUX2pozyAtpL%2FVDEpJw4M19LlUZr8phx%2BYAwGtKDcUw%3D"
+          }
         },
         {
           "filename": "早安不好了要遲到了咚啊對不起沒事嗎.m4a",
@@ -443,8 +414,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 584,
             "end": 603
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7XKZMbQWhf8VC%2F%2BWGCNg2DduQ48bLeBsdvL2zE%2FLAMw%3D"
+          }
         },
         {
           "filename": "たま醬真好對付沒辦法啊.m4a",
@@ -458,8 +428,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 626,
             "end": 632
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FjBLa8zbF1cGw0MMt3MvswMw782SysgqdnAVUog85Eo%3D"
+          }
         },
         {
           "filename": "叭叭啦叭叭叭叭嗙.m4a",
@@ -473,8 +442,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 1184,
             "end": 1188
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=gBCIJrrYEIzi3F32fPgOBECE%2FZMqxfAOYgpRtOcvw7U%3D"
+          }
         },
         {
           "filename": "蛤完全搞不懂.m4a",
@@ -488,8 +456,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 3065,
             "end": 3071
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=gfhxehMvQzEUfOnln%2B9FLlM%2BWTcwGzLGwHTyIyjBXgg%3D"
+          }
         },
         {
           "filename": "太好了通關了回家吧.m4a",
@@ -503,8 +470,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 4608,
             "end": 4613
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1ycZna6dRzFg2vPYiOx1AjldKDx7e1ZeVUmIUFiX8Sk%3D"
+          }
         },
         {
           "filename": "再見.m4a",
@@ -518,8 +484,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 5145,
             "end": 5147
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=P364gSwbOnKHZbeY%2BCrgtbwRg2LiL8bog1efKCyGFT4%3D"
+          }
         },
         {
           "filename": "啊笨蛋這是不可能的.m4a",
@@ -533,8 +498,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 6902,
             "end": 6912
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=QYQprSgojuDhWWNZKzmtMixmwhRKoftY9of9SFk8HMA%3D"
+          }
         },
         {
           "filename": "肚子餓了.m4a",
@@ -548,8 +512,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 8410,
             "end": 8413
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=fgzPNVVzdaYP9zbPdDbsSAAkDBWd02WweicJMYM%2BE%2B4%3D"
+          }
         },
         {
           "filename": "我會娶妳.m4a",
@@ -563,8 +526,7 @@
             "videoId": "h_Pz0HTsE6g",
             "start": 11513,
             "end": 11516
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=rJIDnpBRVTORuTKxzYKy2EFT%2BKbs2r9fMkoW9aE5Rnw%3D"
+          }
         },
         {
           "filename": "星爆氣流斬.m4a",
@@ -578,8 +540,7 @@
             "videoId": "h_Pz0HTsE6g",
             "start": 12751,
             "end": 12764
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=PJAwZDkxfwGrcP4Mb%2BipPGRE5NHYD5OUQ2YqFrmf2Qw%3D"
+          }
         },
         {
           "filename": "我回來了音量好大對不起.m4a",
@@ -593,8 +554,7 @@
             "videoId": "h_Pz0HTsE6g",
             "start": 13182,
             "end": 13196
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=dTJ9tsRcRm0%2FCYdneBN1fYesBxPIENf09L08BVqd8EM%3D"
+          }
         },
         {
           "filename": "自我介紹.m4a",
@@ -608,8 +568,7 @@
             "videoId": "h_Pz0HTsE6g",
             "start": 13220,
             "end": 13243
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=N16e7vSpgnLnMix6qrQyLX9NO8VCUyxJpm4i1T0yNiI%3D"
+          }
         },
         {
           "filename": "封閉者不錯的名字對我就是封閉者.m4a",
@@ -623,8 +582,7 @@
             "videoId": "h_Pz0HTsE6g",
             "start": 13326,
             "end": 13333
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hJLIXO10wKeYCDpaBu%2Ffn%2B0ytXLXwyD6MP5fYw8jZXQ%3D"
+          }
         },
         {
           "filename": "好可愛好可愛找到正太了好可愛.m4a",
@@ -638,8 +596,7 @@
             "videoId": "s0FoKtR_794",
             "start": 2143,
             "end": 2170
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2CFXD6dZZdhRWli1xqJfU8u5zXFbFNJfUQswpKj1tC0%3D"
+          }
         },
         {
           "filename": "正太能和我好好相處嗎當然啊和姊姊好好相處吧喜歡.m4a",
@@ -653,8 +610,7 @@
             "videoId": "s0FoKtR_794",
             "start": 2254,
             "end": 2269
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ekQRexEeJTKgxA%2FsuYUf%2FMw0LmzAz4%2F6W0ci2jdsdY0%3D"
+          }
         },
         {
           "filename": "怎麼辦等下等下突然出現我心裡凖備還沒做好ｑ.m4a",
@@ -668,8 +624,7 @@
             "videoId": "s0FoKtR_794",
             "start": 3375,
             "end": 3389
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FiCMuTz5uhTUtyWl6VBA8d%2F66pnFK8wg60mCpdgqYQU%3D"
+          }
         },
         {
           "filename": "萬歲大聲.m4a",
@@ -683,8 +638,7 @@
             "videoId": "9QIU3ZM1MSY",
             "start": 6507,
             "end": 6511
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=dXd0DcRtZR1lyvQ9Uim6PjLb3nVoq6YPvndxyPhXo4M%3D"
+          }
         },
         {
           "filename": "俺様の宝具さえ覚えてないか雑種.m4a",
@@ -698,8 +652,7 @@
             "videoId": "WSCMFgOnAdU",
             "start": 9015,
             "end": 9027
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3OiIhuD%2BTQ9EFxKceBhSFLkjLh9E8FsNfJrWEneA%2BN0%3D"
+          }
         },
         {
           "filename": "請吸我的血這樣好嗎我開動了.m4a",
@@ -713,8 +666,7 @@
             "videoId": "d_WCgzf04JI",
             "start": 4812,
             "end": 4820
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=kPNokMOfBngt6GJODWL9Pd1076J2K9m%2BCp7Mi4gkIHw%3D"
+          }
         },
         {
           "filename": "金的たまOUT金玉是睾丸的日文.m4a",
@@ -728,8 +680,7 @@
             "videoId": "d_WCgzf04JI",
             "start": 6898,
             "end": 6929
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=BfpPf8j4qAwOjJysvpIzubHkR%2FTXu8c8PhtmH0wTeWI%3D"
+          }
         },
         {
           "filename": "大家肚子餓了嗎たま也肚子餓了.m4a",
@@ -743,8 +694,7 @@
             "videoId": "d_WCgzf04JI",
             "start": 8032,
             "end": 8037
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=L6z69TxHQIbT0pq4VQWOPd7yWeAj483WyKxSR%2F%2FisNA%3D"
+          }
         },
         {
           "filename": "午餐的貓罐頭錢たま是貓嗎喵.m4a",
@@ -758,8 +708,7 @@
             "videoId": "d_WCgzf04JI",
             "start": 8982,
             "end": 8991
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=MtjlmUUChkP9yOjO%2F3KURyX08d2aOIBnrgb6kQgypFU%3D"
+          }
         },
         {
           "filename": "其實在唱歌的瞬間會咻的一聲換人.m4a",
@@ -773,8 +722,7 @@
             "videoId": "nBsJc3vNfk8",
             "start": 2673,
             "end": 2683
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=aHCQ%2F%2FC5XjGhmtcJtUfF1Qbg%2Bg0b8QupdVTO2Bb4X54%3D"
+          }
         },
         {
           "filename": "ジャンヌゥ龍之介謝謝3Q.m4a",
@@ -788,8 +736,7 @@
             "videoId": "nBsJc3vNfk8",
             "start": 2302,
             "end": 2308
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3fXGNKkr3gUby1yXmviItLWJo9Aw0z42PqAiNnsvkoM%3D"
+          }
         },
         {
           "filename": "Q.m4a",
@@ -803,8 +750,7 @@
             "videoId": "U6QtaTeBo9g",
             "start": 1500,
             "end": 1505
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6OAg9coalR1ja8pkr9DJwykomAQUL8BQUkBV%2FX5fz1g%3D"
+          }
         },
         {
           "filename": "這是少年偵探團的出場了我出發了.m4a",
@@ -818,8 +764,7 @@
             "videoId": "DPbrxidHOrw",
             "start": 1727,
             "end": 1733
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=YL1JTAUn%2BlBDM2xVFV4rcl6BLb%2B%2BKTFBI%2BqNeJD5A74%3D"
+          }
         },
         {
           "filename": "看招たま拳頭.m4a",
@@ -833,8 +778,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 2742,
             "end": 2747
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nnEJhaTEKxsxrHE%2FLKE7mW2ynLajW%2F18SlwuGSatKV4%3D"
+          }
         },
         {
           "filename": "LUNCH.m4a",
@@ -848,8 +792,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 4546,
             "end": 4548
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=59%2BJTN043%2B6ks2cKT%2BbU%2BS8fQfDNZ%2FWw0YCDOYCpoWk%3D"
+          }
         },
         {
           "filename": "サンQさんQ.m4a",
@@ -863,8 +806,7 @@
             "videoId": "7GFCQTVxlKk",
             "start": 8192,
             "end": 8197
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Mp62crE5m0DiIjz%2F77Bp%2BxxXgxa66Y5201yiyeFOOpk%3D"
+          }
         },
         {
           "filename": "我是たま子請多指教不對不對たま子是這樣QQQQQ.m4a",
@@ -878,8 +820,7 @@
             "videoId": "7GFCQTVxlKk",
             "start": 7442,
             "end": 7456
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Fhboy2mLLp1wiwOBuvro0VtgPx9wm8wQVYALg1P8A%2Fo%3D"
+          }
         },
         {
           "filename": "Windows錯誤音.m4a",
@@ -893,8 +834,7 @@
             "videoId": "7GFCQTVxlKk",
             "start": 7597,
             "end": 7601
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JMZBExnLfgRStM0fuWE8F8vNs%2BM0vsAoRFOrnv40iy8%3D"
+          }
         },
         {
           "filename": "啊就是那個那個那個.m4a",
@@ -908,8 +848,7 @@
             "videoId": "7GFCQTVxlKk",
             "start": 7707,
             "end": 7713
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9Ua2PHMCo7LN9kluon%2BBYdceo6hvhyh27Ejamw7Z4m4%3D"
+          }
         },
         {
           "filename": "是錯覺啦大家的幻覺啦乾笑.m4a",
@@ -923,8 +862,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 2803,
             "end": 2810
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Jd5lPqbaven1tE%2FPK8n9312XlXS1fS8zEqxcnlQrGDI%3D"
+          }
         },
         {
           "filename": "大家對不起.m4a",
@@ -938,8 +876,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 133,
             "end": 141
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JFlXYHuHkj6SUqtxeNqULp9Ywjb%2FB4AhQzVUCX68zDs%3D"
+          }
         },
         {
           "filename": "沒關係的啦請大家安心.m4a",
@@ -953,8 +890,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 752,
             "end": 756
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=UK24z2NZqpG872hB6pNbmqx22kHYhYefFctPff1q3lo%3D"
+          }
         },
         {
           "filename": "沒有暴露x2.m4a",
@@ -968,8 +904,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 2746,
             "end": 2748
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=bmWYC83DroIdt1SuR%2BgHsk6%2BjG6L%2FQ%2FreBeBTwr07YI%3D"
+          }
         },
         {
           "filename": "一二三四五六.m4a",
@@ -983,8 +918,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 2749,
             "end": 2762
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=j7f2xWKvJLT7hsngTPqDEuRt2Xs7OObatOaRgFpGZAM%3D"
+          }
         },
         {
           "filename": "天天板天板是什麼我不知道呢.m4a",
@@ -998,8 +932,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 3226,
             "end": 3240
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3LO6pgw74Sd6%2FvlQrjbG%2F6ZiB%2F6F%2BkpIv0yTO3MI6P8%3D"
+          }
         },
         {
           "filename": "做好了喔各位我做好了喔.m4a",
@@ -1013,8 +946,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 3406,
             "end": 3411
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Ld5U9FOcxejAHeDdGxec2HnHTzC%2FO1plJmOVEs6yo2E%3D"
+          }
         },
         {
           "filename": "料理我讓給隔壁的人為什麼我叫你吃.m4a",
@@ -1028,8 +960,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 3824,
             "end": 3830
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7BDdKqgRcvPLq%2B9445eUau9YBr45DZJujY7tySb99wA%3D"
+          }
         },
         {
           "filename": "加太多了胡言亂語.m4a",
@@ -1043,8 +974,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 4454,
             "end": 4457
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=K%2FowFEzkVR%2BoIIXWSArKXoK7N%2BCJpxo3iDyFOpCUyX8%3D"
+          }
         },
         {
           "filename": "拍手.m4a",
@@ -1058,8 +988,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 5012,
             "end": 5015
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vUj1J0VgLYW0eX7N%2Fn8%2BBkv5UsWpB2H8Ok42%2BvGuJ%2BQ%3D"
+          }
         },
         {
           "filename": "果然料理是很簡單的呢有沒有成為大家的參考呢.m4a",
@@ -1073,8 +1002,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 5072,
             "end": 5078
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=z3gp4GVwzv%2FpmuLvWquBYN2Mo%2BK3hRdvwxwfN4q7XIw%3D"
+          }
         },
         {
           "filename": "LUNCH_637643606590896349.m4a",
@@ -1088,8 +1016,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 6423,
             "end": 6427
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=59GiFSNb731HOsg6cBRUXEL11DRNSamYVCOLGGXVpHg%3D"
+          }
         },
         {
           "filename": "午餐！.m4a",
@@ -1103,8 +1030,7 @@
             "videoId": "L5dZlAEbIp4",
             "start": 8566,
             "end": 8569
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "這個節目是以下贊助商贊助播出.mp3",
@@ -1118,8 +1044,7 @@
             "videoId": "xVjdWQeB08I",
             "start": 3181,
             "end": 3185
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=oafgUbMIiKCktuu7CdEWr4OFdRIJcvmMAvw9HMh5J9M%3D"
+          }
         },
         {
           "filename": "謝謝たま子的贊助.wav",
@@ -1133,8 +1058,7 @@
             "videoId": "xVjdWQeB08I",
             "start": 3186,
             "end": 3190
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zBNuLtZ1yr%2Bpz2tZhHvNcaGMaIGHmQvvh%2B67BpytdOo%3D"
+          }
         },
         {
           "filename": "私は狗狗.m4a",
@@ -1148,8 +1072,7 @@
             "videoId": "9EtlvkZfIlQ",
             "start": 3401,
             "end": 3408
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HIoJLr0%2F7%2FHsFbxGrswb8HCiRX8HY7yLkOvUC56pS8A%3D"
+          }
         },
         {
           "filename": "奇怪的音效.m4a",
@@ -1163,8 +1086,7 @@
             "videoId": "QsbbnUD8OQE",
             "start": 382,
             "end": 389
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=BTxwDnnln9ExhKo7wGYHiBdvlR4RAkAVb%2Bw2PppTjvM%3D"
+          }
         },
         {
           "filename": "早安N.m4a",
@@ -1178,8 +1100,7 @@
             "videoId": "QsbbnUD8OQE",
             "start": 892,
             "end": 899
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=r%2Bj%2Fatre9r%2BNSX%2BU2ZQMVvEVOWXTdbecen0CgJ17%2Fpg%3D"
+          }
         },
         {
           "filename": "哇.m4a",
@@ -1193,8 +1114,7 @@
             "videoId": "QsbbnUD8OQE",
             "start": 5851,
             "end": 5852
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ontgpt40ugPOqJCFJO4WsvQgs5ADHU%2Fbm7dxDS0AlcY%3D"
+          }
         },
         {
           "filename": "有人會怕嗎沒有吧.m4a",
@@ -1208,8 +1128,7 @@
             "videoId": "QsbbnUD8OQE",
             "start": 6040,
             "end": 6048
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=K8Tt%2FqvREHxuuzr2UpiqOzpxzIa8IB%2FTVbrLKTQnIMI%3D"
+          }
         },
         {
           "filename": "嘿鈴花的口頭禪.m4a",
@@ -1223,8 +1142,7 @@
             "videoId": "QsbbnUD8OQE",
             "start": 10095,
             "end": 10100
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=rsq3lIp3B0AJ6nkZzD6pftuagVqTuPeWp6wN8iJezUw%3D"
+          }
         },
         {
           "filename": "快起床請給我一個早安吻吻沒辦法親.m4a",
@@ -1238,8 +1156,7 @@
             "videoId": "pWWnR074QpM",
             "start": 6341,
             "end": 6354
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=xYaJWkwbqSdhHO7%2FbpanFi2h4%2FVNFjA25nsVt%2B0w7Fo%3D"
+          }
         },
         {
           "filename": "たま是生草的朋友嗎生草的朋友是什麼啦第一次聽到呦喂.m4a",
@@ -1253,8 +1170,7 @@
             "videoId": "DoTrSqVubHU",
             "start": 2215,
             "end": 2224
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Cn6NbYuLkTImy6AT6BL%2FLdGcgmZnWTeoQJI4KwaMJVs%3D"
+          }
         },
         {
           "filename": "敲門聲給我糖果.m4a",
@@ -1268,8 +1184,7 @@
             "videoId": "DoTrSqVubHU",
             "start": 7952,
             "end": 7958
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=f845TfGtxRH%2FPp205496p1IyRzs8txChvu8SkvGAwSw%3D"
+          }
         },
         {
           "filename": "三連休三連休好棒好棒三連休.m4a",
@@ -1283,8 +1198,7 @@
             "videoId": "XDH7HBAe4-4",
             "start": 2637,
             "end": 2643
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1ITn7rhJYCMBByk6PaQ5N6Mq96e13XOFP6WeNpXB5qI%3D"
+          }
         },
         {
           "filename": "抱歉xN.m4a",
@@ -1298,8 +1212,7 @@
             "videoId": "XDH7HBAe4-4",
             "start": 4356,
             "end": 4364
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=H%2B%2BeN89RNb3zKedymAE7t29pOGrvC1tnJy0hrIXK0H0%3D"
+          }
         },
         {
           "filename": "聽說是睡眠導入過來但是被騙了たま騙了你對不起會好好導入的.m4a",
@@ -1313,8 +1226,7 @@
             "videoId": "XDH7HBAe4-4",
             "start": 4433,
             "end": 4448
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=fAB2JlmB8G9udmks8zmKbQrhQRX7TWL07aAytt3ov6U%3D"
+          }
         },
         {
           "filename": "怎麼辦xN.m4a",
@@ -1328,8 +1240,7 @@
             "videoId": "XDH7HBAe4-4",
             "start": 5700,
             "end": 5720
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IfL%2FjT4LC0XIc%2B7C9GCu5X4%2F72bmXxBSfQbyK4dW6QU%3D"
+          }
         },
         {
           "filename": "一段落語.webm",
@@ -1343,8 +1254,7 @@
             "videoId": "uL8TlDCVRxw",
             "start": 1241,
             "end": 1259
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HqNPHdHeLdibRnQLQVGl%2FlL719FjZSd2%2FEVkL1%2B92hI%3D"
+          }
         },
         {
           "filename": "Duck學鴨子叫聲.webm",
@@ -1358,8 +1268,7 @@
             "videoId": "uL8TlDCVRxw",
             "start": 5563,
             "end": 5569
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4f4MAfhY%2FVMOq0HBtsREYWYpO7hYrYHXZshckozXxBg%3D"
+          }
         },
         {
           "filename": "能開槍的只有有覺悟被殺之人.wav",
@@ -1373,8 +1282,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IpYs4P9kbcfsXUjwGlUP1bbpfb4tGsemPy3TKHhvOJs%3D"
+          }
         },
         {
           "filename": "不行呢.wav",
@@ -1388,8 +1296,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=TcdiPZ1UruYCpgZ2uCsOkJvEB3DNCf9qMGme4X%2FOEYs%3D"
+          }
         },
         {
           "filename": "はい.wav",
@@ -1403,8 +1310,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Q5eG%2F9TNaWxrYYKxENuDkD93lBEe%2Ffab7mykDN9qXPU%3D"
+          }
         },
         {
           "filename": "2021年最後的星爆氣流斬3D星爆.webm",
@@ -1418,8 +1324,7 @@
             "videoId": "9X97k0NKPyM",
             "start": 7150,
             "end": 7171
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=8COf%2Fv09bKcrs6XVLxnjKrZz0c%2BdD%2F1ZH6oq40u%2FzJw%3D"
+          }
         },
         {
           "filename": "很長的自我介紹.webm",
@@ -1433,8 +1338,7 @@
             "videoId": "qccmGkKJ5ZQ",
             "start": 1388,
             "end": 1456
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ocTWxJN%2B4B%2BDtfy%2FBNnD70toijLxQwEn%2FfhyTdTCTq4%3D"
+          }
         },
         {
           "filename": "我就是鋼彈.webm",
@@ -1448,8 +1352,7 @@
             "videoId": "GoUxh9gnFpk",
             "start": 3742,
             "end": 3745
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=3xSYKrRhon8fF44Nb%2BXuuCr3jrhefUohXBn6q6T%2BbR0%3D"
+          }
         },
         {
           "filename": "釘宮三連.webm",
@@ -1463,8 +1366,7 @@
             "videoId": "3ibI_RXSDt8",
             "start": 3553,
             "end": 3557
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=cYg8n5PC0%2F0Y0t4ftzltDdniJ5ZP9S9Q7u9RqNUlc%2BU%3D"
+          }
         },
         {
           "filename": "烏魯賽.webm",
@@ -1478,8 +1380,7 @@
             "videoId": "3ibI_RXSDt8",
             "start": 3574,
             "end": 3580
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=cNOyo5m%2F2YUvwkRf1HH6UdDHV95m%2FDfET3v3oQHsGFQ%3D"
+          }
         },
         {
           "filename": "諸君我們的任務是什麼是草.webm",
@@ -1493,8 +1394,7 @@
             "videoId": "jZVlc5Qfat4",
             "start": 2092,
             "end": 2097
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=7bXm%2Bn9J07WIr1dD18BOtgBcstg9LR2FVEnMeCMbmG8%3D"
+          }
         },
         {
           "filename": "英文自介.webm",
@@ -1508,8 +1408,7 @@
             "videoId": "jZVlc5Qfat4",
             "start": 2163,
             "end": 2173
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ydOMiefkWJDRYDy8wdLXUlSqyuUXs27GSBgkc%2Fjhwfw%3D"
+          }
         },
         {
           "filename": "可愛聲音的自我介紹.webm",
@@ -1523,8 +1422,7 @@
             "videoId": "jZVlc5Qfat4",
             "start": 2298,
             "end": 2319
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=dlKClivz3Log%2B%2Bs2Y4xPo3XU31CsUbNDXG5LkS%2FxJ9k%3D"
+          }
         },
         {
           "filename": "這個美少女是誰啊對就是我.webm",
@@ -1538,8 +1436,7 @@
             "videoId": "jZVlc5Qfat4",
             "start": 2788,
             "end": 2792
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=rgAG2rysYkGdaeQb7Kz0dZ5iWVaX3jYfxhZq26M8uRw%3D"
+          }
         }
       ]
     },
@@ -1559,8 +1456,7 @@
             "videoId": "YVwC8zTXbsY",
             "start": 6430,
             "end": 6465
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "tama_systemcall.mp3",
@@ -1570,8 +1466,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "Unlimited_Blade_Works_2.mp3",
@@ -1585,8 +1480,7 @@
             "videoId": "QcymUTP93Dk",
             "start": 13983,
             "end": 14012
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "桐人台詞.m4a",
@@ -1600,8 +1494,7 @@
             "videoId": "UsPGMk6EFnA",
             "start": 3062,
             "end": 3077
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "GaeBolg.wav",
@@ -1615,8 +1508,7 @@
             "videoId": "fAlGoDNt6kg",
             "start": 7620,
             "end": 7623
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FS0VPgRJkezptrp5nDHeYsKID1zAD0PNYZ3%2BNr3GVGc%3D"
+          }
         },
         {
           "filename": "Excalibur.wav",
@@ -1630,8 +1522,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Bwvq5JNb%2FDzbCuH1z4WmRu6t8SFDVcqOKFXtFM%2BbYKc%3D"
+          }
         },
         {
           "filename": "英靈召喚咒文.m4a",
@@ -1645,8 +1536,7 @@
             "videoId": "WSCMFgOnAdU",
             "start": 9117,
             "end": 9165
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=K6ZxO2n67m%2BJZa7BbgloweXxFvE0%2FHkFJM1wKaKqzrk%3D"
+          }
         },
         {
           "filename": "英靈召喚咒文2.m4a",
@@ -1660,8 +1550,7 @@
             "videoId": "QsbbnUD8OQE",
             "start": 11282,
             "end": 11312
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=J1G0y97m6U73jaqDOWTwck09Dx9jYgZLoHmQwPuec24%3D"
+          }
         }
       ]
     },
@@ -1684,8 +1573,7 @@
             "videoId": "9bLORkCTZt4",
             "start": 4795,
             "end": 4798
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "大家把錢包交出來.mp3",
@@ -1695,8 +1583,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "白癡喔.mp3",
@@ -1706,8 +1593,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "我愛你.mp3",
@@ -1717,8 +1603,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "恭喜發財紅包拿來.mp3",
@@ -1728,8 +1613,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "送啦.mp3",
@@ -1739,8 +1623,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "謝謝今天來看たま.mp3",
@@ -1750,8 +1633,7 @@
           },
           "baseRoute": null,
           "volume": 1,
-          "source": null,
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          "source": null
         },
         {
           "filename": "我愛茄子蛋糕_我愛茄子蛋糕.m4a",
@@ -1765,8 +1647,7 @@
             "videoId": "XyJONwZaSX8",
             "start": 5825,
             "end": 5832
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "謝謝斗內.mp3",
@@ -1780,8 +1661,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "數數字.m4a",
@@ -1795,8 +1675,7 @@
             "videoId": "OZCLnS7zBLo",
             "start": 1126,
             "end": 1144
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "我正在減肥.m4a",
@@ -1810,8 +1689,7 @@
             "videoId": "OZCLnS7zBLo",
             "start": 7493,
             "end": 7496
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "請再來一碗飯.m4a",
@@ -1825,8 +1703,7 @@
             "videoId": "OZCLnS7zBLo",
             "start": 7577,
             "end": 7581
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "早安_637560655929323361.m4a",
@@ -1840,8 +1717,7 @@
             "videoId": "a6Bfjm5fZz0",
             "start": 4244,
             "end": 4245
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RihJly%2BGF%2Bar54AOs0IEKSoUKN%2Bl6WhmBGvcK%2BuLaT4%3D"
+          }
         },
         {
           "filename": "晚安.m4a",
@@ -1855,8 +1731,7 @@
             "videoId": "a6Bfjm5fZz0",
             "start": 4247,
             "end": 4249
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=e5xm4i6to67npR16u%2BsJwpeGRM4hArfWpfzJuab%2BC3I%3D"
+          }
         },
         {
           "filename": "晚上好晚上好.m4a",
@@ -1870,8 +1745,7 @@
             "videoId": "a6Bfjm5fZz0",
             "start": 4271,
             "end": 4274
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=88cSXFB5PHVV7cC%2Bt8yVahcIdL1h8ivsEqrmPDbuuh4%3D"
+          }
         }
       ]
     },
@@ -1894,8 +1768,7 @@
             "videoId": "UsPGMk6EFnA",
             "start": 7905,
             "end": 7912
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "HaveyoutastedJapanesefoodIeatパン.m4a",
@@ -1909,8 +1782,7 @@
             "videoId": "5S-OG4sI6k8",
             "start": 394,
             "end": 403
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9vPfjtbKKiOt8bvxgIoEwb2hxcKpQchQYt6R0bbc50Q%3D"
+          }
         },
         {
           "filename": "HiGoodmorning.m4a",
@@ -1924,8 +1796,7 @@
             "videoId": "5S-OG4sI6k8",
             "start": 424,
             "end": 429
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HNCj%2Bw92uPvmqZcP0q2%2FI4D9NssmPUZVfoHEGc2j150%3D"
+          }
         },
         {
           "filename": "HeyHeyComeonComeon.m4a",
@@ -1939,8 +1810,7 @@
             "videoId": "5S-OG4sI6k8",
             "start": 984,
             "end": 1003
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=tkRyw5W5cESEZo6F4khddxI%2BeJPggB1w9qUxFgkwWQA%3D"
+          }
         },
         {
           "filename": "HelloThankyouforcomingtomystream.m4a",
@@ -1954,8 +1824,7 @@
             "videoId": "a6Bfjm5fZz0",
             "start": 4310,
             "end": 4319
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=lWGSRi4hqj1WQ9dej9aWO0W%2BnZ%2B585xe1CAi8E7PBRw%3D"
+          }
         },
         {
           "filename": "HowareyouImverysleepynow.m4a",
@@ -1969,8 +1838,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 232,
             "end": 238
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zVo1kvMg6r05FaExRNp%2BgCGFdWfaCM7nhG5WI2KQEvA%3D"
+          }
         },
         {
           "filename": "Timeismoney.m4a",
@@ -1984,8 +1852,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 5031,
             "end": 5034
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FZHYggpfsbVyaHS6LQV2Pym3QHRHBp1C7Va8RnwJj6k%3D"
+          }
         },
         {
           "filename": "MYHOUSEのすぐ近くLUCKY.m4a",
@@ -1999,8 +1866,7 @@
             "videoId": "s0FoKtR_794",
             "start": 2865,
             "end": 2876
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=gbj%2FKmcPGFdViiujRqHophMZcezQsDOb2WhjeNbBLaQ%3D"
+          }
         },
         {
           "filename": "TamasEnglishpronunciationisgreat.m4a",
@@ -2014,8 +1880,7 @@
             "videoId": "WSCMFgOnAdU",
             "start": 8039,
             "end": 8054
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=wyD%2FZSatttOWuwCn5RuoqEo4CEsqH0UxGpUsgCPN3c8%3D"
+          }
         },
         {
           "filename": "たま英文自介.m4a",
@@ -2029,8 +1894,7 @@
             "videoId": "WSCMFgOnAdU",
             "start": 8137,
             "end": 8163
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=JbwGILt%2BQSJxYOreIpiwUBtrao4YPR2o8V3C8SVrc8A%3D"
+          }
         },
         {
           "filename": "TamaboingboingImboingboingNO.m4a",
@@ -2044,8 +1908,7 @@
             "videoId": "d_WCgzf04JI",
             "start": 4913,
             "end": 4920
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=uWMP3dQA3qcc84rE9GZpfpfA2gzHWK46BOMmLHy5ago%3D"
+          }
         },
         {
           "filename": "Canyoubemyhusbandhusband是什麼.m4a",
@@ -2059,8 +1922,7 @@
             "videoId": "FrxMvwOCjKs",
             "start": 5151,
             "end": 5168
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=pgCdzoH3Stk2GG393iQ8Mqm0VhnqGP77rQDSWK0Xj%2Bk%3D"
+          }
         },
         {
           "filename": "ElPsyKongroo.m4a",
@@ -2074,8 +1936,7 @@
             "videoId": "nBsJc3vNfk8",
             "start": 3984,
             "end": 3988
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Fa9mqPJjtjxwDytXFPl%2Bf4ArYzE%2Bb6WlQVKhZUS%2Bhkw%3D"
+          }
         },
         {
           "filename": "ThesongisadorableThankyou.m4a",
@@ -2089,8 +1950,7 @@
             "videoId": "QsbbnUD8OQE",
             "start": 7759,
             "end": 7770
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=2FyJ3nwkfW8atV%2BXDeuXiLa7fH6lkJKql3RjQRvzLLA%3D"
+          }
         },
         {
           "filename": "Goodmorningeveryone.m4a",
@@ -2104,8 +1964,7 @@
             "videoId": "pWWnR074QpM",
             "start": 299,
             "end": 304
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Ik6Xak8vvdUbMFk7ooeYw2yyzUP1w%2FYgpsB9UNog%2Bjo%3D"
+          }
         },
         {
           "filename": "我們什麼都沒看到Yesyourenotsee.m4a",
@@ -2119,8 +1978,7 @@
             "videoId": "DoTrSqVubHU",
             "start": 2227,
             "end": 2237
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zljbQ3iuH8Ji5xRARlT7pQY10rIEMv2kccgmzTA0bdU%3D"
+          }
         },
         {
           "filename": "TodayismybirthdayCanyoucelebrateforme.m4a",
@@ -2134,8 +1992,7 @@
             "videoId": "ADjq2m3ICJU",
             "start": 212,
             "end": 236
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HNFck52%2Fp2WaLCD4AND53kgxQdLjaM3iMBYJ3jJ4POk%3D"
+          }
         },
         {
           "filename": "Celebratecelebrate是什麼意思啊.m4a",
@@ -2149,8 +2006,7 @@
             "videoId": "ADjq2m3ICJU",
             "start": 260,
             "end": 264
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=PYDuA4eF4WNGP0PaxHFwifNZB16ob794hKMll%2Btxt0g%3D"
+          }
         },
         {
           "filename": "TamaGrassNograssたまisnograss.m4a",
@@ -2164,8 +2020,7 @@
             "videoId": "ADjq2m3ICJU",
             "start": 4267,
             "end": 4274
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Rvdcxx447rkfvoDJMF7F4q9YT7foL%2BhOxWOVevCzpUA%3D"
+          }
         },
         {
           "filename": "AreyouacatNoIamdog.webm",
@@ -2179,8 +2034,7 @@
             "videoId": "uL8TlDCVRxw",
             "start": 5492,
             "end": 5496
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nPwBU5qflIbUjvOaVXzPVyM8qoutA6NBuEHKNaiA0%2B4%3D"
+          }
         },
         {
           "filename": "NotfoxIamdogandhumanshalfHalfandhalf.webm",
@@ -2194,8 +2048,7 @@
             "videoId": "uL8TlDCVRxw",
             "start": 5522,
             "end": 5531
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IxvU6giU0aPPVwMOlV4VAfQeYLmHvhFH8sFjj6y6C%2BE%3D"
+          }
         },
         {
           "filename": "初見ですcutecatNoNo.webm",
@@ -2209,8 +2062,7 @@
             "videoId": "uL8TlDCVRxw",
             "start": 5585,
             "end": 5590
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=AYA5eWGos%2FEzKu%2B58LbXeSqnKlVYQWjAJMSwAVJLXX0%3D"
+          }
         },
         {
           "filename": "Dogen.webm",
@@ -2224,8 +2076,7 @@
             "videoId": "uL8TlDCVRxw",
             "start": 5610,
             "end": 5621
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=udCj4FCnlRfZyCqa1DBsJ%2BDL8tQnpcdr8ra199HQHyg%3D"
+          }
         }
       ]
     },
@@ -2248,8 +2099,7 @@
             "videoId": "Wm8hjZ7-qc4",
             "start": 673,
             "end": 677
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "悲鳴2.m4a",
@@ -2263,8 +2113,7 @@
             "videoId": "Wm8hjZ7-qc4",
             "start": 817,
             "end": 818
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "Safe→悲鳴.m4a",
@@ -2278,8 +2127,7 @@
             "videoId": "Wm8hjZ7-qc4",
             "start": 6151,
             "end": 6155
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "悲鳴_637543560135358561.m4a",
@@ -2293,8 +2141,7 @@
             "videoId": "Wm8hjZ7-qc4",
             "start": 1789,
             "end": 1791
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "嬌喘.m4a",
@@ -2308,8 +2155,7 @@
             "videoId": "Wm8hjZ7-qc4",
             "start": 1792,
             "end": 1793
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "啊啊啊(長音).m4a",
@@ -2323,8 +2169,7 @@
             "videoId": "6iz-DR0aZ6k",
             "start": 2819,
             "end": 2839
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "悲鳴_637546784347621768.m4a",
@@ -2338,8 +2183,7 @@
             "videoId": "Wm8hjZ7-qc4",
             "start": 9964,
             "end": 9985
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "悲鳴6.mp3",
@@ -2353,8 +2197,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 544,
             "end": 545
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "噫等一下等一下.mp3",
@@ -2368,8 +2211,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 2121,
             "end": 2127
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "噫不要不要.mp3",
@@ -2383,8 +2225,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 2318,
             "end": 2324
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "啊<3.mp3",
@@ -2398,8 +2239,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 2384,
             "end": 2386
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "等下等下.mp3",
@@ -2413,8 +2253,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 2508,
             "end": 2515
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "嫌だ.mp3",
@@ -2428,8 +2267,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 3014,
             "end": 3015
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "neeeeee.mp3",
@@ -2443,8 +2281,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 3035,
             "end": 3037
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "悲鳴7.mp3",
@@ -2458,8 +2295,7 @@
             "videoId": "zlVqwu9vJi4",
             "start": 3882,
             "end": 3884
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "靈魂是什麼顏色呢ANIMA.m4a",
@@ -2473,8 +2309,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 1093,
             "end": 1099
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=nouFhFG26XG8cj0Ej721sq1hjwzD8KJ8%2Fc3hhHowa38%3D"
+          }
         },
         {
           "filename": "嘿好痛對不起對不起.m4a",
@@ -2488,8 +2323,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 1283,
             "end": 1288
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=CbldXR%2BNfySZr%2BrRUvY%2BK1jrRjUaFMbMduOrjXrkkH0%3D"
+          }
         },
         {
           "filename": "啊我的聲音好吵.m4a",
@@ -2503,8 +2337,7 @@
             "videoId": "d_WCgzf04JI",
             "start": 4983,
             "end": 4990
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=E4PLDAyJtH7CzsOZtEvtfpt%2BrTURP64Qh763KjcisJ8%3D"
+          }
         },
         {
           "filename": "APEX掉到虛空.m4a",
@@ -2518,8 +2351,7 @@
             "videoId": "U6QtaTeBo9g",
             "start": 6502,
             "end": 6511
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Za4d2xS53MWczTxhe%2BEwSAAmmVDbxyTNNtNaljxubHU%3D"
+          }
         },
         {
           "filename": "APEX再次掉到虛空.m4a",
@@ -2533,8 +2365,7 @@
             "videoId": "U6QtaTeBo9g",
             "start": 8365,
             "end": 8370
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zbmZje8gVV2vBElZguVHV4OP3KskUr382efDiRbijKs%3D"
+          }
         },
         {
           "filename": "例外配達.m4a",
@@ -2548,8 +2379,7 @@
             "videoId": "DPbrxidHOrw",
             "start": 4139,
             "end": 4143
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=RGXo%2BDHIk4BFIFc%2F2JsNztW0Az5nTOoJs1FlEHzstW0%3D"
+          }
         },
         {
           "filename": "怕到叫媽媽.m4a",
@@ -2563,8 +2393,7 @@
             "videoId": "DPbrxidHOrw",
             "start": 4514,
             "end": 4521
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hH20ZoDJBcdjSJr%2FMmcPr84v%2BcuGIxb6TfFXg2b0uTA%3D"
+          }
         },
         {
           "filename": "例外配達2.m4a",
@@ -2578,8 +2407,7 @@
             "videoId": "DPbrxidHOrw",
             "start": 4782,
             "end": 4784
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7oM7SPTVAqAJFnKW%2By7bHtUqFcwsV4dAnpXbtMZUXk8%3D"
+          }
         },
         {
           "filename": "被丟罐子.m4a",
@@ -2593,8 +2421,7 @@
             "videoId": "DPbrxidHOrw",
             "start": 523,
             "end": 532
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=V28J95sTmlm3c2%2B5Cd8%2BRq5OFVAeFpU29OV8asRg4aQ%3D"
+          }
         },
         {
           "filename": "被普通的大叔嚇到.m4a",
@@ -2608,8 +2435,7 @@
             "videoId": "DPbrxidHOrw",
             "start": 974,
             "end": 984
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=OYgv5zpuuw%2B4n0hV27yoaPK7XR0qnlWhUbhi5IX3VRU%3D"
+          }
         },
         {
           "filename": "被歪頭的女人嚇到.m4a",
@@ -2623,8 +2449,7 @@
             "videoId": "DPbrxidHOrw",
             "start": 1575,
             "end": 1578
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=FmKpgX30yA%2BoPMFQyPa46UopkLQlcCl3v%2B7y5NryskU%3D"
+          }
         },
         {
           "filename": "PAON.m4a",
@@ -2638,8 +2463,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 340,
             "end": 346
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=DzRQliU4qHpFNMeNPCN3O%2B%2B%2Fp4g7FqZK6JulCBjsbdA%3D"
+          }
         },
         {
           "filename": "PAON2.m4a",
@@ -2653,8 +2477,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 486,
             "end": 489
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4q3WwH%2Fdn0q9nj37xozusM1ZxuiX%2FHOZ5i5qQm1ieBk%3D"
+          }
         },
         {
           "filename": "PAON3.m4a",
@@ -2668,8 +2491,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 572,
             "end": 573
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=f2nDl1QsaTNfL%2FrMDswiklQbX710d16zsgrMHFl0JRA%3D"
+          }
         },
         {
           "filename": "PAON4.m4a",
@@ -2683,8 +2505,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 579,
             "end": 584
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=a4npQFdzBFLY%2BItCOpKDdDhStHylfX0P4yzji2ERIuU%3D"
+          }
         },
         {
           "filename": "PAON5.m4a",
@@ -2698,8 +2519,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 616,
             "end": 621
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5EBWp7XlO%2BzypQxaEn4dLqETdzofnycn1uclIcvwAhA%3D"
+          }
         },
         {
           "filename": "PAON6.m4a",
@@ -2713,8 +2533,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 823,
             "end": 828
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3KM0cS17y93HI3uwZ6dr2dxRyJCxZt%2FqS5u3G9ys5zU%3D"
+          }
         },
         {
           "filename": "PAON7.m4a",
@@ -2728,8 +2547,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 883,
             "end": 903
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hJr3zKk4%2F2MYW18ebJ6%2BShF%2BO0%2FqpOvDN2p45Twz86g%3D"
+          }
         },
         {
           "filename": "PAON8.m4a",
@@ -2743,8 +2561,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 955,
             "end": 958
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4nJOCKg%2BxBQNgk%2Fh535H%2FVCTYpa4yO%2BWZb0cO61ELv0%3D"
+          }
         },
         {
           "filename": "尖叫什麼住手啦剛剛那是什麼.m4a",
@@ -2758,8 +2575,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 955,
             "end": 970
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vZTW3DilUii7uWDPNG1EwdBEMgLdk1n3O1Ex6W4uULw%3D"
+          }
         },
         {
           "filename": "尖叫真的不要這對心臟不好.m4a",
@@ -2773,8 +2589,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1060,
             "end": 1065
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=I0GydLz26P8GPIQMeYPPVMHd0CbpkMgvvSC4m4%2B1Diw%3D"
+          }
         },
         {
           "filename": "尖叫生氣的聲音.m4a",
@@ -2788,8 +2603,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1116,
             "end": 1122
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=EzsG1uDSAJJ5XUxrlrH16085%2B%2FZdsadIuAWhWTQkE2g%3D"
+          }
         },
         {
           "filename": "PAON9.m4a",
@@ -2803,8 +2617,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1306,
             "end": 1314
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=pNlTmr46Y%2BsrzTgaumDqeU8uDHy6cdD3W%2BHW2EF3Fs4%3D"
+          }
         },
         {
           "filename": "PAON10.m4a",
@@ -2818,8 +2631,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1409,
             "end": 1420
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=ll87Ayjt6qRAEu%2FgvmrLTNTo2JZ4DDET8l589135WDs%3D"
+          }
         },
         {
           "filename": "PAON11.m4a",
@@ -2833,8 +2645,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1462,
             "end": 1466
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=8xKwmFOFYlzxLYuqaKKMf4tR5UZr%2FXYP08r%2FtaHaWGk%3D"
+          }
         },
         {
           "filename": "パパ.m4a",
@@ -2848,8 +2659,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1654,
             "end": 1666
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=3C47kji4p%2FPq5gUobz5KDc5wXNEWngenn9aZ0birRaY%3D"
+          }
         },
         {
           "filename": "PAON12.m4a",
@@ -2863,8 +2673,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1673,
             "end": 1678
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2BZn%2BcVShtvodM15dqiKVr%2BzSHqM35OVC6KziqSaaZ4A%3D"
+          }
         },
         {
           "filename": "PAON13.m4a",
@@ -2878,8 +2687,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1787,
             "end": 1790
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=a482jCtItqgZpXtbPQd7y5HW1nTDN41jwK4uB6655GM%3D"
+          }
         },
         {
           "filename": "PAON14.m4a",
@@ -2893,8 +2701,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 1935,
             "end": 1945
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=9Y1V5wpOkyIJqozN39iWiuK72gLI1xOFOOvmk9Uqamg%3D"
+          }
         },
         {
           "filename": "PAON15.m4a",
@@ -2908,8 +2715,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 2128,
             "end": 2131
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=HM%2BVc2H0c5oWZ0%2B9uc6ehY3n7abSebZsQlcCfAcZBd0%3D"
+          }
         },
         {
           "filename": "PAON16.m4a",
@@ -2923,8 +2729,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 2162,
             "end": 2165
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=xxqAiHy8gmQLjTFhiHypyZ1ZkfyFiC3BCR%2FJ62HlC7M%3D"
+          }
         },
         {
           "filename": "PAON17.m4a",
@@ -2938,8 +2743,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 2328,
             "end": 2340
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=G4N6ngj34Mz04rEjfHwm8xqiuaHNRnKARvrivb9JN80%3D"
+          }
         },
         {
           "filename": "漢堡解體大叫為什麼會這樣啦.m4a",
@@ -2953,8 +2757,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 1214,
             "end": 1221
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=4UexjmlWJ9oKN1Xacrjhz0DEGpoLnqPXMZNcNYudwO4%3D"
+          }
         },
         {
           "filename": "把湯弄灑尖叫.m4a",
@@ -2968,8 +2771,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 2718,
             "end": 2722
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=Q2MJFPkxJyMqNyYA5M0zKTMgaxg750NuYJTDPs1%2FkCk%3D"
+          }
         },
         {
           "filename": "把料理全灑了尖叫.m4a",
@@ -2983,8 +2785,7 @@
             "videoId": "Za0AMX-rFc0",
             "start": 5782,
             "end": 5791
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1DSOQgZYW24H9oWj%2BvsDh7ATO1QHv%2BWJsNaq1z8X3qg%3D"
+          }
         },
         {
           "filename": "被音樂聲嚇到.m4a",
@@ -2998,8 +2799,7 @@
             "videoId": "QsbbnUD8OQE",
             "start": 6287,
             "end": 6301
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=G%2F3tOm%2F9MosgdwcxWNWul1lqTlA32vTba8k97SNLov8%3D"
+          }
         },
         {
           "filename": "哇有蟲哇.webm",
@@ -3013,8 +2813,7 @@
             "videoId": "uL8TlDCVRxw",
             "start": 1968,
             "end": 1970
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=0svr%2Fui5DnfrvkAy%2Buh6V2l6Sk%2BMsBrF2TEnvYgAJN0%3D"
+          }
         },
         {
           "filename": "轉身絆倒麥克風.webm",
@@ -3028,8 +2827,7 @@
             "videoId": "uBDZOVC-MzM",
             "start": 875,
             "end": 894
-          },
-          "SASToken": "?sv=2020-10-02&si=%E6%B0%B8%E8%AE%80&sr=b&sig=xrNDd4Lg2kub2qDRyW0J8Jjnk4SB1iTsio0RbEb%2F0Kg%3D"
+          }
         }
       ]
     },
@@ -3052,8 +2850,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 651,
             "end": 665
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=zjT%2B2lNYpZIXpH3bRe70aolRVEscL4IWxT3xabKl7Ls%3D"
+          }
         },
         {
           "filename": "ANIMA.m4a",
@@ -3067,8 +2864,7 @@
             "videoId": "oqfJ-KQBxmE",
             "start": 1156,
             "end": 1167
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=vtUO9xKT%2FFf%2B4DyDBDOM1P7%2F3IB%2FWCayyeBfHnmHe2o%3D"
+          }
         },
         {
           "filename": "喵喵喵喵.m4a",
@@ -3082,8 +2878,7 @@
             "videoId": "h_Pz0HTsE6g",
             "start": 8366,
             "end": 8377
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=%2Bm9Sv7ix6GClXU8FzGCsLsnq%2B8UiUHaWb7B9LJDitdg%3D"
+          }
         },
         {
           "filename": "魔物獵人崛起兔兔糰子歌日文版.m4a",
@@ -3097,8 +2892,7 @@
             "videoId": "yFzIg39iR00",
             "start": 426,
             "end": 449
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=w0XJOhahqJAcUvvSNIgUwWwypns4M0h3y5IzwXagHE4%3D"
+          }
         },
         {
           "filename": "SingMyPleasurewithPAON.m4a",
@@ -3112,8 +2906,7 @@
             "videoId": "A0gwmKXXpi8",
             "start": 2613,
             "end": 2677
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=hwl1EeVqRLiqTiw6cJfY6Xe7soFaDrJBfV6Kt1jhvOI%3D"
+          }
         },
         {
           "filename": "手舞足蹈迪士尼鬼怪的歌.m4a",
@@ -3127,8 +2920,7 @@
             "videoId": "DoTrSqVubHU",
             "start": 8560,
             "end": 8598
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=IXmV48z2hF9OypJvDOswKKfCq7NipX0LABgdRDZywRQ%3D"
+          }
         },
         {
           "filename": "絕唱.webm",
@@ -3142,8 +2934,7 @@
             "videoId": "KqkGAdKvmt0",
             "start": 0,
             "end": 42
-          },
-          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=0if5P2bAseWtqHiPYJk8IdQQDwZAmt5oey7s9H7ARhQ%3D"
+          }
         }
       ]
     }
