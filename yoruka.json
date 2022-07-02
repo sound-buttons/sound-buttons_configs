@@ -2303,6 +2303,66 @@
             "end": 0
           },
           "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=8qxmuRV%2Blfwrok7PuwJKde4KFmqMf3cTf4z4eSTbsqg%3D"
+        },
+        {
+          "filename": "我煮得失敗但我對你的愛很成功.webm",
+          "text": {
+            "zh-tw": "我煮得失敗，但我對你的愛很成功",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "nG-5kGa1wCk",
+            "start": 879,
+            "end": 882
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=zdRLJLU48R7nexqCvVlxN0rgYimKsMVJHti%2FjFs%2Fb7Y%3D"
+        },
+        {
+          "filename": "我遠傳也是網內互打不用錢啊.webm",
+          "text": {
+            "zh-tw": "我遠傳也是網內互打不用錢啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "nG-5kGa1wCk",
+            "start": 2723,
+            "end": 2725
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Aqcdllu9ckPPqUCkdv%2BCiyySJpBpRyDUKmsN9ZwEVs4%3D"
+        },
+        {
+          "filename": "我遠傳也是網內互打不用錢啊_637913342916258336.webm",
+          "text": {
+            "zh-tw": "我遠傳也是網內互打不用錢啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "nG-5kGa1wCk",
+            "start": 2723,
+            "end": 2726
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=zsEezDHspu2hCDhhhK9gKhI4pc6XICWaUHn%2FfRPEy4Y%3D"
+        },
+        {
+          "filename": "我用它只是因為是被迫的我從來都沒有推薦它.webm",
+          "text": {
+            "zh-tw": "我用它只是因為是被迫的，我從來都沒有推薦它",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "nG-5kGa1wCk",
+            "start": 2833,
+            "end": 2837
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Mim3Jj1S6byy4dgDe73zgjRXBdS6NpySSzd06TzhywQ%3D"
         }
       ]
     },

@@ -12,7 +12,7 @@
     "youtube": "https://www.youtube.com/c/ArumaCh%E8%96%AC%E8%A2%8B%E3%82%A2%E3%83%AB%E3%83%9E",
     "twitter": "https://twitter.com/MinaiAlma",
     "facebook": "https://www.facebook.com/%E8%96%AC%E8%A2%8B%E3%82%A2%E3%83%AB%E3%83%9EMinai-Aruma-101882972425300",
-    "instagram":"https://www.instagram.com/minaiaruma/",
+    "instagram": "https://www.instagram.com/minaiaruma/",
     "discord": "",
     "other": null
   },
@@ -218,6 +218,111 @@
             "end": 4397
           },
           "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=%2BeQLh5RyMcCuj3l%2F0BPeWtLD9lW4ZoJpTulaQCFkBfg%3D"
+        },
+        {
+          "filename": "最棒的大帥哥最喜歡你.webm",
+          "text": {
+            "zh-tw": "最棒的大帥哥～最喜歡你！",
+            "ja": "最高イケメン～大好き！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 5868,
+            "end": 5872
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=li4EQRyWGSCDd8l8fyv6E%2BIJ67ORPVxA2EQXsxTVe84%3D"
+        },
+        {
+          "filename": "釘宮三連.webm",
+          "text": {
+            "zh-tw": "釘宮三連",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 9473,
+            "end": 9478
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=cbP%2FXKqr16Y5oY3DmAL0lH2S7o3Tc8NHm%2FpwoXud1k0%3D"
+        },
+        {
+          "filename": "肥宅笑聲.webm",
+          "text": {
+            "zh-tw": "肥宅笑聲",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 1427,
+            "end": 1430.5
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=adNtaqfCG%2BwmRmsSnCmgltjlJf%2BUb%2BWBRkxt%2BzRsJbk%3D"
+        },
+        {
+          "filename": "草執事們你們是變態嗎.webm",
+          "text": {
+            "zh-tw": "草執事們，你們是變態嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 2990,
+            "end": 2995
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=UV8eOG4oQGwQ2%2BQE9MKGD6OvJAnhu6f1%2FaaZ9dFP3aE%3D"
+        },
+        {
+          "filename": "啊好可怕笑.webm",
+          "text": {
+            "zh-tw": "啊好可怕！(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 4030.2,
+            "end": 4033
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=SKGhQJ8yfeaYg3jb1bi0U5UOT21nLOt7y3chUlNiOJc%3D"
+        },
+        {
+          "filename": "OHMYGOD笑.webm",
+          "text": {
+            "zh-tw": "OH MY GOD....(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 5463,
+            "end": 5468
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=3rWZ%2BJ7s9WcoUFjDdcHFt%2Fe8mujeHzsZJEfNG0HO%2BUk%3D"
+        },
+        {
+          "filename": "你傻嗎.webm",
+          "text": {
+            "zh-tw": "你傻嗎？",
+            "ja": "バカなの？"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 6781,
+            "end": 6783
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=cFKpQv1lDEE11iGVlyuxYuxyRPuCyCqANY6EFqL67ks%3D"
         }
       ]
     },
@@ -1022,6 +1127,276 @@
             "end": 3769.244
           },
           "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=szPAnJr36lbwk10KK%2FA9k5LggUOqbN1HBZ513ENsjMQ%3D"
+        },
+        {
+          "filename": "台語給我死吧大爆笑.webm",
+          "text": {
+            "zh-tw": "(台語)給我死吧！(大爆笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MX_Wr1TbFdc",
+            "start": 2513,
+            "end": 2516
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=VWzEPnZ0Wio%2FLdQMp1TklPpQyO16rHP7%2B9CIZ4UTZjo%3D"
+        },
+        {
+          "filename": "沒用的傢伙理財會不會啊.webm",
+          "text": {
+            "zh-tw": "沒用的傢伙，理財會不會啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 2243.904,
+            "end": 2279.203
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=w13Ac4dvhuMJKPMYKhi1Yq6RjvrkoswmRH656LBqEZA%3D"
+        },
+        {
+          "filename": "我怎麼能為了這一點點的錢就滿足呢75想叫我唱首歌哪那麼容易.webm",
+          "text": {
+            "zh-tw": "我怎麼能為了這一點點的錢就滿足呢? 75? 想叫我唱首歌哪那麼容易",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 3548.7,
+            "end": 3560.5
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=oqRqUL2kcopdxEOrCfOeOC1eiXnnVPfzoUf4Onf5IU0%3D"
+        },
+        {
+          "filename": "不要D了5個女人之後再跟艦長說不好意思沒錢了養不起妳唉妳花了我好多錢啊少來.webm",
+          "text": {
+            "zh-tw": "不要D了5個女人之後再跟艦長說 「不好意思沒錢了~養不起妳~唉，妳花了我好多錢啊」 少來！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 5308.927,
+            "end": 5323.274
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=tJQQ5ULusyFMpiBOQ%2FZ%2FGExsIMuJhHIsd23rYX7GHPU%3D"
+        },
+        {
+          "filename": "唉呀看來你真的很閒錢也很多嘛可以同時D這麼多人好棒棒好厲害喔.webm",
+          "text": {
+            "zh-tw": "唉呀～看來你真的很閒錢也很多嘛，可以同時D這麼多人好棒棒好厲害喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 5269,
+            "end": 5279.699
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=19s1f3%2FghyMhwWuvJ0nTqEd4ilX0jOgzEfwxaifXDcE%3D"
+        },
+        {
+          "filename": "我這麼努力配信了四個小時我的訂閱數只增加四個人天理何在啊.webm",
+          "text": {
+            "zh-tw": "我這麼努力配信了四個小時，我的訂閱數只增加四個人，天理何在啊！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 14881.576,
+            "end": 14890.162
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=60KGBFNNmjoA8cQqxAkXEfH%2FXj9ufWCsEJVlF%2BOvOG8%3D"
+        },
+        {
+          "filename": "要我吃羊肉哪那麼容易啊.webm",
+          "text": {
+            "zh-tw": "要我吃羊肉哪那麼容易啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 14993,
+            "end": 14996
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=rT9JyflxSpyd33bro2%2FCnApDIKlOH7OQDqRUPxd61Yw%3D"
+        },
+        {
+          "filename": "釘宮三連中文版.webm",
+          "text": {
+            "zh-tw": "釘宮三連 (中文版)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wfYGutLommA",
+            "start": 9485,
+            "end": 9490
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Fi3DvNcBefSZ1aNPR1RbBI65l8WT4NLbCBNQAtK%2Bm94%3D"
+        },
+        {
+          "filename": "我聞到贖罪券的味道好香啊.webm",
+          "text": {
+            "zh-tw": "我聞到贖罪券的味道，好香啊~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "70DtYkvOfz8",
+            "start": 2622,
+            "end": 2628
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=NV7aaY0hUtC7LqoEKRrRfV6aliuvNHA22DHarMrUY4c%3D"
+        },
+        {
+          "filename": "這就是可怕的日本社會嗎.webm",
+          "text": {
+            "zh-tw": "這就是...可怕的...日本社會嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "70DtYkvOfz8",
+            "start": 2601,
+            "end": 2610
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=MdS5M8DdfrBTTuxzYyzHLBtmtOKrPvfLAt0sLZexs98%3D"
+        },
+        {
+          "filename": "我不想要抓著小弟弟我射不到.webm",
+          "text": {
+            "zh-tw": "我不想要抓著小弟弟，我射不到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 868,
+            "end": 871
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=fUMLh%2Bv44tDHZPdQ5gelg4naFKly6Nirmd8aSWoRQoE%3D"
+        },
+        {
+          "filename": "能不能坐著上廁所啊.webm",
+          "text": {
+            "zh-tw": "能不能坐著上廁所啊?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 872,
+            "end": 874
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=M7b5QQ9yHu9WvUfEUvGIjhx3VfnphJBeIX%2FdN8ELucU%3D"
+        },
+        {
+          "filename": "尖叫.webm",
+          "text": {
+            "zh-tw": "尖叫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 875,
+            "end": 887
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Apru2SSFpotSEejLAzaj7J4eeoytgwL9%2FTZyfWIG0fo%3D"
+        },
+        {
+          "filename": "反正晚上燈關起來就看不到啦有大的boingboing比較重要.webm",
+          "text": {
+            "zh-tw": "反正晚上燈關起來就看不到啦，有大的boingboing比較重要",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 1908,
+            "end": 1914
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=C%2FtN%2BPgdUSH3PfsYoje2llOMtbJ370UXEg%2BWhYIAuDk%3D"
+        },
+        {
+          "filename": "現在大家知道怎麼賺錢了嗎最好賺的錢是什麼就是騙.webm",
+          "text": {
+            "zh-tw": "現在大家知道怎麼賺錢了嗎? 最好賺的錢是什麼，就是「騙」！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 2027,
+            "end": 2032
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=n%2BVph7qXNsuW%2BFM394AzAnZtP1H%2B%2BeO4ljYFVxJRQIE%3D"
+        },
+        {
+          "filename": "你們是變態嗎.webm",
+          "text": {
+            "zh-tw": "你們是變態嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 2995,
+            "end": 2997
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=rA05k%2F0Bw3MZ%2F1qZIUy67fCN7HYr%2Bess6k19qE1EqKA%3D"
+        },
+        {
+          "filename": "我婆我婆我婆我婆.webm",
+          "text": {
+            "zh-tw": "我婆我婆，我婆我婆！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 3571.2,
+            "end": 3575
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=wunaZsuM4Q96%2BZFye%2BkEbP94wrWkiE2O7wK8Vj2DLgg%3D"
+        },
+        {
+          "filename": "難道香港人都不穿衣服的嗎尖叫.webm",
+          "text": {
+            "zh-tw": "難道香港人都不穿衣服的嗎？(尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 7380,
+            "end": 7384
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=7%2B%2BTQdPw%2BfZ5S1T7KmwLz5SBAX12ZZ6vMFjItlufayo%3D"
         }
       ]
     },
@@ -1196,6 +1571,21 @@
             "end": 8602.099
           },
           "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=uJxbk43%2B%2BhBMakQ8ff6k0Dx7ZOAbyZnv8DpqxVBB1Pc%3D"
+        },
+        {
+          "filename": "大爆笑Homo拍手.webm",
+          "text": {
+            "zh-tw": "(大爆笑) Homo! (拍手)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 3021,
+            "end": 3031
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=QHWW3gijmoZsWvJZ2yu%2BJ2ETO740U3IYPHpaPOZBGxU%3D"
         }
       ]
     }

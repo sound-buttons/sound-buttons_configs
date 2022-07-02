@@ -1480,6 +1480,66 @@
             "end": 3580
           },
           "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=cNOyo5m%2F2YUvwkRf1HH6UdDHV95m%2FDfET3v3oQHsGFQ%3D"
+        },
+        {
+          "filename": "諸君我們的任務是什麼是草.webm",
+          "text": {
+            "zh-tw": "諸君，我們的任務是什麼？ 是草！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jZVlc5Qfat4",
+            "start": 2092,
+            "end": 2097
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=7bXm%2Bn9J07WIr1dD18BOtgBcstg9LR2FVEnMeCMbmG8%3D"
+        },
+        {
+          "filename": "英文自介.webm",
+          "text": {
+            "zh-tw": "英文自介",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jZVlc5Qfat4",
+            "start": 2163,
+            "end": 2173
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=ydOMiefkWJDRYDy8wdLXUlSqyuUXs27GSBgkc%2Fjhwfw%3D"
+        },
+        {
+          "filename": "可愛聲音的自我介紹.webm",
+          "text": {
+            "zh-tw": "可愛聲音的自我介紹",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jZVlc5Qfat4",
+            "start": 2298,
+            "end": 2319
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=dlKClivz3Log%2B%2Bs2Y4xPo3XU31CsUbNDXG5LkS%2FxJ9k%3D"
+        },
+        {
+          "filename": "這個美少女是誰啊對就是我.webm",
+          "text": {
+            "zh-tw": "這個美少女是誰啊？對，就是我！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jZVlc5Qfat4",
+            "start": 2788,
+            "end": 2792
+          },
+          "SASToken": "?sv=2020-08-04&si=%E6%B0%B8%E8%AE%80&sr=b&sig=rgAG2rysYkGdaeQb7Kz0dZ5iWVaX3jYfxhZq26M8uRw%3D"
         }
       ]
     },
