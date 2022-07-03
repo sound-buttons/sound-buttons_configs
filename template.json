@@ -31,39 +31,42 @@
     },
     "SASToken": ""
   },
-  "buttonGroups": [{
-    "name": {
-      "zh-tw": "たま汪汪",
-      "ja": "たまわんわん"
-    },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
-    "buttons": [{
-        "filename": "Unlimited_Blade_Works.mp3",
-        "text": "Unlimited Blade Works",
-        "baseRoute": null,
-        "volume": 1,
-        "source": {
-          "videoId": "YVwC8zTXbsY",
-          "start": 6430,
-          "end": 6465
-        },
-        "SASToken": ""
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "たま汪汪",
+        "ja": "たまわんわん"
       },
-      {
-        "filename": "晚安.m4a",
-        "text": {
-          "zh-tw": "晚安~",
-          "ja": "こんばんは~"
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "buttons": [
+        {
+          "filename": "Unlimited_Blade_Works.mp3",
+          "text": "Unlimited Blade Works",
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "YVwC8zTXbsY",
+            "start": 6430,
+            "end": 6465
+          },
+          "SASToken": ""
         },
-        "baseRoute": null,
-        "volume": 1,
-        "source": {
-          "videoId": "a6Bfjm5fZz0",
-          "start": 4247,
-          "end": 4249
-        },
-        "SASToken": ""
-      }
-    ]
-  }]
+        {
+          "filename": "晚安.m4a",
+          "text": {
+            "zh-tw": "晚安~",
+            "ja": "こんばんは~"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "a6Bfjm5fZz0",
+            "start": 4247,
+            "end": 4249
+          },
+          "SASToken": ""
+        }
+      ]
+    }
+  ]
 }

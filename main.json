@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "yoruka",
     "fullName": "須多夜花",
     "fullConfigURL": "assets/configs/yoruka.json",
@@ -8,7 +9,8 @@
       "primary": "#33272B",
       "secondary": "#E55A74"
     }
-  }, {
+  },
+  {
     "name": "tama",
     "fullName": "久遠たま",
     "fullConfigURL": "assets/configs/tama.json",

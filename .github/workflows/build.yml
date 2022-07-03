@@ -25,7 +25,7 @@ jobs:
 
       # Use https://github.com/Josee9988/MinifyAllCli
       - name: Minify Action
-        run: 'npx @josee9988/minifyall -d .'
+        run: "npx @josee9988/minifyall -d ."
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v4
