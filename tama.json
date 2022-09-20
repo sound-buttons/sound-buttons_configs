@@ -1437,6 +1437,20 @@
             "start": 2788,
             "end": 2792
           }
+        },
+        {
+          "filename": "SAKANA.webm",
+          "text": {
+            "zh-tw": "SAKANA~~~\uD83D\uDC1F",
+            "ja": "さかな~~~\uD83D\uDC1F"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "P27qDlrFqVs",
+            "start": 5713,
+            "end": 5715
+          }
         }
       ]
     },
@@ -2076,6 +2090,20 @@
             "videoId": "uL8TlDCVRxw",
             "start": 5610,
             "end": 5621
+          }
+        },
+        {
+          "filename": "SuperEnglishTimeNoNoNoNoNotEnglishtimeIdontknowEnglish.webm",
+          "text": {
+            "zh-tw": "(Super English Time?) No, NoNoNo! Not English time. I don't know English.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "j2nrMPZlcuY",
+            "start": 6514.342,
+            "end": 6527.493
           }
         }
       ]

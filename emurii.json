@@ -527,6 +527,20 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "filename": "對不起不要逃跑對不起啦.webm",
+          "text": {
+            "zh-tw": "對不起! 不要逃跑! 對不起啦!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Vhh6ycjG5h8",
+            "start": 5626,
+            "end": 5634
+          }
         }
       ]
     },
@@ -605,6 +619,20 @@
             "videoId": "S4gdA636T5U",
             "start": 4001,
             "end": 4008
+          }
+        },
+        {
+          "filename": "舔舔舔.webm",
+          "text": {
+            "zh-tw": "(舔舔舔)",
+            "ja": "(レロレロレロ)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Vhh6ycjG5h8",
+            "start": 5610.3,
+            "end": 5613
           }
         }
       ]
