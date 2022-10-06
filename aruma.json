@@ -359,6 +359,62 @@
             "start": 7567.3,
             "end": 7575
           }
+        },
+        {
+          "filename": "チチをもげ甩甩奶奶.webm",
+          "text": {
+            "zh-tw": "チチをもげ！ (甩甩奶奶)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_Et1_K5r2Kc",
+            "start": 3906,
+            "end": 3942
+          }
+        },
+        {
+          "filename": "艦長看到法文留言然後亂唸一通.webm",
+          "text": {
+            "zh-tw": "(艦長看到法文留言，然後亂唸一通)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_Et1_K5r2Kc",
+            "start": 3016.8,
+            "end": 3028
+          }
+        },
+        {
+          "filename": "SAKANA.webm",
+          "text": {
+            "zh-tw": "SAKANA~~~\uD83D\uDC1F",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_Et1_K5r2Kc",
+            "start": 3367,
+            "end": 3370
+          }
+        },
+        {
+          "filename": "我肚子餓了怎麼辦啦.webm",
+          "text": {
+            "zh-tw": "我肚子餓了怎麼辦啦！",
+            "ja": "お腹空いた～どうしよう！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_Et1_K5r2Kc",
+            "start": 5089,
+            "end": 5093
+          }
         }
       ]
     },
@@ -1921,6 +1977,132 @@
             "videoId": "7Cz22bQsxpA",
             "start": 7563,
             "end": 7567.5
+          }
+        },
+        {
+          "filename": "我想打噴嚏.webm",
+          "text": {
+            "zh-tw": "我想打噴嚏！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fHpcsyAT-lc",
+            "start": 4006,
+            "end": 4008
+          }
+        },
+        {
+          "filename": "是誰在偷說我壞話嗯.webm",
+          "text": {
+            "zh-tw": "是誰在偷說我壞話？嗯？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fHpcsyAT-lc",
+            "start": 4034,
+            "end": 4039
+          }
+        },
+        {
+          "filename": "艦長站著往下看可以看的到腳趾嗎我只看得到我的奶子耶.webm",
+          "text": {
+            "zh-tw": "(艦長站著往下看可以看的到腳趾嗎?) 我只看得到我的奶子耶",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fHpcsyAT-lc",
+            "start": 4746,
+            "end": 4750
+          }
+        },
+        {
+          "filename": "我的奶子.webm",
+          "text": {
+            "zh-tw": "我的奶子",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fHpcsyAT-lc",
+            "start": 4753,
+            "end": 4756
+          }
+        },
+        {
+          "filename": "笑有把柄在我手上啊笑.webm",
+          "text": {
+            "zh-tw": "(笑) 有把柄在我手上啊 (笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fHpcsyAT-lc",
+            "start": 4908,
+            "end": 4915
+          }
+        },
+        {
+          "filename": "我只愛艦長騙.webm",
+          "text": {
+            "zh-tw": "(我只愛艦長) 騙!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fHpcsyAT-lc",
+            "start": 4939.8,
+            "end": 4943
+          }
+        },
+        {
+          "filename": "我講中文的時候就是台V我講日文的時候就是日V請多多指教我屬的社團是日本的.webm",
+          "text": {
+            "zh-tw": "我講中文的時候就是台V，我講日文的時候就是日V，請多多指教，我屬的社團是日本的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "fHpcsyAT-lc",
+            "start": 5699,
+            "end": 5706
+          }
+        },
+        {
+          "filename": "我懷疑你們都是同一個人.webm",
+          "text": {
+            "zh-tw": "我懷疑你們都是同一個人",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_Et1_K5r2Kc",
+            "start": 5163,
+            "end": 5165
+          }
+        },
+        {
+          "filename": "朗讀祝艦長一帆風順的SC.webm",
+          "text": {
+            "zh-tw": "(朗讀「祝艦長一帆風順」的SC)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_Et1_K5r2Kc",
+            "start": 8478,
+            "end": 8519
           }
         }
       ]
