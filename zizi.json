@@ -1,58 +1,127 @@
 {
-    "name": "zizi",
-    "fullName": "ねこ咨咨",
-    "fullConfigURL": "assets/configs/zizi.json",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.png",
-    "intro": "Hello~我是ねこ咨咨\n 來自南城的幻靈🐱\n 可以叫我咨咨就好\n 熱愛玩遊戲、唱歌\n 自帶天然呆的貓娘~",
-    "color": {
-        "primary": "#593196",
-        "secondary": "#a991d4"
+  "name": "zizi",
+  "fullName": "ねこ咨咨",
+  "fullConfigURL": "assets/configs/zizi.json",
+  "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.png",
+  "intro": "Hello~我是ねこ咨咨\n 來自南城的幻靈\uD83D\uDC31\n 可以叫我咨咨就好\n 熱愛玩遊戲、唱歌\n 自帶天然呆的貓娘~",
+  "color": {
+    "primary": "#593196",
+    "secondary": "#a991d4"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/channel/UCvwD8Eh3-OapdsoR7Yb8Jhg",
+    "twitter": "https://twitter.com/zi_lydia",
+    "facebook": "https://www.facebook.com/zizi0218520",
+    "instagram": "https://www.instagram.com/zizi0218520",
+    "discord": "https://discord.gg/P6y6DTcyjJ",
+    "other": "https://www.twitch.tv/zizi0218520"
+  },
+  "introButton": {
+    "filename": "自我介紹.m4a",
+    "text": {
+      "zh-tw": "自我介紹",
+      "ja": "自己紹介"
     },
-    "link": {
-        "youtube": "https://www.youtube.com/channel/UCvwD8Eh3-OapdsoR7Yb8Jhg",
-        "twitter": "https://twitter.com/zi_lydia",
-        "facebook": "https://www.facebook.com/zizi0218520",
-        "instagram": "https://www.instagram.com/zizi0218520",
-        "discord": "https://discord.gg/P6y6DTcyjJ",
-        "other": "https://www.twitch.tv/zizi0218520"
-    },
-    "introButton": {
-        "filename": "自我介紹.m4a",
-        "text": {
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+    "volume": 1,
+    "source": {
+      "videoId": "c24EncYcQpE",
+      "start": 371,
+      "end": 377.5
+    }
+  },
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "Neko咨咨",
+        "ja": "Neko咨咨"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "自我介紹.m4a",
+          "text": {
             "zh-tw": "自我介紹",
             "ja": "自己紹介"
-        },
-        "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
-        "volume": 1,
-        "source": {
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
             "videoId": "c24EncYcQpE",
             "start": 371,
             "end": 377.5
+          }
         }
+      ]
     },
-    "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "ASMR",
+        "ja": "ASMR"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
         {
-            "name": {
-                "zh-tw": "Neko咨咨",
-                "ja": "Neko咨咨"
-            },
-            "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
-            "buttons": [
-                {
-                    "filename": "自我介紹.m4a",
-                    "text": {
-                        "zh-tw": "自我介紹",
-                        "ja": "自己紹介"
-                    },
-                    "baseRoute": null,
-                    "volume": 1,
-                    "source": {
-                        "videoId": "c24EncYcQpE",
-                        "start": 371,
-                        "end": 377.5
-                    }
-                }
-            ]
+          "filename": "快點快點過去過去.webm",
+          "text": {
+            "zh-tw": "快點快點 過去過去",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "xzDcPFnlSjk",
+            "start": 5415,
+            "end": 5426
+          }
         }
-    ]
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "怪聲仔",
+        "ja": "怪聲仔"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "氣氣氣氣切切切切.webm",
+          "text": {
+            "zh-tw": "氣氣氣氣切切切切",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "c24EncYcQpE",
+            "start": 865,
+            "end": 877
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "驚嚇",
+        "ja": "驚嚇"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "嚇死我了好可怕喔.mp3",
+          "text": {
+            "zh-tw": "嚇死我了 好可怕喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
+    }
+  ]
 }
