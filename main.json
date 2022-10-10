@@ -15,7 +15,11 @@
         "fullName": "久遠たま",
         "fullConfigURL": "assets/configs/tama.json",
         "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.json",
-        "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.png",
+        "imgSrc": [
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama3.png",
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.png",
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama2.png"
+        ],
         "color": {
             "primary": "#593196",
             "secondary": "#a991d4"
@@ -37,7 +41,11 @@
         "fullName": "苓吃エムリィ",
         "fullConfigURL": "assets/configs/emurii.json",
         "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.json",
-        "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.png",
+        "imgSrc": [
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii3.png",
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii.png",
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/emurii/emurii2.png"
+        ],
         "color": {
             "primary": "#B933F8",
             "secondary": "#DEC5E5"
