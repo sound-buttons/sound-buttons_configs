@@ -2,7 +2,9 @@
   "name": "zizi",
   "fullName": "ねこ咨咨",
   "fullConfigURL": "assets/configs/zizi.json",
-  "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.png",
+  "imgSrc": [
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.png"
+  ],
   "intro": "Hello~我是ねこ咨咨\n 來自南城的幻靈\uD83D\uDC31\n 可以叫我咨咨就好\n 熱愛玩遊戲、唱歌\n 自帶天然呆的貓娘~",
   "color": {
     "primary": "#593196",
