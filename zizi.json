@@ -76,6 +76,20 @@
             "start": 5415,
             "end": 5426
           }
+        },
+        {
+          "filename": "他在上面好可怕.webm",
+          "text": {
+            "zh-tw": "他在上面好可怕",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "xzDcPFnlSjk",
+            "start": 8005,
+            "end": 8021
+          }
         }
       ]
     },
@@ -99,6 +113,34 @@
             "start": 865,
             "end": 877
           }
+        },
+        {
+          "filename": "小咨咨說掰掰.webm",
+          "text": {
+            "zh-tw": "小咨咨說掰掰",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3p3rCXz4ZXA",
+            "start": 13924,
+            "end": 13936
+          }
+        },
+        {
+          "filename": "屁屁屁屁掰掰.webm",
+          "text": {
+            "zh-tw": "屁屁屁屁 ..... 掰掰",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3p3rCXz4ZXA",
+            "start": 13995.4,
+            "end": 14005
+          }
         }
       ]
     },
@@ -113,6 +155,43 @@
           "filename": "嚇死我了好可怕喔.mp3",
           "text": {
             "zh-tw": "嚇死我了 好可怕喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "罵倒",
+        "ja": "罵倒"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "衝三小.webm",
+          "text": {
+            "zh-tw": "衝三小",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Xxq-R1d7IjY",
+            "start": 2359,
+            "end": 2361
+          }
+        },
+        {
+          "filename": "哩key呷賽小聲.mp3",
+          "text": {
+            "zh-tw": "哩 key 呷賽 (小聲)",
             "ja": ""
           },
           "baseRoute": null,
