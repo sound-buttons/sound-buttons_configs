@@ -4,7 +4,12 @@
         "fullName": "須多夜花",
         "fullConfigURL": "assets/configs/yoruka.json",
         "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.json",
-        "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.png",
+        "imgSrc": [
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka2.png",
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka3.png",
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka4.png",
+          "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/yoruka.png"
+        ],
         "color": {
             "primary": "#33272B",
             "secondary": "#E55A74"
