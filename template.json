@@ -19,7 +19,7 @@
     "other": null
   },
   "introButton": {
-    "filename": "自我介紹.m4a",
+    "filename": "自我介紹.webm",
     "text": {
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
@@ -42,7 +42,7 @@
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
       "buttons": [
         {
-          "filename": "Unlimited_Blade_Works.mp3",
+          "filename": "Unlimited_Blade_Works.webm",
           "text": "Unlimited Blade Works",
           "baseRoute": null,
           "volume": 1,
@@ -54,7 +54,7 @@
           "SASToken": ""
         },
         {
-          "filename": "晚安.m4a",
+          "filename": "晚安.webm",
           "text": {
             "zh-tw": "晚安~",
             "ja": "こんばんは~"

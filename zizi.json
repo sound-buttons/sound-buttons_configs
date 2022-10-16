@@ -19,7 +19,7 @@
     "other": "https://www.twitch.tv/zizi0218520"
   },
   "introButton": {
-    "filename": "自我介紹.m4a",
+    "filename": "自我介紹.webm",
     "text": {
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
@@ -41,7 +41,7 @@
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
       "buttons": [
         {
-          "filename": "自我介紹.m4a",
+          "filename": "自我介紹.webm",
           "text": {
             "zh-tw": "自我介紹",
             "ja": "自己紹介"
@@ -152,7 +152,7 @@
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
       "buttons": [
         {
-          "filename": "嚇死我了好可怕喔.mp3",
+          "filename": "嚇死我了好可怕喔.webm",
           "text": {
             "zh-tw": "嚇死我了 好可怕喔",
             "ja": ""
@@ -189,7 +189,7 @@
           }
         },
         {
-          "filename": "哩key呷賽小聲.mp3",
+          "filename": "哩key呷賽小聲.webm",
           "text": {
             "zh-tw": "哩 key 呷賽 (小聲)",
             "ja": ""

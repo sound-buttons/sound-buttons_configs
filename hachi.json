@@ -19,7 +19,7 @@
     "other": "https://reality.wrightflyer.net/profile/29631822"
   },
   "introButton": {
-    "filename": "自介.mp3",
+    "filename": "自介.webm",
     "text": {
       "zh-tw": "自介語音",
       "ja": "自己紹介"
@@ -38,7 +38,7 @@
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/",
       "buttons": [
         {
-          "filename": "遺忘光線.mp3",
+          "filename": "遺忘光線.webm",
           "text": {
             "zh-tw": "遺忘光線",
             "ja": "忘れるビーム"
@@ -53,7 +53,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "Ababababa.mp3",
+          "filename": "Ababababa.webm",
           "text": {
             "zh-tw": "Ababababa",
             "ja": "あばばばば"
@@ -68,7 +68,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "噴嚏.mp3",
+          "filename": "噴嚏.webm",
           "text": {
             "zh-tw": "噴嚏",
             "ja": "くしゃみ助かる"
@@ -83,7 +83,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "Hitachi.mp3",
+          "filename": "Hitachi.webm",
           "text": {
             "zh-tw": "Hitachi",
             "ja": "Hitachi"
@@ -98,7 +98,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": ".mp3",
+          "filename": ".webm",
           "text": {
             "zh-tw": "遜砲",
             "ja": "ミス"
@@ -113,7 +113,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "2.mp3",
+          "filename": "2.webm",
           "text": {
             "zh-tw": "遜砲2",
             "ja": "ミス２"
@@ -128,7 +128,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "_637545736298174237.mp3",
+          "filename": "_637545736298174237.webm",
           "text": {
             "zh-tw": "口哨",
             "ja": "口笛"
@@ -143,7 +143,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "_637545737657847798.mp3",
+          "filename": "_637545737657847798.webm",
           "text": {
             "zh-tw": "嚇我一跳",
             "ja": "びっくりした"
@@ -158,7 +158,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "2_637545738747295964.mp3",
+          "filename": "2_637545738747295964.webm",
           "text": {
             "zh-tw": "噴嚏2",
             "ja": "くしゃみ助かる２"
@@ -173,7 +173,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "_637545752121326937.mp3",
+          "filename": "_637545752121326937.webm",
           "text": {
             "zh-tw": "笑聲",
             "ja": "笑い声"
@@ -188,7 +188,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "啊\"—啊\"—.mp3",
+          "filename": "啊\"—啊\"—.webm",
           "text": {
             "zh-tw": "啊—啊—",
             "ja": "あ゙ーあ゙ー"
@@ -203,7 +203,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Rl6taE7DZb6u%2BEvsmObUzVnuwSWxsxNDN8IJAEnzOTY%3D"
         },
         {
-          "filename": "哼哼.m4a",
+          "filename": "哼哼.webm",
           "text": {
             "zh-tw": "哼，哼！",
             "ja": ""
@@ -218,7 +218,7 @@
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1xcyx8NpGS1oLavfC%2FCUNNhUkaZ48v5g74M6049LMUI%3D"
         },
         {
-          "filename": "高音厨音域テスト.m4a",
+          "filename": "高音厨音域テスト.webm",
           "text": {
             "zh-tw": "高音厨音域テスト",
             "ja": ""
@@ -233,7 +233,7 @@
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7BUKFl2QzIf6oCp9fjg%2F84G9Oj1nmuJuApbeRkEKE%2BA%3D"
         },
         {
-          "filename": "口哨2.m4a",
+          "filename": "口哨2.webm",
           "text": {
             "zh-tw": "口哨2",
             "ja": "口笛2"
@@ -248,7 +248,7 @@
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6xgBmqKbp7nFLf82GUj6ucZEYLwu65JfVzRZiL0QLZw%3D"
         },
         {
-          "filename": "口哨3.m4a",
+          "filename": "口哨3.webm",
           "text": {
             "zh-tw": "口哨3",
             "ja": "口笛3"
@@ -263,7 +263,7 @@
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5zXHsArHpf3maODDMRFmzPyIkrF1ZhfwoiwsUVgvgU8%3D"
         },
         {
-          "filename": "あばばばばあわわわわ.m4a",
+          "filename": "あばばばばあわわわわ.webm",
           "text": {
             "zh-tw": "あばばばば\u3000あわわわわ",
             "ja": ""

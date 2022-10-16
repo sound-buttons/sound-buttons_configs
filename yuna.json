@@ -28,7 +28,7 @@
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/",
       "buttons": [
         {
-          "filename": "早安啊.mp3",
+          "filename": "早安啊.webm",
           "text": {
             "zh-tw": "早安啊",
             "ja": "おはよう"
@@ -43,7 +43,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "大叔笑聲.mp3",
+          "filename": "大叔笑聲.webm",
           "text": {
             "zh-tw": "大叔笑聲",
             "ja": ""
@@ -58,7 +58,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "歐拉歐拉.mp3",
+          "filename": "歐拉歐拉.webm",
           "text": {
             "zh-tw": "歐拉歐拉",
             "ja": ""
@@ -73,7 +73,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "姆啾姆啾prpr.mp3",
+          "filename": "姆啾姆啾prpr.webm",
           "text": {
             "zh-tw": "姆啾姆啾prpr",
             "ja": ""
@@ -88,7 +88,7 @@
           "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=cMCa7GFuOJOruccF7EUvVYViaf9drZdCOmKfZKiHLr0%3D"
         },
         {
-          "filename": "戰鬥模式.wav",
+          "filename": "戰鬥模式.webm",
           "text": {
             "zh-tw": "戰鬥模式",
             "ja": ""
@@ -112,7 +112,7 @@
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/",
       "buttons": [
         {
-          "filename": "送啦.mp3",
+          "filename": "送啦.webm",
           "text": {
             "zh-tw": "送啦",
             "ja": ""
@@ -127,7 +127,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "白癡喔_637548428215025334.mp3",
+          "filename": "白癡喔_637548428215025334.webm",
           "text": {
             "zh-tw": "白癡喔",
             "ja": "ばか？"
@@ -142,7 +142,7 @@
           "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
         },
         {
-          "filename": "我愛你.m4a",
+          "filename": "我愛你.webm",
           "text": {
             "zh-tw": "我愛你",
             "ja": ""
