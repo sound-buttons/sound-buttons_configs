@@ -3,6 +3,7 @@
   "fullName": "HACHI",
   "fullConfigURL": "assets/configs/hachi.json",
   "imgSrc": [
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi2.png",
     "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/hachi.png"
   ],
   "intro": "Virtual Singer HACHI\n------------------------------------------------\n『あなたの心に寄り添う歌を。』\n REALITY・YouTubeをメインに歌活動中。\n ------------------------------------------------\n 所属：ライブユニオン \n 契約レーベル：RK Music\n <a href='https://rkmusic.jp/' target='_black'>https://rkmusic.jp/</a>\n ------------------------------------------------",
@@ -26,14 +27,13 @@
     },
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/",
     "volume": 1,
-    "source": null,
-    "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+    "source": null
   },
   "buttonGroups": [
     {
       "name": {
-        "zh-tw": "未分類",
-        "ja": "未分類"
+        "zh-tw": "🐝HACHI🐝",
+        "ja": "🐝HACHI🐝"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/hachi/",
       "buttons": [
@@ -49,8 +49,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "Ababababa.webm",
@@ -64,8 +63,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "噴嚏.webm",
@@ -79,8 +77,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "Hitachi.webm",
@@ -94,11 +91,10 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
-          "filename": ".webm",
+          "filename": "遜砲.webm",
           "text": {
             "zh-tw": "遜砲",
             "ja": "ミス"
@@ -109,8 +105,7 @@
             "videoId": "_gMxBrpisyE",
             "start": 2519,
             "end": 2528
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "2.webm",
@@ -124,8 +119,7 @@
             "videoId": "GEVrzTEvS_s",
             "start": 1555,
             "end": 1570
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "_637545736298174237.webm",
@@ -139,8 +133,7 @@
             "videoId": "Ms6ydLXV4zI",
             "start": 1452,
             "end": 1468
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "_637545737657847798.webm",
@@ -154,8 +147,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "2_637545738747295964.webm",
@@ -169,8 +161,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "_637545752121326937.webm",
@@ -184,11 +175,10 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
-          "filename": "啊\"—啊\"—.webm",
+          "filename": "啊啊.webm",
           "text": {
             "zh-tw": "啊—啊—",
             "ja": "あ゙ーあ゙ー"
@@ -199,8 +189,7 @@
             "videoId": "2WVoN18E6sw",
             "start": 6747,
             "end": 6755
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=b&sig=Rl6taE7DZb6u%2BEvsmObUzVnuwSWxsxNDN8IJAEnzOTY%3D"
+          }
         },
         {
           "filename": "哼哼.webm",
@@ -214,8 +203,7 @@
             "videoId": "NzoOUilyqxw",
             "start": 1720,
             "end": 1733
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=1xcyx8NpGS1oLavfC%2FCUNNhUkaZ48v5g74M6049LMUI%3D"
+          }
         },
         {
           "filename": "高音厨音域テスト.webm",
@@ -229,8 +217,7 @@
             "videoId": "NzoOUilyqxw",
             "start": 2524,
             "end": 2584
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=7BUKFl2QzIf6oCp9fjg%2F84G9Oj1nmuJuApbeRkEKE%2BA%3D"
+          }
         },
         {
           "filename": "口哨2.webm",
@@ -244,8 +231,7 @@
             "videoId": "vAoy9it_nso",
             "start": 6107,
             "end": 6118
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=6xgBmqKbp7nFLf82GUj6ucZEYLwu65JfVzRZiL0QLZw%3D"
+          }
         },
         {
           "filename": "口哨3.webm",
@@ -259,8 +245,7 @@
             "videoId": "vAoy9it_nso",
             "start": 6179,
             "end": 6195
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=5zXHsArHpf3maODDMRFmzPyIkrF1ZhfwoiwsUVgvgU8%3D"
+          }
         },
         {
           "filename": "あばばばばあわわわわ.webm",
@@ -274,8 +259,7 @@
             "videoId": "REvq5g-WeO8",
             "start": 6403,
             "end": 6409
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=CfZgamO2uw%2F1CnwEi3waEG%2Bpn0RkBehAfrqJHbiFuTM%3D"
+          }
         }
       ]
     }

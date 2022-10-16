@@ -3,7 +3,9 @@
   "fullName": "伊冬ユナ",
   "fullConfigURL": "assets/configs/yuna.json",
   "imgSrc": [
-    "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.png"
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna3.png",
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna.png",
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/yuna/yuna2.png"
   ],
   "intro": "ネコ耳メイドの笑顔担当、バーチャルアイドル\uD83C\uDFB6伊冬ユナ(イトウユナ)だよ！\n個人勢Vtuberグループ〘GuildCQ〙所属\n少しでも気になってもらえたら\nチャンネル登録/高評価/コメント\nたくさんお待ちしています\uD83D\uDC3E\nぜひ生放送にも遊びに来てください\uD83C\uDF1F\n\uD83E\uDD0DWelcome to Yuna Family\uD83E\uDD0D\n。°.。❅°.。゜.❆。・。❅。。❅°.。゜.❆。・。。❅°.。゜.\n毎週月曜日21：00～定期歌枠をしています!!\n。°.。❅°.。゜.❆。・。❅。。❅°.。゜.❆。・。。❅°.。゜.",
   "color": {
@@ -39,8 +41,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "大叔笑聲.webm",
@@ -54,8 +55,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "歐拉歐拉.webm",
@@ -69,8 +69,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "姆啾姆啾prpr.webm",
@@ -84,8 +83,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=cMCa7GFuOJOruccF7EUvVYViaf9drZdCOmKfZKiHLr0%3D"
+          }
         },
         {
           "filename": "戰鬥模式.webm",
@@ -99,8 +97,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2019-02-02&sr=b&si=%E6%B0%B8%E8%AE%80&sig=sCnrTyTMYTUgqiOxBmIqbmk0F9Rgsflj8sSx4pFISV4%3D"
+          }
         }
       ]
     },
@@ -123,8 +120,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "白癡喔_637548428215025334.webm",
@@ -138,8 +134,7 @@
             "videoId": "null",
             "start": 0,
             "end": 0
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         },
         {
           "filename": "我愛你.webm",
@@ -153,8 +148,7 @@
             "videoId": "qsMlOxBP8Ns",
             "start": 0,
             "end": 8
-          },
-          "SASToken": "?sv=2020-04-08&si=%E6%B0%B8%E8%AE%80&sr=c&sig=91sSJaD7vZKzPnr91EyTPwq4iARw5sAPr%2F9NM4zARTw%3D"
+          }
         }
       ]
     }
