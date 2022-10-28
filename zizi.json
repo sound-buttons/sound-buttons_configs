@@ -141,6 +141,34 @@
             "start": 13995.4,
             "end": 14005
           }
+        },
+        {
+          "filename": "學老虎叫.webm",
+          "text": {
+            "zh-tw": "學老虎叫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 8719,
+            "end": 8723
+          }
+        },
+        {
+          "filename": "哩洗咧工殺毀被逗笑.webm",
+          "text": {
+            "zh-tw": "哩洗咧工殺毀_被逗笑",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 8724,
+            "end": 8728
+          }
         }
       ]
     },
@@ -200,6 +228,304 @@
             "videoId": "",
             "start": 0,
             "end": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "日常用語",
+        "ja": "日常用語"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "沒錢啦.webm",
+          "text": {
+            "zh-tw": "沒錢啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 8176,
+            "end": 8178
+          }
+        },
+        {
+          "filename": "我懷疑你是有陰謀的你真的有陰謀ㄟ你.webm",
+          "text": {
+            "zh-tw": "我懷疑你是有陰謀的，你真的有陰謀ㄟ你",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6083,
+            "end": 6088
+          }
+        },
+        {
+          "filename": "OK.webm",
+          "text": {
+            "zh-tw": "OK",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6095,
+            "end": 6097
+          }
+        },
+        {
+          "filename": "你確定RUsure.webm",
+          "text": {
+            "zh-tw": "你確定_R U sure ?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6109,
+            "end": 6115
+          }
+        },
+        {
+          "filename": "走啦.webm",
+          "text": {
+            "zh-tw": "走啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6115,
+            "end": 6117
+          }
+        },
+        {
+          "filename": "GoGo.webm",
+          "text": {
+            "zh-tw": "GoGo ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6119,
+            "end": 6120
+          }
+        },
+        {
+          "filename": "OKOK.webm",
+          "text": {
+            "zh-tw": "OK~O~K~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6135,
+            "end": 6139
+          }
+        },
+        {
+          "filename": "我信你有鬼.webm",
+          "text": {
+            "zh-tw": "我信你有鬼~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6140,
+            "end": 6143
+          }
+        },
+        {
+          "filename": "我要出門.webm",
+          "text": {
+            "zh-tw": "我要出門!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6198,
+            "end": 6201
+          }
+        },
+        {
+          "filename": "救命救命敷衍.webm",
+          "text": {
+            "zh-tw": "救命救命(敷衍",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6393,
+            "end": 6397
+          }
+        },
+        {
+          "filename": "我不要我不想要.webm",
+          "text": {
+            "zh-tw": "我不要 我不想要",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 6458,
+            "end": 6462
+          }
+        },
+        {
+          "filename": "晚安.webm",
+          "text": {
+            "zh-tw": "晚安",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7407,
+            "end": 7409
+          }
+        },
+        {
+          "filename": "蜜拉你破病了喔.webm",
+          "text": {
+            "zh-tw": "蜜拉 你破病了喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7566,
+            "end": 7568
+          }
+        },
+        {
+          "filename": "來喔呷藥仔喔.webm",
+          "text": {
+            "zh-tw": "來喔 呷藥仔喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7569,
+            "end": 7572
+          }
+        },
+        {
+          "filename": "你的寶貝已上線.webm",
+          "text": {
+            "zh-tw": "你的寶貝已上線",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7814,
+            "end": 7816
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "Gay 婚系列",
+        "ja": "Gay 婚系列"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "就嫁給你啦.webm",
+          "text": {
+            "zh-tw": "就嫁給你啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7687,
+            "end": 7690
+          }
+        },
+        {
+          "filename": "嫁給你.webm",
+          "text": {
+            "zh-tw": "嫁給你",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7690,
+            "end": 7694
+          }
+        },
+        {
+          "filename": "嫁給Bo.webm",
+          "text": {
+            "zh-tw": "嫁給Bo",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7705,
+            "end": 7707
+          }
+        },
+        {
+          "filename": "今天我要嫁給你啦歌.webm",
+          "text": {
+            "zh-tw": "今天我要嫁給你啦(歌",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7707,
+            "end": 7710
+          }
+        },
+        {
+          "filename": "並沒有要嫁給你.webm",
+          "text": {
+            "zh-tw": "並沒有要嫁給你",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pwaaUrlGhQQ",
+            "start": 7734,
+            "end": 7737
           }
         }
       ]

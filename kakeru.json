@@ -837,6 +837,188 @@
             "start": 5019,
             "end": 5031
           }
+        },
+        {
+          "filename": "奇怪的聲音.webm",
+          "text": {
+            "zh-tw": "奇怪的聲音",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jpG2ZtS-vu4",
+            "start": 5694,
+            "end": 5701
+          }
+        },
+        {
+          "filename": "Goodeveningf大家好HelloeveryoneGoodevening.webm",
+          "text": {
+            "zh-tw": "Good evening! =f大家好! Hello everyone! Good evening!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qlq8as5rtMU",
+            "start": 2018,
+            "end": 2032
+          }
+        },
+        {
+          "filename": "晚安中文.webm",
+          "text": {
+            "zh-tw": "晚安 (中文)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qlq8as5rtMU",
+            "start": 2092,
+            "end": 2093
+          }
+        },
+        {
+          "filename": "裝哭.webm",
+          "text": {
+            "zh-tw": "裝哭",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qlq8as5rtMU",
+            "start": 2699,
+            "end": 2715
+          }
+        },
+        {
+          "filename": "想要說嬉しい的時候說了奇怪的日文.webm",
+          "text": {
+            "zh-tw": "(想要說「嬉しい」的時候說了奇怪的日文)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qlq8as5rtMU",
+            "start": 6502.5,
+            "end": 6503.8
+          }
+        },
+        {
+          "filename": "かける的主題是狐狸對吧是芬里爾啦.webm",
+          "text": {
+            "zh-tw": "(かける的主題是狐狸對吧) 是芬里爾啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "THSkoyCf0-8",
+            "start": 3078,
+            "end": 3082.8
+          }
+        },
+        {
+          "filename": "失誤的胡言亂語.webm",
+          "text": {
+            "zh-tw": "(失誤的胡言亂語)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "KyhBrOQuits",
+            "start": 3227,
+            "end": 3234
+          }
+        },
+        {
+          "filename": "怪叫一聲今天我可能不行了.webm",
+          "text": {
+            "zh-tw": "(怪叫一聲) 今天我可能不行了...",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XLQG1YeSTpQ",
+            "start": 3404,
+            "end": 3410
+          }
+        },
+        {
+          "filename": "好好大.webm",
+          "text": {
+            "zh-tw": "好...好大",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XLQG1YeSTpQ",
+            "start": 4601,
+            "end": 4603
+          }
+        },
+        {
+          "filename": "好大6.webm",
+          "text": {
+            "zh-tw": "好大 * 6",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XLQG1YeSTpQ",
+            "start": 4600,
+            "end": 4618
+          }
+        },
+        {
+          "filename": "羽川貓繞口令.webm",
+          "text": {
+            "zh-tw": "羽川貓繞口令",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XLQG1YeSTpQ",
+            "start": 5436,
+            "end": 5443
+          }
+        },
+        {
+          "filename": "吹口哨.webm",
+          "text": {
+            "zh-tw": "吹口哨",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XLQG1YeSTpQ",
+            "start": 6355,
+            "end": 6366
+          }
+        },
+        {
+          "filename": "吹口哨短.webm",
+          "text": {
+            "zh-tw": "吹口哨 (短)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XLQG1YeSTpQ",
+            "start": 6369,
+            "end": 6371
+          }
         }
       ]
     },
@@ -929,6 +1111,20 @@
             "videoId": "RjLcoP7fsBY",
             "start": 1770.5,
             "end": 1776.152
+          }
+        },
+        {
+          "filename": "口哨怪物.webm",
+          "text": {
+            "zh-tw": "(口哨) 怪物",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XLQG1YeSTpQ",
+            "start": 6393,
+            "end": 6426
           }
         }
       ]
@@ -1078,6 +1274,20 @@
             "videoId": "I74vrknOAY8",
             "start": 12896,
             "end": 12915
+          }
+        },
+        {
+          "filename": "謝謝.webm",
+          "text": {
+            "zh-tw": "謝謝！",
+            "ja": "ありがとう！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QWX99jP_-N4",
+            "start": 3169,
+            "end": 3171
           }
         }
       ]

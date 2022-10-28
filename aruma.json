@@ -431,6 +431,90 @@
             "start": 2655.2,
             "end": 2656.8
           }
+        },
+        {
+          "filename": "biubiubiu.webm",
+          "text": {
+            "zh-tw": "biu biu~ biu!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "i6OB5ZUNkvA",
+            "start": 5980,
+            "end": 5981.8
+          }
+        },
+        {
+          "filename": "安妮亞喜歡這個.webm",
+          "text": {
+            "zh-tw": "安妮亞喜歡這個~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "OkMW-EjQDk4",
+            "start": 3649,
+            "end": 3651
+          }
+        },
+        {
+          "filename": "英語HI我是炎上系Vtuber.webm",
+          "text": {
+            "zh-tw": "(英語) HI！我是炎上系Vtuber！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_LrxqHWS2VE",
+            "start": 3928,
+            "end": 3932
+          }
+        },
+        {
+          "filename": "慘叫對不起.webm",
+          "text": {
+            "zh-tw": "(慘叫) 對不起！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_LrxqHWS2VE",
+            "start": 3109.2,
+            "end": 3112
+          }
+        },
+        {
+          "filename": "遊戲輸出全靠慘叫.webm",
+          "text": {
+            "zh-tw": "(遊戲輸出全靠慘叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_LrxqHWS2VE",
+            "start": 7962,
+            "end": 7965
+          }
+        },
+        {
+          "filename": "日本貓食CIAOちゅる的廣告slogan.webm",
+          "text": {
+            "zh-tw": "(日本貓食CIAO ちゅ～る的廣告slogan)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_LrxqHWS2VE",
+            "start": 8754,
+            "end": 8760
+          }
         }
       ]
     },
@@ -2469,6 +2553,104 @@
             "videoId": "SP2NxjOoAUs",
             "start": 9257.8,
             "end": 9259
+          }
+        },
+        {
+          "filename": "你們投的錢都進艦長的口袋艦長跑出去玩都是吃別人的花別人的哈哈.webm",
+          "text": {
+            "zh-tw": "你們投的錢都進艦長的口袋，艦長跑出去玩都是吃別人的花別人的(哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "i6OB5ZUNkvA",
+            "start": 5398,
+            "end": 5407
+          }
+        },
+        {
+          "filename": "我要靠你們啦奇怪的效果音.webm",
+          "text": {
+            "zh-tw": "我要靠你們啦！(奇怪的效果音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "i6OB5ZUNkvA",
+            "start": 5455,
+            "end": 5461
+          }
+        },
+        {
+          "filename": "挖那個什麼洞.webm",
+          "text": {
+            "zh-tw": "挖那個什麼洞",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "i6OB5ZUNkvA",
+            "start": 5975,
+            "end": 5977
+          }
+        },
+        {
+          "filename": "這會不會被告啊ww這應該不會被告吧ww.webm",
+          "text": {
+            "zh-tw": "這會不會被告啊ww這應該不會被告吧ww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "OkMW-EjQDk4",
+            "start": 4719,
+            "end": 4723
+          }
+        },
+        {
+          "filename": "爆炸音我炸到自己啦.webm",
+          "text": {
+            "zh-tw": "(爆炸音) 我炸到自己啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_LrxqHWS2VE",
+            "start": 3921,
+            "end": 3923.8
+          }
+        },
+        {
+          "filename": "通常胸部壓在地上不是應該會扁掉嗎你怎麼那麼硬啊你是塑膠奶嗎陶瓷奶.webm",
+          "text": {
+            "zh-tw": "通常胸部壓在地上不是應該會扁掉嗎，你怎麼那麼硬啊。你是塑膠奶嗎?陶瓷奶?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_LrxqHWS2VE",
+            "start": 10140,
+            "end": 10146.8
+          }
+        },
+        {
+          "filename": "喇舌喇舌喇舌喇舌.webm",
+          "text": {
+            "zh-tw": "喇舌! 喇舌~喇舌~喇舌~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
           }
         }
       ]

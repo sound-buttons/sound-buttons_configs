@@ -1455,6 +1455,132 @@
             "start": 5713,
             "end": 5715
           }
+        },
+        {
+          "filename": "汪汪.webm",
+          "text": {
+            "zh-tw": "汪！汪！",
+            "ja": "ワン！ワン！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0cWc-JzEBFo",
+            "start": 3403,
+            "end": 3407
+          }
+        },
+        {
+          "filename": "低沉的汪汪.webm",
+          "text": {
+            "zh-tw": "(低沉的)汪！汪！",
+            "ja": "(低い声での)ワン！ワン！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0cWc-JzEBFo",
+            "start": 3410,
+            "end": 3412.2
+          }
+        },
+        {
+          "filename": "粗魯的嗯哼.webm",
+          "text": {
+            "zh-tw": "(粗魯的)嗯哼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bCarRtZoNzM",
+            "start": 2534,
+            "end": 2535.5
+          }
+        },
+        {
+          "filename": "可愛的嗯哼.webm",
+          "text": {
+            "zh-tw": "(可愛的)嗯哼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bCarRtZoNzM",
+            "start": 2540.2,
+            "end": 2541
+          }
+        },
+        {
+          "filename": "大家好嗯哼哼.webm",
+          "text": {
+            "zh-tw": "大家好(嗯哼哼)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bCarRtZoNzM",
+            "start": 2541,
+            "end": 2545
+          }
+        },
+        {
+          "filename": "笑聲謝謝.webm",
+          "text": {
+            "zh-tw": "(笑聲) 謝謝",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bCarRtZoNzM",
+            "start": 2549.5,
+            "end": 2554.5
+          }
+        },
+        {
+          "filename": "嗯哼哼喔吼吼啊哈哈.webm",
+          "text": {
+            "zh-tw": "嗯哼哼，喔吼吼，啊哈哈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bCarRtZoNzM",
+            "start": 2585,
+            "end": 2587
+          }
+        },
+        {
+          "filename": "可愛的啊哈哈.webm",
+          "text": {
+            "zh-tw": "(可愛的)啊哈哈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "bCarRtZoNzM",
+            "start": 2589.8,
+            "end": 2591
+          }
+        },
+        {
+          "filename": "早上的全校廣播.webm",
+          "text": {
+            "zh-tw": "(早上的全校廣播)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "d_WCgzf04JI",
+            "start": 129,
+            "end": 179
+          }
         }
       ]
     },
@@ -2966,6 +3092,76 @@
             "videoId": "KqkGAdKvmt0",
             "start": 0,
             "end": 42
+          }
+        },
+        {
+          "filename": "唱英文歌但是看不懂英文奇異恩典.webm",
+          "text": {
+            "zh-tw": "唱英文歌但是看不懂英文 (奇異恩典)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ADjq2m3ICJU",
+            "start": 3965,
+            "end": 3991
+          }
+        },
+        {
+          "filename": "夏色ゆず亂唱.webm",
+          "text": {
+            "zh-tw": "夏色/ゆず (亂唱)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WSCMFgOnAdU",
+            "start": 6037,
+            "end": 6207
+          }
+        },
+        {
+          "filename": "電腦加把勁好嗎.webm",
+          "text": {
+            "zh-tw": "(電腦加把勁好嗎?)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vEkGuwAIwT8",
+            "start": 5139,
+            "end": 5148
+          }
+        },
+        {
+          "filename": "失敗的ECHO.webm",
+          "text": {
+            "zh-tw": "(失敗的) ECHO",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vEkGuwAIwT8",
+            "start": 5754,
+            "end": 5765
+          }
+        },
+        {
+          "filename": "失敗的ECHO英文.webm",
+          "text": {
+            "zh-tw": "(失敗的 ECHO 英文)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vEkGuwAIwT8",
+            "start": 5775,
+            "end": 5811
           }
         }
       ]
