@@ -1,0 +1,34 @@
+{
+  "name": "enomu165",
+  "fullName": "伊糯姆",
+  "fullConfigURL": "assets/configs/enomu165.json",
+  "imgSrc": [
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/enomu165/enomu165.png",
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/enomu165/enomu1652.png"
+  ],
+  "intro": "\u4f86\u81ea\u9f20\u9f20\u661f\u7403\u7684\u9ec3\u91d1\u9f20!\u76ee\u524d\u5728\u9f20\u9f20\u5b78\u6821\u8b80\u66f8\uff0c\u7562\u696d\u689d\u4ef6\u662f\u5230\u4eba\u985e\u4e16\u754c\uff0c\u4e26\u4e14\u60f3\u8fa6\u6cd5\u7372\u5f97\u4eba\u985e\u7684\u8a8d\u540c!\u6240\u4ee5~\u8acb\u95dc\u6ce8\u6211\u5427!(\u204e\u02c3\u11ba\u02c2)\n\u4e2d\u6587\u2b55\u65e5\u6587\ud83d\udd3a\u82f1\u6587\u274c\u4f0a\u7cef\u59c6\u8a9e\u2b55\n\n\u2702\ufe0f= = = = = = = = = = = = = = = = = = = = = = = = = = = =\n\n\u4e3b\u8981\u914d\u4fe1\uff1a\u904a\u6232\u3001\u96dc\u8ac7\u3001\u5531\u6b4c\n\n\u2702\ufe0f= = = = = = = = = = = = = = = = = = = = = = = = = = = =\n\n\u5718\u968a\uff1a\u7b2c\u4e8c\u9215\u6263\u98a8\u5473\u793e\nhttps://twitter.com/second2button",
+  "color": {
+    "primary": "#FFDD82",
+    "secondary": "#FFBBBD"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/channel/UC72QDntJADIJpkbwX0iE7GQ",
+    "twitter": "https://twitter.com/Enomu165",
+    "facebook": "",
+    "instagram": "",
+    "discord": "https://discord.gg/HaRAKSSJ8r",
+    "other": "https://potofu.me/enomu165"
+  },
+  "introButton": {},
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "伊糯姆語",
+        "ja": "伊糯姆語"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/enomu165/",
+      "buttons": [
+      ]
+    }
+  ]
+}
