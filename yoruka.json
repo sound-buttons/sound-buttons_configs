@@ -2352,6 +2352,34 @@
             "start": 1079.5,
             "end": 1081
           }
+        },
+        {
+          "filename": "加油.webm",
+          "text": {
+            "zh-tw": "加油！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qH0xvoiGFv0",
+            "start": 1462,
+            "end": 1463.3
+          }
+        },
+        {
+          "filename": "我操你媽的台北.webm",
+          "text": {
+            "zh-tw": "我操你媽的台北！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qH0xvoiGFv0",
+            "start": 1534,
+            "end": 1535.8
+          }
         }
       ]
     },
@@ -2598,6 +2626,20 @@
             "videoId": "lZSNGphL7lQ",
             "start": 1082,
             "end": 1213
+          }
+        },
+        {
+          "filename": "生日快樂歌一路大順暢.webm",
+          "text": {
+            "zh-tw": "生日快樂歌 + 一路大順暢",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qH0xvoiGFv0",
+            "start": 909,
+            "end": 953
           }
         }
       ]
