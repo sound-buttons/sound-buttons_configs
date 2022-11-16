@@ -6,7 +6,7 @@
     "https://soundbuttons.blob.core.windows.net/sound-buttons/enomu165/enomu165.png",
     "https://soundbuttons.blob.core.windows.net/sound-buttons/enomu165/enomu1652.png"
   ],
-  "intro": "來自鼠鼠星球的黃金鼠!目前在鼠鼠學校讀書，畢業條件是到人類世界，並且想辦法獲得人類的認同!所以~請關注我吧!(⁎˃ᆺ˂)\n中文⭕日文🔺英文❌伊糯姆語⭕\n\n= = = = =\n主要配信：遊戲、雜談、唱歌\n= = = = =\n\n團隊：第二鈕扣風味社\nhttps://twitter.com/second2button",
+  "intro": "來自鼠鼠星球的黃金鼠!目前在鼠鼠學校讀書，畢業條件是到人類世界，並且想辦法獲得人類的認同!所以~請關注我吧!(⁎˃ᆺ˂)\n中文⭕日文\uD83D\uDD3A英文❌伊糯姆語⭕\n\n= = = = =\n主要配信：遊戲、雜談、唱歌\n= = = = =\n\n團隊：第二鈕扣風味社\nhttps://twitter.com/second2button",
   "color": {
     "primary": "#fabf20",
     "secondary": "#ffe5a1"
@@ -67,6 +67,20 @@
             "videoId": "BQsSAm6EEzk",
             "start": 404,
             "end": 413
+          }
+        },
+        {
+          "filename": "好耶nice.webm",
+          "text": {
+            "zh-tw": "好耶~nice",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "C-JunQigd18",
+            "start": 658,
+            "end": 661
           }
         }
       ]
@@ -136,6 +150,20 @@
             "videoId": "cNCfPv04IZ4",
             "start": 783,
             "end": 791
+          }
+        },
+        {
+          "filename": "奶油老鼠餅裡沒有老鼠.webm",
+          "text": {
+            "zh-tw": "奶油老鼠餅裡沒有老鼠",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "C-JunQigd18",
+            "start": 652,
+            "end": 658
           }
         }
       ]
