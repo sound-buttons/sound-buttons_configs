@@ -1,0 +1,27 @@
+{
+  "name": "tiamiu",
+  "fullName": "Tia Miu",
+  "fullConfigURL": "assets/configs/tiamiu.json",
+  "imgSrc": [
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu.png",
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu2.png",
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu3.png"
+  ],
+  "intro": "美索不達米亞神話中，提亞馬特轉生之海洋女神，化身成金魚的身分活動中",
+  "color": {
+    "primary": "#FFBFC9",
+    "secondary": "#744C60"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/channel/UC2uiZzfcPQy_wWRzPxYVB_Q",
+    "twitter": "https://twitter.com/TiaMiuuu",
+    "facebook": "https://www.facebook.com/people/Miu-Tia/100069967191971/",
+    "instagram": "",
+    "discord": "https://discord.gg/vX7zE3eFuj",
+    "other": "https://www.twitch.tv/tiamiuuuu"
+  },
+  "introButton": null,
+  "buttonGroups": [
+
+  ]
+}
