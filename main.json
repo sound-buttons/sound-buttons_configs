@@ -16,6 +16,17 @@
     }
   },
   {
+    "name": "aruma",
+    "fullName": "薬袋アルマ",
+    "fullConfigURL": "assets/configs/aruma.json",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.json",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.png",
+    "color": {
+      "primary": "#2A5CAB",
+      "secondary": "#B3CEF0"
+    }
+  },
+  {
     "name": "tama",
     "fullName": "久遠たま",
     "fullConfigURL": "assets/configs/tama.json",
@@ -57,14 +68,14 @@
     }
   },
   {
-    "name": "aruma",
-    "fullName": "薬袋アルマ",
-    "fullConfigURL": "assets/configs/aruma.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.json",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.png",
+    "name": "zizi",
+    "fullName": "ねこ咨咨",
+    "fullConfigURL": "assets/configs/zizi.json",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.json",
+    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.png",
     "color": {
-      "primary": "#2A5CAB",
-      "secondary": "#B3CEF0"
+      "primary": "#593196",
+      "secondary": "#a991d4"
     }
   },
   {
@@ -79,17 +90,6 @@
     "color": {
       "primary": "#3c3942",
       "secondary": "#f4b505"
-    }
-  },
-  {
-    "name": "zizi",
-    "fullName": "ねこ咨咨",
-    "fullConfigURL": "assets/configs/zizi.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.json",
-    "imgSrc": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.png",
-    "color": {
-      "primary": "#593196",
-      "secondary": "#a991d4"
     }
   },
   {
