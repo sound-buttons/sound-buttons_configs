@@ -305,20 +305,6 @@
           }
         },
         {
-          "filename": "尬林涼.webm",
-          "text": {
-            "zh-tw": "尬林涼",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "n7SrvumLvuo",
-            "start": 2061,
-            "end": 2062
-          }
-        },
-        {
           "filename": "看起來像是明天www.webm",
           "text": {
             "zh-tw": "看起來像是明天...www",
