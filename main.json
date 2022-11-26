@@ -79,6 +79,21 @@
     }
   },
   {
+    "name": "tiamiu",
+    "fullName": "Tia Miu",
+    "fullConfigURL": "assets/configs/tiamiu.json",
+    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu.json",
+    "imgSrc": [
+      "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu.png",
+      "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu2.png",
+      "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu3.png"
+    ],
+    "color": {
+      "primary": "#FFBFC9",
+      "secondary": "#744C60"
+    }
+  },
+  {
     "name": "hachi",
     "fullName": "HACHI",
     "fullConfigURL": "assets/configs/hachi.json",
@@ -119,21 +134,6 @@
     "color": {
       "primary": "#fabf20",
       "secondary": "#ffe5a1"
-    }
-  },
-  {
-    "name": "tiamiu",
-    "fullName": "Tia Miu",
-    "fullConfigURL": "assets/configs/tiamiu.json",
-    "liveUpdateURL": "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu.json",
-    "imgSrc": [
-      "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu.png",
-      "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu2.png",
-      "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu3.png"
-    ],
-    "color": {
-      "primary": "#FFBFC9",
-      "secondary": "#744C60"
     }
   }
 ]
