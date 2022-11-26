@@ -5,7 +5,9 @@
   "imgSrc": [
     "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu.png",
     "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu2.png",
-    "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu3.png"
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu3.png",
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu4.png",
+    "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/tiamiu5.png"
   ],
   "intro": "美索不達米亞神話中，提亞馬特轉生之海洋女神，化身成金魚的身分活動中",
   "color": {
@@ -22,6 +24,484 @@
   },
   "introButton": null,
   "buttonGroups": [
-
+    {
+      "name": {
+        "zh-tw": "瘟疫醫生",
+        "ja": "瘟疫醫生"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/",
+      "buttons": [
+        {
+          "filename": "淦我不小心的.webm",
+          "text": {
+            "zh-tw": "淦...我不小心的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Ro93rl-YqDY",
+            "start": 11178,
+            "end": 11185
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "海之女神的咆嘯",
+        "ja": "海之女神的咆嘯"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/",
+      "buttons": [
+        {
+          "filename": "wwww.webm",
+          "text": {
+            "zh-tw": "wwww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Ro93rl-YqDY",
+            "start": 9119,
+            "end": 9120
+          }
+        },
+        {
+          "filename": "媽的夠淫蕩.webm",
+          "text": {
+            "zh-tw": "媽的夠淫蕩~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RjbXYWeAjuw",
+            "start": 23200,
+            "end": 23202
+          }
+        },
+        {
+          "filename": "尬林涼.webm",
+          "text": {
+            "zh-tw": "尬林涼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "n7SrvumLvuo",
+            "start": 2061,
+            "end": 2062
+          }
+        },
+        {
+          "filename": "看起來像是明天www.webm",
+          "text": {
+            "zh-tw": "看起來像是明天...www",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "BNNysiC0z0Q",
+            "start": 7254,
+            "end": 7257
+          }
+        },
+        {
+          "filename": "尬林涼_638045600438040227.webm",
+          "text": {
+            "zh-tw": "尬林涼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "n7SrvumLvuo",
+            "start": 2061,
+            "end": 2063
+          }
+        },
+        {
+          "filename": "來啦來啦來啦.webm",
+          "text": {
+            "zh-tw": "來啦來啦來啦~~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "n7SrvumLvuo",
+            "start": 12202,
+            "end": 12212
+          }
+        },
+        {
+          "filename": "吼又啊.webm",
+          "text": {
+            "zh-tw": "吼又!!!啊!!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7T1lx-80vgQ",
+            "start": 18382,
+            "end": 18386
+          }
+        },
+        {
+          "filename": "我不講話了.webm",
+          "text": {
+            "zh-tw": "我不講話了!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7T1lx-80vgQ",
+            "start": 18374,
+            "end": 18376
+          }
+        },
+        {
+          "filename": "你去吃大便啦你w.webm",
+          "text": {
+            "zh-tw": "你去吃大便啦你w",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7T1lx-80vgQ",
+            "start": 10916,
+            "end": 10918
+          }
+        },
+        {
+          "filename": "啊啊啊啊我被鬼抓住了我被鬼抓走了快救我醫療箱醫療箱.webm",
+          "text": {
+            "zh-tw": "啊啊啊啊我被鬼抓住了，我被鬼抓走了，快救我~醫療箱~醫療箱~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "OB97l0wyeG4",
+            "start": 1750,
+            "end": 1780
+          }
+        },
+        {
+          "filename": "NoNo.webm",
+          "text": {
+            "zh-tw": "No!No!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GJ7_q6nEy1Y",
+            "start": 8818,
+            "end": 8820
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "",
+        "ja": ""
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/",
+      "buttons": [
+        {
+          "filename": "粉紅色蝌蚪.webm",
+          "text": {
+            "zh-tw": "粉紅色蝌蚪",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "x6RIBRGcHMs",
+            "start": 11916.695,
+            "end": 11921.695
+          }
+        },
+        {
+          "filename": "不要再嚇我啦.webm",
+          "text": {
+            "zh-tw": "不要再嚇我啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "n7SrvumLvuo",
+            "start": 4587,
+            "end": 4592
+          }
+        },
+        {
+          "filename": "被你們看到了可惡.webm",
+          "text": {
+            "zh-tw": "被你們看到了 可惡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Bka26TkibwQ",
+            "start": 1272,
+            "end": 1274
+          }
+        },
+        {
+          "filename": "不想被看到內褲就.webm",
+          "text": {
+            "zh-tw": "不想被看到內褲就...",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Bka26TkibwQ",
+            "start": 2673,
+            "end": 2678
+          }
+        },
+        {
+          "filename": "想要就說要啊可以就說可以啊在那邊在那邊推來推去的這樣很不男人喔.webm",
+          "text": {
+            "zh-tw": "想要就說要啊，可以就說可以啊，在那邊，在那邊，推來推去的，這樣很不男人喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7T1lx-80vgQ",
+            "start": 10680,
+            "end": 10690
+          }
+        },
+        {
+          "filename": "你是渣男喔w.webm",
+          "text": {
+            "zh-tw": "你是渣男喔w",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7T1lx-80vgQ",
+            "start": 10697,
+            "end": 10699
+          }
+        },
+        {
+          "filename": "我們是蘿莉控.webm",
+          "text": {
+            "zh-tw": "我們是蘿莉控！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qKcfcwWj7Uc",
+            "start": 15150,
+            "end": 15151
+          }
+        },
+        {
+          "filename": "嗯哼.webm",
+          "text": {
+            "zh-tw": "嗯哼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "NiJSVM9mroM",
+            "start": 7653,
+            "end": 7654
+          }
+        },
+        {
+          "filename": "齁呦齁.webm",
+          "text": {
+            "zh-tw": "齁呦齁~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "NiJSVM9mroM",
+            "start": 7849,
+            "end": 7851
+          }
+        },
+        {
+          "filename": "要幹嘛.webm",
+          "text": {
+            "zh-tw": "要幹嘛~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "NiJSVM9mroM",
+            "start": 7896,
+            "end": 7897
+          }
+        },
+        {
+          "filename": "看到這是什麼嗎這是拳頭.webm",
+          "text": {
+            "zh-tw": "看到這是什麼嗎？這是拳頭",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Bka26TkibwQ",
+            "start": 5441,
+            "end": 5448
+          }
+        },
+        {
+          "filename": "絕對是電腦的問題絕對不是我的問題.webm",
+          "text": {
+            "zh-tw": "絕對是電腦的問題，絕對不是我的問題",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "iMoogWe68Kw",
+            "start": 966,
+            "end": 970
+          }
+        },
+        {
+          "filename": "安安安安.webm",
+          "text": {
+            "zh-tw": "安安安安",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "iMoogWe68Kw",
+            "start": 1091,
+            "end": 1093
+          }
+        },
+        {
+          "filename": "喔那裡有一顆蕃茄.webm",
+          "text": {
+            "zh-tw": "喔！那裡有一顆蕃茄",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "iMoogWe68Kw",
+            "start": 1165,
+            "end": 1168
+          }
+        },
+        {
+          "filename": "我不會欺負你們的好嗎報名一下嘛捧場一下啊.webm",
+          "text": {
+            "zh-tw": "我不會欺負你們的好嗎，報名一下嘛，捧場一下啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gqKSPOQNyxM",
+            "start": 9814,
+            "end": 9821
+          }
+        },
+        {
+          "filename": "有點臭臭的.webm",
+          "text": {
+            "zh-tw": "有點臭臭的~♡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jlK67RvuO7U",
+            "start": 4411,
+            "end": 4416
+          }
+        },
+        {
+          "filename": "喔喔喔喔欸嘿Youreugly.webm",
+          "text": {
+            "zh-tw": "喔！喔！喔！喔！欸？嘿！You're ugly",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "N9XFE6rPrb8",
+            "start": 5940,
+            "end": 5950
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "海之女神的問號",
+        "ja": "海之女神的問號"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/",
+      "buttons": [
+        {
+          "filename": "我現在講甚麼話都可以放上去是不是.webm",
+          "text": {
+            "zh-tw": "我現在講甚麼話都可以放上去是不是",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7T1lx-80vgQ",
+            "start": 18315,
+            "end": 18319
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "Toxic",
+        "ja": "Toxic"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/",
+      "buttons": [
+        {
+          "filename": "看到你就沒好事.webm",
+          "text": {
+            "zh-tw": "看到你就沒好事",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "n7SrvumLvuo",
+            "start": 6350,
+            "end": 6355
+          }
+        }
+      ]
+    }
   ]
 }

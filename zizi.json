@@ -253,6 +253,34 @@
             "start": 3486,
             "end": 3494
           }
+        },
+        {
+          "filename": "痾.webm",
+          "text": {
+            "zh-tw": "痾~~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 2979,
+            "end": 2981
+          }
+        },
+        {
+          "filename": "哦哦.webm",
+          "text": {
+            "zh-tw": "哦~~~哦~~~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 3388,
+            "end": 3394
+          }
         }
       ]
     },
@@ -354,6 +382,62 @@
             "videoId": "nPSqgpASjRk",
             "start": 2374,
             "end": 2379
+          }
+        },
+        {
+          "filename": "聞屁喔.webm",
+          "text": {
+            "zh-tw": "聞屁喔!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 1500,
+            "end": 1502
+          }
+        },
+        {
+          "filename": "聞屁聞.webm",
+          "text": {
+            "zh-tw": "聞屁聞!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 1504,
+            "end": 1506
+          }
+        },
+        {
+          "filename": "黑白共.webm",
+          "text": {
+            "zh-tw": "黑白共 !",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 3190,
+            "end": 3192
+          }
+        },
+        {
+          "filename": "ㄜ呵呵哩洗咧供沙毀.webm",
+          "text": {
+            "zh-tw": "ㄜ呵呵  哩洗咧供沙毀",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 3987,
+            "end": 3991
           }
         }
       ]
@@ -672,6 +756,118 @@
             "start": 3653,
             "end": 3657
           }
+        },
+        {
+          "filename": "謝謝你抖.webm",
+          "text": {
+            "zh-tw": "謝謝你 ~~(抖)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "L70euESlLPk",
+            "start": 6361,
+            "end": 6363
+          }
+        },
+        {
+          "filename": "謝謝謝謝你ㄚ哩嘎鬥狗災一馬斯.webm",
+          "text": {
+            "zh-tw": "謝謝 ~謝謝你~ ㄚ哩嘎鬥狗災一馬斯 ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "L70euESlLPk",
+            "start": 6365,
+            "end": 6371
+          }
+        },
+        {
+          "filename": "馬答ㄋㄟ下次見.webm",
+          "text": {
+            "zh-tw": "馬答ㄋㄟ ~~ (下次見)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "L70euESlLPk",
+            "start": 6447,
+            "end": 6449
+          }
+        },
+        {
+          "filename": "哭哇哭死我了.webm",
+          "text": {
+            "zh-tw": "哭哇 ~ 哭死我了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 2133,
+            "end": 2135
+          }
+        },
+        {
+          "filename": "來的不是時候回家吧.webm",
+          "text": {
+            "zh-tw": "來的不是時候，回家吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 2350,
+            "end": 2355
+          }
+        },
+        {
+          "filename": "醒平靜.webm",
+          "text": {
+            "zh-tw": "醒(平靜)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 2441,
+            "end": 2442
+          }
+        },
+        {
+          "filename": "鼻要ㄏ呵呵呵.webm",
+          "text": {
+            "zh-tw": "鼻要 ~ ㄏ呵呵呵",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 2647,
+            "end": 2650
+          }
+        },
+        {
+          "filename": "你怎麼在釣魚.webm",
+          "text": {
+            "zh-tw": "你怎麼在釣魚?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 4067,
+            "end": 4070
+          }
         }
       ]
     },
@@ -773,6 +969,182 @@
             "videoId": "0PKYSzxzWHw",
             "start": 11557,
             "end": 11562
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "洗澡",
+        "ja": "洗澡"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "牙敗這是一個不洗澡的咨咨.webm",
+          "text": {
+            "zh-tw": "牙敗～這是一個不洗澡的咨咨",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "L70euESlLPk",
+            "start": 5656,
+            "end": 5661
+          }
+        },
+        {
+          "filename": "今天沒洗澡.webm",
+          "text": {
+            "zh-tw": "今天沒洗澡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 1448,
+            "end": 1452
+          }
+        },
+        {
+          "filename": "今天不洗了對ㄚ不洗了.webm",
+          "text": {
+            "zh-tw": "今天不洗了!!  對ㄚ 不洗了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 1473,
+            "end": 1477
+          }
+        },
+        {
+          "filename": "不洗澡啦我不洗澡你們怎樣咬我逆略.webm",
+          "text": {
+            "zh-tw": "不洗澡啦，我不洗澡你們怎樣，咬我逆，略~~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 1481,
+            "end": 1491
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "太咨了吧",
+        "ja": "太咨了吧"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "大家按兩次.webm",
+          "text": {
+            "zh-tw": "大家按兩次 ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 1213,
+            "end": 1216
+          }
+        },
+        {
+          "filename": "幫我撐10秒.webm",
+          "text": {
+            "zh-tw": "幫我撐10秒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 2930,
+            "end": 2933
+          }
+        },
+        {
+          "filename": "大喊超呵呵.webm",
+          "text": {
+            "zh-tw": "大喊 : 超~~ 呵呵",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 3183,
+            "end": 3186
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "迷人的笑",
+        "ja": "迷人的笑"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "嘻嘻嘻嘻.webm",
+          "text": {
+            "zh-tw": "嘻嘻嘻嘻",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 1532,
+            "end": 1533
+          }
+        },
+        {
+          "filename": "恩呵呵呵我沒有要放生他們哪就不小心給他掉下去.webm",
+          "text": {
+            "zh-tw": "恩呵呵呵 我沒有要放生他們哪，就不小心給他掉下去",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 4086,
+            "end": 4097
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "咨咨累累",
+        "ja": "咨咨累累"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "哈欠1.webm",
+          "text": {
+            "zh-tw": "哈欠 1 ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "48Hlz8NTdK8",
+            "start": 2330,
+            "end": 2336
           }
         }
       ]

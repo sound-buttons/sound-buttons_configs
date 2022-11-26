@@ -2764,6 +2764,34 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "filename": "你看剩蛋老公公好色喔他就只喜歡騎母鹿而已哈哈.webm",
+          "text": {
+            "zh-tw": "你看剩蛋老公公好色喔，他就只喜歡騎母鹿而已(哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yWtITKjflG0",
+            "start": 3094,
+            "end": 3101
+          }
+        },
+        {
+          "filename": "昨天有人說新買的機車要取名艦長這是在講艦長很機車的意思嗎哈哈.webm",
+          "text": {
+            "zh-tw": "(昨天有人說新買的機車，要取名艦長) 這是在講艦長很機車的意思嗎 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yWtITKjflG0",
+            "start": 3434.8,
+            "end": 3441
+          }
         }
       ]
     },
