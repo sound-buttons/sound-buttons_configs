@@ -1595,6 +1595,48 @@
             "start": 7079,
             "end": 7087
           }
+        },
+        {
+          "filename": "早安_638051340765062833.webm",
+          "text": {
+            "zh-tw": "早、安～！",
+            "ja": "お、は、よう～！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7QYiAxzzk-U",
+            "start": 202,
+            "end": 207
+          }
+        },
+        {
+          "filename": "大家早安.webm",
+          "text": {
+            "zh-tw": "大家早安～！",
+            "ja": "みなおはよう～！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7QYiAxzzk-U",
+            "start": 191,
+            "end": 195
+          }
+        },
+        {
+          "filename": "パンパカパーン.webm",
+          "text": {
+            "zh-tw": "パンパカパーン",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7QYiAxzzk-U",
+            "start": 4069,
+            "end": 4072
+          }
         }
       ]
     },

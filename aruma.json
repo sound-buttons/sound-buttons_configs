@@ -515,6 +515,20 @@
             "start": 8754,
             "end": 8760
           }
+        },
+        {
+          "filename": "鬼叫.webm",
+          "text": {
+            "zh-tw": "鬼叫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3W77mOQLX2w",
+            "start": 4405.5,
+            "end": 4416
+          }
         }
       ]
     },
@@ -2791,6 +2805,48 @@
             "videoId": "yWtITKjflG0",
             "start": 3434.8,
             "end": 3441
+          }
+        },
+        {
+          "filename": "笨蛋_638050753641507804.webm",
+          "text": {
+            "zh-tw": "笨~蛋~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3W77mOQLX2w",
+            "start": 1194,
+            "end": 1196
+          }
+        },
+        {
+          "filename": "笨蛋_638050753953241273.webm",
+          "text": {
+            "zh-tw": "笨蛋！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3W77mOQLX2w",
+            "start": 1192.5,
+            "end": 1194
+          }
+        },
+        {
+          "filename": "笨蛋哈哈哈笑你.webm",
+          "text": {
+            "zh-tw": "笨~蛋~哈哈哈，笑你",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3W77mOQLX2w",
+            "start": 1196,
+            "end": 1202
           }
         }
       ]
