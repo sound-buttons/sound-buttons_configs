@@ -3,7 +3,7 @@
   "fullName": "間取かける",
   "fullConfigURL": "assets/configs/kakeru.json",
   "imgSrc": [
-    "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/kakeru.png"
+    "https://soundbuttons.azureedge.net/sound-buttons/kakeru/kakeru.png"
   ],
   "intro": "ぼくの支配する空間へようこそっ\uD83D\uDC3E✨\nバーチャルフェンリルシンガー、間取かける(ﾏﾄﾘｶｹﾙ)だよ\uD83D\uDC3A\nWelcome to my space ! I'm virtual fenrir singer, MatoriKakeru.\n\n\n= × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × =\n\n\n毎週金曜19:00~定期歌枠\uD83D\uDC9B\nsing songs !! Every Friday !! 7:00~p.m./JST\n\n\n= × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × ⋆ × =",
   "color": {
@@ -24,7 +24,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/",
     "volume": 1,
     "source": {
       "videoId": "ZdMUltQafvo",
@@ -38,7 +38,7 @@
         "zh-tw": "かけるアウ〜ン",
         "ja": "かけるアウ〜ン"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/",
       "buttons": [
         {
           "filename": "裝可愛.webm",
@@ -1055,7 +1055,7 @@
         "zh-tw": "隨口哼",
         "ja": "隨口哼"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/",
       "buttons": [
         {
           "filename": "魔物獵人崛起兔兔糰子歌日文版.webm",
@@ -1162,7 +1162,7 @@
         "zh-tw": "特大感謝",
         "ja": "特大感謝"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/",
       "buttons": [
         {
           "filename": "特大感謝的歌版.webm",
@@ -1325,7 +1325,7 @@
         "zh-tw": "大叫 (注意音量)",
         "ja": "悲鳴 (音量注意)"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kakeru/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/",
       "buttons": [
         {
           "filename": "貓車.webm",

@@ -24,7 +24,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
     "volume": 1,
     "source": {
       "videoId": "h_Pz0HTsE6g",
@@ -39,7 +39,7 @@
         "zh-tw": "たま汪汪",
         "ja": "たまわんわん"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "Unlimited_Blade_Works.webm",

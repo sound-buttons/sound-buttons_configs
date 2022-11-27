@@ -3,7 +3,7 @@
   "fullName": "薬袋アルマ",
   "fullConfigURL": "assets/configs/aruma.json",
   "imgSrc": [
-    "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/aruma.png"
+    "https://soundbuttons.azureedge.net/sound-buttons/aruma/aruma.png"
   ],
   "intro": "ご機嫌よう～\n個人勢VtuberグループGuildCQ所属の薬袋アルマ（Minai Aruma）です\uD83C\uDF3F\uD83E\uDDEA\n年内登録者一万人を目指しています！\n\nおしゃべりが大好きなので、様々な配信を挑戦しに行きたい思います！\nお時間ありましたら是非遊びにいらしてください✨\nもしお気になって頂けたら\nチャンネル登録・高評価・コメントして頂けるととても嬉しいです\uD83D\uDC8B\n\n毎週歌枠やります\uD83C\uDFB5\n\n日／中／EN OK",
   "color": {
@@ -24,7 +24,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
     "volume": 1,
     "source": {
       "videoId": "X7NyMoi-8Pk",
@@ -38,7 +38,7 @@
         "zh-tw": "咩Ꮚ•̀ꈊ•́Ꮚ",
         "ja": "メーᏊ•̀ꈊ•́Ꮚ"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
       "buttons": [
         {
           "filename": "自我介紹.webm",
@@ -537,7 +537,7 @@
         "zh-tw": "中文Ꮚ•̀ꈊ•́Ꮚ",
         "ja": "中国語Ꮚ•̀ꈊ•́Ꮚ"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
       "buttons": [
         {
           "filename": "我這個人做事非常效率的艦長做事非常有效路咬到.webm",
@@ -2856,7 +2856,7 @@
         "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
         "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
       "buttons": [
         {
           "filename": "ハハᏊꈊᏊ.webm",
@@ -3523,7 +3523,7 @@
         "zh-tw": "自肥",
         "ja": "自肥"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
       "buttons": [
         {
           "filename": "不然琳桑你幫我剪進語音包好了我覺得我這句好帥喔再說三遍好了.webm",

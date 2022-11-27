@@ -3,7 +3,7 @@
   "fullName": "ねこ咨咨",
   "fullConfigURL": "assets/configs/zizi.json",
   "imgSrc": [
-    "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/zizi.png"
+    "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.png"
   ],
   "intro": "Hello~我是ねこ咨咨\n 來自南城的幻靈\uD83D\uDC31\n 可以叫我咨咨就好\n 熱愛玩遊戲、唱歌\n 自帶天然呆的貓娘~",
   "color": {
@@ -24,7 +24,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
     "volume": 1,
     "source": {
       "videoId": "c24EncYcQpE",
@@ -38,7 +38,7 @@
         "zh-tw": "Neko咨咨",
         "ja": "Neko咨咨"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "自我介紹.webm",
@@ -61,7 +61,7 @@
         "zh-tw": "ASMR",
         "ja": "ASMR"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "快點快點過去過去.webm",
@@ -98,7 +98,7 @@
         "zh-tw": "怪聲仔",
         "ja": "怪聲仔"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "氣氣氣氣切切切切.webm",
@@ -289,7 +289,7 @@
         "zh-tw": "驚嚇",
         "ja": "驚嚇"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "嚇死我了好可怕喔.webm",
@@ -312,7 +312,7 @@
         "zh-tw": "罵倒",
         "ja": "罵倒"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "衝三小.webm",
@@ -447,7 +447,7 @@
         "zh-tw": "日常用語",
         "ja": "日常用語"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "沒錢啦.webm",
@@ -876,7 +876,7 @@
         "zh-tw": "Gay 婚系列",
         "ja": "Gay 婚系列"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "就嫁給你啦.webm",
@@ -955,7 +955,7 @@
         "zh-tw": "母湯喔",
         "ja": "母湯喔"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "騎在你身上的感覺很不錯喔.webm",
@@ -978,7 +978,7 @@
         "zh-tw": "洗澡",
         "ja": "洗澡"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "牙敗這是一個不洗澡的咨咨.webm",
@@ -1043,7 +1043,7 @@
         "zh-tw": "太咨了吧",
         "ja": "太咨了吧"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "大家按兩次.webm",
@@ -1094,7 +1094,7 @@
         "zh-tw": "迷人的笑",
         "ja": "迷人的笑"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "嘻嘻嘻嘻.webm",
@@ -1131,7 +1131,7 @@
         "zh-tw": "咨咨累累",
         "ja": "咨咨累累"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
       "buttons": [
         {
           "filename": "哈欠1.webm",

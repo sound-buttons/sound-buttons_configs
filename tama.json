@@ -3,9 +3,9 @@
   "fullName": "久遠たま",
   "fullConfigURL": "assets/configs/tama.json",
   "imgSrc": [
-    "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama3.png",
-    "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama.png",
-    "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/tama2.png"
+    "https://soundbuttons.azureedge.net/sound-buttons/tama/tama3.png",
+    "https://soundbuttons.azureedge.net/sound-buttons/tama/tama.png",
+    "https://soundbuttons.azureedge.net/sound-buttons/tama/tama2.png"
   ],
   "intro": "Hello everyone，Welcome to TAMA world!\nアニソンカヴァーアルバムなどを展開し、アニメの世界を中心に活動中！\n\n♔∴∵∴♔∴∵∴♔∴∵∴♔∴∵∴♔∴∵∴♔∴∵∴♔\n\n\uD83E\uDD401st Single『ETERNAL STORY』\nhttps://linkco.re/tDsXU6fc?lang=ja\n\n\uD83E\uDD401st Cover ALBUM『INITIUM』\nhttps://linkco.re/tdYQbMn1?lang=ja\n\n♔∴∵∴♔∴∵∴♔∴∵∴♔∴∵∴♔∴∵∴♔∴∵∴♔",
   "color": {
@@ -26,7 +26,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
     "volume": 1,
     "source": {
       "videoId": "h_Pz0HTsE6g",
@@ -40,7 +40,7 @@
         "zh-tw": "たま汪汪",
         "ja": "たまわんわん"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "星爆.webm",
@@ -1645,7 +1645,7 @@
         "zh-tw": "詠唱",
         "ja": "詠唱"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "Unlimited_Blade_Works.webm",
@@ -1759,7 +1759,7 @@
         "zh-tw": "中国語本当上手",
         "ja": "中国語本当上手"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "星爆中文.webm",
@@ -1996,7 +1996,7 @@
         "zh-tw": "Tamalish",
         "ja": "Tamalish"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "I_am_dog.webm",
@@ -2341,7 +2341,7 @@
         "zh-tw": "悲鳴 (注意音量)",
         "ja": "悲鳴 (音量注意)"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "悲鳴.webm",
@@ -3092,7 +3092,7 @@
         "zh-tw": "隨口哼",
         "ja": "歌フレーズ"
       },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tama/",
+      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tama/",
       "buttons": [
         {
           "filename": "ヴァンパイア吸血鬼.webm",
