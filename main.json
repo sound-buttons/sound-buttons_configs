@@ -53,6 +53,17 @@
     }
   },
   {
+    "name": "zizi",
+    "fullName": "ねこ咨咨",
+    "fullConfigURL": "assets/configs/zizi.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.json",
+    "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.png",
+    "color": {
+      "primary": "#593196",
+      "secondary": "#a991d4"
+    }
+  },
+  {
     "name": "emurii",
     "fullName": "苓吃エムリィ",
     "fullConfigURL": "assets/configs/emurii.json",
@@ -65,17 +76,6 @@
     "color": {
       "primary": "#B933F8",
       "secondary": "#DEC5E5"
-    }
-  },
-  {
-    "name": "zizi",
-    "fullName": "ねこ咨咨",
-    "fullConfigURL": "assets/configs/zizi.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.json",
-    "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.png",
-    "color": {
-      "primary": "#593196",
-      "secondary": "#a991d4"
     }
   },
   {

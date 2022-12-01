@@ -266,6 +266,34 @@
             "start": 5940,
             "end": 5950
           }
+        },
+        {
+          "filename": "我吃的就是毒品啦怎樣啦.webm",
+          "text": {
+            "zh-tw": "我吃的就是毒品啦，怎樣啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "b1UC8Wvu4Go",
+            "start": 36164,
+            "end": 36166
+          }
+        },
+        {
+          "filename": "誰感到寂寞來找我啊我給你溫暖です.webm",
+          "text": {
+            "zh-tw": "誰感到寂寞來找我啊，我給你溫暖です",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "OPy0T3VMUMw",
+            "start": 3275,
+            "end": 3280
+          }
         }
       ]
     },
@@ -415,6 +443,62 @@
             "start": 8818,
             "end": 8820
           }
+        },
+        {
+          "filename": "這是我的台啦我最大.webm",
+          "text": {
+            "zh-tw": "這是我的台啦！我最大",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "b1UC8Wvu4Go",
+            "start": 36256,
+            "end": 36259
+          }
+        },
+        {
+          "filename": "哩洗勒考喔.webm",
+          "text": {
+            "zh-tw": "哩洗勒考喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "b1UC8Wvu4Go",
+            "start": 36297,
+            "end": 36300
+          }
+        },
+        {
+          "filename": "不要吵啦.webm",
+          "text": {
+            "zh-tw": "不要吵啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9ebyEIHBvNw",
+            "start": 5583,
+            "end": 5586
+          }
+        },
+        {
+          "filename": "插進去會壞掉的吧.webm",
+          "text": {
+            "zh-tw": "插進去會壞掉的吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 7137,
+            "end": 7151
+          }
         }
       ]
     },
@@ -483,6 +567,85 @@
             "videoId": "n7SrvumLvuo",
             "start": 6350,
             "end": 6355
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "台詞回",
+        "ja": "台詞回"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/tiamiu/",
+      "buttons": [
+        {
+          "filename": "釘宮三連.webm",
+          "text": {
+            "zh-tw": "釘宮三連",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 1825,
+            "end": 1830
+          }
+        },
+        {
+          "filename": "喵.webm",
+          "text": {
+            "zh-tw": "喵",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 2078,
+            "end": 2177
+          }
+        },
+        {
+          "filename": "史丹利你真的太無情了.webm",
+          "text": {
+            "zh-tw": "史丹利…你真的太無情了…",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 2713,
+            "end": 2725
+          }
+        },
+        {
+          "filename": "Explosion日_638054238454988901.webm",
+          "text": {
+            "zh-tw": "Explosion!(日)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 3877,
+            "end": 3954
+          }
+        },
+        {
+          "filename": "Explosion中.webm",
+          "text": {
+            "zh-tw": "Explosion!(中)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 3987,
+            "end": 4020
           }
         }
       ]

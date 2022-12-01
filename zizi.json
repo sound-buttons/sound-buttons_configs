@@ -868,6 +868,20 @@
             "start": 4067,
             "end": 4070
           }
+        },
+        {
+          "filename": "空你雞鴨空你雞鴨空尼雞蛙.webm",
+          "text": {
+            "zh-tw": "空你雞鴨、空你雞鴨、空尼雞蛙",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "L70euESlLPk",
+            "start": 93,
+            "end": 96
+          }
         }
       ]
     },
