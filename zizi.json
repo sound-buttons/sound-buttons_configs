@@ -439,6 +439,20 @@
             "start": 3987,
             "end": 3991
           }
+        },
+        {
+          "filename": "工啥毀阿.webm",
+          "text": {
+            "zh-tw": "工啥毀阿~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "rwTy3CIOT3E",
+            "start": 10992,
+            "end": 10994
+          }
         }
       ]
     },
@@ -882,6 +896,20 @@
             "start": 93,
             "end": 96
           }
+        },
+        {
+          "filename": "工啥毀ㄚ.webm",
+          "text": {
+            "zh-tw": "工啥毀ㄚ ?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "rwTy3CIOT3E",
+            "start": 10992,
+            "end": 10994
+          }
         }
       ]
     },
@@ -960,6 +988,20 @@
             "videoId": "pwaaUrlGhQQ",
             "start": 7734,
             "end": 7737
+          }
+        },
+        {
+          "filename": "某ㄟ某ㄟ老婆.webm",
+          "text": {
+            "zh-tw": "某ㄟ某ㄟ(老婆",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "g1yRkOUCRsE",
+            "start": 1156,
+            "end": 1157
           }
         }
       ]

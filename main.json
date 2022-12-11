@@ -53,6 +53,21 @@
     }
   },
   {
+    "name": "tiamiu",
+    "fullName": "Tia Miu",
+    "fullConfigURL": "assets/configs/tiamiu.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu2.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu3.png"
+    ],
+    "color": {
+      "primary": "#FFBFC9",
+      "secondary": "#744C60"
+    }
+  },
+  {
     "name": "zizi",
     "fullName": "ねこ咨咨",
     "fullConfigURL": "assets/configs/zizi.json",
@@ -76,21 +91,6 @@
     "color": {
       "primary": "#B933F8",
       "secondary": "#DEC5E5"
-    }
-  },
-  {
-    "name": "tiamiu",
-    "fullName": "Tia Miu",
-    "fullConfigURL": "assets/configs/tiamiu.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu2.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu3.png"
-    ],
-    "color": {
-      "primary": "#FFBFC9",
-      "secondary": "#744C60"
     }
   },
   {
