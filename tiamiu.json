@@ -354,7 +354,7 @@
         {
           "filename": "當你.webm",
           "text": {
-            "zh-tw": "當你",
+            "zh-tw": "(歌) 當你",
             "ja": ""
           },
           "baseRoute": null,
@@ -363,6 +363,132 @@
             "videoId": "PQszYDW0i4U",
             "start": 4188,
             "end": 4222
+          }
+        },
+        {
+          "filename": "不ㄍㄧㄥ了那那那要進來了嗎.webm",
+          "text": {
+            "zh-tw": "不ㄍㄧㄥ了，那那那要進來了嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gooWrzs0D7Y",
+            "start": 14365,
+            "end": 14370
+          }
+        },
+        {
+          "filename": "啊啊太多了.webm",
+          "text": {
+            "zh-tw": "啊啊！太多了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 2125,
+            "end": 2129
+          }
+        },
+        {
+          "filename": "鼻子.webm",
+          "text": {
+            "zh-tw": "鼻子",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 3396,
+            "end": 3472
+          }
+        },
+        {
+          "filename": "你們這群人把人家看光光之後就.webm",
+          "text": {
+            "zh-tw": "你們這群人把人家看光光之後就…",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 4733,
+            "end": 4751
+          }
+        },
+        {
+          "filename": "可以當我婆嗎可以.webm",
+          "text": {
+            "zh-tw": "可以當我婆嗎？…可以❤️",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 5932,
+            "end": 5937
+          }
+        },
+        {
+          "filename": "拜拜.webm",
+          "text": {
+            "zh-tw": "拜拜",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 16182,
+            "end": 16183
+          }
+        },
+        {
+          "filename": "木耳系Vtuber.webm",
+          "text": {
+            "zh-tw": "木耳系Vtuber",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ftgY4-trJFQ",
+            "start": 2026,
+            "end": 2060
+          }
+        },
+        {
+          "filename": "我只有兩顆奶子有奶子就夠了吧.webm",
+          "text": {
+            "zh-tw": "我只有兩顆奶子，有奶子就夠了吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ftgY4-trJFQ",
+            "start": 3916,
+            "end": 3925
+          }
+        },
+        {
+          "filename": "拜拜拜拜拜拜拜拜拜拜拜拜拜.webm",
+          "text": {
+            "zh-tw": "拜拜拜拜拜拜拜拜拜拜拜拜拜",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "8TijxuYJaAs",
+            "start": 15112,
+            "end": 15148
           }
         }
       ]
@@ -638,6 +764,118 @@
             "videoId": "9lSlU44ccho",
             "start": 4451,
             "end": 4470
+          }
+        },
+        {
+          "filename": "頭上兩個木耳.webm",
+          "text": {
+            "zh-tw": "頭上兩個木耳",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 1503,
+            "end": 1541
+          }
+        },
+        {
+          "filename": "我有鼻子.webm",
+          "text": {
+            "zh-tw": "我有鼻子！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 3761,
+            "end": 3791
+          }
+        },
+        {
+          "filename": "我不是派大星.webm",
+          "text": {
+            "zh-tw": "我不是派大星",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 3940,
+            "end": 3994
+          }
+        },
+        {
+          "filename": "今天是我的生日會好嗎不是金魚迫害大會好嗎.webm",
+          "text": {
+            "zh-tw": "今天是我的生日會好嗎，不是金魚迫害大會好嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 4142,
+            "end": 4146
+          }
+        },
+        {
+          "filename": "我有鼻子N.webm",
+          "text": {
+            "zh-tw": "我有鼻子×N",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 4551,
+            "end": 4590
+          }
+        },
+        {
+          "filename": "不給你們看我的胸部了.webm",
+          "text": {
+            "zh-tw": "不給你們看我的胸部了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 4638,
+            "end": 4641
+          }
+        },
+        {
+          "filename": "Miu之哀嚎.webm",
+          "text": {
+            "zh-tw": "Miu之哀嚎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "emrERvWn2Ok",
+            "start": 4718,
+            "end": 4731
+          }
+        },
+        {
+          "filename": "我不是平胸.webm",
+          "text": {
+            "zh-tw": "我不是平胸！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ftgY4-trJFQ",
+            "start": 4760,
+            "end": 4765
           }
         }
       ]
@@ -1262,6 +1500,62 @@
             "videoId": "MY3zjUAFwkk",
             "start": 12967,
             "end": 12975
+          }
+        },
+        {
+          "filename": "讓蘿咪看看.webm",
+          "text": {
+            "zh-tw": "讓蘿咪看看",
+            "ja": "let lomi see see"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 3064,
+            "end": 3069
+          }
+        },
+        {
+          "filename": "還敢偷看阿1.webm",
+          "text": {
+            "zh-tw": "還敢偷看阿1",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 5680,
+            "end": 5695
+          }
+        },
+        {
+          "filename": "還敢偷看阿2.webm",
+          "text": {
+            "zh-tw": "還敢偷看阿2",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 5732,
+            "end": 5746
+          }
+        },
+        {
+          "filename": "miu博士對胖次提出了他獨到的見解.webm",
+          "text": {
+            "zh-tw": "miu博士對胖次提出了他獨到的見解",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MY3zjUAFwkk",
+            "start": 9213,
+            "end": 9218
           }
         }
       ]

@@ -1637,6 +1637,20 @@
             "start": 4069,
             "end": 4072
           }
+        },
+        {
+          "filename": "對不起我咬到舌頭了八九寺真宵.webm",
+          "text": {
+            "zh-tw": "對不起，我咬到舌頭了 (八九寺真宵)",
+            "ja": "失礼、噛みました (八九寺真宵)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_pK6UQ6CdLI",
+            "start": 637,
+            "end": 640
+          }
         }
       ]
     },
@@ -3260,6 +3274,20 @@
             "videoId": "vEkGuwAIwT8",
             "start": 5775,
             "end": 5811
+          }
+        },
+        {
+          "filename": "PadoruPadoru.webm",
+          "text": {
+            "zh-tw": "Padoru Padoru",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "7RLBkJEaQOY",
+            "start": 3520.5,
+            "end": 3530
           }
         }
       ]

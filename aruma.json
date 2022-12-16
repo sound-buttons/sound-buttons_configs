@@ -529,6 +529,20 @@
             "start": 4405.5,
             "end": 4416
           }
+        },
+        {
+          "filename": "Iloveyouguys.webm",
+          "text": {
+            "zh-tw": "I love you guys!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WvFHQGPIM2s",
+            "start": 8033,
+            "end": 8035
+          }
         }
       ]
     },
@@ -2861,6 +2875,48 @@
             "videoId": "uw1WvBOL2ao",
             "start": 5248,
             "end": 5253
+          }
+        },
+        {
+          "filename": "小姊姊要不來b站吧我這要是去B站我立馬就炎上畢業三秒鐘結束成為傳奇啊各位.webm",
+          "text": {
+            "zh-tw": "(小姊姊要不來b站吧) 我這要是去B站我立馬就炎上畢業，三秒鐘結束，成為傳奇啊各位",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WvFHQGPIM2s",
+            "start": 7955,
+            "end": 7962
+          }
+        },
+        {
+          "filename": "我畢業了喔我們有緣再見掰掰.webm",
+          "text": {
+            "zh-tw": "我畢業了喔，我們有緣再見，掰掰！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WvFHQGPIM2s",
+            "start": 7995,
+            "end": 7999
+          }
+        },
+        {
+          "filename": "我愛你們這些願意翻牆出來然後多看看世界的小粉紅真的.webm",
+          "text": {
+            "zh-tw": "我愛你們這些願意翻牆出來然後多看看世界，的小粉紅，真的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "WvFHQGPIM2s",
+            "start": 8037,
+            "end": 8044
           }
         }
       ]
