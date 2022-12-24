@@ -1180,7 +1180,7 @@
           "filename": "敲門聲給我糖果.webm",
           "text": {
             "zh-tw": "(敲門聲)給我糖果！",
-            "ja": ""
+            "ja": "(ノックノック）お菓子をちょうだい！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1250,7 +1250,7 @@
           "filename": "一段落語.webm",
           "text": {
             "zh-tw": "(一段落語)",
-            "ja": ""
+            "ja": "(落語)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1264,7 +1264,7 @@
           "filename": "Duck學鴨子叫聲.webm",
           "text": {
             "zh-tw": "Duck? (學鴨子叫聲)",
-            "ja": ""
+            "ja": "Duck? (アヒルの呼び方を学ぶ)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1278,7 +1278,7 @@
           "filename": "能開槍的只有有覺悟被殺之人.webm",
           "text": {
             "zh-tw": "能開槍的只有有覺悟被殺之人",
-            "ja": ""
+            "ja": "撃っていいのは、撃たれる覚悟のある奴だけだ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1320,7 +1320,7 @@
           "filename": "2021年最後的星爆氣流斬3D星爆.webm",
           "text": {
             "zh-tw": "2021年最後的星爆氣流斬！ (3D星爆)",
-            "ja": ""
+            "ja": "2021年最後のスターバースト・ストリーム！ (3D)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1333,8 +1333,8 @@
         {
           "filename": "很長的自我介紹.webm",
           "text": {
-            "zh-tw": "很長的自我介紹",
-            "ja": ""
+            "zh-tw": "(很長的自我介紹)",
+            "ja": "(とても長い自己紹介)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1361,8 +1361,8 @@
         {
           "filename": "釘宮三連.webm",
           "text": {
-            "zh-tw": "釘宮三連",
-            "ja": ""
+            "zh-tw": "笨蛋！變態！吵死了！不想理你了！",
+            "ja": "バカ！変態！うるさい！もう知らない！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1390,7 +1390,7 @@
           "filename": "諸君我們的任務是什麼是草.webm",
           "text": {
             "zh-tw": "諸君，我們的任務是什麼？ 是草！",
-            "ja": ""
+            "ja": "諸君、我々の任務は何だ？ 草だ！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1403,8 +1403,8 @@
         {
           "filename": "英文自介.webm",
           "text": {
-            "zh-tw": "英文自介",
-            "ja": ""
+            "zh-tw": "(英文自介)",
+            "ja": "(英語の自己紹介)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1417,8 +1417,8 @@
         {
           "filename": "可愛聲音的自我介紹.webm",
           "text": {
-            "zh-tw": "可愛聲音的自我介紹",
-            "ja": ""
+            "zh-tw": "(可愛聲音的自我介紹)",
+            "ja": "(かわいい声で自己紹介)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1432,7 +1432,7 @@
           "filename": "這個美少女是誰啊對就是我.webm",
           "text": {
             "zh-tw": "這個美少女是誰啊？對，就是我！",
-            "ja": ""
+            "ja": "誰だ、この美少女？ そう、私です!"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1488,7 +1488,7 @@
           "filename": "粗魯的嗯哼.webm",
           "text": {
             "zh-tw": "(粗魯的)嗯哼",
-            "ja": ""
+            "ja": "(失礼な)ウフ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1502,7 +1502,7 @@
           "filename": "可愛的嗯哼.webm",
           "text": {
             "zh-tw": "(可愛的)嗯哼",
-            "ja": ""
+            "ja": "(かわいい)ウフ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1516,7 +1516,7 @@
           "filename": "大家好嗯哼哼.webm",
           "text": {
             "zh-tw": "大家好(嗯哼哼)",
-            "ja": ""
+            "ja": "みなさん、こんにちは(ウフフ)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1530,7 +1530,7 @@
           "filename": "笑聲謝謝.webm",
           "text": {
             "zh-tw": "(笑聲) 謝謝",
-            "ja": ""
+            "ja": "(笑) ありがとうございました"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1544,7 +1544,7 @@
           "filename": "嗯哼哼喔吼吼啊哈哈.webm",
           "text": {
             "zh-tw": "嗯哼哼，喔吼吼，啊哈哈",
-            "ja": ""
+            "ja": "ウフフ、オホホ、アハハ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1558,7 +1558,7 @@
           "filename": "可愛的啊哈哈.webm",
           "text": {
             "zh-tw": "(可愛的)啊哈哈",
-            "ja": ""
+            "ja": "(かわいい)あはは"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1572,7 +1572,7 @@
           "filename": "早上的全校廣播.webm",
           "text": {
             "zh-tw": "(早上的全校廣播)",
-            "ja": ""
+            "ja": "(朝の学校ラジオ)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1628,7 +1628,7 @@
           "filename": "パンパカパーン.webm",
           "text": {
             "zh-tw": "パンパカパーン",
-            "ja": ""
+            "ja": "パンパカパーン"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1684,7 +1684,7 @@
           "filename": "KP.webm",
           "text": {
             "zh-tw": "KP～～～～～\uD83C\uDF7B",
-            "ja": ""
+            "ja": "KP～～～～～\uD83C\uDF7B"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1863,7 +1863,7 @@
           "filename": "星爆中文.webm",
           "text": {
             "zh-tw": "星爆氣流斬！",
-            "ja": "スターバースト・ストリーム"
+            "ja": "（中国語）スターバースト・ストリーム"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1877,7 +1877,7 @@
           "filename": "大家把錢包交出來.webm",
           "text": {
             "zh-tw": "大家把錢包交出來",
-            "ja": "みんなの財布を出してくれ"
+            "ja": "（中国語）みんなの財布を出してくれ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1887,7 +1887,7 @@
           "filename": "白癡喔.webm",
           "text": {
             "zh-tw": "白癡喔",
-            "ja": "アホか"
+            "ja": "（中国語）アホか"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1897,7 +1897,7 @@
           "filename": "我愛你.webm",
           "text": {
             "zh-tw": "我愛你",
-            "ja": "愛してる"
+            "ja": "（中国語）愛してる"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1907,7 +1907,7 @@
           "filename": "恭喜發財紅包拿來.webm",
           "text": {
             "zh-tw": "恭喜發財紅包拿來",
-            "ja": "明けましておめでとうございます、お年玉をください"
+            "ja": "（中国語）明けましておめでとうございます、お年玉をください"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1917,7 +1917,7 @@
           "filename": "送啦.webm",
           "text": {
             "zh-tw": "送啦",
-            "ja": "やったああああああ"
+            "ja": "（中国語）やったああああああ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1927,7 +1927,7 @@
           "filename": "謝謝今天來看たま.webm",
           "text": {
             "zh-tw": "謝謝今天來看たま",
-            "ja": "配信に来てくれて、ありがとうございました"
+            "ja": "（中国語）配信に来てくれて、ありがとうございました"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1937,7 +1937,7 @@
           "filename": "我愛茄子蛋糕_我愛茄子蛋糕.webm",
           "text": {
             "zh-tw": "我愛茄子蛋糕",
-            "ja": "なすケーキが大好きです"
+            "ja": "（中国語）なすケーキが大好きです"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1951,7 +1951,7 @@
           "filename": "謝謝斗內.webm",
           "text": {
             "zh-tw": "謝謝斗內",
-            "ja": "スパチャありがとう"
+            "ja": "（中国語）スパチャありがとう"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1964,8 +1964,8 @@
         {
           "filename": "數數字.webm",
           "text": {
-            "zh-tw": "數數字",
-            "ja": "中国語で数を数える"
+            "zh-tw": "(用中文數數字)",
+            "ja": "（中国語で数を数える）"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1979,7 +1979,7 @@
           "filename": "我正在減肥.webm",
           "text": {
             "zh-tw": "我正在減肥",
-            "ja": "ダイエット中"
+            "ja": "（中国語）ダイエット中"
           },
           "baseRoute": null,
           "volume": 1,
@@ -1993,7 +1993,7 @@
           "filename": "請再來一碗飯.webm",
           "text": {
             "zh-tw": "請再來一碗飯",
-            "ja": "おかわり"
+            "ja": "（中国語）おかわり"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2007,7 +2007,7 @@
           "filename": "早安_637560655929323361.webm",
           "text": {
             "zh-tw": "早安",
-            "ja": "おはよう"
+            "ja": "（中国語）おはよう"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2021,7 +2021,7 @@
           "filename": "晚安.webm",
           "text": {
             "zh-tw": "晚安~",
-            "ja": "こんばんは~"
+            "ja": "（中国語）こんばんは~"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2035,7 +2035,7 @@
           "filename": "晚上好晚上好.webm",
           "text": {
             "zh-tw": "晚上好~晚上好~",
-            "ja": "こんばんは~こんばんは~"
+            "ja": "（中国語）こんばんは~こんばんは~"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2049,7 +2049,7 @@
           "filename": "萊納你坐啊.webm",
           "text": {
             "zh-tw": "萊納，你坐啊",
-            "ja": ""
+            "ja": "（中国語）ライナー、座れよ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2063,7 +2063,7 @@
           "filename": "你好謝謝小籠包再見.webm",
           "text": {
             "zh-tw": "你好，謝謝，小籠包，再見！",
-            "ja": ""
+            "ja": "（中国語）こんにちは、ありがとう、小籠包、さようなら！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2077,7 +2077,7 @@
           "filename": "萊納你坐啊_638044155313577716.webm",
           "text": {
             "zh-tw": "萊納，你坐啊 !",
-            "ja": ""
+            "ja": "（中国語）ライナー、座れよ！"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2091,7 +2091,7 @@
           "filename": "歡迎.webm",
           "text": {
             "zh-tw": "歡迎~",
-            "ja": ""
+            "ja": "（中国語）ようこそ〜"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2105,7 +2105,7 @@
           "filename": "謝謝.webm",
           "text": {
             "zh-tw": "謝謝",
-            "ja": ""
+            "ja": "（中国語）ありがとう"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2119,7 +2119,7 @@
           "filename": "你來看我的直播.webm",
           "text": {
             "zh-tw": "你來看、我的直播~",
-            "ja": ""
+            "ja": "（中国語）私のライブを見てくれて"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2133,7 +2133,7 @@
           "filename": "たま你坐啊.webm",
           "text": {
             "zh-tw": "たま你坐啊",
-            "ja": ""
+            "ja": "（中国語）たま、座れよ"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2147,7 +2147,7 @@
           "filename": "黑松沙士.webm",
           "text": {
             "zh-tw": "黑松沙士",
-            "ja": ""
+            "ja": "（中国語）黑松沙士（ヘイソンシャアシ 台湾コーラ）"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2161,7 +2161,7 @@
           "filename": "皮蛋.webm",
           "text": {
             "zh-tw": "皮~蛋~",
-            "ja": ""
+            "ja": "（中国語）皮蛋（ピータン）"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2175,7 +2175,7 @@
           "filename": "乖乖乖乖謝謝乖乖.webm",
           "text": {
             "zh-tw": "乖乖、乖乖、謝謝乖乖",
-            "ja": ""
+            "ja": "（中国語）グァイグァイ、グァイグァイ、ありがとうグァイグァイ（台湾のスナック）"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2189,7 +2189,7 @@
           "filename": "可樂果xn.webm",
           "text": {
             "zh-tw": "可樂果xn",
-            "ja": ""
+            "ja": "（中国語）可樂果（カーラーグオ 台湾のスナック）"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2203,7 +2203,7 @@
           "filename": "晚上好謝謝你來看我的直播中文錯誤.webm",
           "text": {
             "zh-tw": "晚上好謝謝！你來看我的直播！ (中文錯誤)",
-            "ja": ""
+            "ja": "（中国語）こんばんは、私のライブを見てくれてありがとう（誤）"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2351,8 +2351,8 @@
         {
           "filename": "たま英文自介.webm",
           "text": {
-            "zh-tw": "たま英文自介",
-            "ja": "たまの英語自己紹介"
+            "zh-tw": "(たま英文自介)",
+            "ja": "(たまの英語自己紹介)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -2421,7 +2421,7 @@
         {
           "filename": "Goodmorningeveryone.webm",
           "text": {
-            "zh-tw": "​Good morning everyone.",
+            "zh-tw": "Good morning everyone.",
             "ja": ""
           },
           "baseRoute": null,
@@ -3420,7 +3420,7 @@
           "filename": "唱英文歌但是看不懂英文奇異恩典.webm",
           "text": {
             "zh-tw": "唱英文歌但是看不懂英文 (奇異恩典)",
-            "ja": ""
+            "ja": "英語の歌を歌うが英語が読めない（アメイジング・グレイス）"
           },
           "baseRoute": null,
           "volume": 1,
@@ -3434,7 +3434,7 @@
           "filename": "夏色ゆず亂唱.webm",
           "text": {
             "zh-tw": "夏色/ゆず (亂唱)",
-            "ja": ""
+            "ja": "夏色/ゆず (適当に歌う)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -3462,7 +3462,7 @@
           "filename": "失敗的ECHO.webm",
           "text": {
             "zh-tw": "(失敗的) ECHO",
-            "ja": ""
+            "ja": "(失敗した) ECHO"
           },
           "baseRoute": null,
           "volume": 1,
@@ -3476,7 +3476,7 @@
           "filename": "失敗的ECHO英文.webm",
           "text": {
             "zh-tw": "(失敗的 ECHO 英文)",
-            "ja": ""
+            "ja": "(失敗した ECHO English)"
           },
           "baseRoute": null,
           "volume": 1,
@@ -3490,7 +3490,7 @@
           "filename": "PadoruPadoru.webm",
           "text": {
             "zh-tw": "Padoru Padoru",
-            "ja": ""
+            "ja": "Padoru Padoru"
           },
           "baseRoute": null,
           "volume": 1,
