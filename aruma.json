@@ -543,6 +543,20 @@
             "start": 8033,
             "end": 8035
           }
+        },
+        {
+          "filename": "Ohmygod這裡有已婚者.webm",
+          "text": {
+            "zh-tw": "Oh my god! 這裡有已婚者?!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ufmBTkUylds",
+            "start": 1057,
+            "end": 1066
+          }
         }
       ]
     },
@@ -2917,6 +2931,90 @@
             "videoId": "WvFHQGPIM2s",
             "start": 8037,
             "end": 8044
+          }
+        },
+        {
+          "filename": "軟掉的話你可以試一下藍色小藥丸應該就會趣來了加油.webm",
+          "text": {
+            "zh-tw": "軟掉的話你可以試一下藍色小藥丸，應該就會起來了。加油！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "hmpPoPBO2Nc",
+            "start": 4170,
+            "end": 4175
+          }
+        },
+        {
+          "filename": "台語垃圾就是要丟去垃圾筒.webm",
+          "text": {
+            "zh-tw": "(台語) 垃圾就是要丟去垃圾筒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gC9XCtik7B0",
+            "start": 5668,
+            "end": 5671
+          }
+        },
+        {
+          "filename": "台語我如果不爽我就買一桶汽油再送你一根火柴我另外再送你一個蛋糕給你生日快樂.webm",
+          "text": {
+            "zh-tw": "(台語) 我如果不爽，我就買一桶汽油，再送你一根火柴，我另外再送你一個蛋糕，給你生日快樂！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gC9XCtik7B0",
+            "start": 5815,
+            "end": 5832
+          }
+        },
+        {
+          "filename": "一個大象.webm",
+          "text": {
+            "zh-tw": "一個大象",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ufmBTkUylds",
+            "start": 9673,
+            "end": 9674.2
+          }
+        },
+        {
+          "filename": "我就說難得看到小護士有奶子我好震驚哈哈.webm",
+          "text": {
+            "zh-tw": "我就說難得看到小護士有奶子我好震驚 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ufmBTkUylds",
+            "start": 9766,
+            "end": 9772
+          }
+        },
+        {
+          "filename": "MerryChristmas聖誕節快樂.webm",
+          "text": {
+            "zh-tw": "Merry Christmas, 聖誕節快樂",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ufmBTkUylds",
+            "start": 9832.2,
+            "end": 9834.5
           }
         }
       ]

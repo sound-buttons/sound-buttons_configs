@@ -2478,6 +2478,20 @@
             "start": 960,
             "end": 963.8
           }
+        },
+        {
+          "filename": "有ECHO的笑聲.webm",
+          "text": {
+            "zh-tw": "有ECHO的笑聲",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0qxrPcJ_89E",
+            "start": 1153,
+            "end": 1162
+          }
         }
       ]
     },
@@ -2738,6 +2752,20 @@
             "videoId": "qH0xvoiGFv0",
             "start": 909,
             "end": 953
+          }
+        },
+        {
+          "filename": "一閃一閃亮晶晶滿天都是SC_638070825144336856.webm",
+          "text": {
+            "zh-tw": "一閃一閃亮晶晶，滿天都是SC",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "k6Ka34Mlv8A",
+            "start": 8230,
+            "end": 8254
           }
         }
       ]

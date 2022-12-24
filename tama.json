@@ -1651,6 +1651,90 @@
             "start": 637,
             "end": 640
           }
+        },
+        {
+          "filename": "謝謝SC.webm",
+          "text": {
+            "zh-tw": "謝謝SC！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vyb_7wUAeJA",
+            "start": 3163.8,
+            "end": 3166.2
+          }
+        },
+        {
+          "filename": "希望大家可以追蹤我的頻道.webm",
+          "text": {
+            "zh-tw": "希望大家可以追蹤我的頻道",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vyb_7wUAeJA",
+            "start": 3168,
+            "end": 3171.5
+          }
+        },
+        {
+          "filename": "KP.webm",
+          "text": {
+            "zh-tw": "KP～～～～～\uD83C\uDF7B",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Puh_mVgZT1M",
+            "start": 756,
+            "end": 764
+          }
+        },
+        {
+          "filename": "我要開動了_638073484276483553.webm",
+          "text": {
+            "zh-tw": "我要開動了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Puh_mVgZT1M",
+            "start": 3068,
+            "end": 3070.2
+          }
+        },
+        {
+          "filename": "耶Happybirthdaytome恭喜20歲謝謝.webm",
+          "text": {
+            "zh-tw": "耶！Happy birthday to me! 恭喜20歲！謝謝！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "iEJQCyynGxw",
+            "start": 3593,
+            "end": 3602
+          }
+        },
+        {
+          "filename": "倒數十秒.webm",
+          "text": {
+            "zh-tw": "(倒數十秒)",
+            "ja": "(10秒カウントダウン)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "iEJQCyynGxw",
+            "start": 3579,
+            "end": 3590
+          }
         }
       ]
     },
@@ -2001,6 +2085,132 @@
             "videoId": "Xgz6me3QLu4",
             "start": 6986,
             "end": 6997
+          }
+        },
+        {
+          "filename": "歡迎.webm",
+          "text": {
+            "zh-tw": "歡迎~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "07csWGAStZk",
+            "start": 2568,
+            "end": 2571
+          }
+        },
+        {
+          "filename": "謝謝.webm",
+          "text": {
+            "zh-tw": "謝謝",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "07csWGAStZk",
+            "start": 2572,
+            "end": 2575
+          }
+        },
+        {
+          "filename": "你來看我的直播.webm",
+          "text": {
+            "zh-tw": "你來看、我的直播~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "07csWGAStZk",
+            "start": 2585,
+            "end": 2588
+          }
+        },
+        {
+          "filename": "たま你坐啊.webm",
+          "text": {
+            "zh-tw": "たま你坐啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "07csWGAStZk",
+            "start": 2627,
+            "end": 2629
+          }
+        },
+        {
+          "filename": "黑松沙士.webm",
+          "text": {
+            "zh-tw": "黑松沙士",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Puh_mVgZT1M",
+            "start": 644,
+            "end": 646.5
+          }
+        },
+        {
+          "filename": "皮蛋.webm",
+          "text": {
+            "zh-tw": "皮~蛋~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Puh_mVgZT1M",
+            "start": 1690.5,
+            "end": 1693
+          }
+        },
+        {
+          "filename": "乖乖乖乖謝謝乖乖.webm",
+          "text": {
+            "zh-tw": "乖乖、乖乖、謝謝乖乖",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Puh_mVgZT1M",
+            "start": 3031,
+            "end": 3036.5
+          }
+        },
+        {
+          "filename": "可樂果xn.webm",
+          "text": {
+            "zh-tw": "可樂果xn",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Puh_mVgZT1M",
+            "start": 3170.5,
+            "end": 3176
+          }
+        },
+        {
+          "filename": "晚上好謝謝你來看我的直播中文錯誤.webm",
+          "text": {
+            "zh-tw": "晚上好謝謝！你來看我的直播！ (中文錯誤)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "07csWGAStZk",
+            "start": 2559,
+            "end": 2563
           }
         }
       ]
