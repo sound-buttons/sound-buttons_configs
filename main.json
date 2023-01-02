@@ -38,18 +38,7 @@
     ],
     "color": {
       "primary": "#593196",
-      "secondary": "#a991d4"
-    }
-  },
-  {
-    "name": "kakeru",
-    "fullName": "間取かける",
-    "fullConfigURL": "assets/configs/kakeru.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/kakeru.json",
-    "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/kakeru.png",
-    "color": {
-      "primary": "#2C252C",
-      "secondary": "#F9D95E"
+      "secondary": "#A991D4"
     }
   },
   {
@@ -68,6 +57,17 @@
     }
   },
   {
+    "name": "kakeru",
+    "fullName": "間取かける",
+    "fullConfigURL": "assets/configs/kakeru.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/kakeru.json",
+    "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/kakeru.png",
+    "color": {
+      "primary": "#2C252C",
+      "secondary": "#F9D95E"
+    }
+  },
+  {
     "name": "zizi",
     "fullName": "ねこ咨咨",
     "fullConfigURL": "assets/configs/zizi.json",
@@ -75,7 +75,7 @@
     "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.png",
     "color": {
       "primary": "#593196",
-      "secondary": "#a991d4"
+      "secondary": "#A991D4"
     }
   },
   {
@@ -103,8 +103,8 @@
       "https://soundbuttons.azureedge.net/sound-buttons/hachi/hachi.png"
     ],
     "color": {
-      "primary": "#3c3942",
-      "secondary": "#f4b505"
+      "primary": "#3C3942",
+      "secondary": "#F4B505"
     }
   },
   {
@@ -132,8 +132,8 @@
       "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu1652.png"
     ],
     "color": {
-      "primary": "#fabf20",
-      "secondary": "#ffe5a1"
+      "primary": "#FABF20",
+      "secondary": "#FFE5A1"
     }
   },
   {
@@ -146,8 +146,8 @@
       "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora2.png"
     ],
     "color": {
-      "primary": "#6cad35",
-      "secondary": "#fffd73"
+      "primary": "#6CAD35",
+      "secondary": "#FFFD73"
     }
   }
 ]
