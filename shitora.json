@@ -1,6 +1,6 @@
 {
   "name": "shitora",
-  "fullName": "範例",
+  "fullName": "涼風しとら",
   "fullConfigURL": "assets/configs/shitora.json",
   "imgSrc": [
     "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora2.png",
@@ -19,7 +19,66 @@
     "discord": "https://discord.com/invite/75HeU7A5qR",
     "other": "https://lit.link/en/suzukazeshitora"
   },
-  "introButton": null,
+  "introButton": {
+    "filename": "中文自我介紹.webm",
+    "text": {
+      "zh-tw": "(中文) 自我介紹",
+      "ja": "(中国語) 自己紹介"
+    },
+    "baseRoute": null,
+    "volume": 1,
+    "source": {
+      "videoId": "SeZK8wxvlkE",
+      "start": 738,
+      "end": 767
+    }
+  },
   "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "涼風しとら",
+        "ja": "涼風しとら"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
+      "buttons": [
+        {
+          "filename": "自我介紹.webm",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "SeZK8wxvlkE",
+            "start": 299,
+            "end": 358
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "中国語本当上手",
+        "ja": "中国語本当上手"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
+      "buttons": [
+        {
+          "filename": "中文自我介紹.webm",
+          "text": {
+            "zh-tw": "(中文) 自我介紹",
+            "ja": "(中国語) 自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "SeZK8wxvlkE",
+            "start": 738,
+            "end": 767
+          }
+        }
+      ]
+    }
   ]
 }
