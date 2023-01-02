@@ -1735,6 +1735,62 @@
             "start": 3579,
             "end": 3590
           }
+        },
+        {
+          "filename": "是什麼呢對不起我真的看不懂漢字抱歉.webm",
+          "text": {
+            "zh-tw": "是什麼呢，對不起，我真的看不懂漢字，抱歉",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "FEWJxPhusrw",
+            "start": 3938,
+            "end": 3943
+          }
+        },
+        {
+          "filename": "這是什麼我第一次見到這個漢字.webm",
+          "text": {
+            "zh-tw": "這是什麼？我第一次見到這個漢字",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "FEWJxPhusrw",
+            "start": 3951,
+            "end": 3954
+          }
+        },
+        {
+          "filename": "我即使20歲了還是想要禮物跟年齡沒關係我會當乖孩子我想要禮物.webm",
+          "text": {
+            "zh-tw": "我即使20歲了還是想要禮物～跟年齡沒關係，我會當乖孩子，我想要禮物～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "FEWJxPhusrw",
+            "start": 5834,
+            "end": 5845.8
+          }
+        },
+        {
+          "filename": "倒數30秒.webm",
+          "text": {
+            "zh-tw": "(倒數30秒)",
+            "ja": "(30秒のカウントダウン)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gdZ_BNSSTYk",
+            "start": 14364,
+            "end": 14398.2
+          }
         }
       ]
     },

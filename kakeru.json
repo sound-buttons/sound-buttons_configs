@@ -1047,6 +1047,62 @@
             "start": 7124,
             "end": 7128.2
           }
+        },
+        {
+          "filename": "Windows錯誤音啊弄錯了.webm",
+          "text": {
+            "zh-tw": "(Windows 錯誤音) 啊！ 弄錯了",
+            "ja": "(Windows エラー音) ああ！ 間違えた"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Zn-9ZPyGrec",
+            "start": 1583,
+            "end": 1591
+          }
+        },
+        {
+          "filename": "中文新年快樂HappyNewYear.webm",
+          "text": {
+            "zh-tw": "(中文) 新年快樂～Happy New Year~",
+            "ja": "(中国語)明けましておめでとう～Happy New Year~"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Zn-9ZPyGrec",
+            "start": 10619,
+            "end": 10628
+          }
+        },
+        {
+          "filename": "中文新年快樂.webm",
+          "text": {
+            "zh-tw": "(中文) 新年快樂！",
+            "ja": "（中国語）明けましておめでとうございます！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Zn-9ZPyGrec",
+            "start": 10716,
+            "end": 10719.2
+          }
+        },
+        {
+          "filename": "中文恭喜發財.webm",
+          "text": {
+            "zh-tw": "(中文) 恭喜發財",
+            "ja": "(中国語) 繁栄と富を願って"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Zn-9ZPyGrec",
+            "start": 10845,
+            "end": 10848
+          }
         }
       ]
     },
@@ -1549,6 +1605,20 @@
             "videoId": "UD-5hTA9lT4",
             "start": 808,
             "end": 841
+          }
+        },
+        {
+          "filename": "大叫啊.webm",
+          "text": {
+            "zh-tw": "(大叫) 啊～",
+            "ja": "(叫び) あ～"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Zn-9ZPyGrec",
+            "start": 10604,
+            "end": 10607
           }
         }
       ]

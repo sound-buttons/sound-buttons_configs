@@ -3016,6 +3016,48 @@
             "start": 9832.2,
             "end": 9834.5
           }
+        },
+        {
+          "filename": "快點我們要像柬埔寨一樣你想離開你要再找5個人進來你才可以離開哈哈.webm",
+          "text": {
+            "zh-tw": "快點，我們要像柬埔寨一樣，你想離開你要再找5個人進來你才可以離開 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "REeLY5dNPSI",
+            "start": 2576.2,
+            "end": 2583
+          }
+        },
+        {
+          "filename": "不看一下嗎不是有人跟我說你會寫嗎我就寫給你們看啊我可是寫過的人呢哈哈.webm",
+          "text": {
+            "zh-tw": "不看一下嗎? 不是有人跟我說「你會寫%%%嗎?」，我就寫%%%給你們看啊，我可是寫過%%%的人呢 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "REeLY5dNPSI",
+            "start": 3800,
+            "end": 3810
+          }
+        },
+        {
+          "filename": "我看到你在Discord說今天要看的台實在太多了所以只好放棄艦長我看到了你不要裝死哈哈.webm",
+          "text": {
+            "zh-tw": "我看到你在Discord說「今天要看的台實在太多了，所以只好放棄艦長」我看到了！你不要裝死 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "mOepclYxi_E",
+            "start": 300,
+            "end": 310
+          }
         }
       ]
     },

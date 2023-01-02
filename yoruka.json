@@ -2492,6 +2492,20 @@
             "start": 1153,
             "end": 1162
           }
+        },
+        {
+          "filename": "為什麼這個人寫字要這樣寫啊.webm",
+          "text": {
+            "zh-tw": "為什麼這個人寫字要這樣寫啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wJL5NI7kkbQ",
+            "start": 4835,
+            "end": 4838
+          }
         }
       ]
     },
@@ -3064,6 +3078,20 @@
             "videoId": "CNlLPhpoKIM",
             "start": 7086,
             "end": 7097
+          }
+        },
+        {
+          "filename": "媽的搞什麼鬼啊.webm",
+          "text": {
+            "zh-tw": "媽的，搞什麼鬼啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wJL5NI7kkbQ",
+            "start": 10000,
+            "end": 10002.5
           }
         }
       ]
