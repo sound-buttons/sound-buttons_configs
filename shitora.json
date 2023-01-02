@@ -25,7 +25,7 @@
       "zh-tw": "(中文) 自我介紹",
       "ja": "(中国語) 自己紹介"
     },
-    "baseRoute": null,
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
     "volume": 1,
     "source": {
       "videoId": "SeZK8wxvlkE",
