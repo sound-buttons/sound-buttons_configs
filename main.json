@@ -135,5 +135,19 @@
       "primary": "#fabf20",
       "secondary": "#ffe5a1"
     }
+  },
+  {
+    "name": "shitora",
+    "fullName": "涼風しとら",
+    "fullConfigURL": "assets/configs/shitora.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora2.png"
+    ],
+    "color": {
+      "primary": "#6cad35",
+      "secondary": "#fffd73"
+    }
   }
 ]

@@ -1,0 +1,25 @@
+{
+  "name": "shitora",
+  "fullName": "範例",
+  "fullConfigURL": "assets/configs/shitora.json",
+  "imgSrc": [
+    "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora2.png",
+    "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.png"
+  ],
+  "intro": "深淵の神ハスター様のもう一人の眷属。人の世界のアニメやオタク文化に触れ、修行のことを忘れオタクに…　Vtuberで信者を増やすことに目を付けた。\n我是深淵組Vtuber 涼風しとら！\n人類世界的御宅文化很有趣！",
+  "color": {
+    "primary": "#6cad35",
+    "secondary": "#9ABCDE"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/@SuzukazeShitora",
+    "twitter": "https://twitter.com/suzukazeshitora",
+    "facebook": "https://www.facebook.com/shinengumivtg",
+    "instagram": "",
+    "discord": "https://discord.com/invite/75HeU7A5qR",
+    "other": "https://lit.link/en/suzukazeshitora"
+  },
+  "introButton": null,
+  "buttonGroups": [
+  ]
+}
