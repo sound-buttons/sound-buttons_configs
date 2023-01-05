@@ -6,7 +6,7 @@
     "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora2.png",
     "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.png"
   ],
-  "intro": "深淵の神ハスター様のもう一人の眷属。人の世界のアニメやオタク文化に触れ、修行のことを忘れオタクに…　Vtuberで信者を増やすことに目を付けた。\n我是深淵組Vtuber 涼風しとら！\n人類世界的御宅文化很有趣！",
+  "intro": "深淵の神ハスター様のもう一人の眷属。人の世界のアニメやオタク文化に触れ、修行のことを忘れオタクに…\u3000Vtuberで信者を増やすことに目を付けた。\n我是深淵組Vtuber 涼風しとら！\n人類世界的御宅文化很有趣！",
   "color": {
     "primary": "#6CAD35",
     "secondary": "#FFFD73"
@@ -54,6 +54,174 @@
             "start": 299,
             "end": 358
           }
+        },
+        {
+          "filename": "第一次的啾.webm",
+          "text": {
+            "zh-tw": "第一次的啾",
+            "ja": "最初のちゅ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 1641,
+            "end": 1648
+          }
+        },
+        {
+          "filename": "達令啾啾啾晚安.webm",
+          "text": {
+            "zh-tw": "達令啾啾啾晚安",
+            "ja": "ダーリンちゅちゅちゅお休み"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "謝謝雖然你是DD.webm",
+          "text": {
+            "zh-tw": "謝謝 雖然你是DD",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "別這樣誇獎我哇哈哈謝謝.webm",
+          "text": {
+            "zh-tw": "別這樣誇獎我 哇哈哈 謝謝",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "皮卡丘.webm",
+          "text": {
+            "zh-tw": "皮卡丘",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "噁心きもいうわぁ.webm",
+          "text": {
+            "zh-tw": "噁心 きもい\u3000うわぁ～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "大家的偶像涼風しとら打油.webm",
+          "text": {
+            "zh-tw": "大家的偶像 涼風しとら打油",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "八嘎變態屋嚕賽不理你了.webm",
+          "text": {
+            "zh-tw": "八嘎變態屋嚕賽不理你了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "A及變態北七喔.webm",
+          "text": {
+            "zh-tw": "A及變態北七喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "sitora的直播開始啦.webm",
+          "text": {
+            "zh-tw": "sitora的直播開始啦!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "sitora不知道啦sitora該怎麼半哭.webm",
+          "text": {
+            "zh-tw": "sitora不知道啦 sitora該怎麼半(哭",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "放馬過來啊笨蛋.webm",
+          "text": {
+            "zh-tw": "放馬過來啊笨蛋",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
@@ -76,6 +244,929 @@
             "videoId": "SeZK8wxvlkE",
             "start": 738,
             "end": 767
+          }
+        },
+        {
+          "filename": "你的豆花30塊_638083878797777614.webm",
+          "text": {
+            "zh-tw": "你的豆花30塊",
+            "ja": "あなたの豆花30元"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "我好興奮.webm",
+          "text": {
+            "zh-tw": "我好興奮!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "男人變態有什麼錯很重要說三次.webm",
+          "text": {
+            "zh-tw": "男人變態有什麼錯!!(很重要說三次",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "杰哥不要.webm",
+          "text": {
+            "zh-tw": "杰哥不要",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "來大都找我.webm",
+          "text": {
+            "zh-tw": "來大都找我",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "洛可你這個變態.webm",
+          "text": {
+            "zh-tw": "洛可 你這個變態",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "幹騙我.webm",
+          "text": {
+            "zh-tw": "幹!騙我!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "滾滾.webm",
+          "text": {
+            "zh-tw": "滾!滾!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "窩不知道.webm",
+          "text": {
+            "zh-tw": "窩不知道",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "請開始你的表演.webm",
+          "text": {
+            "zh-tw": "請開始你的表演",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "幫我撐10秒.webm",
+          "text": {
+            "zh-tw": "幫我撐10秒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "幫我撐10秒強.webm",
+          "text": {
+            "zh-tw": "幫我撐10秒(強)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "騙人的吧.webm",
+          "text": {
+            "zh-tw": "騙人的吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "聽話讓我看看.webm",
+          "text": {
+            "zh-tw": "聽話讓我看看",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "漂亮.webm",
+          "text": {
+            "zh-tw": "漂亮",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "搞錯了.webm",
+          "text": {
+            "zh-tw": "搞錯了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "超爽的撿到一百快咧.webm",
+          "text": {
+            "zh-tw": "超爽的 撿到一百快咧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "蛤吵死了閉嘴呱.webm",
+          "text": {
+            "zh-tw": "蛤 吵死了 閉嘴 呱",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "給老娘閉嘴.webm",
+          "text": {
+            "zh-tw": "給老娘 閉嘴",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "涼風老婆OK.webm",
+          "text": {
+            "zh-tw": "涼風老婆 OK",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "修但幾蕾.webm",
+          "text": {
+            "zh-tw": "修但幾蕾",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "挖ㄟ島輝30元.webm",
+          "text": {
+            "zh-tw": "挖ㄟ島輝30元",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "我就爛.webm",
+          "text": {
+            "zh-tw": "我就爛",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "我什麼都沒有哭.webm",
+          "text": {
+            "zh-tw": "我什麼都沒有(哭",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "你真是太無情了哭阿.webm",
+          "text": {
+            "zh-tw": "你真是太無情了~哭阿~~!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "你很勇喔.webm",
+          "text": {
+            "zh-tw": "你很勇喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "王八蛋.webm",
+          "text": {
+            "zh-tw": "王八蛋",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "好棒.webm",
+          "text": {
+            "zh-tw": "好棒~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "好油喔.webm",
+          "text": {
+            "zh-tw": "好油喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "在座的各位都是垃圾.webm",
+          "text": {
+            "zh-tw": "在座的各位都是垃圾",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "打我啊笨蛋ww.webm",
+          "text": {
+            "zh-tw": "打我啊笨蛋ww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "北七喔喂.webm",
+          "text": {
+            "zh-tw": "北七喔~喂!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "太無情了無情單殺.webm",
+          "text": {
+            "zh-tw": "太無情了 無情單殺",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "不要瞎掰好嗎.webm",
+          "text": {
+            "zh-tw": "不要瞎掰好嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "不可以瑟瑟.webm",
+          "text": {
+            "zh-tw": "不可以瑟瑟",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "不行NONONO不可以瑟瑟.webm",
+          "text": {
+            "zh-tw": "不行 NONONO 不可以瑟瑟",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "我愈來愈接近電話了.webm",
+          "text": {
+            "zh-tw": "我愈來愈接近電話了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "你們這些畜生.webm",
+          "text": {
+            "zh-tw": "你們這些畜生！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "J6dF-YTwqWs",
+            "start": 1648,
+            "end": 1650.5
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "炒飯",
+        "ja": "炒飯"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
+      "buttons": [
+        {
+          "filename": "炒飯.webm",
+          "text": {
+            "zh-tw": "炒飯!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "炒飯妹妹.webm",
+          "text": {
+            "zh-tw": "炒飯妹妹",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "炒飯妹妹最高炒飯妹妹最高.webm",
+          "text": {
+            "zh-tw": "炒飯妹妹最高!!炒飯妹妹最高",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "炒飯擔當涼風しとら爹使請多指教.webm",
+          "text": {
+            "zh-tw": "炒飯擔當 涼風しとら爹使 請多指教",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "炒飯炒飯.webm",
+          "text": {
+            "zh-tw": "炒飯~~炒飯~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "我想炒飯.webm",
+          "text": {
+            "zh-tw": "我想炒飯",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "表演炒飯.webm",
+          "text": {
+            "zh-tw": "表演炒飯",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "這樣就好了嗎炒飯的顏色.webm",
+          "text": {
+            "zh-tw": "這樣就好了嗎 炒飯的顏色",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "喔喔喔來了炒飯歐伊系.webm",
+          "text": {
+            "zh-tw": "喔喔喔 來了 炒飯~~歐伊系~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "不喜歡炒飯嗎為什麼炒飯很好吃的.webm",
+          "text": {
+            "zh-tw": "不喜歡炒飯嗎? 為什麼 炒飯很好吃的!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "快還要更快炒飯還要更快.webm",
+          "text": {
+            "zh-tw": "快 還要更快 炒飯還要更快",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "你在講什麼炒飯妹妹是最棒的吧.webm",
+          "text": {
+            "zh-tw": "你在講什麼 炒飯妹妹是最棒的吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "中二必殺技",
+        "ja": "中二必殺技"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
+      "buttons": [
+        {
+          "filename": "星爆.webm",
+          "text": {
+            "zh-tw": "星爆",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "星爆中文.webm",
+          "text": {
+            "zh-tw": "星爆(中文)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "星爆氣流斬.webm",
+          "text": {
+            "zh-tw": "星爆氣流斬!!!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "歐拉歐拉白金之星.webm",
+          "text": {
+            "zh-tw": "歐拉歐拉(白金之星",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "爆裂魔法Explosion咒文.webm",
+          "text": {
+            "zh-tw": "爆裂魔法〔Explosion〕咒文",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "爆炸聲.webm",
+          "text": {
+            "zh-tw": "爆炸聲",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "龜派氣功.webm",
+          "text": {
+            "zh-tw": "龜派氣功",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "我的戰鬥力有53萬.webm",
+          "text": {
+            "zh-tw": "我的戰鬥力有53萬",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "必殺技阿秋.webm",
+          "text": {
+            "zh-tw": "必殺技阿秋",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "瑟瑟領域展開哈哈.webm",
+          "text": {
+            "zh-tw": "瑟瑟領域展開 哈哈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "EX嘎哩棒BAN.webm",
+          "text": {
+            "zh-tw": "EX嘎哩棒 BAN",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "C8763bannnn.webm",
+          "text": {
+            "zh-tw": "C8763 bannnn",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "隨口哼",
+        "ja": "隨口哼"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
+      "buttons": [
+        {
+          "filename": "星爆歌.webm",
+          "text": {
+            "zh-tw": "星爆歌",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "Crybaby.webm",
+          "text": {
+            "zh-tw": "Cry baby",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
           }
         }
       ]
