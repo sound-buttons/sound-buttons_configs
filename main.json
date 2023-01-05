@@ -68,6 +68,20 @@
     }
   },
   {
+    "name": "shitora",
+    "fullName": "涼風しとら",
+    "fullConfigURL": "assets/configs/shitora.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora2.png"
+    ],
+    "color": {
+      "primary": "#6CAD35",
+      "secondary": "#FFFD73"
+    }
+  },
+  {
     "name": "zizi",
     "fullName": "ねこ咨咨",
     "fullConfigURL": "assets/configs/zizi.json",
@@ -134,20 +148,6 @@
     "color": {
       "primary": "#FABF20",
       "secondary": "#FFE5A1"
-    }
-  },
-  {
-    "name": "shitora",
-    "fullName": "涼風しとら",
-    "fullConfigURL": "assets/configs/shitora.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora2.png"
-    ],
-    "color": {
-      "primary": "#6CAD35",
-      "secondary": "#FFFD73"
     }
   }
 ]
