@@ -9,7 +9,7 @@
   "intro": "深淵の神ハスター様のもう一人の眷属。人の世界のアニメやオタク文化に触れ、修行のことを忘れオタクに…\u3000Vtuberで信者を増やすことに目を付けた。\n我是深淵組Vtuber 涼風しとら！\n人類世界的御宅文化很有趣！",
   "color": {
     "primary": "#6CAD35",
-    "secondary": "#FFFD73"
+    "secondary": "#976C32"
   },
   "link": {
     "youtube": "https://www.youtube.com/@SuzukazeShitora",
@@ -36,8 +36,8 @@
   "buttonGroups": [
     {
       "name": {
-        "zh-tw": "涼風しとら",
-        "ja": "涼風しとら"
+        "zh-tw": "炒飯妹妹",
+        "ja": "炒飯妹妹"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
       "buttons": [
