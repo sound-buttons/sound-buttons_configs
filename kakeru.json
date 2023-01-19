@@ -1103,6 +1103,34 @@
             "start": 10845,
             "end": 10848
           }
+        },
+        {
+          "filename": "拿著這麼多錢好可怕.webm",
+          "text": {
+            "zh-tw": "拿著這麼多錢好可怕！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "6AyRvZ4kKW0",
+            "start": 4761,
+            "end": 4767.2
+          }
+        },
+        {
+          "filename": "啊啊錢好可怕好可怕喔.webm",
+          "text": {
+            "zh-tw": "啊！啊！錢好可怕，好可怕喔！",
+            "ja": "ああ！お金は怖い、怖いよ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "6AyRvZ4kKW0",
+            "start": 4813.2,
+            "end": 4820.5
+          }
         }
       ]
     },
@@ -1619,6 +1647,20 @@
             "videoId": "Zn-9ZPyGrec",
             "start": 10604,
             "end": 10607
+          }
+        },
+        {
+          "filename": "錢多到大叫.webm",
+          "text": {
+            "zh-tw": "(錢多到大叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "6AyRvZ4kKW0",
+            "start": 4892,
+            "end": 4894
           }
         }
       ]

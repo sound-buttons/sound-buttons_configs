@@ -672,6 +672,20 @@
             "start": 17801,
             "end": 17804
           }
+        },
+        {
+          "filename": "幹嘛啦.webm",
+          "text": {
+            "zh-tw": "幹嘛啦♡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5TwPayt-MJE",
+            "start": 34479,
+            "end": 34481
+          }
         }
       ]
     },
@@ -1142,6 +1156,34 @@
             "videoId": "_6NgHGspJc4",
             "start": 10905,
             "end": 10911
+          }
+        },
+        {
+          "filename": "哩洗咧笑三小.webm",
+          "text": {
+            "zh-tw": "哩洗咧笑三小",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2YV3Z22ckiE",
+            "start": 1489,
+            "end": 1493
+          }
+        },
+        {
+          "filename": "ㄉㄧㄚㄉㄧㄚㄉㄧㄚ.webm",
+          "text": {
+            "zh-tw": "ㄉㄧㄚ·ㄉㄧㄚ·ㄉㄧㄚ·",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Q3WGNTlJ3qM",
+            "start": 5532,
+            "end": 5536
           }
         }
       ]

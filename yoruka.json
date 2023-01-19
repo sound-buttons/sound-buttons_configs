@@ -2506,6 +2506,48 @@
             "start": 4835,
             "end": 4838
           }
+        },
+        {
+          "filename": "少囉嗦啦什麼營業聲線操你媽.webm",
+          "text": {
+            "zh-tw": "少囉嗦啦什麼營業聲線，操你媽",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "anhyCQedNhs",
+            "start": 3718,
+            "end": 3720.5
+          }
+        },
+        {
+          "filename": "我還以為你在跟飛天螳螂說話哈哈哈才不是勒.webm",
+          "text": {
+            "zh-tw": "(我還以為你在跟飛天螳螂說話) 哈哈哈，才不是勒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "msDJYjogrqc",
+            "start": 1985,
+            "end": 1990
+          }
+        },
+        {
+          "filename": "我覺得我已經沒有以前那麼瘋了耶你知道嗎.webm",
+          "text": {
+            "zh-tw": "我覺得我已經沒有以前那麼瘋了耶你知道嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "p1n9oS2VemY",
+            "start": 4823.373,
+            "end": 4828.714
+          }
         }
       ]
     },
@@ -3092,6 +3134,34 @@
             "videoId": "wJL5NI7kkbQ",
             "start": 10000,
             "end": 10002.5
+          }
+        },
+        {
+          "filename": "尖叫他在破壞女廁門怎麼辦怎麼辦.webm",
+          "text": {
+            "zh-tw": "(尖叫) 他在破壞女廁門！怎麼辦！怎麼辦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wJL5NI7kkbQ",
+            "start": 10210,
+            "end": 10217
+          }
+        },
+        {
+          "filename": "尖叫啊怎麼辦.webm",
+          "text": {
+            "zh-tw": "(尖叫) 啊！怎麼辦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wJL5NI7kkbQ",
+            "start": 10221.5,
+            "end": 10224.5
           }
         }
       ]

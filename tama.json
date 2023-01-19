@@ -1791,6 +1791,76 @@
             "start": 14364,
             "end": 14398.2
           }
+        },
+        {
+          "filename": "Darling.webm",
+          "text": {
+            "zh-tw": "Darling~",
+            "ja": "Darling~"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "myuAQn8597s",
+            "start": 2115,
+            "end": 2116
+          }
+        },
+        {
+          "filename": "Minecraft的村民.webm",
+          "text": {
+            "zh-tw": "Minecraft的村民",
+            "ja": "Minecraftの村人"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vdtlkmrWnDE",
+            "start": 8692,
+            "end": 8703
+          }
+        },
+        {
+          "filename": "好奇猴喬治.webm",
+          "text": {
+            "zh-tw": "好奇猴喬治",
+            "ja": "おさるのジョージ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vdtlkmrWnDE",
+            "start": 8748,
+            "end": 8756
+          }
+        },
+        {
+          "filename": "模仿IROA.webm",
+          "text": {
+            "zh-tw": "模仿IROA",
+            "ja": "IROAをまねる"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vdtlkmrWnDE",
+            "start": 8828,
+            "end": 8837
+          }
+        },
+        {
+          "filename": "生草的姊姊吵死了吵死了喔回音.webm",
+          "text": {
+            "zh-tw": "(生草的姊姊) 吵死了，吵死了喔 (回音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vdtlkmrWnDE",
+            "start": 8873,
+            "end": 8879.5
+          }
         }
       ]
     },
@@ -1904,6 +1974,20 @@
             "videoId": "QsbbnUD8OQE",
             "start": 11282,
             "end": 11312
+          }
+        },
+        {
+          "filename": "UnlimitedBladeWorks.webm",
+          "text": {
+            "zh-tw": "Unlimited Blade Works!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "myuAQn8597s",
+            "start": 10871,
+            "end": 10918
           }
         }
       ]
