@@ -222,6 +222,20 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "filename": "我很可愛謝謝請給我錢拜託.webm",
+          "text": {
+            "zh-tw": "我很可愛~謝謝，請給我錢，拜託",
+            "ja": "しと可愛,謝謝,お金をください"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "OkLJy-QE2Wo",
+            "start": 5445,
+            "end": 5454
+          }
         }
       ]
     },
@@ -777,6 +791,48 @@
             "start": 1648,
             "end": 1650.5
           }
+        },
+        {
+          "filename": "本斥但大哭了.webm",
+          "text": {
+            "zh-tw": "本斥但大(哭了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GJUUJ_StzwE",
+            "start": 2683,
+            "end": 2688
+          }
+        },
+        {
+          "filename": "靠么.webm",
+          "text": {
+            "zh-tw": "靠么",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GJUUJ_StzwE",
+            "start": 2423,
+            "end": 2425
+          }
+        },
+        {
+          "filename": "醒.webm",
+          "text": {
+            "zh-tw": "醒!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "qaabnhG5RA8",
+            "start": 3162,
+            "end": 3165
+          }
         }
       ]
     },
@@ -1131,6 +1187,20 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "filename": "必殺技彗星炒飯.webm",
+          "text": {
+            "zh-tw": "必殺技彗星炒飯",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "mI9WFh3yx5s",
+            "start": 1801,
+            "end": 1806
+          }
         }
       ]
     },
@@ -1167,6 +1237,57 @@
             "videoId": "mI9WFh3yx5s",
             "start": 0,
             "end": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "炒飯妹妹",
+        "ja": "炒飯妹妹"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
+      "buttons": [
+        {
+          "filename": "結婚不可能的.webm",
+          "text": {
+            "zh-tw": "結婚不可能的",
+            "ja": "結婚ありえない無理"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "FYXjGaK665U",
+            "start": 2413,
+            "end": 2416.7
+          }
+        },
+        {
+          "filename": "哼原來如此阿怕.webm",
+          "text": {
+            "zh-tw": "哼~原來如此阿(怕)",
+            "ja": "ん～なるほどね(怖)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "HI6eyvr1O5Q",
+            "start": 1367,
+            "end": 1373
+          }
+        },
+        {
+          "filename": "壓力馬斯內.webm",
+          "text": {
+            "zh-tw": "壓力馬斯內",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 4
           }
         }
       ]
