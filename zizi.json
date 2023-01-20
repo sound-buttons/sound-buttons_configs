@@ -90,6 +90,20 @@
             "start": 8005,
             "end": 8021
           }
+        },
+        {
+          "filename": "讓我來照顧你.webm",
+          "text": {
+            "zh-tw": "讓我來照顧你",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
