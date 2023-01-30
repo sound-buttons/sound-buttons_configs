@@ -1861,6 +1861,20 @@
             "start": 8873,
             "end": 8879.5
           }
+        },
+        {
+          "filename": "我是17歲的高中生久遠たま請多指教.webm",
+          "text": {
+            "zh-tw": "我是17歲的高中生久遠たま，請多指教！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "I_ixDjWdxg0",
+            "start": 4286,
+            "end": 4290
+          }
         }
       ]
     },
@@ -3638,6 +3652,20 @@
             "videoId": "7RLBkJEaQOY",
             "start": 3520.5,
             "end": 3530
+          }
+        },
+        {
+          "filename": "恭喜恭喜.webm",
+          "text": {
+            "zh-tw": "恭喜恭喜",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Z9_MeGztqBQ",
+            "start": 749.3,
+            "end": 836
           }
         }
       ]

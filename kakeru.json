@@ -1131,6 +1131,34 @@
             "start": 4813.2,
             "end": 4820.5
           }
+        },
+        {
+          "filename": "嘟嘟嘟嘟嘟.webm",
+          "text": {
+            "zh-tw": "嘟嘟嘟、嘟嘟~",
+            "ja": "ドゥドゥドゥ、ドゥドゥ—"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "w3YfvowHL7E",
+            "start": 2756,
+            "end": 2776
+          }
+        },
+        {
+          "filename": "打噴嚏.webm",
+          "text": {
+            "zh-tw": "打噴嚏",
+            "ja": "​くしゃみ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "w3YfvowHL7E",
+            "start": 3567,
+            "end": 3570
+          }
         }
       ]
     },

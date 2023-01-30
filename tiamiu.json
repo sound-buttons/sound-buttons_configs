@@ -686,6 +686,76 @@
             "start": 34479,
             "end": 34481
           }
+        },
+        {
+          "filename": "新年快樂.webm",
+          "text": {
+            "zh-tw": "新年快樂",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "FSs90C3Hm8U",
+            "start": 640,
+            "end": 643
+          }
+        },
+        {
+          "filename": "咪嗚搖.webm",
+          "text": {
+            "zh-tw": "咪嗚搖",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "VPQIA9iUCIc",
+            "start": 9799,
+            "end": 9802
+          }
+        },
+        {
+          "filename": "你在衝三小啊咪啵咪啵.webm",
+          "text": {
+            "zh-tw": "你在衝三小啊咪啵，咪啵~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yKOLV9e5-nM",
+            "start": 8800,
+            "end": 8804
+          }
+        },
+        {
+          "filename": "我進來啦我又出去啦打我啊笨蛋.webm",
+          "text": {
+            "zh-tw": "我進來啦！我又出去啦！打我啊笨蛋~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_549gDbbpSQ",
+            "start": 5293,
+            "end": 5298
+          }
+        },
+        {
+          "filename": "ごめんなさい餒叭噗.webm",
+          "text": {
+            "zh-tw": "ごめんなさい餒~叭噗",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_549gDbbpSQ",
+            "start": 5536,
+            "end": 5539
+          }
         }
       ]
     },
@@ -1184,6 +1254,20 @@
             "videoId": "Q3WGNTlJ3qM",
             "start": 5532,
             "end": 5536
+          }
+        },
+        {
+          "filename": "不明.webm",
+          "text": {
+            "zh-tw": "不明",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "PWUGN7No0TA",
+            "start": 9149,
+            "end": 9151
           }
         }
       ]

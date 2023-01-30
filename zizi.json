@@ -1232,6 +1232,43 @@
           }
         }
       ]
+    },
+    {
+      "name": {
+        "zh-tw": "新年祝福",
+        "ja": "新年祝福"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/zizi/",
+      "buttons": [
+        {
+          "filename": "錢財滾滾來大聲.webm",
+          "text": {
+            "zh-tw": "錢財滾滾來(大聲",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZdIpGXy8qG8",
+            "start": 7557,
+            "end": 7562
+          }
+        },
+        {
+          "filename": "錢財滾滾來噹.webm",
+          "text": {
+            "zh-tw": "錢財滾滾來(噹~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZdIpGXy8qG8",
+            "start": 7834.6,
+            "end": 7840.6
+          }
+        }
+      ]
     }
   ]
 }
