@@ -19,30 +19,39 @@
     "discord": "https://discord.gg/qBDFTmFUK9",
     "other": "https://profcard.info/u/9LXtyNtmbnajND9qSaaPsKUVQy43"
   },
-  "introButton": null,
-  "buttonGroups": [
-    {
-      "name": {
-        "zh-tw": "四条ユリ\uD83C\uDF19",
-        "ja": "四条ユリ\uD83C\uDF19"
-      },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
-      "buttons": [
-        {
-          "filename": "自我介紹.webm",
-          "text": {
-            "zh-tw": "自我介紹",
-            "ja": "自己紹介"
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "r5XLeYXLeM0",
-            "start": 229,
-            "end": 240
-          }
-        }
-      ]
+  "introButton": {
+    "filename": "自我介紹.webm",
+    "text": {
+      "zh-tw": "自我介紹",
+      "ja": "自己紹介"
+    },
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
+    "volume": 1,
+    "source": {
+      "videoId": "r5XLeYXLeM0",
+      "start": 229,
+      "end": 240
     }
-  ]
+  },
+  "buttonGroups": [{
+    "name": {
+      "zh-tw": "四条ユリ\uD83C\uDF19",
+      "ja": "四条ユリ\uD83C\uDF19"
+    },
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
+    "buttons": [{
+      "filename": "自我介紹.webm",
+      "text": {
+        "zh-tw": "自我介紹",
+        "ja": "自己紹介"
+      },
+      "baseRoute": null,
+      "volume": 1,
+      "source": {
+        "videoId": "r5XLeYXLeM0",
+        "start": 229,
+        "end": 240
+      }
+    }]
+  }]
 }
