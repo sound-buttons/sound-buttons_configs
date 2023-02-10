@@ -155,7 +155,8 @@
     "fullConfigURL": "assets/configs/yuri.json",
     "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.json",
     "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.png"
+      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri2.png"
     ],
     "color": {
       "primary": "#3B428A",

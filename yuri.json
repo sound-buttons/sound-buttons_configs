@@ -3,9 +3,10 @@
   "fullName": "四条ユリ",
   "fullConfigURL": "assets/configs/yuri.json",
   "imgSrc": [
-    "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.png"
+    "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.png",
+    "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri2.png"
   ],
-  "intro": "クリスタルボイスで歌っています、四条ユリです‼\n\n2020年5月4日、オリジナル曲『ハレイロ・スキップ』をデビューと同時にリリースしました‼\n名古屋県在住20才社畜。料理が得意な彼女と暮らしています💛\n深夜（０時～1時スタート）歌枠を中心に活動中、バラードが得意。\n好きなアーティストはKalafina、sound horizon、Aimer、田村ゆかり\n田舎に憧れがあり、夢は田舎に家を建てて引きこもって暮らすこと。",
+  "intro": "クリスタルボイスで歌っています、四条ユリです‼\n\n2020年5月4日、オリジナル曲『ハレイロ・スキップ』をデビューと同時にリリースしました‼\n名古屋県在住20才社畜。料理が得意な彼女と暮らしています\uD83D\uDC9B\n深夜（０時～1時スタート）歌枠を中心に活動中、バラードが得意。\n好きなアーティストはKalafina、sound horizon、Aimer、田村ゆかり\n田舎に憧れがあり、夢は田舎に家を建てて引きこもって暮らすこと。",
   "color": {
     "primary": "#3B428A",
     "secondary": "#FEB1C2"
@@ -20,5 +21,28 @@
   },
   "introButton": null,
   "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "四条ユリ\uD83C\uDF19",
+        "ja": "四条ユリ\uD83C\uDF19"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
+      "buttons": [
+        {
+          "filename": "自我介紹.webm",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "r5XLeYXLeM0",
+            "start": 229,
+            "end": 240
+          }
+        }
+      ]
+    }
   ]
 }
