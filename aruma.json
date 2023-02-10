@@ -3184,6 +3184,34 @@
             "start": 1922,
             "end": 1926.1
           }
+        },
+        {
+          "filename": "音樂誰說老的會不會講話啊復古好不好害我忘記要唱第二段了啦誰害的給我負責哼.webm",
+          "text": {
+            "zh-tw": "(音樂) 誰說老的，會不會講話啊！復古好不好！害我忘記要唱第二段了啦，誰害的，給我負責！哼！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "kSf11E66xYE",
+            "start": 1257,
+            "end": 1274
+          }
+        },
+        {
+          "filename": "誒我覺得我很有哏啊我自己想的耶哈哈自己講自己有哏.webm",
+          "text": {
+            "zh-tw": "誒我覺得我很有哏啊，我自己想的耶 (哈哈) 自己講自己有哏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "oc6iX8RCjiY",
+            "start": 1589,
+            "end": 1593
+          }
         }
       ]
     },

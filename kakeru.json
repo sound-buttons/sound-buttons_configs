@@ -1159,6 +1159,20 @@
             "start": 3567,
             "end": 3570
           }
+        },
+        {
+          "filename": "Goodevening你好你好中文.webm",
+          "text": {
+            "zh-tw": "Good evening! 你好，你好~ (中文)",
+            "ja": "Good evening! 你好，你好~ (中国語)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DhaRtBXJdys",
+            "start": 3257,
+            "end": 3262
+          }
         }
       ]
     },
@@ -1265,6 +1279,20 @@
             "videoId": "XLQG1YeSTpQ",
             "start": 6393,
             "end": 6426
+          }
+        },
+        {
+          "filename": "唱自己的BGM.webm",
+          "text": {
+            "zh-tw": "唱自己的BGM",
+            "ja": "自分のBGMを歌う"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DhaRtBXJdys",
+            "start": 2949,
+            "end": 2969
           }
         }
       ]

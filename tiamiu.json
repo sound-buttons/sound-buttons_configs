@@ -756,6 +756,20 @@
             "start": 5536,
             "end": 5539
           }
+        },
+        {
+          "filename": "能重來那就好了.webm",
+          "text": {
+            "zh-tw": "能重來那就好了\uD83D\uDE22",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "A51eHf-JFa8",
+            "start": 6743,
+            "end": 6747
+          }
         }
       ]
     },
