@@ -96,6 +96,122 @@
             "start": 604,
             "end": 606
           }
+        },
+        {
+          "filename": "群青もう今はあの日のXXXXXXX.webm",
+          "text": {
+            "zh-tw": "(群青) もう、今は、あの日、のXXXXXXX",
+            "ja": "(群青) もう、今は、あの日、のXXXXXXX"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9z9lemR23HQ",
+            "start": 3547,
+            "end": 3555
+          }
+        },
+        {
+          "filename": "謝謝茄子.webm",
+          "text": {
+            "zh-tw": "謝謝茄子",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Wt7ZwTkiLgk",
+            "start": 1461.195,
+            "end": 1467.497
+          }
+        },
+        {
+          "filename": "konwife啾啾啾.webm",
+          "text": {
+            "zh-tw": "konwife啾啾啾",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Wt7ZwTkiLgk",
+            "start": 1846.371,
+            "end": 1851.399
+          }
+        },
+        {
+          "filename": "Helloこんばユリ.webm",
+          "text": {
+            "zh-tw": "Hello~こんばユリ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QQtw8VFe9PU",
+            "start": 115.352,
+            "end": 130.678
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "中国語本当上手\uD83C\uDF19",
+        "ja": "中国語本当上手\uD83C\uDF19"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
+      "buttons": [
+        {
+          "filename": "謝謝水水水.webm",
+          "text": {
+            "zh-tw": "謝謝水~ 水? 水",
+            "ja": "(中国語) 水ありがとう〜 水? 水"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9z9lemR23HQ",
+            "start": 1749,
+            "end": 1753
+          }
+        },
+        {
+          "filename": "我是可愛的日本女人.webm",
+          "text": {
+            "zh-tw": "我是可愛的日本女人",
+            "ja": "(中国語) 私はかわいい日本人女性です"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Wt7ZwTkiLgk",
+            "start": 1386,
+            "end": 1398.099
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "悲鳴 (注意音量) \uD83C\uDF19",
+        "ja": "悲鳴 (音量注意) \uD83C\uDF19"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
+      "buttons": [
+        {
+          "filename": "尖叫啊啊死掉了.webm",
+          "text": {
+            "zh-tw": "(尖叫) 啊啊~死掉了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "zXd2maJP_hE",
+            "start": 8150,
+            "end": 8155
+          }
         }
       ]
     }
