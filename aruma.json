@@ -557,6 +557,62 @@
             "start": 1057,
             "end": 1066
           }
+        },
+        {
+          "filename": "哈哈嚯嚯和和老師老師.webm",
+          "text": {
+            "zh-tw": "(哈哈嚯嚯和和) 老師老師！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xQAhyt-dHI",
+            "start": 1959,
+            "end": 1965
+          }
+        },
+        {
+          "filename": "Whyyoulaughatme.webm",
+          "text": {
+            "zh-tw": "Why you laugh at me?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xQAhyt-dHI",
+            "start": 4561.271,
+            "end": 4579.854
+          }
+        },
+        {
+          "filename": "AreyougoingtotalkingwithmeOrcanI咻咻you.webm",
+          "text": {
+            "zh-tw": "Are you going to talking with me? Or... can I 咻咻 you?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xQAhyt-dHI",
+            "start": 4588,
+            "end": 4595
+          }
+        },
+        {
+          "filename": "好過份好過份再一次.webm",
+          "text": {
+            "zh-tw": "好過份！好過份！再一次！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xQAhyt-dHI",
+            "start": 7478,
+            "end": 7485
+          }
         }
       ]
     },
@@ -3211,6 +3267,20 @@
             "videoId": "oc6iX8RCjiY",
             "start": 1589,
             "end": 1593
+          }
+        },
+        {
+          "filename": "不知道反正先打就對了.webm",
+          "text": {
+            "zh-tw": "不知道，反正先打就對了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xQAhyt-dHI",
+            "start": 2029.5,
+            "end": 2031
           }
         }
       ]

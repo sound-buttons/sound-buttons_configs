@@ -33,25 +33,71 @@
       "end": 240
     }
   },
-  "buttonGroups": [{
-    "name": {
-      "zh-tw": "四条ユリ\uD83C\uDF19",
-      "ja": "四条ユリ\uD83C\uDF19"
-    },
-    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
-    "buttons": [{
-      "filename": "自我介紹.webm",
-      "text": {
-        "zh-tw": "自我介紹",
-        "ja": "自己紹介"
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "四条ユリ\uD83C\uDF19",
+        "ja": "四条ユリ\uD83C\uDF19"
       },
-      "baseRoute": null,
-      "volume": 1,
-      "source": {
-        "videoId": "r5XLeYXLeM0",
-        "start": 229,
-        "end": 240
-      }
-    }]
-  }]
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
+      "buttons": [
+        {
+          "filename": "自我介紹.webm",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "r5XLeYXLeM0",
+            "start": 229,
+            "end": 240
+          }
+        },
+        {
+          "filename": "merrychristmas.webm",
+          "text": {
+            "zh-tw": "merry christmas",
+            "ja": "merry christmas"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Wt7ZwTkiLgk",
+            "start": 189,
+            "end": 194
+          }
+        },
+        {
+          "filename": "乾杯.webm",
+          "text": {
+            "zh-tw": "乾杯",
+            "ja": "乾杯"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Wt7ZwTkiLgk",
+            "start": 294.016,
+            "end": 301.299
+          }
+        },
+        {
+          "filename": "完全搞不懂.webm",
+          "text": {
+            "zh-tw": "完全搞不懂",
+            "ja": "全然わかりません"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "H0k0kcGj8UQ",
+            "start": 604,
+            "end": 606
+          }
+        }
+      ]
+    }
+  ]
 }
