@@ -1875,6 +1875,48 @@
             "start": 4286,
             "end": 4290
           }
+        },
+        {
+          "filename": "我是草我是草.webm",
+          "text": {
+            "zh-tw": "我是草! 我是草",
+            "ja": "私は草です! 私は草"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DpS_qCFqK_g",
+            "start": 3487,
+            "end": 3490.2
+          }
+        },
+        {
+          "filename": "再更快一點.webm",
+          "text": {
+            "zh-tw": "再更快一點",
+            "ja": "もっと早く"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DpS_qCFqK_g",
+            "start": 3957,
+            "end": 3958.3
+          }
+        },
+        {
+          "filename": "哼.webm",
+          "text": {
+            "zh-tw": "哼~?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "DpS_qCFqK_g",
+            "start": 4259,
+            "end": 4260.8
+          }
         }
       ]
     },
