@@ -770,6 +770,34 @@
             "start": 6743,
             "end": 6747
           }
+        },
+        {
+          "filename": "大家評評理這個企鵝.webm",
+          "text": {
+            "zh-tw": "大家評評理這個企鵝……",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9QRxf1Duos4",
+            "start": 7124,
+            "end": 7132
+          }
+        },
+        {
+          "filename": "你想要體驗有雞雞的感覺.webm",
+          "text": {
+            "zh-tw": "你想要體驗有雞雞的感覺",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "jDTAoLfOFF4",
+            "start": 2989,
+            "end": 2991
+          }
         }
       ]
     },
