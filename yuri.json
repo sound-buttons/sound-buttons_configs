@@ -194,6 +194,48 @@
             "start": 15777,
             "end": 15790
           }
+        },
+        {
+          "filename": "littlelittlelittle.webm",
+          "text": {
+            "zh-tw": "little...little little",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZE46sgAbVuc",
+            "start": 11870,
+            "end": 11874
+          }
+        },
+        {
+          "filename": "嘿嘿嘿.webm",
+          "text": {
+            "zh-tw": "嘿嘿嘿",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZE46sgAbVuc",
+            "start": 14468,
+            "end": 14470
+          }
+        },
+        {
+          "filename": "請看這個亮晶晶的樣子.webm",
+          "text": {
+            "zh-tw": "請看，這個亮晶晶的樣子！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZE46sgAbVuc",
+            "start": 14473,
+            "end": 14477
+          }
         }
       ]
     },
@@ -231,6 +273,20 @@
             "start": 1386,
             "end": 1398.099
           }
+        },
+        {
+          "filename": "來人啊.webm",
+          "text": {
+            "zh-tw": "來人啊",
+            "ja": "(中国語) 誰かここに来て"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZE46sgAbVuc",
+            "start": 11867,
+            "end": 11870
+          }
         }
       ]
     },
@@ -253,6 +309,29 @@
             "videoId": "zXd2maJP_hE",
             "start": 8150,
             "end": 8155
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "隨便唱歌",
+        "ja": "隨便唱歌"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
+      "buttons": [
+        {
+          "filename": "d1df902ddde54303848c8eb5e5281e2a.webm",
+          "text": {
+            "zh-tw": "????",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZE46sgAbVuc",
+            "start": 4681,
+            "end": 4709
           }
         }
       ]

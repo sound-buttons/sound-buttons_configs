@@ -107,6 +107,20 @@
     }
   },
   {
+    "name": "yuri",
+    "fullName": "四条ユリ",
+    "fullConfigURL": "assets/configs/yuri.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri2.png"
+    ],
+    "color": {
+      "primary": "#3B428A",
+      "secondary": "#FEB1C2"
+    }
+  },
+  {
     "name": "hachi",
     "fullName": "HACHI",
     "fullConfigURL": "assets/configs/hachi.json",
@@ -147,20 +161,6 @@
     "color": {
       "primary": "#FABF20",
       "secondary": "#FFE5A1"
-    }
-  },
-  {
-    "name": "yuri",
-    "fullName": "四条ユリ",
-    "fullConfigURL": "assets/configs/yuri.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri2.png"
-    ],
-    "color": {
-      "primary": "#3B428A",
-      "secondary": "#FEB1C2"
     }
   }
 ]

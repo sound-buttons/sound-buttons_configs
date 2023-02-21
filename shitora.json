@@ -889,6 +889,20 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "filename": "我愛你.webm",
+          "text": {
+            "zh-tw": "我愛你",
+            "ja": "愛して"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "P0I3tH81Wlg",
+            "start": 5787.8,
+            "end": 5789.2
+          }
         }
       ]
     },

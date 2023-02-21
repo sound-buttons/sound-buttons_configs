@@ -1917,6 +1917,34 @@
             "start": 4259,
             "end": 4260.8
           }
+        },
+        {
+          "filename": "大家早安我是たま大姊姊今天來和たま大姊姊一起唱唱跳跳吧.webm",
+          "text": {
+            "zh-tw": "大家早安，我是たま大姊姊！今天來和たま大姊姊一起唱唱跳跳吧！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "JRWnXrPRs8s",
+            "start": 2399,
+            "end": 2410
+          }
+        },
+        {
+          "filename": "ザワールド.webm",
+          "text": {
+            "zh-tw": "ザ・ワールド！",
+            "ja": "ザ・ワールド！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "JRWnXrPRs8s",
+            "start": 3419,
+            "end": 3421
+          }
         }
       ]
     },
@@ -3708,6 +3736,20 @@
             "videoId": "Z9_MeGztqBQ",
             "start": 749.3,
             "end": 836
+          }
+        },
+        {
+          "filename": "生草ABC.webm",
+          "text": {
+            "zh-tw": "(生草ABC)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "JRWnXrPRs8s",
+            "start": 2598.532,
+            "end": 2618.744
           }
         }
       ]
