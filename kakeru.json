@@ -1173,6 +1173,48 @@
             "start": 3257,
             "end": 3262
           }
+        },
+        {
+          "filename": "請幫我按讚.webm",
+          "text": {
+            "zh-tw": "請幫我按讚！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "28Yp1XQ6vXI",
+            "start": 3909,
+            "end": 3913
+          }
+        },
+        {
+          "filename": "各位晚安我是間取かける.webm",
+          "text": {
+            "zh-tw": "各位晚安！我是間取かける！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "28Yp1XQ6vXI",
+            "start": 3917,
+            "end": 3922
+          }
+        },
+        {
+          "filename": "我是間取かける.webm",
+          "text": {
+            "zh-tw": "我是間取かける！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "28Yp1XQ6vXI",
+            "start": 3941,
+            "end": 3944
+          }
         }
       ]
     },
@@ -1456,6 +1498,20 @@
             "videoId": "QWX99jP_-N4",
             "start": 3169,
             "end": 3171
+          }
+        },
+        {
+          "filename": "很隨便的特大感謝特大感謝.webm",
+          "text": {
+            "zh-tw": "(很隨便的) 特大感謝、特大感謝~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "28Yp1XQ6vXI",
+            "start": 3954,
+            "end": 3958
           }
         }
       ]

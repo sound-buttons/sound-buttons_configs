@@ -903,6 +903,20 @@
             "start": 5787.8,
             "end": 5789.2
           }
+        },
+        {
+          "filename": "這個直接電死.webm",
+          "text": {
+            "zh-tw": "這個直接電死",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "P0I3tH81Wlg",
+            "start": 7505,
+            "end": 7507
+          }
         }
       ]
     },

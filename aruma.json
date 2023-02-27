@@ -3282,6 +3282,48 @@
             "start": 2029.5,
             "end": 2031
           }
+        },
+        {
+          "filename": "沒錢的話你住哪裡都很苦啦說真的.webm",
+          "text": {
+            "zh-tw": "沒錢的話你住哪裡都很苦啦，說真的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "b7ma55npi3Y",
+            "start": 402.5,
+            "end": 406
+          }
+        },
+        {
+          "filename": "731聽起來好慘喔哈哈.webm",
+          "text": {
+            "zh-tw": "731，聽起來好慘喔 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "b7ma55npi3Y",
+            "start": 553.2,
+            "end": 556
+          }
+        },
+        {
+          "filename": "被雷劈到神精病自以為.webm",
+          "text": {
+            "zh-tw": "被雷劈到、神經病、自以為",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "b7ma55npi3Y",
+            "start": 2098.2,
+            "end": 2101.8
+          }
         }
       ]
     },

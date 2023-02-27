@@ -1945,6 +1945,34 @@
             "start": 3419,
             "end": 3421
           }
+        },
+        {
+          "filename": "你是誰黑久遠.webm",
+          "text": {
+            "zh-tw": "(你是誰?) 黑久遠！",
+            "ja": "(あなたは誰?) ブラック久遠！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "zZP9TCul46g",
+            "start": 1441.2,
+            "end": 1443.8
+          }
+        },
+        {
+          "filename": "たま沒有朋友嗎呃沒有這回事完全完全沒有這回事.webm",
+          "text": {
+            "zh-tw": "(たま沒有朋友嗎) ...呃，沒有這回事...完全...完全沒有這回事",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "4gttBXUQdYE",
+            "start": 4310,
+            "end": 4317
+          }
         }
       ]
     },

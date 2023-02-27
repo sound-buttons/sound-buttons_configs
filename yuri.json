@@ -236,6 +236,118 @@
             "start": 14473,
             "end": 14477
           }
+        },
+        {
+          "filename": "TSKR.webm",
+          "text": {
+            "zh-tw": "TSKR",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UqZwfkf0_N8",
+            "start": 5754,
+            "end": 5762
+          }
+        },
+        {
+          "filename": "ImnotanativeEnglishspeakerImnot.webm",
+          "text": {
+            "zh-tw": "I'm not a native English speaker. I'm not!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UqZwfkf0_N8",
+            "start": 8060,
+            "end": 8068
+          }
+        },
+        {
+          "filename": "IcanunderstandlittleEnglishだからね.webm",
+          "text": {
+            "zh-tw": "I can... understand little Englishだからね",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UqZwfkf0_N8",
+            "start": 8094,
+            "end": 8100
+          }
+        },
+        {
+          "filename": "YuriisenglishteacherNonono.webm",
+          "text": {
+            "zh-tw": "(​Yuri is english teacher.) No, no no!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UqZwfkf0_N8",
+            "start": 8126,
+            "end": 8131
+          }
+        },
+        {
+          "filename": "希望大家多按高評價按鈕希望能按一下.webm",
+          "text": {
+            "zh-tw": "希望大家多按高評價按鈕～希望能按一下～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UqZwfkf0_N8",
+            "start": 7507,
+            "end": 7513
+          }
+        },
+        {
+          "filename": "びりびりびりびり.webm",
+          "text": {
+            "zh-tw": "​びりびり​びりびり",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UqZwfkf0_N8",
+            "start": 7834,
+            "end": 7840
+          }
+        },
+        {
+          "filename": "OhmygodHolyshit.webm",
+          "text": {
+            "zh-tw": "Oh my god! Holy shit!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UqZwfkf0_N8",
+            "start": 8152.1,
+            "end": 8157
+          }
+        },
+        {
+          "filename": "最近真的超喜歡奶子.webm",
+          "text": {
+            "zh-tw": "最近真的超喜歡奶子",
+            "ja": "最近マジでおっぱいが好き"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "-0Pg4N0tDUE",
+            "start": 4676,
+            "end": 4679
+          }
         }
       ]
     },
@@ -286,6 +398,20 @@
             "videoId": "ZE46sgAbVuc",
             "start": 11867,
             "end": 11870
+          }
+        },
+        {
+          "filename": "想去日本我想去台灣.webm",
+          "text": {
+            "zh-tw": "想去日本?我想去台灣~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UqZwfkf0_N8",
+            "start": 4052.5,
+            "end": 4063
           }
         }
       ]
