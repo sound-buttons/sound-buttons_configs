@@ -348,6 +348,20 @@
             "start": 4676,
             "end": 4679
           }
+        },
+        {
+          "filename": "咀嚼音.webm",
+          "text": {
+            "zh-tw": "(咀嚼音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "xnTq4MiVL4E",
+            "start": 1422,
+            "end": 1431
+          }
         }
       ]
     },

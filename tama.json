@@ -1973,6 +1973,48 @@
             "start": 4310,
             "end": 4317
           }
+        },
+        {
+          "filename": "老人風格的打噴嚏.webm",
+          "text": {
+            "zh-tw": "(老人風格的打噴嚏)",
+            "ja": "(​おっさん風くしゃみ)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5Njc_NKXOG4",
+            "start": 725.5,
+            "end": 730
+          }
+        },
+        {
+          "filename": "喂大家還好嗎還活著嗎我要唱歌囉可以嗎.webm",
+          "text": {
+            "zh-tw": "喂~大家還好嗎~還活著嗎~我要唱歌囉~可以嗎~?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5Njc_NKXOG4",
+            "start": 5288.4,
+            "end": 5300.5
+          }
+        },
+        {
+          "filename": "明天休息星期五星期五星期五星期五星期五的9點開始.webm",
+          "text": {
+            "zh-tw": "明天休息，星期五....星期五...星期五...星期五...星期五的...9點開始",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "5Njc_NKXOG4",
+            "start": 6239,
+            "end": 6253
+          }
         }
       ]
     },

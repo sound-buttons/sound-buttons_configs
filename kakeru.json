@@ -1215,6 +1215,34 @@
             "start": 3941,
             "end": 3944
           }
+        },
+        {
+          "filename": "被碰肩膀呀住手住手.webm",
+          "text": {
+            "zh-tw": "(被碰肩膀) 呀！住手！住手！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "moEaXRJC_vQ",
+            "start": 1514,
+            "end": 1519
+          }
+        },
+        {
+          "filename": "笑聲_638131400717494492.webm",
+          "text": {
+            "zh-tw": "(笑聲)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "moEaXRJC_vQ",
+            "start": 3132,
+            "end": 3139
+          }
         }
       ]
     },
@@ -1773,6 +1801,20 @@
             "videoId": "6AyRvZ4kKW0",
             "start": 4892,
             "end": 4894
+          }
+        },
+        {
+          "filename": "大叫糟糕可能真的糟了.webm",
+          "text": {
+            "zh-tw": "(大叫) 糟糕！可能真的糟了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "moEaXRJC_vQ",
+            "start": 4003,
+            "end": 4008
           }
         }
       ]
