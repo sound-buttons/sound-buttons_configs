@@ -1243,6 +1243,48 @@
             "start": 3132,
             "end": 3139
           }
+        },
+        {
+          "filename": "有回音的咳嗽.webm",
+          "text": {
+            "zh-tw": "(有回音的咳嗽)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "moEaXRJC_vQ",
+            "start": 6843,
+            "end": 6846
+          }
+        },
+        {
+          "filename": "咳嗽抱歉.webm",
+          "text": {
+            "zh-tw": "(咳嗽) ...抱歉",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "moEaXRJC_vQ",
+            "start": 6849,
+            "end": 6855
+          }
+        },
+        {
+          "filename": "傲嬌才沒有最喜歡你喔.webm",
+          "text": {
+            "zh-tw": "(傲嬌) 才沒有...最喜歡你喔!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "moEaXRJC_vQ",
+            "start": 8748,
+            "end": 8756
+          }
         }
       ]
     },

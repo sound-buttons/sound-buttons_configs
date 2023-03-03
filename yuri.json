@@ -362,6 +362,76 @@
             "start": 1422,
             "end": 1431
           }
+        },
+        {
+          "filename": "大小姐語調美麗平靜的聲音美麗的聲音.webm",
+          "text": {
+            "zh-tw": "(大小姐語調) 美麗平靜的聲音～美麗的聲音！",
+            "ja": "落ち着く美声ですわ～美声ですわ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gNJdbP8kmec",
+            "start": 1867.2,
+            "end": 1871.2
+          }
+        },
+        {
+          "filename": "蟬叫聲.webm",
+          "text": {
+            "zh-tw": "(蟬叫聲)",
+            "ja": "(蝉の鳴き声)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gNJdbP8kmec",
+            "start": 5806,
+            "end": 5823
+          }
+        },
+        {
+          "filename": "希望能按一下高評價按鈕.webm",
+          "text": {
+            "zh-tw": "希望能按一下高評價按鈕~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gNJdbP8kmec",
+            "start": 2342,
+            "end": 2346
+          }
+        },
+        {
+          "filename": "按了兩次請按一次1357911請按奇數次.webm",
+          "text": {
+            "zh-tw": "(按了兩次) 請按一次，13579、11，請按奇數次！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gNJdbP8kmec",
+            "start": 2386,
+            "end": 2395
+          }
+        },
+        {
+          "filename": "Pleasepushlikebuttonandsubscribemychannelpleaseです.webm",
+          "text": {
+            "zh-tw": "Please push like button, and subscribe my channel please~ です",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gNJdbP8kmec",
+            "start": 2397,
+            "end": 2404
+          }
         }
       ]
     },

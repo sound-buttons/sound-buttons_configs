@@ -917,6 +917,34 @@
             "start": 7505,
             "end": 7507
           }
+        },
+        {
+          "filename": "HI肥宅.webm",
+          "text": {
+            "zh-tw": "HI~肥宅",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "VjsM6tdxv-o",
+            "start": 3221,
+            "end": 3224
+          }
+        },
+        {
+          "filename": "打嘴砲ㄚㄚㄚㄚ阿.webm",
+          "text": {
+            "zh-tw": "打嘴砲~ㄚㄚㄚㄚ阿",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GJUUJ_StzwE",
+            "start": 2300,
+            "end": 2307
+          }
         }
       ]
     },
