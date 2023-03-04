@@ -1285,6 +1285,90 @@
             "start": 8748,
             "end": 8756
           }
+        },
+        {
+          "filename": "玩嘴巴.webm",
+          "text": {
+            "zh-tw": "(玩嘴巴)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xe6gu2T6gw",
+            "start": 3534,
+            "end": 3546
+          }
+        },
+        {
+          "filename": "謎之寶可夢叫聲.webm",
+          "text": {
+            "zh-tw": "(謎之寶可夢叫聲)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xe6gu2T6gw",
+            "start": 5276,
+            "end": 5278
+          }
+        },
+        {
+          "filename": "寶可夢姆克兒.webm",
+          "text": {
+            "zh-tw": "(寶可夢 姆克兒)",
+            "ja": "(ポケモン ムックル)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xe6gu2T6gw",
+            "start": 5291.2,
+            "end": 5292.8
+          }
+        },
+        {
+          "filename": "寶可夢波克比.webm",
+          "text": {
+            "zh-tw": "(寶可夢 波克比)",
+            "ja": "(ポケモン トゲピー)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xe6gu2T6gw",
+            "start": 5311.4,
+            "end": 5313
+          }
+        },
+        {
+          "filename": "寶可夢姆克兒n.webm",
+          "text": {
+            "zh-tw": "(寶可夢 姆克兒*n)",
+            "ja": "(ポケモン ムックル*n)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xe6gu2T6gw",
+            "start": 5377,
+            "end": 5393
+          }
+        },
+        {
+          "filename": "chuchuchu.webm",
+          "text": {
+            "zh-tw": "chu~chu~chu",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "9xe6gu2T6gw",
+            "start": 9049.166,
+            "end": 9057.324
+          }
         }
       ]
     },
