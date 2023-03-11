@@ -2015,6 +2015,34 @@
             "start": 6239,
             "end": 6253
           }
+        },
+        {
+          "filename": "回音啊不對嗎啊喔洗澡哇.webm",
+          "text": {
+            "zh-tw": "(回音) 啊~不對嗎? 啊~喔~洗澡~哇~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UTfUXwCxgYE",
+            "start": 1217.8,
+            "end": 1227.7
+          }
+        },
+        {
+          "filename": "高坂穂乃果加油.webm",
+          "text": {
+            "zh-tw": "(高坂穂乃果) 加油！",
+            "ja": "(高坂穂乃果) ファイトだよ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UTfUXwCxgYE",
+            "start": 4068.2,
+            "end": 4070
+          }
         }
       ]
     },

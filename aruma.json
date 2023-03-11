@@ -32,13 +32,15 @@
       "end": 545
     }
   },
-  "buttonGroups": [{
+  "buttonGroups": [
+    {
       "name": {
         "zh-tw": "咩Ꮚ•̀ꈊ•́Ꮚ",
         "ja": "メーᏊ•̀ꈊ•́Ꮚ"
       },
       "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "自我介紹.webm",
           "text": {
             "zh-tw": "自我介紹",
@@ -550,7 +552,8 @@
         "ja": "中国語Ꮚ•̀ꈊ•́Ꮚ"
       },
       "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "我這個人做事非常效率的艦長做事非常有效路咬到.webm",
           "text": {
             "zh-tw": "我這個人做事非常效率的，艦長做事非常有效路((咬到",
@@ -2574,7 +2577,8 @@
         "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
       },
       "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "ハハᏊꈊᏊ.webm",
           "text": {
             "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
@@ -3236,103 +3240,12 @@
     },
     {
       "name": {
-        "zh-tw": "大叫 (注意音量)",
-        "ja": "悲鳴 (音量注意)"
-      },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
-      "buttons": [{
-          "filename": "遊戲摔死.webm",
-          "text": {
-            "zh-tw": "(遊戲摔死)",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "MupE8VStlHg",
-            "start": 649,
-            "end": 651
-          }
-        },
-        {
-          "filename": "超級慘叫聲.webm",
-          "text": {
-            "zh-tw": "超級慘叫聲",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "",
-            "start": 0,
-            "end": 0
-          }
-        },
-        {
-          "filename": "慘叫對不起.webm",
-          "text": {
-            "zh-tw": "(慘叫) 對不起！",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "_LrxqHWS2VE",
-            "start": 3109.2,
-            "end": 3112
-          }
-        },
-        {
-          "filename": "遊戲輸出全靠慘叫.webm",
-          "text": {
-            "zh-tw": "(遊戲輸出全靠慘叫)",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "_LrxqHWS2VE",
-            "start": 7962,
-            "end": 7965
-          }
-        },
-        {
-          "filename": "尖叫.webm",
-          "text": {
-            "zh-tw": "尖叫",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "pIP5FH4H2Lg",
-            "start": 875,
-            "end": 887
-          }
-        },
-        {
-          "filename": "難道香港人都不穿衣服的嗎尖叫.webm",
-          "text": {
-            "zh-tw": "難道香港人都不穿衣服的嗎？(尖叫)",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "pIP5FH4H2Lg",
-            "start": 7380,
-            "end": 7384
-          }
-        }
-      ]
-    },
-    {
-      "name": {
-        "zh-tw": "派喔🥧",
+        "zh-tw": "派喔\uD83E\uDD67",
         "ja": "キツい"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "草執事們你們是變態嗎.webm",
           "text": {
             "zh-tw": "草執事們，你們是變態嗎?",
@@ -3443,7 +3356,8 @@
             "start": 7021,
             "end": 7024
           }
-        }, {
+        },
+        {
           "filename": "腦子很重要每個人都需要一個.webm",
           "text": {
             "zh-tw": "腦子很重要，每個人都需要一個！",
@@ -3456,7 +3370,8 @@
             "start": 1442,
             "end": 1446
           }
-        }, {
+        },
+        {
           "filename": "超真實罵倒.webm",
           "text": {
             "zh-tw": "(超真實罵倒..)",
@@ -3469,7 +3384,8 @@
             "start": 8783,
             "end": 8829
           }
-        }, {
+        },
+        {
           "filename": "以上純屬虛構如有雷同絕對不是巧合是蓄意的哈哈ᏊꈊᏊ.webm",
           "text": {
             "zh-tw": "以上純屬虛構，如有雷同絕對不是巧合，是蓄意的。哈哈Ꮚ•̀ꈊ•́Ꮚ",
@@ -3496,7 +3412,8 @@
             "start": 3042,
             "end": 3053
           }
-        }, {
+        },
+        {
           "filename": "幹.webm",
           "text": {
             "zh-tw": "幹",
@@ -3509,7 +3426,8 @@
             "start": 4995.5,
             "end": 4996
           }
-        }, {
+        },
+        {
           "filename": "可見平常壞事做很多嘛怎麼不先懺悔一下自己為什麼要做這麼多壞事怎麼可以怪別人去查你水錶呢是不是有點太那個啦做賊心虛是吧.webm",
           "text": {
             "zh-tw": "可見平常壞事做很多嘛，怎麼不先懺悔一下自己為什麼要做這麼多壞事，怎麼可以怪別人去查你水錶呢？是不是有點太那個啦～做賊心虛是吧！",
@@ -3522,7 +3440,8 @@
             "start": 230,
             "end": 240
           }
-        }, {
+        },
+        {
           "filename": "台語給我死吧大爆笑.webm",
           "text": {
             "zh-tw": "(台語)給我死吧！(大爆笑)",
@@ -3549,7 +3468,8 @@
             "start": 2243.904,
             "end": 2279.203
           }
-        }, {
+        },
+        {
           "filename": "不要D了5個女人之後再跟艦長說不好意思沒錢了養不起妳唉妳花了我好多錢啊少來.webm",
           "text": {
             "zh-tw": "不要D了5個女人之後再跟艦長說 「不好意思沒錢了~養不起妳~唉，妳花了我好多錢啊」 少來！",
@@ -3576,7 +3496,8 @@
             "start": 5269,
             "end": 5279.699
           }
-        }, {
+        },
+        {
           "filename": "你們是變態嗎.webm",
           "text": {
             "zh-tw": "你們是變態嗎",
@@ -3589,7 +3510,8 @@
             "start": 2995,
             "end": 2997
           }
-        }, {
+        },
+        {
           "filename": "你的腦袋有問題嗎一定是有問題啦.webm",
           "text": {
             "zh-tw": "你的腦袋有問題嗎？一定是有問題啦",
@@ -3602,7 +3524,8 @@
             "start": 735.5,
             "end": 739
           }
-        }, {
+        },
+        {
           "filename": "盤子.webm",
           "text": {
             "zh-tw": "盤子",
@@ -3629,7 +3552,8 @@
             "start": 6549,
             "end": 6550.3
           }
-        }, {
+        },
+        {
           "filename": "壞艦長就是壞笑壞.webm",
           "text": {
             "zh-tw": "壞！艦長就是壞！(笑) 壞！",
@@ -3684,7 +3608,8 @@
             "start": 8228,
             "end": 8232
           }
-        }, {
+        },
+        {
           "filename": "羊尾哈哈.webm",
           "text": {
             "zh-tw": "羊、尾 (哈哈)",
@@ -3725,7 +3650,8 @@
             "start": 4782.8,
             "end": 4785.2
           }
-        }, {
+        },
+        {
           "filename": "你們找死啊誰是婆婆啊搞清楚放尊重一點沒有結婚前都要叫小姐難怪你們靠實力單身好嗎.webm",
           "text": {
             "zh-tw": "你們找死啊，誰是婆婆啊，搞清楚放尊重一點，沒有結婚前都要叫小姐，難怪你們靠實力單身好嗎",
@@ -3780,7 +3706,8 @@
             "start": 3791.082,
             "end": 3803.147
           }
-        }, {
+        },
+        {
           "filename": "笑有把柄在我手上啊笑.webm",
           "text": {
             "zh-tw": "(笑) 有把柄在我手上啊 (笑)",
@@ -3793,7 +3720,8 @@
             "start": 4908,
             "end": 4915
           }
-        }, {
+        },
+        {
           "filename": "啪啪啪臭DD嚯嚯嚯.webm",
           "text": {
             "zh-tw": "啪啪啪！臭DD！嚯嚯嚯！",
@@ -3806,7 +3734,8 @@
             "start": 2450,
             "end": 2457
           }
-        }, {
+        },
+        {
           "filename": "你有嘗試換別家麥當勞嗎有啊我有試過別家一樣難吃哈哈更難吃.webm",
           "text": {
             "zh-tw": "(你有嘗試換別家麥當勞嗎) 有啊我有試過別家，一樣難吃！(哈哈)更難吃！",
@@ -3833,7 +3762,8 @@
             "start": 9183,
             "end": 9185
           }
-        }, {
+        },
+        {
           "filename": "通常胸部壓在地上不是應該會扁掉嗎你怎麼那麼硬啊你是塑膠奶嗎陶瓷奶.webm",
           "text": {
             "zh-tw": "通常胸部壓在地上不是應該會扁掉嗎，你怎麼那麼硬啊。你是塑膠奶嗎?陶瓷奶?",
@@ -3846,7 +3776,8 @@
             "start": 10140,
             "end": 10146.8
           }
-        }, {
+        },
+        {
           "filename": "你想要騙我這個人嗎你想太多了我這個人最不能做什麼事情就是吃虧吃虧不行而且我最討厭什麼笨蛋哈哈.webm",
           "text": {
             "zh-tw": "你想要騙我這個人嗎? 你想太多了！我這個人最不能做什麼事情，就是吃虧~吃虧不行！而且我最討厭什麼，笨蛋~ (哈哈)",
@@ -3915,7 +3846,8 @@
             "start": 0,
             "end": 0
           }
-        }, {
+        },
+        {
           "filename": "笨蛋_638050753641507804.webm",
           "text": {
             "zh-tw": "笨~蛋~",
@@ -3970,7 +3902,8 @@
             "start": 5248,
             "end": 5253
           }
-        }, {
+        },
+        {
           "filename": "台語垃圾就是要丟去垃圾筒.webm",
           "text": {
             "zh-tw": "(台語) 垃圾就是要丟去垃圾筒",
@@ -3997,7 +3930,8 @@
             "start": 5815,
             "end": 5832
           }
-        }, {
+        },
+        {
           "filename": "我看到你在Discord說今天要看的台實在太多了所以只好放棄艦長我看到了你不要裝死哈哈.webm",
           "text": {
             "zh-tw": "我看到你在Discord說「今天要看的台實在太多了，所以只好放棄艦長」我看到了！你不要裝死 (哈哈)",
@@ -4024,7 +3958,8 @@
             "start": 256,
             "end": 266
           }
-        }, {
+        },
+        {
           "filename": "音樂誰說老的會不會講話啊復古好不好害我忘記要唱第二段了啦誰害的給我負責哼.webm",
           "text": {
             "zh-tw": "(音樂) 誰說老的，會不會講話啊！復古好不好！害我忘記要唱第二段了啦，誰害的，給我負責！哼！",
@@ -4037,7 +3972,8 @@
             "start": 1257,
             "end": 1274
           }
-        }, {
+        },
+        {
           "filename": "沒錢的話你住哪裡都很苦啦說真的.webm",
           "text": {
             "zh-tw": "沒錢的話你住哪裡都很苦啦，說真的",
@@ -4092,7 +4028,8 @@
             "start": 1186,
             "end": 1190
           }
-        }, {
+        },
+        {
           "filename": "不到一年我日檢一級就考過了好不好.webm",
           "text": {
             "zh-tw": "不到一年我日檢一級就考過了好不好",
@@ -4110,11 +4047,436 @@
     },
     {
       "name": {
+        "zh-tw": "大叫 (注意音量)",
+        "ja": "悲鳴 (音量注意)"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "buttons": [
+        {
+          "filename": "遊戲摔死.webm",
+          "text": {
+            "zh-tw": "(遊戲摔死)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MupE8VStlHg",
+            "start": 649,
+            "end": 651
+          }
+        },
+        {
+          "filename": "超級慘叫聲.webm",
+          "text": {
+            "zh-tw": "超級慘叫聲",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "慘叫對不起.webm",
+          "text": {
+            "zh-tw": "(慘叫) 對不起！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_LrxqHWS2VE",
+            "start": 3109.2,
+            "end": 3112
+          }
+        },
+        {
+          "filename": "遊戲輸出全靠慘叫.webm",
+          "text": {
+            "zh-tw": "(遊戲輸出全靠慘叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "_LrxqHWS2VE",
+            "start": 7962,
+            "end": 7965
+          }
+        },
+        {
+          "filename": "尖叫.webm",
+          "text": {
+            "zh-tw": "尖叫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 875,
+            "end": 887
+          }
+        },
+        {
+          "filename": "難道香港人都不穿衣服的嗎尖叫.webm",
+          "text": {
+            "zh-tw": "難道香港人都不穿衣服的嗎？(尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "pIP5FH4H2Lg",
+            "start": 7380,
+            "end": 7384
+          }
+        },
+        {
+          "filename": "玩遊戲摔死亂叫.webm",
+          "text": {
+            "zh-tw": "(玩遊戲摔死亂叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MupE8VStlHg",
+            "start": 3078,
+            "end": 3087
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "甜蜜台詞回\uD83D\uDC99",
+        "ja": "甘々セリフ枠\uD83D\uDC99"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/aruma/",
+      "buttons": [
+        {
+          "filename": "我比任何人都還要愛著你無論何時我都會保護你所以你要一直在我身邊喔一直.webm",
+          "text": {
+            "zh-tw": "我比任何人都還要愛著你，無論何時我都會保護你，所以你要一直在我身邊喔，一直",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 2643,
+            "end": 2655
+          }
+        },
+        {
+          "filename": "你們相信命運嗎我相信你之前不對你治癒了我不對我不會翻我放棄了哈哈.webm",
+          "text": {
+            "zh-tw": "你們相信命運嗎? 我相信，你之前，不對，你治癒了我，不對，我不會翻我放棄了(哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 2748,
+            "end": 2779
+          }
+        },
+        {
+          "filename": "早安可愛果然和你交往是太好了我超喜歡你睡著的臉愛你喔親.webm",
+          "text": {
+            "zh-tw": "早安，可愛！果然和你交往是太好了，我超喜歡你睡著的臉，愛你喔 (親",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 2887,
+            "end": 2903
+          }
+        },
+        {
+          "filename": "吵死了啊你給我安靜一下我從以前就喜歡你了待在我的身邊吧你沒有拒絕的權利知道了嗎笨蛋.webm",
+          "text": {
+            "zh-tw": "吵死了啊，你給我安靜一下，我從以前就喜歡你了，待在我的身邊吧，你沒有拒絕的權利，知道了嗎? 笨蛋！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 2932.5,
+            "end": 2947
+          }
+        },
+        {
+          "filename": "如果我說我喜歡你你會覺得困擾嗎.webm",
+          "text": {
+            "zh-tw": "如果我說我喜歡你，你會覺得困擾嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 3576,
+            "end": 3583
+          }
+        },
+        {
+          "filename": "我的喜歡給了你的話你的喜歡也會交給我嗎.webm",
+          "text": {
+            "zh-tw": "我的「喜歡」給了你的話，你的「喜歡」也會交給我嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 3585,
+            "end": 3595
+          }
+        },
+        {
+          "filename": "吶喜歡你喜歡喜歡喜歡喜歡喜歡不管說幾次這個心情都不會消失該怎麼辦啦喜歡.webm",
+          "text": {
+            "zh-tw": "吶，喜歡你，喜歡喜歡喜歡喜歡喜歡，不管說幾次這個心情都不會消失，該怎麼辦啦....喜歡！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 1168,
+            "end": 1178
+          }
+        },
+        {
+          "filename": "今天作了惡夢我們可以一起睡覺覺嗎陪我睡覺吧.webm",
+          "text": {
+            "zh-tw": "今天作了惡夢，我們可以一起睡覺覺嗎? 陪我睡覺吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 1265,
+            "end": 1289
+          }
+        },
+        {
+          "filename": "不是說了最喜歡我嗎不是說要一直在一起嗎那時說的那些都是謊言嗎我永遠忘不了當時的話喔一直在一起一直喔一直.webm",
+          "text": {
+            "zh-tw": "不是說了最喜歡我嗎? 不是說要一直在一起嗎? 那時說的那些都是謊言嗎? 我永遠忘不了當時的話喔，一直在一起，一直喔...一直...",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 1621.2,
+            "end": 1636
+          }
+        },
+        {
+          "filename": "啊這是誰啊這我不知道啊已經不行了艦長配信才三十分鐘就要結束了.webm",
+          "text": {
+            "zh-tw": "啊這是誰啊，這，我不知道！啊已經不行了，艦長配信才三十分鐘就要結束了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 1864,
+            "end": 1873
+          }
+        },
+        {
+          "filename": "摸摸我的頭我想被摸摸頭因為我是乖孩子.webm",
+          "text": {
+            "zh-tw": "摸摸我的頭！我想被摸摸頭，因為我是乖孩子！我已經一個人忍耐了，但已經無法忍受了。已經有大約一年我們一直兩個人在這裡...什麼？你又要去工作了？嗯...不行！不要去工作！艦長也一起去工作！...騙你的！去工作吧！加油賺錢！我會在這裡等你的！打起精神！一起加油！",
+            "ja": "ねえねえなでなでして? ちがう!私はなでなでしてほしいの! そう、いい子だもん! 私一人じゃも我慢したもん でももう無理 一年間くらいずっと二人でおる え?また仕事行くの? うーん…やだ!仕事行かないで! 艦長も一緒に仕事行く! そんなことない!仕事行ってらっしゃい! 頑張って稼いでね!待ってますから! ファイト!頑張ろう!"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 2147,
+            "end": 2187
+          }
+        },
+        {
+          "filename": "怎麼啦這麼用力的抱緊我寂寞啦好乖最喜歡你啦.webm",
+          "text": {
+            "zh-tw": "怎麼啦? 這麼用力的抱緊我，寂寞啦? 好~乖，最喜歡你啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 1854,
+            "end": 1864.2
+          }
+        },
+        {
+          "filename": "等一下別走那麼快嘛我們慢慢走啊笨蛋當然心裡想跟你一起走啊.webm",
+          "text": {
+            "zh-tw": "等一下，別走那麼快嘛，我們慢慢走啊！笨蛋，當然心裡想跟你一起走啊....",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 1950,
+            "end": 1960.8
+          }
+        },
+        {
+          "filename": "喂幹什麼現在打電話過來是什麼意思呢那我問你那個時候如果把你的心情說清楚我們會在一起更久嗎當然是不會想太多了掰掰掛斷.webm",
+          "text": {
+            "zh-tw": "喂? 幹什麼，現在打電話過來是什麼意思呢? 那我問你，那個時候如果把你的心情說清楚，我們會在一起更久嗎? 當然是不會，想太多了，掰掰 (掛斷",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 2214,
+            "end": 2242
+          }
+        },
+        {
+          "filename": "嗯哼嘿嘿嘿嘿這樣好像變態喔.webm",
+          "text": {
+            "zh-tw": "嗯哼，嘿嘿，嘿嘿這樣好像變態喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 2310,
+            "end": 2317
+          }
+        },
+        {
+          "filename": "好像八點檔的言情劇啊我要演瓊瑤了唱歌.webm",
+          "text": {
+            "zh-tw": "好像八點檔的言情劇啊~~我要演瓊瑤了 ((唱歌",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 3641,
+            "end": 3650
+          }
+        },
+        {
+          "filename": "有心情悸動嗎.webm",
+          "text": {
+            "zh-tw": "有心情悸動嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 3223,
+            "end": 3226
+          }
+        },
+        {
+          "filename": "不管是左眼還是右眼哪一隻眼睛都可以有好好看著我嗎.webm",
+          "text": {
+            "zh-tw": "不管是左眼還是右眼，哪一隻眼睛都可以，有好好看著我嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 3231,
+            "end": 3243
+          }
+        },
+        {
+          "filename": "我聽到錢錢的聲音了.webm",
+          "text": {
+            "zh-tw": "我聽到錢錢的聲音了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 3265,
+            "end": 3268
+          }
+        },
+        {
+          "filename": "親哈哈.webm",
+          "text": {
+            "zh-tw": "(親) 哈哈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 3788,
+            "end": 3795
+          }
+        },
+        {
+          "filename": "變好吃吧萌也萌也啾.webm",
+          "text": {
+            "zh-tw": "變好吃吧~萌也萌也啾~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 5626,
+            "end": 5629
+          }
+        },
+        {
+          "filename": "如果大家跑去外遇了啊那我就只好詛咒你們變成禿頭啦哈哈.webm",
+          "text": {
+            "zh-tw": "如果大家跑去外遇了啊，那我就只好詛咒你們，變成禿頭啦！ (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "RFhWkE0dvPs",
+            "start": 5875,
+            "end": 5890
+          }
+        }
+      ]
+    },
+    {
+      "name": {
         "zh-tw": "自肥",
         "ja": "自肥"
       },
       "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
-      "buttons": [{
+      "buttons": [
+        {
           "filename": "不然琳桑你幫我剪進語音包好了我覺得我這句好帥喔再說三遍好了.webm",
           "text": {
             "zh-tw": "不然琳桑你幫我剪進語音包好了，我覺得我這句好帥喔，再說三遍好了",

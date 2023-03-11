@@ -432,6 +432,104 @@
             "start": 2397,
             "end": 2404
           }
+        },
+        {
+          "filename": "耶我是四条ユリ晚安.webm",
+          "text": {
+            "zh-tw": "耶～我是四条ユリ～晚安～",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vpMW8VNXRNI",
+            "start": 103,
+            "end": 115
+          }
+        },
+        {
+          "filename": "小學生很可愛啊.webm",
+          "text": {
+            "zh-tw": "小學生很可愛啊！",
+            "ja": "小学生はかわいいな！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vpMW8VNXRNI",
+            "start": 5912.5,
+            "end": 5915
+          }
+        },
+        {
+          "filename": "小學生真是太棒了.webm",
+          "text": {
+            "zh-tw": "小學生真是太棒了！",
+            "ja": "小学生は最高だぜ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vpMW8VNXRNI",
+            "start": 5959,
+            "end": 5962
+          }
+        },
+        {
+          "filename": "OKOKですか.webm",
+          "text": {
+            "zh-tw": "OK？ OKですか？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vpMW8VNXRNI",
+            "start": 6699,
+            "end": 6702
+          }
+        },
+        {
+          "filename": "如何如何.webm",
+          "text": {
+            "zh-tw": "如何? 如何?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vpMW8VNXRNI",
+            "start": 6838,
+            "end": 6844
+          }
+        },
+        {
+          "filename": "抓到YDD在看メア.webm",
+          "text": {
+            "zh-tw": "抓到YDD在看メア",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "xnTq4MiVL4E",
+            "start": 3775.133,
+            "end": 3790.804
+          }
+        },
+        {
+          "filename": "超級噴嚏.webm",
+          "text": {
+            "zh-tw": "超級噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XJbsNGyCOJc",
+            "start": 1474,
+            "end": 1476
+          }
         }
       ]
     },
@@ -496,6 +594,62 @@
             "videoId": "UqZwfkf0_N8",
             "start": 4052.5,
             "end": 4063
+          }
+        },
+        {
+          "filename": "二十歲我是可愛的二十歲女孩子.webm",
+          "text": {
+            "zh-tw": "二十歲，我是可愛的二十歲女孩子！",
+            "ja": "(中国語) 二十歳、可愛い二十歳の女の子です！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vpMW8VNXRNI",
+            "start": 9656,
+            "end": 9667
+          }
+        },
+        {
+          "filename": "Nonononono不是不是.webm",
+          "text": {
+            "zh-tw": "Nonononono，不是！不是！",
+            "ja": "(中国語) いやいやいやいやいや！いいえ！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vpMW8VNXRNI",
+            "start": 9749,
+            "end": 9753
+          }
+        },
+        {
+          "filename": "可愛的女孩子女孩子.webm",
+          "text": {
+            "zh-tw": "可愛的女孩子...女孩子！",
+            "ja": "(中国語) かわいい女の子...女の子！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "vpMW8VNXRNI",
+            "start": 9754,
+            "end": 9759
+          }
+        },
+        {
+          "filename": "AreyouOKOK嗎.webm",
+          "text": {
+            "zh-tw": "Are you OK? OK嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "0k6k1qhIjho",
+            "start": 260,
+            "end": 263
           }
         }
       ]

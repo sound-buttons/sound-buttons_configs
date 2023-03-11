@@ -945,6 +945,34 @@
             "start": 2300,
             "end": 2307
           }
+        },
+        {
+          "filename": "不可能的北七唷.webm",
+          "text": {
+            "zh-tw": "不可能的~北七唷",
+            "ja": "不可能~あほか！"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Zim4rNXJXPM",
+            "start": 7004.3,
+            "end": 7008.2
+          }
+        },
+        {
+          "filename": "醒醒好嗎.webm",
+          "text": {
+            "zh-tw": "醒醒好嗎❣",
+            "ja": "起きた❣"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Zim4rNXJXPM",
+            "start": 8536,
+            "end": 8539
+          }
         }
       ]
     },
@@ -1312,6 +1340,20 @@
             "videoId": "mI9WFh3yx5s",
             "start": 1801,
             "end": 1806
+          }
+        },
+        {
+          "filename": "古代魔術.webm",
+          "text": {
+            "zh-tw": "古代魔術",
+            "ja": "オラァ\u3000古代魔術や\u3000かめはめ波"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "3-pRficlS6I",
+            "start": 4862,
+            "end": 4868
           }
         }
       ]
