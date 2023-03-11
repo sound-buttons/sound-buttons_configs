@@ -53,6 +53,20 @@
             "start": 371,
             "end": 377.5
           }
+        },
+        {
+          "filename": "我家有隻河東咨.webm",
+          "text": {
+            "zh-tw": "我家有隻河東咨 ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QELpCl6aX3g",
+            "start": 2932.923,
+            "end": 2963.729
+          }
         }
       ]
     },
@@ -466,6 +480,34 @@
             "videoId": "rwTy3CIOT3E",
             "start": 10992,
             "end": 10994
+          }
+        },
+        {
+          "filename": "變態三連擊咨咨采彩仙兔.webm",
+          "text": {
+            "zh-tw": "變態三連擊(咨咨、采彩、仙兔)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "4zKt3PjBw8A",
+            "start": 5563,
+            "end": 5572
+          }
+        },
+        {
+          "filename": "變態的是那個Bo.webm",
+          "text": {
+            "zh-tw": "變態的是那個，Bo",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "4zKt3PjBw8A",
+            "start": 5584,
+            "end": 5590
           }
         }
       ]

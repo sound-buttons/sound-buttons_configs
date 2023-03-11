@@ -2043,6 +2043,20 @@
             "start": 4068.2,
             "end": 4070
           }
+        },
+        {
+          "filename": "自己採訪自己_638141063812116413.webm",
+          "text": {
+            "zh-tw": "(自己採訪自己)",
+            "ja": "(自分へのインタビュー)"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "4gttBXUQdYE",
+            "start": 777,
+            "end": 820
+          }
         }
       ]
     },
