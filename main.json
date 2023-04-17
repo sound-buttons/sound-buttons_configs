@@ -92,6 +92,20 @@
     }
   },
   {
+    "name": "yuri",
+    "fullName": "四条ユリ",
+    "fullConfigURL": "assets/configs/yuri.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri2.png"
+    ],
+    "color": {
+      "primary": "#3B428A",
+      "secondary": "#FEB1C2"
+    }
+  },
+  {
     "name": "emurii",
     "fullName": "苓吃エムリィ",
     "fullConfigURL": "assets/configs/emurii.json",
@@ -104,20 +118,6 @@
     "color": {
       "primary": "#B933F8",
       "secondary": "#DEC5E5"
-    }
-  },
-  {
-    "name": "yuri",
-    "fullName": "四条ユリ",
-    "fullConfigURL": "assets/configs/yuri.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/yuri/yuri2.png"
-    ],
-    "color": {
-      "primary": "#3B428A",
-      "secondary": "#FEB1C2"
     }
   },
   {
