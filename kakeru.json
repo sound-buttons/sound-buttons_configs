@@ -1540,6 +1540,36 @@
             "start": 1731.0,
             "end": 1733.0
           }
+        },
+        {
+          "id": "2686d97c-569e-4d6c-92c8-bb89915d704d",
+          "filename": "Ohmygod.webm",
+          "text": {
+            "zh-tw": "Oh my god!",
+            "ja": "Oh my god!"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FfAaznKhFbA",
+            "start": 4306.0,
+            "end": 4310.0
+          }
+        },
+        {
+          "id": "04d91062-5a95-4544-baea-10875489e077",
+          "filename": "Ohmygod_638174273540699498.webm",
+          "text": {
+            "zh-tw": "Oh my god!",
+            "ja": "Oh my god!"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FfAaznKhFbA",
+            "start": 4355.0,
+            "end": 4359.0
+          }
         }
       ]
     },
