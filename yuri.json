@@ -875,6 +875,21 @@
             "start": 2656.0,
             "end": 2669.0
           }
+        },
+        {
+          "id": "f733bb85-5550-4deb-9cf9-d99da3590dad",
+          "filename": "阿姊好吃阿姊不好吃.webm",
+          "text": {
+            "zh-tw": "(阿姊好吃) 阿姊不~好吃!",
+            "ja": "(中国語)(ユリが美味しい) ユリが美味しくない~"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "GU2f5mMDNnM",
+            "start": 6064.0,
+            "end": 6070.0
+          }
         }
       ]
     },
