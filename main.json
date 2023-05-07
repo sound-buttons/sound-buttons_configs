@@ -162,5 +162,18 @@
       "primary": "#FABF20",
       "secondary": "#FFE5A1"
     }
+  },
+  {
+    "name": "sapphire",
+    "fullName": "賽菲爾",
+    "fullConfigURL": "assets/configs/sapphire.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/sapphire/sapphire.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/sapphire/sapphire.png"
+    ],
+    "color": {
+      "primary": "#3B428A",
+      "secondary": "#FEB1C2"
+    }
   }
 ]

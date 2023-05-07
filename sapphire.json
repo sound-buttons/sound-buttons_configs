@@ -1,0 +1,24 @@
+{
+  "name": "sapphire",
+  "fullName": "賽菲爾",
+  "fullConfigURL": "assets/configs/sapphire.json",
+  "imgSrc": [
+    "https://soundbuttons.azureedge.net/sound-buttons/sapphire/sapphire.png"
+  ],
+  "intro": "大家好，我是賽菲爾\n叫我賽菲或菲爾也可以喔\n是正統的寶箱怪女王",
+  "color": {
+    "primary": "#3B428A",
+    "secondary": "#FEB1C2"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/@sapphire4169E1",
+    "twitter": "https://twitter.com/Sapphire4169e1",
+    "facebook": "https://www.facebook.com/profile.php?id=100089018445243",
+    "instagram": "",
+    "discord": "",
+    "other": "https://www.twitch.tv/sapphire4169e1"
+  },
+  "introButton": null,
+  "buttonGroups": [
+  ]
+}
