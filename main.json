@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "aruma",
     "fullName": "薬袋アルマ",
     "fullConfigURL": "assets/configs/aruma.json",
@@ -85,7 +86,10 @@
     "fullName": "ねこ咨咨",
     "fullConfigURL": "assets/configs/zizi.json",
     "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.json",
-    "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.png",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi2.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.png"
+    ],
     "color": {
       "primary": "#593196",
       "secondary": "#A991D4"
