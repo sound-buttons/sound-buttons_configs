@@ -3209,6 +3209,21 @@
             "start": 2859.5,
             "end": 2867.0
           }
+        },
+        {
+          "id": "db34a09c-37ff-4411-8311-48e969d171aa",
+          "filename": "350b8fc91c2e4ca4b7b0652f6eee1a42.webm",
+          "text": {
+            "zh-tw": "那個橡皮擦我不要了",
+            "ja": "その笑顔のペンキは私は持っていません"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "kueOY4PtJfM",
+            "start": 640.0,
+            "end": 642.0
+          }
         }
       ]
     },
