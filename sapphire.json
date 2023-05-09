@@ -33,7 +33,7 @@
           "filename": "mmmNooo.webm",
           "text": {
             "zh-tw": "mmm_Nooo",
-            "ja": "んんんまっ!"
+            "ja": "mmm_Nooo"
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -47,8 +47,8 @@
           "id": "1e1b2e32-52ec-411a-9808-1fc226052801",
           "filename": "7b3077712be344f0aa71a27533f5292c.webm",
           "text": {
-            "zh-tw": "Noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo",
-            "ja": "んんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんん"
+            "zh-tw": "Noooooooooooooooooooooooooo",
+            "ja": "Noooooooooooooooooooooooooo"
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -63,7 +63,7 @@
           "filename": "人類有病病.webm",
           "text": {
             "zh-tw": "人類有病病",
-            "ja": "みんなよく聞いてね!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -78,7 +78,7 @@
           "filename": "牙貝貝貝貝.webm",
           "text": {
             "zh-tw": "牙貝貝貝貝",
-            "ja": "いやだやだやだ!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -93,7 +93,7 @@
           "filename": "幼稚鬼1.webm",
           "text": {
             "zh-tw": "幼稚鬼1",
-            "ja": "やだー"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -108,7 +108,7 @@
           "filename": "幼稚鬼2.webm",
           "text": {
             "zh-tw": "幼稚鬼2",
-            "ja": "リア兹くん"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -123,7 +123,7 @@
           "filename": "幼稚鬼3.webm",
           "text": {
             "zh-tw": "幼稚鬼3",
-            "ja": "やだやだ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -153,7 +153,7 @@
           "filename": "好耶.webm",
           "text": {
             "zh-tw": "好耶",
-            "ja": "好良い!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -168,7 +168,7 @@
           "filename": "亨.webm",
           "text": {
             "zh-tw": "亨",
-            "ja": "へへっ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -183,7 +183,7 @@
           "filename": "你們ㄟㄟ.webm",
           "text": {
             "zh-tw": "你們ㄟㄟ",
-            "ja": "うーだい!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -198,7 +198,7 @@
           "filename": "你們幼稚鬼幼稚鬼幼稚鬼你也幼稚鬼.webm",
           "text": {
             "zh-tw": "你們幼稚鬼幼稚鬼幼稚鬼你也幼稚鬼",
-            "ja": "あなたは幼稚園にいる! 幼稚園にいる!あなたも幼稚園にいる! 幼稚園!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -213,7 +213,7 @@
           "filename": "你們耳朵壞掉了聽不到啦.webm",
           "text": {
             "zh-tw": "你們耳朵壞掉了聽不到啦",
-            "ja": "ユリ、ユリ、ユリ ユリ、壊れてるよ 艦長"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -228,7 +228,7 @@
           "filename": "你們耳聾爆炸了所以沒聽到.webm",
           "text": {
             "zh-tw": "你們耳聾爆炸了所以沒聽到",
-            "ja": "あなたは音量が大きくなったので聞こえませんでした"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -243,7 +243,7 @@
           "filename": "你們沒聽到沒聽到沒聽到.webm",
           "text": {
             "zh-tw": "你們沒聽到沒聽到沒聽到",
-            "ja": "ユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリユリ�"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -258,7 +258,7 @@
           "filename": "你就走.webm",
           "text": {
             "zh-tw": "你就走",
-            "ja": "行け!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -273,7 +273,7 @@
           "filename": "你就放槍.webm",
           "text": {
             "zh-tw": "你就放槍",
-            "ja": "あなたは空を飛ばす"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -288,7 +288,7 @@
           "filename": "呀哀哀.webm",
           "text": {
             "zh-tw": "呀哀哀",
-            "ja": "うぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -303,7 +303,7 @@
           "filename": "呀哀哀2.webm",
           "text": {
             "zh-tw": "呀哀哀2",
-            "ja": "えぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -318,7 +318,7 @@
           "filename": "呀啊依咧.webm",
           "text": {
             "zh-tw": "呀啊依咧",
-            "ja": "アーイ!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -333,7 +333,7 @@
           "filename": "沒BㄉBㄉ.webm",
           "text": {
             "zh-tw": "沒BㄉBㄉ",
-            "ja": "メリーゴールド!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -348,7 +348,7 @@
           "filename": "沒有在.webm",
           "text": {
             "zh-tw": "沒有在",
-            "ja": "艦長がいない、艦長がいない"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -363,7 +363,7 @@
           "filename": "依.webm",
           "text": {
             "zh-tw": "依~~",
-            "ja": "イェーイ!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -378,7 +378,7 @@
           "filename": "哎呀加加.webm",
           "text": {
             "zh-tw": "哎呀加加",
-            "ja": "あ、やっちゃった"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -393,7 +393,7 @@
           "filename": "為什麼啦.webm",
           "text": {
             "zh-tw": "為什麼啦",
-            "ja": "えっ?"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -408,7 +408,7 @@
           "filename": "要怎麼單獨靜音一個人.webm",
           "text": {
             "zh-tw": "要怎麼單獨靜音一個人",
-            "ja": "クォッ、何で単独の駆け引きをするのか クォッ ウゥ ゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥゥ�"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -423,7 +423,7 @@
           "filename": "诶你們.webm",
           "text": {
             "zh-tw": "诶你們",
-            "ja": "え、いわゆる"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -438,7 +438,7 @@
           "filename": "哼嗯.webm",
           "text": {
             "zh-tw": "哼嗯",
-            "ja": "んんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんんん"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -453,7 +453,7 @@
           "filename": "啊.webm",
           "text": {
             "zh-tw": "啊~~",
-            "ja": "えへへ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -468,7 +468,7 @@
           "filename": "啊_638191452287832107.webm",
           "text": {
             "zh-tw": "啊~~~~",
-            "ja": "えぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -498,7 +498,7 @@
           "filename": "嗯mmm.webm",
           "text": {
             "zh-tw": "嗯mmm",
-            "ja": "うぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅぅ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -513,7 +513,7 @@
           "filename": "嗯No.webm",
           "text": {
             "zh-tw": "嗯No",
-            "ja": "んな!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -528,7 +528,7 @@
           "filename": "嗯No2.webm",
           "text": {
             "zh-tw": "嗯No2",
-            "ja": "んーな!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -543,7 +543,7 @@
           "filename": "嗯No3.webm",
           "text": {
             "zh-tw": "嗯No3",
-            "ja": "んーっ!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -558,7 +558,7 @@
           "filename": "嗯No4.webm",
           "text": {
             "zh-tw": "嗯No4",
-            "ja": "んーっ!"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -573,7 +573,7 @@
           "filename": "嗯有病病.webm",
           "text": {
             "zh-tw": "嗯有病病",
-            "ja": "言いにくい"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -588,7 +588,7 @@
           "filename": "嗯哀哀.webm",
           "text": {
             "zh-tw": "嗯哀哀",
-            "ja": "うぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -603,7 +603,7 @@
           "filename": "嗯壓.webm",
           "text": {
             "zh-tw": "嗯壓",
-            "ja": "うぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇぇ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -618,7 +618,7 @@
           "filename": "痾痾.webm",
           "text": {
             "zh-tw": "痾~痾~~~",
-            "ja": "いっひー"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
