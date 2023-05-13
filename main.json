@@ -1,16 +1,5 @@
 [
   {
-    "name": "aruma",
-    "fullName": "薬袋アルマ",
-    "fullConfigURL": "assets/configs/aruma.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/aruma/aruma.json",
-    "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/aruma/aruma.png",
-    "color": {
-      "primary": "#2A5CAB",
-      "secondary": "#B3CEF0"
-    }
-  },
-  {
     "name": "yoruka",
     "fullName": "須多夜花",
     "fullConfigURL": "assets/configs/yoruka.json",
@@ -27,21 +16,6 @@
     }
   },
   {
-    "name": "tama",
-    "fullName": "久遠たま",
-    "fullConfigURL": "assets/configs/tama.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/tama/tama.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/tama/tama3.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/tama/tama.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/tama/tama2.png"
-    ],
-    "color": {
-      "primary": "#593196",
-      "secondary": "#A991D4"
-    }
-  },
-  {
     "name": "tiamiu",
     "fullName": "Tia Miu",
     "fullConfigURL": "assets/configs/tiamiu.json",
@@ -54,17 +28,6 @@
     "color": {
       "primary": "#FFBFC9",
       "secondary": "#744C60"
-    }
-  },
-  {
-    "name": "kakeru",
-    "fullName": "間取かける",
-    "fullConfigURL": "assets/configs/kakeru.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/kakeru.json",
-    "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/kakeru/kakeru.png",
-    "color": {
-      "primary": "#2C252C",
-      "secondary": "#F9D95E"
     }
   },
   {
@@ -110,21 +73,6 @@
     }
   },
   {
-    "name": "emurii",
-    "fullName": "苓吃エムリィ",
-    "fullConfigURL": "assets/configs/emurii.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/emurii/emurii.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/emurii/emurii3.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/emurii/emurii.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/emurii/emurii2.png"
-    ],
-    "color": {
-      "primary": "#B933F8",
-      "secondary": "#DEC5E5"
-    }
-  },
-  {
     "name": "sapphire",
     "fullName": "賽菲爾",
     "fullConfigURL": "assets/configs/sapphire.json",
@@ -149,21 +97,6 @@
     "color": {
       "primary": "#3C3942",
       "secondary": "#F4B505"
-    }
-  },
-  {
-    "name": "yuna",
-    "fullName": "伊冬ユナ",
-    "fullConfigURL": "assets/configs/yuna.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/yuna/yuna.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/yuna/yuna3.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/yuna/yuna.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/yuna/yuna2.png"
-    ],
-    "color": {
-      "primary": "#3C7A9B",
-      "secondary": "#EEDED4"
     }
   },
   {
