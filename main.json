@@ -112,5 +112,19 @@
       "primary": "#FABF20",
       "secondary": "#FFE5A1"
     }
+  },
+  {
+    "name": "cynia",
+    "fullName": "欣希亞",
+    "fullConfigURL": "assets/configs/cynia.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia2.png"
+    ],
+    "color": {
+      "primary": "#9362AA",
+      "secondary": "#BF8AD7"
+    }
   }
 ]
