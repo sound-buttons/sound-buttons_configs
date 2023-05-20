@@ -6,7 +6,7 @@
     "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora2.png",
     "https://soundbuttons.azureedge.net/sound-buttons/shitora/shitora.png"
   ],
-  "intro": "深淵の神ハスター様のもう一人の眷属。人の世界のアニメやオタク文化に触れ、修行のことを忘れオタクに…\u3000Vtuberで信者を増やすことに目を付けた。\n我是深淵組Vtuber 涼風しとら！\n人類世界的御宅文化很有趣！",
+  "intro": "深淵の神ハスター様のもう一人の眷属。人の世界のアニメやオタク文化に触れ、修行のことを忘れオタクに…　Vtuberで信者を増やすことに目を付けた。\n我是深淵組Vtuber 涼風しとら！\n人類世界的御宅文化很有趣！",
   "color": {
     "primary": "#6CAD35",
     "secondary": "#976C32"
@@ -27,11 +27,11 @@
       "ja": "(中国語) 自己紹介"
     },
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/shitora/",
-    "volume": 1,
+    "volume": 1.0,
     "source": {
       "videoId": "SeZK8wxvlkE",
-      "start": 738,
-      "end": 767
+      "start": 738.0,
+      "end": 767.0
     }
   },
   "buttonGroups": [
@@ -50,11 +50,11 @@
             "ja": "自己紹介"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "SeZK8wxvlkE",
-            "start": 299,
-            "end": 358
+            "start": 299.0,
+            "end": 358.0
           }
         },
         {
@@ -65,11 +65,11 @@
             "ja": "最初のちゅ"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "UAfEWqJ1_Cc",
-            "start": 1641,
-            "end": 1648
+            "start": 1641.0,
+            "end": 1648.0
           }
         },
         {
@@ -80,11 +80,11 @@
             "ja": "ダーリンちゅちゅちゅお休み"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "UAfEWqJ1_Cc",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -95,11 +95,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "vb9nlHFYOcY",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -110,11 +110,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "ONavLPEsncM",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -125,26 +125,26 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
           "id": "b4070f70-dfed-44e9-8268-c44c5bbf2c5f",
           "filename": "噁心きもいうわぁ.webm",
           "text": {
-            "zh-tw": "噁心 きもい\u3000うわぁ～",
+            "zh-tw": "噁心 きもい　うわぁ～",
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "ONavLPEsncM",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -155,11 +155,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -170,11 +170,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "iuHFbHZ899w",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -185,11 +185,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -200,11 +200,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "qaabnhG5RA8",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -215,11 +215,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -230,10 +230,10 @@
             "ja": "結婚ありえない無理"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "FYXjGaK665U",
-            "start": 2413,
+            "start": 2413.0,
             "end": 2416.7
           }
         },
@@ -245,11 +245,11 @@
             "ja": "ん～なるほどね(怖)"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "HI6eyvr1O5Q",
-            "start": 1367,
-            "end": 1373
+            "start": 1367.0,
+            "end": 1373.0
           }
         },
         {
@@ -260,11 +260,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "",
-            "start": 0,
-            "end": 4
+            "start": 0.0,
+            "end": 4.0
           }
         },
         {
@@ -275,11 +275,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "1Q8by46Sr_w",
-            "start": 2912,
-            "end": 2917
+            "start": 2912.0,
+            "end": 2917.0
           }
         }
       ]
@@ -299,11 +299,11 @@
             "ja": "(中国語) 自己紹介"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "SeZK8wxvlkE",
-            "start": 738,
-            "end": 767
+            "start": 738.0,
+            "end": 767.0
           }
         },
         {
@@ -314,11 +314,11 @@
             "ja": "あなたの豆花30元"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -329,11 +329,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "zzZBXnfITBY",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -344,11 +344,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -359,11 +359,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -374,11 +374,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "vb9nlHFYOcY",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -389,11 +389,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -404,11 +404,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "ONavLPEsncM",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -419,11 +419,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -434,11 +434,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -449,11 +449,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "tFVUtdNfQPo",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -464,11 +464,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -479,11 +479,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -494,11 +494,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "VjsM6tdxv-o",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -509,11 +509,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -524,11 +524,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "bQhh0pY-Afs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -539,11 +539,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -554,11 +554,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -569,11 +569,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "iuHFbHZ899w",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -584,11 +584,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "iuHFbHZ899w",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -599,11 +599,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "qaabnhG5RA8",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -614,11 +614,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "VjsM6tdxv-o",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -629,11 +629,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -644,11 +644,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "WtrDVjQp8CA",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -659,11 +659,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "WtrDVjQp8CA",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -674,11 +674,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -689,11 +689,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "bQhh0pY-Afs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -704,11 +704,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -719,11 +719,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "bQhh0pY-Afs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -734,11 +734,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "VjsM6tdxv-o",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -749,11 +749,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "vb9nlHFYOcY",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -764,11 +764,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "vb9nlHFYOcY",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -779,11 +779,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -794,11 +794,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "xrWgmew94ZU",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -809,11 +809,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "VjsM6tdxv-o",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -824,11 +824,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -839,11 +839,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "tFVUtdNfQPo",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -854,11 +854,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -869,10 +869,10 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 1648,
+            "start": 1648.0,
             "end": 1650.5
           }
         },
@@ -884,11 +884,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "GJUUJ_StzwE",
-            "start": 2683,
-            "end": 2688
+            "start": 2683.0,
+            "end": 2688.0
           }
         },
         {
@@ -899,11 +899,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "GJUUJ_StzwE",
-            "start": 2423,
-            "end": 2425
+            "start": 2423.0,
+            "end": 2425.0
           }
         },
         {
@@ -914,11 +914,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "qaabnhG5RA8",
-            "start": 3162,
-            "end": 3165
+            "start": 3162.0,
+            "end": 3165.0
           }
         },
         {
@@ -929,11 +929,11 @@
             "ja": "しと可愛,謝謝,お金をください"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "OkLJy-QE2Wo",
-            "start": 5445,
-            "end": 5454
+            "start": 5445.0,
+            "end": 5454.0
           }
         },
         {
@@ -944,11 +944,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "iuHFbHZ899w",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -959,7 +959,7 @@
             "ja": "愛して"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "P0I3tH81Wlg",
             "start": 5787.8,
@@ -974,11 +974,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "P0I3tH81Wlg",
-            "start": 7505,
-            "end": 7507
+            "start": 7505.0,
+            "end": 7507.0
           }
         },
         {
@@ -989,11 +989,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "VjsM6tdxv-o",
-            "start": 3221,
-            "end": 3224
+            "start": 3221.0,
+            "end": 3224.0
           }
         },
         {
@@ -1004,11 +1004,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "GJUUJ_StzwE",
-            "start": 2300,
-            "end": 2307
+            "start": 2300.0,
+            "end": 2307.0
           }
         },
         {
@@ -1019,7 +1019,7 @@
             "ja": "不可能~あほか！"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Zim4rNXJXPM",
             "start": 7004.3,
@@ -1034,11 +1034,11 @@
             "ja": "起きた❣"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Zim4rNXJXPM",
-            "start": 8536,
-            "end": 8539
+            "start": 8536.0,
+            "end": 8539.0
           }
         },
         {
@@ -1046,14 +1046,14 @@
           "filename": "傻瓜.webm",
           "text": {
             "zh-tw": "傻瓜",
-            "ja": "(中国語) バカ"
+            "ja": "小さな子! 小さな子! 小さな子! 小さな子! 小さな子!"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "qYlDiR2ijpE",
-            "start": 6808,
-            "end": 6816
+            "start": 6808.0,
+            "end": 6816.0
           }
         }
       ]
@@ -1073,11 +1073,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "xrWgmew94ZU",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1088,11 +1088,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "xrWgmew94ZU",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1103,11 +1103,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "iuHFbHZ899w",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1118,11 +1118,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1133,11 +1133,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "xrWgmew94ZU",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1148,11 +1148,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "iuHFbHZ899w",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1163,11 +1163,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "tFVUtdNfQPo",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1178,11 +1178,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "xrWgmew94ZU",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1193,11 +1193,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "xrWgmew94ZU",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1208,11 +1208,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "ZSEvD24F8UA",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1223,11 +1223,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1238,11 +1238,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "ONavLPEsncM",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         }
       ]
@@ -1262,11 +1262,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "VjsM6tdxv-o",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1277,11 +1277,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "VjsM6tdxv-o",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1292,11 +1292,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "VjsM6tdxv-o",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1307,11 +1307,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "bQhh0pY-Afs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1322,11 +1322,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1337,11 +1337,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1352,11 +1352,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1367,11 +1367,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "vb9nlHFYOcY",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1382,11 +1382,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1397,11 +1397,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "J6dF-YTwqWs",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1412,11 +1412,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1427,11 +1427,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1442,11 +1442,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 1801,
-            "end": 1806
+            "start": 1801.0,
+            "end": 1806.0
           }
         },
         {
@@ -1454,14 +1454,14 @@
           "filename": "古代魔術.webm",
           "text": {
             "zh-tw": "古代魔術",
-            "ja": "オラァ\u3000古代魔術や\u3000かめはめ波"
+            "ja": "オラァ　古代魔術や　かめはめ波"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "3-pRficlS6I",
-            "start": 4862,
-            "end": 4868
+            "start": 4862.0,
+            "end": 4868.0
           }
         }
       ]
@@ -1481,11 +1481,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "Mkadp9Gdm1Q",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -1496,11 +1496,26 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "mI9WFh3yx5s",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "eb2c768d-aea0-494f-879f-14327ce634b2",
+          "filename": "我的戰爭.webm",
+          "text": {
+            "zh-tw": "我的戰爭",
+            "ja": "僕の戦争"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "GhWgwddNt0Q",
+            "start": 3075.0,
+            "end": 3102.0
           }
         }
       ]

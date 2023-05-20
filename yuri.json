@@ -13,6 +13,7 @@
   },
   "link": {
     "youtube": "https://www.youtube.com/@shijouyuri",
+    "twitch": null,
     "twitter": "https://twitter.com/shijou_yuri",
     "facebook": "",
     "instagram": "",
@@ -889,6 +890,21 @@
             "videoId": "GU2f5mMDNnM",
             "start": 6064.0,
             "end": 6070.0
+          }
+        },
+        {
+          "id": "a63fd562-9407-4920-82a6-162fc707fa19",
+          "filename": "我沒有工作.webm",
+          "text": {
+            "zh-tw": "我沒有工作",
+            "ja": "仕事がない"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "7ciBRHO27hE",
+            "start": 2228.0,
+            "end": 2230.0
           }
         }
       ]
