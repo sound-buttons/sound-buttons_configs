@@ -20,6 +20,165 @@
     "discord": "https://discord.com/invite/bhpVt5k",
     "other": "https://potofu.me/meng-cynia"
   },
-  "introButton": null,
-  "buttonGroups": []
+  "introButton": {
+    "id": "4c508ee5-37f3-49fc-96b6-a927d1d1d082",
+    "filename": "大家安安哈囉哈囉.webm",
+    "text": {
+      "zh-tw": "大家安安~ 哈囉哈囉~",
+      "ja": "みなさん、こんにちは〜"
+    },
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+    "volume": 1,
+    "source": {
+      "videoId": "",
+      "start": 0,
+      "end": 0
+    }
+  },
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "欣希亞",
+        "ja": "欣希亞"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": [
+        {
+          "id": "4c508ee5-37f3-49fc-96b6-a927d1d1d082",
+          "filename": "大家安安哈囉哈囉.webm",
+          "text": {
+            "zh-tw": "大家安安~ 哈囉哈囉~",
+            "ja": "みなさん、こんにちは〜"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "口頭禪",
+        "ja": "口頭禪"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": [
+        {
+          "id": "a5cb1b66-8e00-4db5-bf49-495e83b8effe",
+          "filename": "A秀.webm",
+          "text": {
+            "zh-tw": "A秀",
+            "ja": "えいしょー!"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "唱歌",
+        "ja": "唱歌"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": []
+    },
+    {
+      "name": {
+        "zh-tw": "台詞回",
+        "ja": "台詞回"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": []
+    },
+    {
+      "name": {
+        "zh-tw": "奇怪的聲音",
+        "ja": "奇怪的聲音"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": [
+        {
+          "id": "1405a6ab-1f25-4a9a-8f57-67e5d1a4712d",
+          "filename": "阿巴阿巴阿巴.webm",
+          "text": {
+            "zh-tw": "阿巴阿巴阿巴",
+            "ja": "あばあばあば あばあばあば"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "CScP5hxxn6Y",
+            "start": 1335.027,
+            "end": 1340.896
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "福利",
+        "ja": "福利"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": []
+    },
+    {
+      "name": {
+        "zh-tw": "蘿希亞",
+        "ja": "蘿希亞"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": []
+    },
+    {
+      "name": {
+        "zh-tw": "姐希亞",
+        "ja": "姐希亞"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": [
+        {
+          "id": "91a211c3-2cba-4b06-8473-f72f4137806f",
+          "filename": "ARAARA真是個任性的孩子呢.webm",
+          "text": {
+            "zh-tw": "ARA~ ARA~ 真是個任性的孩子呢~",
+            "ja": "ARA～ARA～わがままな子ね～"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "艾蕾亞",
+        "ja": "艾蕾亞"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": []
+    },
+    {
+      "name": {
+        "zh-tw": "白菇姬",
+        "ja": "白菇姬"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
+      "buttons": []
+    }
+  ]
 }
