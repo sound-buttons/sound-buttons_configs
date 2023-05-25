@@ -1,5 +1,16 @@
 [
   {
+    "name": "aruma",
+    "fullName": "薬袋アルマ",
+    "fullConfigURL": "assets/configs/aruma.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/aruma/aruma.json",
+    "imgSrc": "https://soundbuttons.azureedge.net/sound-buttons/aruma/aruma.png",
+    "color": {
+      "primary": "#2A5CAB",
+      "secondary": "#B3CEF0"
+    }
+  },
+  {
     "name": "yoruka",
     "fullName": "須多夜花",
     "fullConfigURL": "assets/configs/yoruka.json",
