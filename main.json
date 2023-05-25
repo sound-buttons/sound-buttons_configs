@@ -137,5 +137,19 @@
       "primary": "#9362AA",
       "secondary": "#BF8AD7"
     }
+  },
+  {
+    "name": "yoshika",
+    "fullName": "よしか YOSHIKA⁂",
+    "fullConfigURL": "assets/configs/yoshika.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/yoshika/yoshika.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/yoshika/yoshika.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/yoshika/yoshika2.png"
+    ],
+    "color": {
+      "primary": "#8C6956",
+      "secondary": "#701514"
+    }
   }
 ]
