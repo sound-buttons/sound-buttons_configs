@@ -28,11 +28,11 @@
       "ja": "みなさん、こんにちは〜"
     },
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
-    "volume": 1,
+    "volume": 1.0,
     "source": {
       "videoId": "",
-      "start": 0,
-      "end": 0
+      "start": 0.0,
+      "end": 0.0
     }
   },
   "buttonGroups": [
@@ -51,11 +51,56 @@
             "ja": "みなさん、こんにちは〜"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "159ba6fe-e0c3-4560-91a8-b8b6f996cf41",
+          "filename": "AKA無情作息毀滅者.webm",
+          "text": {
+            "zh-tw": "AKA 無情作息毀滅者",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "oSluG0gfsQQ",
+            "start": 13.0,
+            "end": 17.0
+          }
+        },
+        {
+          "id": "6fe7aba2-eb11-4c28-b823-86bbe017731a",
+          "filename": "下次一定.webm",
+          "text": {
+            "zh-tw": "下次一定",
+            "ja": "次は何か? じゃあ、わかんない!"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HpW6cGekFDw",
+            "start": 940.0,
+            "end": 945.0
+          }
+        },
+        {
+          "id": "9b8c6bab-8bb4-499a-9f45-0f4782980014",
+          "filename": "NOOO.webm",
+          "text": {
+            "zh-tw": "NOOO~",
+            "ja": "NOOO~"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
           }
         }
       ]
@@ -75,11 +120,11 @@
             "ja": "えいしょー!"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         }
       ]
@@ -115,11 +160,26 @@
             "ja": "あばあばあば あばあばあば"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "CScP5hxxn6Y",
             "start": 1335.027,
             "end": 1340.896
+          }
+        },
+        {
+          "id": "23c0634d-a637-4e9e-a430-ee55a66c5808",
+          "filename": "爬說語.webm",
+          "text": {
+            "zh-tw": "爬說語",
+            "ja": "わーわーしゅわーしゅわーしゅ"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
           }
         }
       ]
@@ -155,11 +215,11 @@
             "ja": "ARA～ARA～わがままな子ね～"
           },
           "baseRoute": null,
-          "volume": 1,
+          "volume": 1.0,
           "source": {
             "videoId": "",
-            "start": 0,
-            "end": 0
+            "start": 0.0,
+            "end": 0.0
           }
         }
       ]
