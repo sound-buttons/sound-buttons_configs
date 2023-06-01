@@ -21,5 +21,98 @@
   },
   "introButton": null,
   "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "佐鳥的經典語錄",
+        "ja": "佐鳥的經典語錄"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/satorihana/",
+      "buttons": [
+        {
+          "id": "accf7198-148f-48af-b4fc-a9c28784340d",
+          "filename": "不要.webm",
+          "text": {
+            "zh-tw": "不要",
+            "ja": "えーー"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "筐.webm",
+          "text": {
+            "zh-tw": "筐",
+            "ja": "筐"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "肅靜.webm",
+          "text": {
+            "zh-tw": "肅靜",
+            "ja": "肅靜"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "filename": "大家好.webm",
+          "text": {
+            "zh-tw": "大家好",
+            "ja": "大家好"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },{
+          "id": "e383b4a3-508b-4e7d-b81d-d5ca4d3aee81",
+          "filename": "我送你一桶酒精.webm",
+          "text": {
+            "zh-tw": "我送你一桶酒精",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },{
+          "filename": "轉來.webm",
+          "text": {
+            "zh-tw": "轉來",
+            "ja": "轉來"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        }
+      ]
+    }
   ]
 }
