@@ -111,20 +111,6 @@
     }
   },
   {
-    "name": "enomu165",
-    "fullName": "伊糯姆",
-    "fullConfigURL": "assets/configs/enomu165.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu165.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu165.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu1652.png"
-    ],
-    "color": {
-      "primary": "#FABF20",
-      "secondary": "#FFE5A1"
-    }
-  },
-  {
     "name": "cynia",
     "fullName": "欣希亞",
     "fullConfigURL": "assets/configs/cynia.json",
@@ -150,6 +136,20 @@
     "color": {
       "primary": "#8C6956",
       "secondary": "#701514"
+    }
+  },
+  {
+    "name": "enomu165",
+    "fullName": "伊糯姆",
+    "fullConfigURL": "assets/configs/enomu165.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu165.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu165.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu1652.png"
+    ],
+    "color": {
+      "primary": "#FABF20",
+      "secondary": "#FFE5A1"
     }
   }
 ]

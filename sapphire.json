@@ -717,6 +717,36 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "a4157a22-9057-42ba-b866-4f44746a73f7",
+          "filename": "今天很嗆是吧.webm",
+          "text": {
+            "zh-tw": "今天很嗆是吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "3be4da2a-0e81-4477-a3e7-018bc6e2bbd6",
+          "filename": "你要出多少.webm",
+          "text": {
+            "zh-tw": "你要出多少",
+            "ja": "いくら欲しいですか"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     }

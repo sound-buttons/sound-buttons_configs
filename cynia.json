@@ -198,7 +198,23 @@
         "ja": "蘿希亞"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/cynia/",
-      "buttons": []
+      "buttons": [
+        {
+          "id": "676aec6c-fb83-4d3a-8ca6-1a7b9c57d40a",
+          "filename": "熱心欺負我.webm",
+          "text": {
+            "zh-tw": "熱心欺負我",
+            "ja": "私をいじめたがる"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lZswcUKtSD0",
+            "start": 13616.0,
+            "end": 13619.0
+          }
+        }
+      ]
     },
     {
       "name": {
