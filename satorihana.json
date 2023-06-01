@@ -1,0 +1,25 @@
+{
+  "name": "satorihana",
+  "fullName": "佐鳥華",
+  "fullConfigURL": "assets/configs/satorihana.json",
+  "imgSrc": [
+    "https://soundbuttons.azureedge.net/sound-buttons/satorihana/satorihana.png"
+  ],
+  "intro": "我是修行了150年的蜜袋鼯精道長~",
+  "color": {
+    "primary": "#3B428A",
+    "secondary": "#FEB1C2"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/@satorich.8864",
+    "twitch": "",
+    "twitter": "https://twitter.com/satorihanavt",
+    "facebook": "",
+    "instagram": "",
+    "discord": "",
+    "other": null
+  },
+  "introButton": null,
+  "buttonGroups": [
+  ]
+}

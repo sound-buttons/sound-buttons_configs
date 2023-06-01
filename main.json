@@ -151,5 +151,18 @@
       "primary": "#FABF20",
       "secondary": "#FFE5A1"
     }
+  },
+  {
+    "name": "satorihana",
+    "fullName": "佐鳥華",
+    "fullConfigURL": "assets/configs/satorihana.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/satorihana/satorihana.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/satorihana/satorihana.png"
+    ],
+    "color": {
+      "primary": "#3B428A",
+      "secondary": "#FEB1C2"
+    }
   }
 ]
