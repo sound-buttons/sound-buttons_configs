@@ -612,6 +612,36 @@
             "start": 716.0,
             "end": 723.0
           }
+        },
+        {
+          "id": "c59a23c9-7555-4ff2-937b-e7bce6aee0bf",
+          "filename": "打呵欠.webm",
+          "text": {
+            "zh-tw": "(打呵欠)",
+            "ja": "(欠伸)"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "NvySAKZHBrw+",
+            "start": 3574.0,
+            "end": 3583.0
+          }
+        },
+        {
+          "id": "5550ff89-cfcb-4df7-8ade-52f46ad1cf20",
+          "filename": "四条蟬.webm",
+          "text": {
+            "zh-tw": "(四条蟬)",
+            "ja": "(四条蝉)"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "x_hhxx73EgA+",
+            "start": 5835.0,
+            "end": 5851.0
+          }
         }
       ]
     },
@@ -905,6 +935,36 @@
             "videoId": "7ciBRHO27hE",
             "start": 2228.0,
             "end": 2230.0
+          }
+        },
+        {
+          "id": "2480132d-c40a-49bc-96d2-96c5ab9c8a20",
+          "filename": "我是可愛的二十歲的女孩子.webm",
+          "text": {
+            "zh-tw": "我是可愛的二十歲的女孩子！",
+            "ja": "(中国語) 私は20歳の可愛い女の子です！"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VNzm-rmgdhM",
+            "start": 771.5,
+            "end": 780.0
+          }
+        },
+        {
+          "id": "d755c3e6-c577-4f8b-9897-83fdbc949835",
+          "filename": "ユリ好棒耶好棒好棒.webm",
+          "text": {
+            "zh-tw": "ユリ好棒！耶！好棒好棒！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "KObl1XJ5o70",
+            "start": 5911.4,
+            "end": 5915.0
           }
         }
       ]

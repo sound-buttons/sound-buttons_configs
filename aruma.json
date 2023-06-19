@@ -12,6 +12,7 @@
   },
   "link": {
     "youtube": "https://www.youtube.com/c/ArumaCh%E8%96%AC%E8%A2%8B%E3%82%A2%E3%83%AB%E3%83%9E",
+    "twitch": null,
     "twitter": "https://twitter.com/MinaiAlma",
     "facebook": "https://www.facebook.com/%E8%96%AC%E8%A2%8B%E3%82%A2%E3%83%AB%E3%83%9EMinai-Aruma-101882972425300",
     "instagram": "https://www.instagram.com/minaiaruma/",
@@ -2943,6 +2944,66 @@
             "videoId": "hBSaya1GQm4",
             "start": 3121.0,
             "end": 3123.0
+          }
+        },
+        {
+          "id": "218e0177-d2b3-4540-8343-a9072849418c",
+          "filename": "fe0adcb6457c424ea2feb3359e0f9f5c.webm",
+          "text": {
+            "zh-tw": "我有練新歌啊,只是我練的新歌還是舊歌啊",
+            "ja": "でも新曲練習したよ、でも新曲練習したのか、古い曲だよ"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "YZIbhqZRo9g",
+            "start": 2482.0,
+            "end": 2486.0
+          }
+        },
+        {
+          "id": "ba7d74da-16b3-4b58-baea-68891b607dc1",
+          "filename": "你沒看過魯邦也看過魯邦在路上走吧.webm",
+          "text": {
+            "zh-tw": "你沒看過魯邦，也看過魯邦在路上走吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "TNwt6f5vGvY",
+            "start": 3968.0,
+            "end": 3972.8
+          }
+        },
+        {
+          "id": "e17e7e77-1796-4418-a05b-474de9651dda",
+          "filename": "爬山算深入嗎山不就是長那樣.webm",
+          "text": {
+            "zh-tw": "爬山算深入嗎? 山不就是長那樣",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XUD6gfFrlz0",
+            "start": 4601.8,
+            "end": 4604.5
+          }
+        },
+        {
+          "id": "11d912f8-f576-4a69-9cad-3307d94ea59d",
+          "filename": "山誒山.webm",
+          "text": {
+            "zh-tw": "山誒，山！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XUD6gfFrlz0",
+            "start": 4613.0,
+            "end": 4615.0
           }
         }
       ]
