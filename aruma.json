@@ -626,16 +626,7 @@
             "start": 3387.0,
             "end": 3395.0
           }
-        }
-      ]
-    },
-    {
-      "name": {
-        "zh-tw": "中文Ꮚ•̀ꈊ•́Ꮚ",
-        "ja": "中国語Ꮚ•̀ꈊ•́Ꮚ"
-      },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
-      "buttons": [
+        },
         {
           "id": "574535f7-c690-4d4e-b594-06bb3bd643f2",
           "filename": "我這個人做事非常效率的艦長做事非常有效路咬到.webm",
