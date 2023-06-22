@@ -642,6 +642,36 @@
             "start": 5835.0,
             "end": 5851.0
           }
+        },
+        {
+          "id": "fd847966-9640-4ab2-be6f-c2d6c7f3c5e4",
+          "filename": "4d22868172e5413dbab67b5b42e45ed5.webm",
+          "text": {
+            "zh-tw": "那個貼圖的名稱是...「阿姨哭哭」...「阿姨」是怎樣！別開玩笑了，誰設定的啊，我要把他燒死",
+            "ja": "なんだそのスタンプの名前、「(中国語)泣いている叔母さん」、「(中国語)叔母さん」てどういうこと、ふざけんなよ、誰だよそれ設定したの、火あぶりにしてやる"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "J7vs2yr0R18",
+            "start": 260.0,
+            "end": 278.0
+          }
+        },
+        {
+          "id": "0e8b3b5f-87e7-41eb-868d-0198cf7254a4",
+          "filename": "誰啊給我道歉對啊道歉不原諒你喔.webm",
+          "text": {
+            "zh-tw": "(誰啊！給我道歉！) 對啊，道歉！不原諒你喔！",
+            "ja": "誰だ謝れ!そうだ謝れ!許さんぞ!"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "J7vs2yr0R18",
+            "start": 287.0,
+            "end": 292.0
+          }
         }
       ]
     },
@@ -966,6 +996,36 @@
             "start": 5911.4,
             "end": 5915.0
           }
+        },
+        {
+          "id": "d74c90a4-75f7-4d77-849e-b89c86baf562",
+          "filename": "你的罪_638230164514222139.webm",
+          "text": {
+            "zh-tw": "你的罪！",
+            "ja": "あなたの罪よ！"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "J7vs2yr0R18",
+            "start": 346.0,
+            "end": 349.0
+          }
+        },
+        {
+          "id": "770c9cb5-cc1b-4819-bd98-3ea5c2515b2c",
+          "filename": "ユリ是可愛的20歲的女孩阿姊女孩阿姊.webm",
+          "text": {
+            "zh-tw": "ユリ是、可愛的20歲的、女孩阿姊！女孩阿姊！",
+            "ja": "(中国語) ユリは、可愛い20歳の女の子お姉ちゃん！女の子お姉ちゃん"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "J7vs2yr0R18",
+            "start": 447.0,
+            "end": 458.0
+          }
         }
       ]
     },
@@ -1043,6 +1103,21 @@
             "videoId": "ZE46sgAbVuc",
             "start": 4681.0,
             "end": 4709.0
+          }
+        },
+        {
+          "id": "064737d8-708a-4e15-bafb-7fe7c02b96cc",
+          "filename": "HelloKitty的歌.webm",
+          "text": {
+            "zh-tw": "(Hello Kitty的歌)",
+            "ja": "（ハローキティの歌）"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "J7vs2yr0R18",
+            "start": 1474.0,
+            "end": 1509.0
           }
         }
       ]
