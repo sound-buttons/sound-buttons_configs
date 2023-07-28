@@ -13,6 +13,7 @@
   },
   "link": {
     "youtube": "https://www.youtube.com/@SuzukazeShitora",
+    "twitch": null,
     "twitter": "https://twitter.com/suzukazeshitora",
     "facebook": "https://www.facebook.com/shinengumivtg",
     "instagram": "",
@@ -280,6 +281,21 @@
             "videoId": "1Q8by46Sr_w",
             "start": 2912.0,
             "end": 2917.0
+          }
+        },
+        {
+          "id": "1274491d-69f4-4c4e-adcf-c454c7053670",
+          "filename": "ばかやろう.webm",
+          "text": {
+            "zh-tw": "ばかやろう！！",
+            "ja": "ばかやろう！！"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_GeJmF1qiMY",
+            "start": 3612.0,
+            "end": 3614.0
           }
         }
       ]

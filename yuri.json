@@ -672,6 +672,66 @@
             "start": 287.0,
             "end": 292.0
           }
+        },
+        {
+          "id": "6ff988ac-c0ee-4e05-95e1-93216121c5c3",
+          "filename": "くしゃみ助かる.webm",
+          "text": {
+            "zh-tw": "くしゃみ助かる",
+            "ja": "くしゃみ助かる"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "OrxNgd9feqg",
+            "start": 836.0,
+            "end": 843.0
+          }
+        },
+        {
+          "id": "c80f1f91-bd3e-4a9a-a492-ffdac4687238",
+          "filename": "唱歌唱錯了.webm",
+          "text": {
+            "zh-tw": "(唱歌唱錯了)",
+            "ja": "(歌い間違えた)"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "OrxNgd9feqg",
+            "start": 2348.0,
+            "end": 2357.0
+          }
+        },
+        {
+          "id": "e9ebe2d0-1d2b-47f3-8f3c-2ceff996efc3",
+          "filename": "嘛嘛.webm",
+          "text": {
+            "zh-tw": "嘛嘛",
+            "ja": "まあまあ"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "OrxNgd9feqg",
+            "start": 2422.0,
+            "end": 2429.0
+          }
+        },
+        {
+          "id": "f156c565-5d03-4325-9a1e-fb0b421d53e6",
+          "filename": "阿姨哭哭.webm",
+          "text": {
+            "zh-tw": "阿姨哭哭",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Z1QqfYD1E6c",
+            "start": 7659.689,
+            "end": 7711.496
+          }
         }
       ]
     },
@@ -1026,6 +1086,51 @@
             "start": 447.0,
             "end": 458.0
           }
+        },
+        {
+          "id": "d19d4256-8970-4163-9bb5-91785fda727e",
+          "filename": "累死了.webm",
+          "text": {
+            "zh-tw": "累死了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "OrxNgd9feqg",
+            "start": 8505.5,
+            "end": 8507.0
+          }
+        },
+        {
+          "id": "0f524088-9c99-4473-9b9f-68807b443c7d",
+          "filename": "太累了太累了.webm",
+          "text": {
+            "zh-tw": "太累了！太累了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "OrxNgd9feqg",
+            "start": 8469.0,
+            "end": 8475.0
+          }
+        },
+        {
+          "id": "abd5e499-d9a9-45ad-bb3b-a59947b06bd9",
+          "filename": "不哭不哭眼淚是珍珠.webm",
+          "text": {
+            "zh-tw": "不哭不哭，眼淚是珍珠",
+            "ja": "泣かない、泣かない、真珠のような涙"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     },
@@ -1118,6 +1223,21 @@
             "videoId": "J7vs2yr0R18",
             "start": 1474.0,
             "end": 1509.0
+          }
+        },
+        {
+          "id": "8239ad04-290e-45d2-94f1-a4630b929439",
+          "filename": "アイドル.webm",
+          "text": {
+            "zh-tw": "アイドル ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "J7vs2yr0R18",
+            "start": 1668.0,
+            "end": 1684.0
           }
         }
       ]
