@@ -124,20 +124,6 @@
     }
   },
   {
-    "name": "cynia",
-    "fullName": "欣希亞",
-    "fullConfigURL": "assets/configs/cynia.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia2.png"
-    ],
-    "color": {
-      "primary": "#9362AA",
-      "secondary": "#BF8AD7"
-    }
-  },
-  {
     "name": "yoshika",
     "fullName": "よしか YOSHIKA⁂",
     "fullConfigURL": "assets/configs/yoshika.json",
@@ -149,6 +135,20 @@
     "color": {
       "primary": "#8C6956",
       "secondary": "#701514"
+    }
+  },
+  {
+    "name": "cynia",
+    "fullName": "欣希亞",
+    "fullConfigURL": "assets/configs/cynia.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/cynia/cynia2.png"
+    ],
+    "color": {
+      "primary": "#9362AA",
+      "secondary": "#BF8AD7"
     }
   },
   {
