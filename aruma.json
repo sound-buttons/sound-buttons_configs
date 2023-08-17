@@ -4958,6 +4958,21 @@
             "start": 3078.0,
             "end": 3087.0
           }
+        },
+        {
+          "id": "b1a09842-548f-47aa-acfb-d8f527228bf9",
+          "filename": "電梯是假的電梯地板崩落尖叫.webm",
+          "text": {
+            "zh-tw": "電梯....是假的電梯....(地板崩落+尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "4qFH7_fog2I",
+            "start": 7512.0,
+            "end": 7529.0
+          }
         }
       ]
     },

@@ -722,8 +722,8 @@
           "id": "f156c565-5d03-4325-9a1e-fb0b421d53e6",
           "filename": "阿姨哭哭.webm",
           "text": {
-            "zh-tw": "阿姨哭哭",
-            "ja": ""
+            "zh-tw": "(粉絲取名為「Yuri阿姨哭哭」)",
+            "ja": "(ファンの名前は「Yuriおばさん泣き泣き」)"
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -731,6 +731,21 @@
             "videoId": "Z1QqfYD1E6c",
             "start": 7659.689,
             "end": 7711.496
+          }
+        },
+        {
+          "id": "89a41e69-65fa-4fd3-b1ca-2e1a16545c27",
+          "filename": "結束招呼.webm",
+          "text": {
+            "zh-tw": "(結束招呼)",
+            "ja": "(終了時の挨拶)"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qyIV8BUenTk",
+            "start": 7992.0,
+            "end": 8001.0
           }
         }
       ]
