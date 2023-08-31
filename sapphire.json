@@ -747,6 +747,285 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "25c3d9f0-654e-4285-9a78-93ca5951998f",
+          "filename": "nanana.webm",
+          "text": {
+            "zh-tw": "nanana ♫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "1878e16a-696c-4677-a831-dab7806c5889",
+          "filename": "ㄟ.webm",
+          "text": {
+            "zh-tw": "ㄟ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "787b69f2-1e19-4c23-af1b-31a91ffb9e01",
+          "filename": "ㄟ爸.webm",
+          "text": {
+            "zh-tw": "ㄟ爸",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "ef1c4ec6-73ee-44dc-9368-3fed5d7ad64f",
+          "filename": "八嘎節已經過了.webm",
+          "text": {
+            "zh-tw": "八嘎節已經過了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "c90983e0-81e1-4f2e-bc63-b310a83c080c",
+          "filename": "厄.webm",
+          "text": {
+            "zh-tw": "厄~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "74766491-74a0-44d9-b708-eb3e4c2b6bf5",
+          "filename": "可以了吧.webm",
+          "text": {
+            "zh-tw": "可以了吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "1af0d6a7-c830-4697-b370-1afbfe807f27",
+          "filename": "安捏甘ㄟ送.webm",
+          "text": {
+            "zh-tw": "安捏甘ㄟ送",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "ecabf495-97cd-47fa-9a15-8afb2dc8c1a9",
+          "filename": "安捏甘五送.webm",
+          "text": {
+            "zh-tw": "安捏甘五送",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "9cc87a36-6558-4555-8001-b3c1e8997bf2",
+          "filename": "有很多東西不可以吧.webm",
+          "text": {
+            "zh-tw": "有很多東西不可以吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "94f5769f-e4ba-4904-8521-666cd454885a",
+          "filename": "你們在對一個寶箱怪要感情.webm",
+          "text": {
+            "zh-tw": "你們在對一個寶箱怪要感情",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "40f66f8a-69f2-4f0d-89e8-d876b9c2f055",
+          "filename": "我就迷惑.webm",
+          "text": {
+            "zh-tw": "我就迷惑",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "4d2221ad-5987-4773-a7bb-3e3368c485e3",
+          "filename": "阿還敢催阿.webm",
+          "text": {
+            "zh-tw": "阿還敢催阿",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "09a53ce0-1922-401b-beac-a017077c10bb",
+          "filename": "催什麼咧阿催什麼咧.webm",
+          "text": {
+            "zh-tw": "催什麼咧，阿，催什麼咧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "22cdb890-9bfa-4bf3-87cc-29e7b21d5174",
+          "filename": "恩亨.webm",
+          "text": {
+            "zh-tw": "恩...亨~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "555618af-d7fa-4348-87e2-4e5c8fd84d66",
+          "filename": "夠了吧.webm",
+          "text": {
+            "zh-tw": "夠了吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "告白",
+        "ja": "告白"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/sapphire/",
+      "buttons": [
+        {
+          "id": "99011f8b-8c04-46cc-b1e3-b006c6f255cd",
+          "filename": "對阿竹的告白台詞.webm",
+          "text": {
+            "zh-tw": "對阿竹的告白台詞",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "a6a99853-944d-436b-8b22-d99da458b83d",
+          "filename": "阿竹我喜歡你.webm",
+          "text": {
+            "zh-tw": "阿竹，我喜歡你",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "736465c5-6d58-4540-bd29-df0da2d9e544",
+          "filename": "我喜歡你.webm",
+          "text": {
+            "zh-tw": "我喜歡你",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     }

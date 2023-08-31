@@ -708,7 +708,7 @@
           "filename": "嘛嘛.webm",
           "text": {
             "zh-tw": "嘛嘛",
-            "ja": "まあまあ"
+            "ja": "まあまあまあ"
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -722,8 +722,8 @@
           "id": "f156c565-5d03-4325-9a1e-fb0b421d53e6",
           "filename": "阿姨哭哭.webm",
           "text": {
-            "zh-tw": "(粉絲取名為「Yuri阿姨哭哭」)",
-            "ja": "(ファンの名前は「Yuriおばさん泣き泣き」)"
+            "zh-tw": "阿姨哭哭",
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -738,7 +738,7 @@
           "filename": "結束招呼.webm",
           "text": {
             "zh-tw": "(結束招呼)",
-            "ja": "(終了時の挨拶)"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -746,6 +746,96 @@
             "videoId": "qyIV8BUenTk",
             "start": 7992.0,
             "end": 8001.0
+          }
+        },
+        {
+          "id": "17a40ad9-43e1-4e44-a39e-6d65fa1ee19d",
+          "filename": "花心浮氣花心啊你花心了名字掛著YDD去花心了啊完全沒關係的沒辦法花心是沒辦法的.webm",
+          "text": {
+            "zh-tw": "(花心=浮氣) 「花心」！啊，你花心了！名字掛著YDD去花心了啊！完全沒關係的！沒辦法，花心是沒辦法的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 735.7,
+            "end": 748.0
+          }
+        },
+        {
+          "id": "b325f206-2afe-4ffe-b10b-81c8c2b63c7b",
+          "filename": "姊姊去年也說是二十歲永遠的二十歲永遠的.webm",
+          "text": {
+            "zh-tw": "(姊姊去年也說是二十歲) 永遠的二十歲！永遠的！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 2054.0,
+            "end": 2062.3
+          }
+        },
+        {
+          "id": "ca33a857-3832-4e33-bfbc-b8f766e807e6",
+          "filename": "IcanspeaklittlelittlelittleChinese.webm",
+          "text": {
+            "zh-tw": "I can speak little little little Chinese.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 5361.0,
+            "end": 5367.0
+          }
+        },
+        {
+          "id": "2084c19a-0692-4e3c-99b2-85df0ac98f3f",
+          "filename": "我喜歡其它女人名那個女人是誰那是誰啊喂那個人是誰是在說別的女人的事嗎.webm",
+          "text": {
+            "zh-tw": "(我喜歡(其它女人名)) 那個女人是誰！那是誰啊！喂，那個人是誰，是在說別的女人的事嗎！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 8295.0,
+            "end": 8313.0
+          }
+        },
+        {
+          "id": "2c933051-1fc1-43bd-ab2f-4af9a80f529c",
+          "filename": "不要在這裡說其它女人的事那是誰啦.webm",
+          "text": {
+            "zh-tw": "不要在這裡說其它女人的事！那是誰啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 8321.0,
+            "end": 8329.0
+          }
+        },
+        {
+          "id": "c332171c-349d-485e-917a-9f96f2eba8f8",
+          "filename": "ユリ最喜歡了親親是在敷衍我嗎在敷衍我啊哼.webm",
+          "text": {
+            "zh-tw": "(ユリ最喜歡了親親) 你在試圖掩飾啊? 你在試圖掩飾啊！哼～",
+            "ja": "(ユリちゃんツキツキチュッチュッ) ごまかそうとしてるな、ごまかそうとしてるな！ ふーん～"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 8354.0,
+            "end": 8363.0
           }
         }
       ]
@@ -1145,6 +1235,66 @@
             "videoId": "",
             "start": 0.0,
             "end": 0.0
+          }
+        },
+        {
+          "id": "9148123d-2a30-4d0b-975e-64888447249c",
+          "filename": "我花心誒花心是什麼意思花心.webm",
+          "text": {
+            "zh-tw": "(我花心) 誒，花心是什麼意思? 「花心」",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 711.0,
+            "end": 718.0
+          }
+        },
+        {
+          "id": "9a3433c8-a296-490c-b402-47209e44fe46",
+          "filename": "二十歲可愛的女孩子.webm",
+          "text": {
+            "zh-tw": "二十歲、可愛的女孩子！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 1985.0,
+            "end": 1991.0
+          }
+        },
+        {
+          "id": "77f7babf-b3be-4e49-aa30-15c21cc5ee11",
+          "filename": "不要工作.webm",
+          "text": {
+            "zh-tw": "不要工作！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 2083.7,
+            "end": 2085.0
+          }
+        },
+        {
+          "id": "2c22330c-409a-476d-8cab-d5fde0c943b2",
+          "filename": "不工作沒錢錢.webm",
+          "text": {
+            "zh-tw": "不工作，沒錢錢！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "l6VLl2bBVog",
+            "start": 2159.0,
+            "end": 2166.0
           }
         }
       ]

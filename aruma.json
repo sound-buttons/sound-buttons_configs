@@ -3206,6 +3206,126 @@
             "start": 1176.0,
             "end": 1179.0
           }
+        },
+        {
+          "id": "e4cab759-be5f-45ff-bdbe-a5d6de7efad8",
+          "filename": "哥哥不要擅自使用我的帳號啦喂.webm",
+          "text": {
+            "zh-tw": "哥哥！不要擅自使用我的帳號啦！喂！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 296.0,
+            "end": 305.0
+          }
+        },
+        {
+          "id": "c496a9e9-b84f-4f7b-bc80-cc199e1a3ae3",
+          "filename": "啊這傢伙是誰啊.webm",
+          "text": {
+            "zh-tw": "啊？這傢伙是誰啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 312.0,
+            "end": 315.0
+          }
+        },
+        {
+          "id": "2e6d28a5-f4a9-4c49-b188-fcf99b9c328b",
+          "filename": "請大家不要檢舉我大家不要去檢舉我就沒事了.webm",
+          "text": {
+            "zh-tw": "請大家不要檢舉我！大家不要去檢舉我就沒事了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 394.0,
+            "end": 400.7
+          }
+        },
+        {
+          "id": "cd80beda-2e51-49d5-b2d7-a6bd8d93648d",
+          "filename": "什麼東西為什麼那麼多個草啊我覺得我很認真練了這首歌你們不要瞧不起我我覺得我很認真練了好不好.webm",
+          "text": {
+            "zh-tw": "什麼東西為什麼那麼多個「草」啊，我覺得我很認真練了這首歌！你們不要瞧不起我，我覺得我很認真練了好不好",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 606.0,
+            "end": 614.0
+          }
+        },
+        {
+          "id": "1e1793c7-22c6-44e2-a1f4-906991241bd1",
+          "filename": "SawaSawa.webm",
+          "text": {
+            "zh-tw": "Sawa Sawa~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 1080.6,
+            "end": 1083.9
+          }
+        },
+        {
+          "id": "13bc155e-968f-4a60-82ba-2b1c21a19199",
+          "filename": "SawaSawa_638286444081355826.webm",
+          "text": {
+            "zh-tw": "Sawa Sawa~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 1089.3,
+            "end": 1091.8
+          }
+        },
+        {
+          "id": "e393d1e2-a50b-4a38-ba66-a7027704654d",
+          "filename": "詳細呢明天的董事會大家就會知道了我會來跟你們好好的分享發生什麼事情.webm",
+          "text": {
+            "zh-tw": "詳細呢，明天的董事會大家就會知道了。我會來跟你們好好的分享發生什麼事情",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 1608.0,
+            "end": 1616.0
+          }
+        },
+        {
+          "id": "569e70e0-ea9a-4391-8410-8f851b3a346c",
+          "filename": "艦長雖然會寫漢字但是唸不出來哈哈ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "艦長雖然會寫漢字，但是唸不出來哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 1760.0,
+            "end": 1767.0
+          }
         }
       ]
     },
@@ -4843,6 +4963,21 @@
             "videoId": "iDN-xb_ePBc",
             "start": 866.0,
             "end": 873.0
+          }
+        },
+        {
+          "id": "479fe4c2-be6d-4b3b-951f-5830636547fe",
+          "filename": "總比我們的營運好吧我們營運才不會幫我幹這些事情好不好.webm",
+          "text": {
+            "zh-tw": "總比我們的營運好吧，我們營運才不會幫我幹這些事情好不好",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HvrDr-wjZwg",
+            "start": 413.0,
+            "end": 419.0
           }
         }
       ]
