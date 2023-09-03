@@ -3327,6 +3327,201 @@
             "start": 1760.0,
             "end": 1767.0
           }
+        },
+        {
+          "id": "04a381e8-ae8f-4a28-ad2d-f23168a73802",
+          "filename": "你們覺得我還記得嗎我覺得應該不記得2.webm",
+          "text": {
+            "zh-tw": "你們覺得我還記得嗎? 我覺得應該不記得*2",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CHSEhhQn1SQ",
+            "start": 8635.0,
+            "end": 8644.0
+          }
+        },
+        {
+          "id": "f2b97f6c-a546-4d87-9826-b652acdb59d2",
+          "filename": "沒有錢就不要去玩一些自己玩不起的東西沒事呢不要去借什麼信貸啊高利貸啊你有一天會滾啊滾啊滾啊然後就是還不起之類的知道嗎.webm",
+          "text": {
+            "zh-tw": "沒有錢就不要去玩一些自己玩不起的東西，沒事呢不要去借什麼信貸啊高利貸啊，你有一天會滾啊滾啊滾啊，然後就是還不起之類的知道嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 7220.0,
+            "end": 7236.0
+          }
+        },
+        {
+          "id": "c252eba0-efaa-4bfb-9b27-cb8ea7a6225a",
+          "filename": "以上純屬虛構如有雷同純屬巧合.webm",
+          "text": {
+            "zh-tw": "以上純屬虛構，如有雷同純屬巧合",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 7370.0,
+            "end": 7376.8
+          }
+        },
+        {
+          "id": "e656e306-c092-49ef-b8fa-6ab4a77ddc31",
+          "filename": "艦長我SC可以用身體來付嗎我才不要勒.webm",
+          "text": {
+            "zh-tw": "(艦長我SC可以用身體來付嗎?) 我才不要勒！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 5143.0,
+            "end": 5145.0
+          }
+        },
+        {
+          "id": "e3619657-c3a4-4428-ae24-6697c5bb92d8",
+          "filename": "日文為什麼被綠了一定是因為A哥的雞雞比較大我想是這樣.webm",
+          "text": {
+            "zh-tw": "(日文) 為什麼被綠了，一定是因為A哥的雞雞比較大！我想是這樣",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 2635.0,
+            "end": 2647.0
+          }
+        },
+        {
+          "id": "6bdb98db-098b-4b47-a0f5-d79b130971ed",
+          "filename": "社會在走基本行情要有.webm",
+          "text": {
+            "zh-tw": "社會在走，基本行情要有",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 2718.0,
+            "end": 2722.0
+          }
+        },
+        {
+          "id": "d676dcd3-3cbc-41d6-944e-3832645b41d1",
+          "filename": "戀愛這種事和你一起做才有意思.webm",
+          "text": {
+            "zh-tw": "戀愛這種事，和你一起做才有意思",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 1668.0,
+            "end": 1673.0
+          }
+        },
+        {
+          "id": "742fb8e7-9818-428b-a12e-0afa81329590",
+          "filename": "五萬塊新台幣就買個妹子很划算好不好你們五萬塊投Vtuber可能都還不是你們的女朋友誒倒吸口氣我這樣是不是毀行情啊沒有沒有我跟你們說你們五萬塊投給Vtuber也是有機會成為女朋友的啦.webm",
+          "text": {
+            "zh-tw": "五萬塊新台幣就買個妹子很划算好不好! 你們五萬塊投Vtuber可能都還不是你們的女朋友誒...(倒吸口氣)我這樣是不是毀行情啊! 沒有沒有我跟你們說你們五萬塊投給Vtuber也是有機會成為女朋友的啦!!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 1507.5,
+            "end": 1527.0
+          }
+        },
+        {
+          "id": "a14ae9a2-ed5f-4b6e-a662-89b83939c1ae",
+          "filename": "不要不要不要當我剛剛沒說不要啊不要啊求求你們不要啊我可以回收剛剛的話嗎.webm",
+          "text": {
+            "zh-tw": "不要不要不要當我剛剛沒說，不要啊不要啊求求你們不要啊！我可以回收剛剛的話嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 1529.0,
+            "end": 1537.0
+          }
+        },
+        {
+          "id": "4cab2180-6e74-40ae-a213-64e859bb9b2b",
+          "filename": "我沒有錢啊.webm",
+          "text": {
+            "zh-tw": "我沒有錢啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 1408.0,
+            "end": 1410.0
+          }
+        },
+        {
+          "id": "45e3524f-eaec-4ae7-b767-3f1dad5cebb8",
+          "filename": "甩蔥歌.webm",
+          "text": {
+            "zh-tw": "(甩蔥歌)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "76a3144d-ab9c-4360-a517-58e880404559",
+          "filename": "失敗的Zebra.webm",
+          "text": {
+            "zh-tw": "(失敗的Zebra)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "f6484b80-c5c9-4cfa-8df7-07ebf740d5ed",
+          "filename": "失敗的SweetMagic.webm",
+          "text": {
+            "zh-tw": "(失敗的Sweet Magic)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     },
@@ -4979,6 +5174,51 @@
             "videoId": "HvrDr-wjZwg",
             "start": 413.0,
             "end": 419.0
+          }
+        },
+        {
+          "id": "7a638dd3-a9dd-4136-8cbf-ec4047370cc5",
+          "filename": "幹我真的覺得你在那邊亂噴有夠低能可能只有局外人跟你那些87直男腦粉看了會高潮吧.webm",
+          "text": {
+            "zh-tw": "幹！我真的覺得你在那邊亂噴有夠低能，可能只有局外人跟你那些87直男腦粉看了會高潮吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 3053.0,
+            "end": 3059.8
+          }
+        },
+        {
+          "id": "4ca48ef4-e53c-4e94-9a04-9f1cbc264eb0",
+          "filename": "裝B小屌廢物男噢果然是小雞雞.webm",
+          "text": {
+            "zh-tw": "裝B小屌廢物男！噢~果然是小雞雞",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-pWT5PnrZfU",
+            "start": 3132.0,
+            "end": 3138.0
+          }
+        },
+        {
+          "id": "012ab7d8-c610-4c4e-b156-576424e050f3",
+          "filename": "虎子好像沒有奶子.webm",
+          "text": {
+            "zh-tw": "虎子好像沒有奶子",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ocGqOjgRFLw",
+            "start": 987.0,
+            "end": 997.0
           }
         }
       ]

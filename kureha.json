@@ -19,7 +19,21 @@
     "discord": "",
     "other": "https://kusdom.com/kureha"
   },
-  "introButton": null,
+  "introButton": {
+    "id": "e60cb21b-5244-4a5a-9ad5-4d055e2c711e",
+    "filename": "自我介紹.webm",
+    "text": {
+      "zh-tw": "自我介紹",
+      "ja": "自己紹介"
+    },
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kureha/",
+    "volume": 1,
+    "source": {
+      "videoId": "UFuq4wXxhTI",
+      "start": 140,
+      "end": 163
+    }
+  },
   "buttonGroups": [
     {
       "name": {
@@ -27,7 +41,122 @@
         "ja": "🍁花咲くれは🍡"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kureha/",
-      "buttons": []
+      "buttons": [
+        {
+          "id": "e60cb21b-5244-4a5a-9ad5-4d055e2c711e",
+          "filename": "自我介紹.webm",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 140,
+            "end": 163
+          }
+        },
+        {
+          "id": "2065c458-6b04-4cae-a821-2c2758ee5477",
+          "filename": "60G太多了吧.webm",
+          "text": {
+            "zh-tw": "60G太多了吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GMmixh8t5hI",
+            "start": 12174.5,
+            "end": 12177
+          }
+        },
+        {
+          "id": "8df2e239-a5e1-4a22-8e37-74990eb5c5a2",
+          "filename": "啟動.webm",
+          "text": {
+            "zh-tw": "啟動！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GMmixh8t5hI",
+            "start": 11762.3,
+            "end": 11764
+          }
+        },
+        {
+          "id": "d7b55fff-8832-4856-a074-41790c4601ef",
+          "filename": "乾脆合在一起玩健身環的節奏遊戲啊笑.webm",
+          "text": {
+            "zh-tw": "(乾脆合在一起玩健身環的節奏遊戲) 啊? (笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GMmixh8t5hI",
+            "start": 11766,
+            "end": 11774
+          }
+        },
+        {
+          "id": "d89902e1-d088-45b9-a3a9-bc73ea53958e",
+          "filename": "它是糰子請多指教效果音.webm",
+          "text": {
+            "zh-tw": "它是糰子，請多指教！ (效果音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "GMmixh8t5hI",
+            "start": 9563,
+            "end": 9573
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "大叫 (注意音量)",
+        "ja": "悲鳴 (音量注意)"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kureha/",
+      "buttons": [
+        {
+          "id": "670764c6-decc-4e55-8dbc-acbcef337b19",
+          "filename": "被效果音嚇到.webm",
+          "text": {
+            "zh-tw": "(被效果音嚇到)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gsb_zb2sBMw",
+            "start": 623.265,
+            "end": 640.871
+          }
+        },
+        {
+          "id": "57659e25-263d-41ca-84ef-6bba61a095a9",
+          "filename": "読み込み中載入中LOADINGERROR等一下.webm",
+          "text": {
+            "zh-tw": "読み込み中~~ 載入中....LOADING ERROR！ 等一下",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "gsb_zb2sBMw",
+            "start": 760.214,
+            "end": 776.191
+          }
+        }
+      ]
     }
   ]
 }
