@@ -1,0 +1,33 @@
+{
+  "name": "kureha",
+  "fullName": "花咲くれは",
+  "fullConfigURL": "assets/configs/kureha.json",
+  "imgSrc": [
+    "https://soundbuttons.azureedge.net/sound-buttons/kureha/kureha.png"
+  ],
+  "intro": "紅葉精靈花咲くれは（Hanasaki Kureha）！！\n個人Vtuberです！！\n食べ物大好きよろしく！！",
+  "color": {
+    "primary": "#C45565",
+    "secondary": "#FDD4E7"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/@kureha_1130",
+    "twitch": "",
+    "twitter": "https://twitter.com/_KRHana",
+    "facebook": "",
+    "instagram": "",
+    "discord": "",
+    "other": "https://kusdom.com/kureha"
+  },
+  "introButton": null,
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "🍁花咲くれは🍡",
+        "ja": "🍁花咲くれは🍡"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kureha/",
+      "buttons": []
+    }
+  ]
+}
