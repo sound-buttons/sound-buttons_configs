@@ -297,6 +297,36 @@
             "start": 3612.0,
             "end": 3614.0
           }
+        },
+        {
+          "id": "7457eeec-cc37-40c8-8830-48f7b8617393",
+          "filename": "不可以胚囉.webm",
+          "text": {
+            "zh-tw": "不可以胚囉",
+            "ja": "ペロペロX"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Noo4hbLU1s0",
+            "start": 3069.0,
+            "end": 3074.0
+          }
+        },
+        {
+          "id": "352fcb12-5583-45d1-8eb8-eba248048b62",
+          "filename": "五嗚五嗚.webm",
+          "text": {
+            "zh-tw": "五嗚~五嗚",
+            "ja": "う～う"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "pWDrp4Z2glk",
+            "start": 4779.0,
+            "end": 4787.5
+          }
         }
       ]
     },
@@ -1070,6 +1100,21 @@
             "videoId": "qYlDiR2ijpE",
             "start": 6808.0,
             "end": 6816.0
+          }
+        },
+        {
+          "id": "7b33b28a-09ea-43a4-b3e4-ff9b00ff9c3f",
+          "filename": "哥哥.webm",
+          "text": {
+            "zh-tw": "哥哥",
+            "ja": "兄"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "brGsEbOOo68",
+            "start": 5443.0,
+            "end": 5444.8
           }
         }
       ]
