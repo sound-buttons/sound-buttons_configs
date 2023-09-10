@@ -87,19 +87,6 @@
     }
   },
   {
-    "name": "sapphire",
-    "fullName": "賽菲爾",
-    "fullConfigURL": "assets/configs/sapphire.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/sapphire/sapphire.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/sapphire/sapphire.png"
-    ],
-    "color": {
-      "primary": "#3B428A",
-      "secondary": "#FEB1C2"
-    }
-  },
-  {
     "name": "kureha",
     "fullName": "花咲くれは",
     "fullConfigURL": "assets/configs/kureha.json",
@@ -110,6 +97,19 @@
     "color": {
       "primary": "#C45565",
       "secondary": "#FDD4E7"
+    }
+  },
+  {
+    "name": "sapphire",
+    "fullName": "賽菲爾",
+    "fullConfigURL": "assets/configs/sapphire.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/sapphire/sapphire.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/sapphire/sapphire.png"
+    ],
+    "color": {
+      "primary": "#3B428A",
+      "secondary": "#FEB1C2"
     }
   },
   {
