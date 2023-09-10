@@ -3522,6 +3522,21 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "68d924e2-676e-4f7f-9899-bdb779468d5f",
+          "filename": "屋頂OnlyUp改詞.webm",
+          "text": {
+            "zh-tw": "(屋頂 - Only Up 改詞)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "r5CIFeainI8",
+            "start": 12881.0,
+            "end": 12940.0
+          }
         }
       ]
     },
@@ -4235,6 +4250,21 @@
             "videoId": "",
             "start": 0.0,
             "end": 0.0
+          }
+        },
+        {
+          "id": "7481f44a-8adc-4ee8-a7eb-4f31609d4123",
+          "filename": "吃的啊哈哈ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "吃的 啊哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "5odue1vFfyw",
+            "start": 5936.0,
+            "end": 5940.0
           }
         }
       ]
@@ -5348,6 +5378,36 @@
             "videoId": "4qFH7_fog2I",
             "start": 7512.0,
             "end": 7529.0
+          }
+        },
+        {
+          "id": "a8bcc0df-e81d-4bea-baf4-0eabcb838574",
+          "filename": "啊等下為什麼掉下去了等一下這什麼東西.webm",
+          "text": {
+            "zh-tw": "啊等下為什麼掉下去了！等一下這什麼東西！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "r5CIFeainI8",
+            "start": 7077.0,
+            "end": 7082.0
+          }
+        },
+        {
+          "id": "8273ed28-2739-4463-97b9-dfc4b87347a9",
+          "filename": "艦長安安晚上好歡迎來到今天折磨你也折磨我的幸福的OnlyUp台慘叫為什麼我覺得我今天明明就ry.webm",
+          "text": {
+            "zh-tw": "(艦長安安) 晚上好，歡迎來到今天折磨你也折磨我的幸福的Only Up台 (慘叫) 為~什~麼~我覺得我今天明明就...(ry",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "r5CIFeainI8",
+            "start": 5053.0,
+            "end": 5078.0
           }
         }
       ]

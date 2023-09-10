@@ -596,6 +596,306 @@
             "start": 4262.0,
             "end": 4278.0
           }
+        },
+        {
+          "id": "5a272216-e6e5-4fe8-8a78-d8cae2d766c9",
+          "filename": "你們下半年的目標就是好好活下去.webm",
+          "text": {
+            "zh-tw": "你們下半年的目標就是好好活下去",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5130.0,
+            "end": 5135.0
+          }
+        },
+        {
+          "id": "7f808791-0b60-4c3b-a31e-d635dc7e13b6",
+          "filename": "看不懂看不懂看不懂看不懂看不懂看不懂看不懂開心笑.webm",
+          "text": {
+            "zh-tw": "看不懂、看不懂、看不懂、看不懂、看不懂、看不懂、看不懂。(開心笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5184.0,
+            "end": 5189.0
+          }
+        },
+        {
+          "id": "5efb9d2f-3192-4d13-b601-79eb63050621",
+          "filename": "可愛的rere.webm",
+          "text": {
+            "zh-tw": "可愛的rere",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5354.0,
+            "end": 5356.0
+          }
+        },
+        {
+          "id": "fb355809-010f-444d-b007-7c1c94766b69",
+          "filename": "鬧鐘rere.webm",
+          "text": {
+            "zh-tw": "(鬧鐘rere)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5361.0,
+            "end": 5393.0
+          }
+        },
+        {
+          "id": "86a6b0de-88b5-4d13-8a65-cbdc42be755c",
+          "filename": "不能吃太胖喔會被殺掉的哈哈哈哈笑.webm",
+          "text": {
+            "zh-tw": "不能吃太胖喔！會被殺掉的哈哈哈哈！(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5421.0,
+            "end": 5425.0
+          }
+        },
+        {
+          "id": "c0993386-c254-437a-87fc-693cb1411ff8",
+          "filename": "臭DD.webm",
+          "text": {
+            "zh-tw": "臭DD~~！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5561.0,
+            "end": 5564.8
+          }
+        },
+        {
+          "id": "39ce4426-8eb7-4c05-84e0-816d2c061af9",
+          "filename": "第一次覺得rere撒嬌時有異性的可愛誒你平常把我當什麼弟弟喔喔小動物那就好我還以為你把我當弟弟耶.webm",
+          "text": {
+            "zh-tw": "(第一次覺得rere撒嬌時有異性的可愛) 誒，你平常把我當什麼? 弟弟喔....喔小動物，那就好，我還以為你把我當弟弟耶",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5869.0,
+            "end": 5878.0
+          }
+        },
+        {
+          "id": "2227d7a0-6861-4d39-a95b-625e906afe1b",
+          "filename": "你今天好棒好努力喔明天也要加油喔.webm",
+          "text": {
+            "zh-tw": "你今天好棒好努力喔！明天也要加油喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 6273.0,
+            "end": 6278.0
+          }
+        },
+        {
+          "id": "a11ea2a3-b438-4617-87ca-a42f403a9be2",
+          "filename": "謝謝你的提醒幫大忙了.webm",
+          "text": {
+            "zh-tw": "謝謝你的提醒，幫大忙了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 13966.0,
+            "end": 13970.0
+          }
+        },
+        {
+          "id": "93a8ab81-0d6e-47e8-aba2-2c6101655101",
+          "filename": "歲月磨平了我們的棱角模糊了我們的形狀於是我們從形形色色的人變成了色色的人你們一直都是.webm",
+          "text": {
+            "zh-tw": "(歲月磨平了我們的棱角，模糊了我們的形狀，於是我們從形形色色的人，變成了色色的人) ...你們一直都是",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 13624.0,
+            "end": 13633.9
+          }
+        },
+        {
+          "id": "f5da4310-3df4-4c46-b6be-aa642cfead07",
+          "filename": "我的口齒有清晰嗎.webm",
+          "text": {
+            "zh-tw": "我的口齒有清晰嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 11729.3,
+            "end": 11733.0
+          }
+        },
+        {
+          "id": "0210c235-dcef-4a4e-b56c-108029e9bb6c",
+          "filename": "笑爛草.webm",
+          "text": {
+            "zh-tw": "(笑爛) 草",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 11735.3,
+            "end": 11759.0
+          }
+        },
+        {
+          "id": "387da258-546e-40c3-85e6-a51570024c4c",
+          "filename": "QQㄋㄟㄋㄟ好喝到咩噗茶講出來.webm",
+          "text": {
+            "zh-tw": "​QQㄋㄟㄋㄟ好喝到咩噗茶......講出來！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 2194.0,
+            "end": 2202.0
+          }
+        },
+        {
+          "id": "ed7df4e9-5b4d-4832-9afa-f54023da4cfa",
+          "filename": "我超級喜歡吃花枝丸的喔.webm",
+          "text": {
+            "zh-tw": "我超~級喜歡吃花枝丸的喔~~！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 2240.3,
+            "end": 2245.0
+          }
+        },
+        {
+          "id": "47b1c4ba-6d96-4fda-a7f1-a7fbc26e66cb",
+          "filename": "rere今天好美只有今天嗎哇你不愛我了笑.webm",
+          "text": {
+            "zh-tw": "(rere今天好美) 只有今天嗎? 哇，你不愛我了 (笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 477.0,
+            "end": 482.0
+          }
+        },
+        {
+          "id": "8762c6dd-4487-4896-a704-e0c89f8a09ea",
+          "filename": "罪惡感沒了終於我也墮落了嗎.webm",
+          "text": {
+            "zh-tw": "罪惡感沒了...終於，我也墮落了嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 902.0,
+            "end": 908.0
+          }
+        },
+        {
+          "id": "47e37f9d-47fc-40be-b288-c5de4ae03b61",
+          "filename": "今天Happy的人舉手ωノ.webm",
+          "text": {
+            "zh-tw": "今天Happy的人舉手！(๑•̀ω•́)ノ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 1083.0,
+            "end": 1086.0
+          }
+        },
+        {
+          "id": "d7208091-948d-4b54-912e-dbb41a692997",
+          "filename": "有rere就治癒了那真是讚這樣你的人生會過得很快樂.webm",
+          "text": {
+            "zh-tw": "(有rere就治癒了) 那真是....讚！這樣你的人生會過得很快樂",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 1216.0,
+            "end": 1224.0
+          }
+        },
+        {
+          "id": "b5a054ef-c672-4ad4-95df-2394c822d5bf",
+          "filename": "吃餅乾的聲音.webm",
+          "text": {
+            "zh-tw": "(吃餅乾的聲音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "D9QdgnminV0",
+            "start": 1395.0,
+            "end": 1407.0
+          }
+        },
+        {
+          "id": "ef2fa033-5ef2-422a-b79b-72bd5e776cd5",
+          "filename": "日文你給我閉嘴.webm",
+          "text": {
+            "zh-tw": "(日文) 你給我閉嘴",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Y-bQshodMbU",
+            "start": 5443.0,
+            "end": 5449.0
+          }
         }
       ]
     },
@@ -709,6 +1009,66 @@
             "videoId": "UFuq4wXxhTI",
             "start": 4782.0,
             "end": 4812.0
+          }
+        },
+        {
+          "id": "55d714c0-0e09-4ef2-afa2-674472ec344f",
+          "filename": "日文rere鼓勵和支持你.webm",
+          "text": {
+            "zh-tw": "(日文rere鼓勵和支持你)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5049.0,
+            "end": 5091.0
+          }
+        },
+        {
+          "id": "c8afe352-e262-49ab-acfe-9a6de0d9434c",
+          "filename": "rere抓到你DD.webm",
+          "text": {
+            "zh-tw": "(rere抓到你DD)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 5532.0,
+            "end": 5555.0
+          }
+        },
+        {
+          "id": "5be70e46-2eb3-40d7-a6be-98201b2d5fbc",
+          "filename": "撒嬌吼按讚嘛拜託啦rere想要你們按讚跟訂閱可以嗎.webm",
+          "text": {
+            "zh-tw": "(撒嬌) 吼~按讚嘛~拜託啦~rere想要你們按讚跟訂閱可以嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 6057.0,
+            "end": 6065.0
+          }
+        },
+        {
+          "id": "b0c54689-bb43-4803-b1c8-c5bd2758ead9",
+          "filename": "配信就是會留黑歷史在網路上.webm",
+          "text": {
+            "zh-tw": "配信就是會留黑歷史在網路上",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 6147.0,
+            "end": 6150.0
           }
         }
       ]
