@@ -896,6 +896,126 @@
             "start": 5443.0,
             "end": 5449.0
           }
+        },
+        {
+          "id": "770ae4e1-c963-41ee-b6c3-d7400e8c4ac5",
+          "filename": "帽子給我好嗎帽子給我好嗎噴笑.webm",
+          "text": {
+            "zh-tw": "帽子給我好嗎? 帽子給我好嗎? (噴笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Y-bQshodMbU",
+            "start": 3169.0,
+            "end": 3175.0
+          }
+        },
+        {
+          "id": "4dfb66a5-0e7d-40e1-bc4c-6e04768f8300",
+          "filename": "氣質rere氣質嗯什麼我本來就很氣質啊呵呵呵那我們要下一首歌了ですわ.webm",
+          "text": {
+            "zh-tw": "(氣質! rere氣質!) 嗯? 什麼? 我本來就很氣質啊呵呵呵！那我們要下一首歌了ですわ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Y-bQshodMbU",
+            "start": 3228.0,
+            "end": 3238.0
+          }
+        },
+        {
+          "id": "8197cb5a-1e0e-49c8-adfb-f745ab123fb7",
+          "filename": "晚上好大家晚上好.webm",
+          "text": {
+            "zh-tw": "晚上好！大家晚上好！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Y-bQshodMbU",
+            "start": 3378.0,
+            "end": 3382.0
+          }
+        },
+        {
+          "id": "9b9191d8-52a0-4ec4-9300-acbd0afb39e0",
+          "filename": "爛男人爛爛.webm",
+          "text": {
+            "zh-tw": "爛男人，爛！爛！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Y-bQshodMbU",
+            "start": 3709.0,
+            "end": 3713.0
+          }
+        },
+        {
+          "id": "a1b3097b-0805-4092-9354-61389828a583",
+          "filename": "噴嚏幫大忙.webm",
+          "text": {
+            "zh-tw": "噴嚏幫大忙",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "kOwj4ChCm8M",
+            "start": 1839.0,
+            "end": 1841.0
+          }
+        },
+        {
+          "id": "4aee5319-3c6b-41bc-8dee-a54e7d494f8a",
+          "filename": "你只要SCrere就會跟你交朋友了嗯但還是不會當你老婆.webm",
+          "text": {
+            "zh-tw": "(你只要SC rere就會跟你交朋友了) 嗯！但還是不會當你老婆",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "kOwj4ChCm8M",
+            "start": 3234.0,
+            "end": 3240.0
+          }
+        },
+        {
+          "id": "81898d30-731d-40b9-bf80-4364989533f6",
+          "filename": "成熟的聊天室請自己聊天.webm",
+          "text": {
+            "zh-tw": "成熟的聊天室請自己聊天",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "kOwj4ChCm8M",
+            "start": 3886.0,
+            "end": 3890.0
+          }
+        },
+        {
+          "id": "cb82deb9-3155-42e9-ae5b-00324ae6e602",
+          "filename": "主播你嚇到我了Yessurprise.webm",
+          "text": {
+            "zh-tw": "(主播你嚇到我了) Yes, surprise!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "kOwj4ChCm8M",
+            "start": 4361.0,
+            "end": 4365.0
+          }
         }
       ]
     },
@@ -1069,6 +1189,21 @@
             "videoId": "UFuq4wXxhTI",
             "start": 6147.0,
             "end": 6150.0
+          }
+        },
+        {
+          "id": "ac4dbedc-f7c8-4721-b88e-961b943de329",
+          "filename": "rere的懷裡很溫暖那是當然的因為是為你準備的懷抱啊哇我被自己肉麻到了.webm",
+          "text": {
+            "zh-tw": "(rere的懷裡很溫暖) 那是當然的，因為是為你準備的懷抱啊....哇我被自己肉麻到了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Y-bQshodMbU",
+            "start": 1500.4,
+            "end": 1508.7
           }
         }
       ]
