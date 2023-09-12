@@ -20,7 +20,21 @@
     "discord": "https://discord.gg/9Beemnfj",
     "other": "http://lit.link/en/EastAiruier"
   },
-  "introButton": null,
+  "introButton":         {
+          "id": "a03b91b7-47a9-449a-99bc-d42e81196f69",
+          "filename": "自我介紹.webm",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
+          "volume": 1.0,
+          "source": {
+            "videoId": "5bQ9IBK9r84",
+            "start": 651.6,
+            "end": 654.0
+          }
+        },
   "buttonGroups": [
     {
       "name": {
@@ -28,7 +42,23 @@
         "ja": "東域艾瑞兒"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
-      "buttons": []
+      "buttons": [
+        {
+          "id": "a03b91b7-47a9-449a-99bc-d42e81196f69",
+          "filename": "自我介紹.webm",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": "自己紹介"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "5bQ9IBK9r84",
+            "start": 651.6,
+            "end": 654.0
+          }
+        }
+      ]
     }
   ]
 }
