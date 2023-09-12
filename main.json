@@ -127,6 +127,20 @@
     }
   },
   {
+    "name": "airuier",
+    "fullName": "東域艾瑞兒",
+    "fullConfigURL": "assets/configs/airuier.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/airuier/airuier.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/airuier/airuier2.png",
+      "https://soundbuttons.azureedge.net/sound-buttons/airuier/airuier.png"
+    ],
+    "color": {
+      "primary": "#DF90BA",
+      "secondary": "#372A31"
+    }
+  },
+  {
     "name": "satorihana",
     "fullName": "佐鳥華",
     "fullConfigURL": "assets/configs/satorihana.json",
@@ -179,20 +193,6 @@
     "color": {
       "primary": "#FABF20",
       "secondary": "#FFE5A1"
-    }
-  },
-  {
-    "name": "airuier",
-    "fullName": "東域艾瑞兒",
-    "fullConfigURL": "assets/configs/airuier.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/airuier/airuier.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/airuier/airuier2.png",
-      "https://soundbuttons.azureedge.net/sound-buttons/airuier/airuier.png"
-    ],
-    "color": {
-      "primary": "#DF90BA",
-      "secondary": "#372A31"
     }
   }
 ]

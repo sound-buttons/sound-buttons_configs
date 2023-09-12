@@ -20,26 +20,26 @@
     "discord": "https://discord.gg/9Beemnfj",
     "other": "http://lit.link/en/EastAiruier"
   },
-  "introButton":         {
-          "id": "a03b91b7-47a9-449a-99bc-d42e81196f69",
-          "filename": "自我介紹.webm",
-          "text": {
-            "zh-tw": "自我介紹",
-            "ja": "自己紹介"
-          },
-          "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
-          "volume": 1.0,
-          "source": {
-            "videoId": "5bQ9IBK9r84",
-            "start": 651.6,
-            "end": 654.0
-          }
-        },
+  "introButton": {
+    "id": "a03b91b7-47a9-449a-99bc-d42e81196f69",
+    "filename": "自我介紹.webm",
+    "text": {
+      "zh-tw": "自我介紹",
+      "ja": "自己紹介"
+    },
+    "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
+    "volume": 1.0,
+    "source": {
+      "videoId": "5bQ9IBK9r84",
+      "start": 651.6,
+      "end": 654.0
+    }
+  },
   "buttonGroups": [
     {
       "name": {
-        "zh-tw": "東域艾瑞兒",
-        "ja": "東域艾瑞兒"
+        "zh-tw": "鵝叫",
+        "ja": "鵝叫"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
       "buttons": [
@@ -56,6 +56,243 @@
             "videoId": "5bQ9IBK9r84",
             "start": 651.6,
             "end": 654.0
+          }
+        },
+        {
+          "id": "b3d44d88-de3e-4c27-a9d7-02db6147994f",
+          "filename": "初號機咆哮.webm",
+          "text": {
+            "zh-tw": "初號機咆哮",
+            "ja": "初号機吼える"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "WYfApuBynL0",
+            "start": 4949.001,
+            "end": 4955.041
+          }
+        },
+        {
+          "id": "cfc5b34e-7e11-4bb9-99a9-5ae7b5da54d0",
+          "filename": "OK咕咕嚕.webm",
+          "text": {
+            "zh-tw": "OK 咕咕嚕",
+            "ja": "OK ぐぐる"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "7oBQe2Yptgg",
+            "start": 5748.978,
+            "end": 5754.833
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "負責可愛",
+        "ja": "負責可愛"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
+      "buttons": [
+        {
+          "id": "98fb7a50-6f54-4e40-a1d2-b74ec030658e",
+          "filename": "好香喔那個是什麼好吃嗎.webm",
+          "text": {
+            "zh-tw": "好香喔 那個是什麼 好吃嗎",
+            "ja": "いい香りですね それは何ですか おいしいですか"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "2A5BH4k-X24",
+            "start": 4444.95,
+            "end": 4451.15
+          }
+        },
+        {
+          "id": "5698cad6-36e7-4432-bb8f-61b2f79b03eb",
+          "filename": "CanyoubemywifeNo.webm",
+          "text": {
+            "zh-tw": "Can you be my wife? No~",
+            "ja": "Can you be my wife? No~"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lgVgm2Du_uY",
+            "start": 4241.9,
+            "end": 4250.676
+          }
+        },
+        {
+          "id": "46ad4ca1-8ca4-4415-8ec0-0acacf771a89",
+          "filename": "我是小寶寶.webm",
+          "text": {
+            "zh-tw": "我是小寶寶",
+            "ja": "私は赤ちゃんです"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "cJZDUfcQbjk",
+            "start": 2753.0,
+            "end": 2761.0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "鵝歌",
+        "ja": "鵝歌"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
+      "buttons": [
+        {
+          "id": "7cdddbde-5892-4936-b903-309ccf0f05a8",
+          "filename": "兩隻鴨子.webm",
+          "text": {
+            "zh-tw": "兩隻鴨子",
+            "ja": "二羽のアヒル"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "sX76pxyMWus",
+            "start": 3163.934,
+            "end": 3174.137
+          }
+        },
+        {
+          "id": "3b44f69c-554d-4526-a65b-9a6b294dbd1e",
+          "filename": "壺男潑水歌.webm",
+          "text": {
+            "zh-tw": "壺男潑水歌",
+            "ja": "水を撒く歌"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qWQp8L6C1LM",
+            "start": 5343.001,
+            "end": 5369.151
+          }
+        },
+        {
+          "id": "e05c1d4e-5d2d-4f3c-b823-5bf35fe3abba",
+          "filename": "KING.webm",
+          "text": {
+            "zh-tw": "KING",
+            "ja": "KING"
+          },
+          "baseRoute": null,
+          "volume": 0.25,
+          "source": {
+            "videoId": "Ncv4mZxYe8w",
+            "start": 0.0,
+            "end": 135.0
+          }
+        },
+        {
+          "id": "8ae28d42-102d-4f32-8b8c-fbd4a674c799",
+          "filename": "タタラ.webm",
+          "text": {
+            "zh-tw": "タタラ",
+            "ja": "タタラ"
+          },
+          "baseRoute": null,
+          "volume": 0.25,
+          "source": {
+            "videoId": "s3NkxqzNFjE",
+            "start": 0.0,
+            "end": 141.0
+          }
+        },
+        {
+          "id": "a76ba8bb-a425-4e1b-9bcc-74a6b860adb6",
+          "filename": "我又卡住了清太郎.webm",
+          "text": {
+            "zh-tw": "我又卡住了~清太郎~",
+            "ja": "また詰まった~清太郎~"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "pkpUGExKkD4",
+            "start": 5492.0,
+            "end": 5514.0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "罵倒",
+        "ja": "罵倒"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
+      "buttons": [
+        {
+          "id": "4c25ca61-d94a-41d9-95e4-0764f8312909",
+          "filename": "活膩了是吧欠揍.webm",
+          "text": {
+            "zh-tw": "活膩了是吧 欠揍",
+            "ja": "うんざりだね、殴りたいな"
+          },
+          "baseRoute": null,
+          "volume": 0.5,
+          "source": {
+            "videoId": "3ggDBraFj3w",
+            "start": 2601.0,
+            "end": 2605.0
+          }
+        },
+        {
+          "id": "b88e84fd-8459-4450-a25b-26cf72310f1b",
+          "filename": "吃.webm",
+          "text": {
+            "zh-tw": "吃💩",
+            "ja": "💩を食べる"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "3ggDBraFj3w",
+            "start": 2638.0,
+            "end": 2640.0
+          }
+        },
+        {
+          "id": "896dabd0-27a6-43a3-a660-9a8c19a535a5",
+          "filename": "混東西.webm",
+          "text": {
+            "zh-tw": "混🥚東西",
+            "ja": "バカ野郎"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ISJIPPAYJ4U",
+            "start": 2566.0,
+            "end": 2567.0
+          }
+        },
+        {
+          "id": "f775c1a1-e5b2-46f0-8fc6-2604ee856759",
+          "filename": "可憐哪.webm",
+          "text": {
+            "zh-tw": "可憐哪",
+            "ja": "かわいそう"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lgVgm2Du_uY",
+            "start": 4596.0,
+            "end": 4598.0
           }
         }
       ]
