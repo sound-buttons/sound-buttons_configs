@@ -1,0 +1,34 @@
+{
+  "name": "airuier",
+  "fullName": "東域艾瑞兒",
+  "fullConfigURL": "assets/configs/airuier.json",
+  "imgSrc": [
+    "https://soundbuttons.azureedge.net/sound-buttons/airuier/airuier2.png",
+    "https://soundbuttons.azureedge.net/sound-buttons/airuier/airuier.png"
+  ],
+  "intro": "東域艾瑞兒，是Vtuber。不是鵝也不是你媽，虛擬美少女。\n性感美麗知性主播，請悉知。",
+  "color": {
+    "primary": "#DF90BA",
+    "secondary": "#372A31"
+  },
+  "link": {
+    "youtube": "https://youtube.com/@Airuier",
+    "twitch": "https://www.twitch.tv/eastairuier",
+    "twitter": "https://twitter.com/EastAiruier",
+    "facebook": "https://www.facebook.com/profile.php?id=100068916579216",
+    "instagram": "https://instagram.com/airuier_vtuber",
+    "discord": "https://discord.gg/9Beemnfj",
+    "other": "http://lit.link/en/EastAiruier"
+  },
+  "introButton": null,
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "東域艾瑞兒",
+        "ja": "東域艾瑞兒"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
+      "buttons": []
+    }
+  ]
+}
