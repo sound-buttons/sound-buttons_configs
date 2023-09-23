@@ -4529,6 +4529,66 @@
             "start": 1338.0,
             "end": 1343.9
           }
+        },
+        {
+          "id": "4063d807-3d13-4cc9-9625-8cf4e991b1a7",
+          "filename": "誒好像是耶好像是耶你說的好像是真的耶.webm",
+          "text": {
+            "zh-tw": "誒好像是耶，好像是耶，你說的好像是真的耶",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "46siSiYLrMQ",
+            "start": 9646.0,
+            "end": 9653.0
+          }
+        },
+        {
+          "id": "adc82e69-de37-40ad-9991-affb1eabf74a",
+          "filename": "我講的話沒一句謊話你知道嗎.webm",
+          "text": {
+            "zh-tw": "我講的話沒一句謊話你知道嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "46siSiYLrMQ",
+            "start": 9661.0,
+            "end": 9664.0
+          }
+        },
+        {
+          "id": "b73840ff-7ac6-47de-b525-3b4abadd963d",
+          "filename": "歐嗨唷學妹.webm",
+          "text": {
+            "zh-tw": "歐嗨唷 學妹",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "126d89da-723d-4c02-889b-ab11d7f9d77f",
+          "filename": "原神啟動我要打你們哼.webm",
+          "text": {
+            "zh-tw": "原神啟動.....我要打你們，哼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     },
@@ -6241,6 +6301,21 @@
             "videoId": "erTv6EsIWM8",
             "start": 13931.0,
             "end": 13933.0
+          }
+        },
+        {
+          "id": "e5c46ba5-115f-45b6-afba-49da2aa70680",
+          "filename": "沒關係琳桑感覺挺喜歡被我罵的.webm",
+          "text": {
+            "zh-tw": "沒關係琳桑感覺挺喜歡被我罵的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "46siSiYLrMQ",
+            "start": 9434.0,
+            "end": 9437.2
           }
         }
       ]
