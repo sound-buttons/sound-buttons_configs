@@ -4589,6 +4589,171 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "609c45f2-4fad-47a4-86a3-c9839c32f082",
+          "filename": "幹我就知道他在騙我媽的騙子.webm",
+          "text": {
+            "zh-tw": "幹我就知道他在騙我！媽的，騙子",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 10957.5,
+            "end": 10963.0
+          }
+        },
+        {
+          "id": "5037e415-fa23-4d64-a06d-53f45b3a67f6",
+          "filename": "爛誒.webm",
+          "text": {
+            "zh-tw": "爛誒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 9971.0,
+            "end": 9973.0
+          }
+        },
+        {
+          "id": "5b2fd1fc-f99c-499e-995d-ef67cffe607f",
+          "filename": "唉遠傳讓我有距離呀要不是這個破山這個破鄉下就是只能用遠傳不然勒為什麼我要用遠沒事對不起遠傳不要告我.webm",
+          "text": {
+            "zh-tw": "唉，遠傳讓我有距離呀！要不是這個破山這個破鄉下就是只能用遠傳，不然勒，為什麼我要用遠...沒事對不起，遠傳不要告我",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 9995.0,
+            "end": 10011.0
+          }
+        },
+        {
+          "id": "ca6a9f87-094d-446b-8668-11e02d28c0c9",
+          "filename": "因為我是遠傳VIP嗎.webm",
+          "text": {
+            "zh-tw": "因為我是遠傳VIP嗎？！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 9444.0,
+            "end": 9450.0
+          }
+        },
+        {
+          "id": "368e4fc6-4ff4-4ddb-a8bd-1e3c5fce90c5",
+          "filename": "遠傳遠傳我我用你家的東西那麼多年你什麼意思啊.webm",
+          "text": {
+            "zh-tw": "遠傳！遠傳...我...我用你家的東西那麼多年，你什麼意思啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 9471.6,
+            "end": 9482.0
+          }
+        },
+        {
+          "id": "45d52905-7e04-4372-b990-82b25f7d38c4",
+          "filename": "只有遠傳才有距離幹遠傳我是VIP吧我是VIP好不好.webm",
+          "text": {
+            "zh-tw": "(只有遠傳才有距離) 幹遠傳，我是VIP吧，我是VIP好不好",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 9487.0,
+            "end": 9492.0
+          }
+        },
+        {
+          "id": "95da7e7e-9bcf-4c7f-9173-7b106b4e3bd9",
+          "filename": "不是摸摸茶啦靠腰啊.webm",
+          "text": {
+            "zh-tw": "不是摸摸茶啦！靠腰啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 2922.0,
+            "end": 2926.0
+          }
+        },
+        {
+          "id": "a5b9f5f1-3f9f-4fcb-a192-dd19de1503e8",
+          "filename": "我們這個台應該沒有小朋友吧.webm",
+          "text": {
+            "zh-tw": "我們這個台應該沒有小朋友吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 2994.6,
+            "end": 2998.0
+          }
+        },
+        {
+          "id": "87fc8728-8c84-453f-a052-b4782175440d",
+          "filename": "觀眾牙齒痛牙齒痛那你完蛋了耶明天趕快去看醫生耶.webm",
+          "text": {
+            "zh-tw": "(觀眾牙齒痛) 牙齒痛！那你完蛋了耶，明天趕快去看醫生耶",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 2379.0,
+            "end": 2386.0
+          }
+        },
+        {
+          "id": "5c983ed2-1d1d-4f20-967e-6751e2dd307a",
+          "filename": "70也太貴了吧.webm",
+          "text": {
+            "zh-tw": "70也太貴了吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "O4_rKPNvwto",
+            "start": 2376.0,
+            "end": 2378.0
+          }
+        },
+        {
+          "id": "e57fa436-6d38-4445-b8d5-52c8bd899b13",
+          "filename": "反正我不會有這個困擾你知道為什麼嗎因為老子叫不到外送謝謝大家嗚嗚嗚好傷心.webm",
+          "text": {
+            "zh-tw": "反正我不會有這個困擾，你知道為什麼嗎? 因為老子，叫不到外送，謝謝大家。嗚嗚嗚好傷心",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "2mcVgWpmUqY",
+            "start": 15806.0,
+            "end": 15819.0
+          }
         }
       ]
     },

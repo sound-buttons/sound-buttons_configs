@@ -1578,6 +1578,36 @@
             "start": 3075.0,
             "end": 3102.0
           }
+        },
+        {
+          "id": "8e7e3e7d-39ac-4807-9370-ee01bc303de0",
+          "filename": "粛聖ロリ神レクイエム.webm",
+          "text": {
+            "zh-tw": "粛聖!!ロリ神レクイエム☆",
+            "ja": "粛聖!!ロリ神レクイエム☆"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "9k2Jz7SOXJ8",
+            "start": 1249.0,
+            "end": 1261.0
+          }
+        },
+        {
+          "id": "c59aa213-14c2-4dff-a6ae-ed891b7347ea",
+          "filename": "炒飯王大炒飯時代.webm",
+          "text": {
+            "zh-tw": "炒飯王 大炒飯時代",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "9k2Jz7SOXJ8",
+            "start": 2148.0,
+            "end": 2170.0
+          }
         }
       ]
     }

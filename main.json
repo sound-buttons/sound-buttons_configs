@@ -30,6 +30,19 @@
     }
   },
   {
+    "name": "kureha",
+    "fullName": "花咲くれは",
+    "fullConfigURL": "assets/configs/kureha.json",
+    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/kureha/kureha.json",
+    "imgSrc": [
+      "https://soundbuttons.azureedge.net/sound-buttons/kureha/kureha.png"
+    ],
+    "color": {
+      "primary": "#C45565",
+      "secondary": "#FDD4E7"
+    }
+  },
+  {
     "name": "tiamiu",
     "fullName": "Tia Miu",
     "fullConfigURL": "assets/configs/tiamiu.json",
@@ -42,19 +55,6 @@
     "color": {
       "primary": "#FFBFC9",
       "secondary": "#744C60"
-    }
-  },
-  {
-    "name": "kureha",
-    "fullName": "花咲くれは",
-    "fullConfigURL": "assets/configs/kureha.json",
-    "liveUpdateURL": "https://soundbuttons.azureedge.net/sound-buttons/kureha/kureha.json",
-    "imgSrc": [
-      "https://soundbuttons.azureedge.net/sound-buttons/kureha/kureha.png"
-    ],
-    "color": {
-      "primary": "#C45565",
-      "secondary": "#FDD4E7"
     }
   },
   {
