@@ -538,21 +538,6 @@
           }
         },
         {
-          "id": "2d415e96-d267-404b-be31-adbe54591294",
-          "filename": "房子很好三角形很好營火嬰兒燒起來啦.webm",
-          "text": {
-            "zh-tw": "房子，很好~三角形，很好~營火~嬰兒燒起來啦！",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1.0,
-          "source": {
-            "videoId": "UFuq4wXxhTI",
-            "start": 4262.0,
-            "end": 4278.0
-          }
-        },
-        {
           "id": "5a272216-e6e5-4fe8-8a78-d8cae2d766c9",
           "filename": "你們下半年的目標就是好好活下去.webm",
           "text": {
@@ -2296,7 +2281,7 @@
           "id": "7a169b9a-7126-4c48-886d-d706ddd07cfd",
           "filename": "報名成為健身環踏墊哼來吧爬下.webm",
           "text": {
-            "zh-tw": "(報名成為健身環踏墊) 哼，來吧，爬下",
+            "zh-tw": "(報名成為健身環踏墊) 哼，來吧，趴下",
             "ja": ""
           },
           "baseRoute": null,
@@ -2336,6 +2321,321 @@
             "start": 13294.0,
             "end": 13300.0
           }
+        },
+        {
+          "id": "59551a62-ac4d-4dd1-b303-c165442dd8c5",
+          "filename": "好久不見.webm",
+          "text": {
+            "zh-tw": "好久不見",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 345.0,
+            "end": 347.0
+          }
+        },
+        {
+          "id": "985249f1-8661-4658-8498-82020f5b019b",
+          "filename": "誒不對這是日文輸入法.webm",
+          "text": {
+            "zh-tw": "誒不對這是日文輸入法",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 465.0,
+            "end": 467.0
+          }
+        },
+        {
+          "id": "0b59b80e-e6b4-4fce-b4a7-9df175d3de0d",
+          "filename": "西瓜.webm",
+          "text": {
+            "zh-tw": "西瓜",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 476.0,
+            "end": 477.2
+          }
+        },
+        {
+          "id": "9b9f5d04-c2e8-4689-bb48-b96d078dc573",
+          "filename": "哈囉哈囉各位哈囉.webm",
+          "text": {
+            "zh-tw": "哈囉哈囉各位哈囉",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 512.3,
+            "end": 514.0
+          }
+        },
+        {
+          "id": "366640e0-aa2d-467d-ab84-416a7ab7a887",
+          "filename": "為什麼每次我開台就有人要打電話給我我只是想開個台.webm",
+          "text": {
+            "zh-tw": "為什麼每次我開台就有人要打電話給我！我只是想開個台！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 683.0,
+            "end": 692.0
+          }
+        },
+        {
+          "id": "33bf011b-7d66-4ff9-88f9-b0390746f50c",
+          "filename": "你要去哪裡.webm",
+          "text": {
+            "zh-tw": "你要去哪裡?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 1587.0,
+            "end": 1589.0
+          }
+        },
+        {
+          "id": "6a880d32-1fd9-4d36-bc46-166305f15c8f",
+          "filename": "棒讀我我很快樂啊哈哈哈哈哈我很快樂啊你在說什麼.webm",
+          "text": {
+            "zh-tw": "(棒讀) 我我很快樂啊，哈哈，哈哈哈，我很快樂啊你在說什麼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 2187.0,
+            "end": 2194.9
+          }
+        },
+        {
+          "id": "689bd256-f900-4574-849b-8924e4579a43",
+          "filename": "謎之音效.webm",
+          "text": {
+            "zh-tw": "(謎之音效)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 3015.0,
+            "end": 3018.0
+          }
+        },
+        {
+          "id": "822fb423-51e1-4be2-bd92-bd8beed90944",
+          "filename": "很好Nice這就是我要的計劃通.webm",
+          "text": {
+            "zh-tw": "很好！Nice！這就是我要的，計劃通！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 3092.0,
+            "end": 3095.0
+          }
+        },
+        {
+          "id": "428745b7-d27e-4ef7-ad75-3b0abfd8e5b4",
+          "filename": "是從哪一步開始出錯的原來我們最一開始就錯了嗎我們一開始就不該在一起的.webm",
+          "text": {
+            "zh-tw": "是從哪一步開始出錯的? 原來我們最一開始就錯了嗎? 我們一開始就不該在一起的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 3662.0,
+            "end": 3671.0
+          }
+        },
+        {
+          "id": "3dcc87c8-9f04-4501-b6e4-a38497c1d78a",
+          "filename": "我做不到啊我做得到還在這裡跟你講啊不然你們去玩.webm",
+          "text": {
+            "zh-tw": "我做不到啊！我做得到還在這裡跟你講！啊不然你們去玩！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 4219.0,
+            "end": 4223.0
+          }
+        },
+        {
+          "id": "b771f4b4-081a-4e34-b4f7-17f94e45031c",
+          "filename": "我們都知道rere不行那你走啊你走我受不了你的刺激我要氣死了.webm",
+          "text": {
+            "zh-tw": "(我們都知道rere不行) 那你走啊！你走！我受不了你的刺激！我要氣死了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 4243.0,
+            "end": 4252.0
+          }
+        },
+        {
+          "id": "c827fb1d-6cd9-435a-b91e-2f58b71bfedb",
+          "filename": "今天上班心情被rere弄得好開心什麼你的快樂是建立在我的痛苦之上的嗎ww.webm",
+          "text": {
+            "zh-tw": "(今天上班心情被rere弄得好開心) 什麼！你的快樂是建立在我的痛苦之上的嗎ww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 4310.0,
+            "end": 4316.0
+          }
+        },
+        {
+          "id": "b00e2343-5458-4561-8ca2-71f7932bf3e0",
+          "filename": "每位楓糖都去下載來玩說rere你看明明就很簡單這樣嗎.webm",
+          "text": {
+            "zh-tw": "(每位楓糖都去下載來玩) 說「rere你看明明就很簡單」這樣嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 4303.0,
+            "end": 4309.0
+          }
+        },
+        {
+          "id": "228ab06c-801b-4600-b7d0-87c75c36a1b6",
+          "filename": "爽好爽.webm",
+          "text": {
+            "zh-tw": "爽，好爽",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 4395.0,
+            "end": 4396.2
+          }
+        },
+        {
+          "id": "932c1019-b050-42e3-a7c9-da83c008c5ef",
+          "filename": "你跟我說好的不是這樣啊.webm",
+          "text": {
+            "zh-tw": "你跟我說好的不是這樣啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 4576.0,
+            "end": 4579.0
+          }
+        },
+        {
+          "id": "e1c197fb-dedd-4382-874a-b54b82db60a2",
+          "filename": "謎之音效_638315065790018012.webm",
+          "text": {
+            "zh-tw": "(謎之音效)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 4900.0,
+            "end": 4903.2
+          }
+        },
+        {
+          "id": "e7bb335e-e581-4f40-a76d-972204d55397",
+          "filename": "哇哇哇好多水蜜桃喔水蜜桃好吃喔.webm",
+          "text": {
+            "zh-tw": "哇哇哇—好多水蜜桃喔！水蜜桃好吃喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 5025.0,
+            "end": 5033.0
+          }
+        },
+        {
+          "id": "ef287214-4f01-45d1-8ecc-d3af57ce803f",
+          "filename": "舒壓完了嗎嗯什麼怎麼會有壓力呢假笑哪有什麼壓力啊我每天都這樣子啊無憂無慮很快樂啊對吧.webm",
+          "text": {
+            "zh-tw": "(舒壓完了嗎) 嗯? 什麼? 怎麼會有壓力呢? (假笑) 哪有什麼壓力啊? 我每天都這樣子啊，無憂無慮很快樂啊！對吧！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 5287.0,
+            "end": 5304.0
+          }
+        },
+        {
+          "id": "f819a06e-9ee6-43db-bba9-ef9cc74c31d4",
+          "filename": "南瓜馬車.webm",
+          "text": {
+            "zh-tw": "南瓜馬車！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 6363.0,
+            "end": 6365.0
+          }
+        },
+        {
+          "id": "848de1f1-4249-4ba6-8ba6-034a48d1734a",
+          "filename": "看你起笑我們也很療癒喂.webm",
+          "text": {
+            "zh-tw": "(看你起笑我們也很療癒) 喂！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 6402.0,
+            "end": 6405.0
+          }
         }
       ]
     },
@@ -2346,6 +2646,36 @@
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/kureha/",
       "buttons": [
+        {
+          "id": "2d415e96-d267-404b-be31-adbe54591294",
+          "filename": "房子很好三角形很好營火嬰兒燒起來啦.webm",
+          "text": {
+            "zh-tw": "房子，很好~三角形，很好~營火~嬰兒燒起來啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "UFuq4wXxhTI",
+            "start": 4262.0,
+            "end": 4278.0
+          }
+        },
+        {
+          "id": "770ae4e1-c963-41ee-b6c3-d7400e8c4ac5",
+          "filename": "帽子給我好嗎帽子給我好嗎噴笑.webm",
+          "text": {
+            "zh-tw": "帽子給我好嗎? 帽子給我好嗎? (噴笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Y-bQshodMbU",
+            "start": 3169.0,
+            "end": 3175.0
+          }
+        },
         {
           "id": "d7b55fff-8832-4856-a074-41790c4601ef",
           "filename": "乾脆合在一起玩健身環的節奏遊戲啊笑.webm",
@@ -2404,21 +2734,6 @@
             "videoId": "D9QdgnminV0",
             "start": 11735.3,
             "end": 11759.0
-          }
-        },
-        {
-          "id": "770ae4e1-c963-41ee-b6c3-d7400e8c4ac5",
-          "filename": "帽子給我好嗎帽子給我好嗎噴笑.webm",
-          "text": {
-            "zh-tw": "帽子給我好嗎? 帽子給我好嗎? (噴笑)",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1.0,
-          "source": {
-            "videoId": "Y-bQshodMbU",
-            "start": 3169.0,
-            "end": 3175.0
           }
         },
         {
@@ -3113,6 +3428,126 @@
             "start": 2671.0,
             "end": 2672.0
           }
+        },
+        {
+          "id": "657fa19e-950c-45da-b9b3-a96128f84b6b",
+          "filename": "不是那裡我想要讓它在最邊邊不是那裡不是不是.webm",
+          "text": {
+            "zh-tw": "不是那裡！我想要讓它在最邊邊！不是那裡！不是！不是！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 994.0,
+            "end": 1001.0
+          }
+        },
+        {
+          "id": "56f8b91b-3236-46eb-b6c3-a39241c5ee93",
+          "filename": "誒過去啊.webm",
+          "text": {
+            "zh-tw": "誒！過去啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 1038.5,
+            "end": 1040.0
+          }
+        },
+        {
+          "id": "7a8d4b7a-62f1-4710-a1b0-076d46334019",
+          "filename": "小聲尖叫.webm",
+          "text": {
+            "zh-tw": "(小聲尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 1387.5,
+            "end": 1392.8
+          }
+        },
+        {
+          "id": "2f87aa57-0bd9-4100-854d-dfb32de7a48e",
+          "filename": "然後等啊不要不要不要不要.webm",
+          "text": {
+            "zh-tw": "然後等...啊不要不要不要不要",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 1618.0,
+            "end": 1620.0
+          }
+        },
+        {
+          "id": "faaa3ea0-6d06-4378-ae6d-581afac76921",
+          "filename": "下去等下等下等下等下等下等下下去.webm",
+          "text": {
+            "zh-tw": "下去..等下等下等下，等下等下等下，下去",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 1690.0,
+            "end": 1696.2
+          }
+        },
+        {
+          "id": "492e4146-72ad-4338-bde1-0cfb3c1691c1",
+          "filename": "啊好吃甜美的啊西瓜啊.webm",
+          "text": {
+            "zh-tw": "啊— 好吃甜美的 啊— 西瓜 啊—",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 3361.0,
+            "end": 3371.0
+          }
+        },
+        {
+          "id": "8c84e174-2734-4329-8221-5eaeb4a9d058",
+          "filename": "氣質嗯有啊怎麼了嗎誒等下啊沒氣質慘叫.webm",
+          "text": {
+            "zh-tw": "(氣質) 嗯有啊，怎麼了嗎? 誒等下啊！(沒氣質慘叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 3398.0,
+            "end": 3405.0
+          }
+        },
+        {
+          "id": "2473d9d1-754e-4e49-a1c9-0512cba61657",
+          "filename": "不要等下不要這樣子胡言亂語.webm",
+          "text": {
+            "zh-tw": "不要，等下，不要這樣子! (胡言亂語)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 3930.0,
+            "end": 3953.0
+          }
         }
       ]
     },
@@ -3166,6 +3601,21 @@
             "videoId": "XN7J-q-XC4c",
             "start": 5857.0,
             "end": 5870.0
+          }
+        },
+        {
+          "id": "ad7efd02-e47c-44e6-aeb4-a30bd10f454f",
+          "filename": "誒你的按鈕增長太快了我要嚇死了我都覺得我有講過這麼蠢的話嗎事實證明是有的.webm",
+          "text": {
+            "zh-tw": "誒你的按鈕增長太快了，我要嚇死了...我都覺得我有講過這麼蠢的話嗎? 事實證明是有的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "10o0oTqecik",
+            "start": 1894.0,
+            "end": 1905.0
           }
         }
       ]
