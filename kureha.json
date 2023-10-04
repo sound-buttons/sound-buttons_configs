@@ -2636,6 +2636,126 @@
             "start": 6402.0,
             "end": 6405.0
           }
+        },
+        {
+          "id": "09de3134-41b4-4bd0-912a-b5b2d70601e7",
+          "filename": "閃電.webm",
+          "text": {
+            "zh-tw": "閃電",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CCS25sOBLBc",
+            "start": 2719.0,
+            "end": 2721.0
+          }
+        },
+        {
+          "id": "1d3ca6f9-fae3-4ab8-8915-3c9b3b16b892",
+          "filename": "北七喔4.webm",
+          "text": {
+            "zh-tw": "北七喔*4",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 1021.0,
+            "end": 1031.0
+          }
+        },
+        {
+          "id": "af3e3134-c695-4999-8156-e9b75a7dcdb7",
+          "filename": "哩北七喔.webm",
+          "text": {
+            "zh-tw": "哩北七喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 1138.7,
+            "end": 1141.0
+          }
+        },
+        {
+          "id": "6405aadd-61a4-457d-bb69-21ff30f62c01",
+          "filename": "超兇到底要我怎麼念啊不會自己講清楚喔連決定自己名字的智商都沒有嗎.webm",
+          "text": {
+            "zh-tw": "(超兇) 到底要我怎麼念啊，不會自己講清楚喔！連決定自己名字的智商都沒有嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 1931.0,
+            "end": 1940.5
+          }
+        },
+        {
+          "id": "7ab0472d-4583-4a04-aa57-b5d37e8b5994",
+          "filename": "我只愛rere一個好der笑好derOKfine.webm",
+          "text": {
+            "zh-tw": "(我只愛rere一個) 好der~ (笑) 好der~OK~fine~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 2971.0,
+            "end": 2984.0
+          }
+        },
+        {
+          "id": "bc97f5c6-1cbb-49d7-a68f-b432b9fb54f0",
+          "filename": "有一些觀眾就喜歡被罵渣男哼渣男.webm",
+          "text": {
+            "zh-tw": "(有一些觀眾就喜歡被罵渣男) 哼，渣男",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 3155.0,
+            "end": 3158.0
+          }
+        },
+        {
+          "id": "0213d5e3-70d8-4ecf-89dc-47e1a0b37668",
+          "filename": "我是花咲くれは可以叫我rere就好了平常雜談配信居多最喜歡的事是鬼轉歌回沒有啦笑.webm",
+          "text": {
+            "zh-tw": "我是花咲くれは！ 可以叫我rere就好了。平常雜談配信居多，最喜歡的事是鬼轉歌回...沒有啦(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 3296.0,
+            "end": 3313.8
+          }
+        },
+        {
+          "id": "bb4422e2-08cf-479f-a33c-24ec13b9d805",
+          "filename": "超好吃超好吃超好吃的我超喜歡的.webm",
+          "text": {
+            "zh-tw": "超好吃超好吃超好吃的！我超喜歡的！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 5363.0,
+            "end": 5369.0
+          }
         }
       ]
     },
@@ -3547,6 +3667,111 @@
             "videoId": "10o0oTqecik",
             "start": 3930.0,
             "end": 3953.0
+          }
+        },
+        {
+          "id": "a178579e-1631-4d9f-b769-dca0bd02c7c5",
+          "filename": "大叫誒.webm",
+          "text": {
+            "zh-tw": "(大叫誒)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CCS25sOBLBc",
+            "start": 1134.0,
+            "end": 1136.0
+          }
+        },
+        {
+          "id": "87a2c8c5-7966-48e4-b991-bc388c67f3e4",
+          "filename": "誒不要撞我啊.webm",
+          "text": {
+            "zh-tw": "誒不要撞我啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CCS25sOBLBc",
+            "start": 1238.0,
+            "end": 1240.0
+          }
+        },
+        {
+          "id": "9c036c6f-6334-4721-8c34-6973b2d42b22",
+          "filename": "啊_638316130743596906.webm",
+          "text": {
+            "zh-tw": "啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CCS25sOBLBc",
+            "start": 1302.0,
+            "end": 1303.0
+          }
+        },
+        {
+          "id": "b3f45dc5-2290-411d-a535-e4ecc002bad6",
+          "filename": "伊比鴨鴨歌大叫.webm",
+          "text": {
+            "zh-tw": "(伊比鴨鴨歌) (大叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CCS25sOBLBc",
+            "start": 1504.2,
+            "end": 1521.0
+          }
+        },
+        {
+          "id": "7b5462b2-bd8a-4513-87da-19e70df2f555",
+          "filename": "慘叫爆麥.webm",
+          "text": {
+            "zh-tw": "(慘叫爆麥)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CCS25sOBLBc",
+            "start": 1976.0,
+            "end": 1977.2
+          }
+        },
+        {
+          "id": "4629fb20-0bdc-4b87-a3a7-35fa9f3a01c8",
+          "filename": "生日禮物要什麼把rere綁成禮物放開沒禮貌.webm",
+          "text": {
+            "zh-tw": "(生日禮物要什麼，把rere綁成禮物) 放開！沒禮貌",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 1709.0,
+            "end": 1715.0
+          }
+        },
+        {
+          "id": "672da3cd-68c9-4434-801f-a12699cca946",
+          "filename": "一起歡慶rere970歲968歲.webm",
+          "text": {
+            "zh-tw": "(一起歡慶rere 970歲..) 968歲！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "_X9LOuyzLdI",
+            "start": 2456.2,
+            "end": 2461.0
           }
         }
       ]
