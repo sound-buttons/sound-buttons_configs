@@ -3537,6 +3537,141 @@
             "start": 12881.0,
             "end": 12940.0
           }
+        },
+        {
+          "id": "9911da83-5159-4257-9f33-4c9d2bdc8d3e",
+          "filename": "我聽到錢錢的聲音啊太奇怪了我這是幻聽嗎哇真的有錢錢.webm",
+          "text": {
+            "zh-tw": "我聽到錢錢的聲音啊！太奇怪了，我這是幻聽嗎？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "RSsdudl3ris",
+            "start": 6995.3,
+            "end": 7001.0
+          }
+        },
+        {
+          "id": "218caaa2-bf67-49a1-b28f-8c4ec8696566",
+          "filename": "哇真的有錢錢.webm",
+          "text": {
+            "zh-tw": "哇！真的有錢錢！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "RSsdudl3ris",
+            "start": 7003.0,
+            "end": 7008.0
+          }
+        },
+        {
+          "id": "5fabba82-2397-4376-af40-72823e5dcdf4",
+          "filename": "不小心太靠近你們了啦啊哈哈哈.webm",
+          "text": {
+            "zh-tw": "不小心太靠近你們了啦！啊哈哈哈！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "RSsdudl3ris",
+            "start": 7068.6,
+            "end": 7073.0
+          }
+        },
+        {
+          "id": "afdb3666-2ade-4e62-8db5-5dde7e3632b6",
+          "filename": "艦長鐵籠戰好像打輸了.webm",
+          "text": {
+            "zh-tw": "艦長鐵籠戰好像打輸了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "RSsdudl3ris",
+            "start": 7698.1,
+            "end": 7701.0
+          }
+        },
+        {
+          "id": "ccace2d4-6f65-4899-9336-da8054a804ea",
+          "filename": "想不到吼想不到吧我也想不到.webm",
+          "text": {
+            "zh-tw": "想不到吼！想不到吧！我也想不到！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ruf1wV1Duf0",
+            "start": 5025.0,
+            "end": 5029.0
+          }
+        },
+        {
+          "id": "633201cd-be92-458e-b872-bcfe1e9cd73e",
+          "filename": "就不能就沒了就好了嗎.webm",
+          "text": {
+            "zh-tw": "就不能就沒了就好了嗎！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ruf1wV1Duf0",
+            "start": 6908.0,
+            "end": 6911.0
+          }
+        },
+        {
+          "id": "44f77e80-3037-4f64-a973-f729e1746113",
+          "filename": "我不是NTR派的我是BL派的所以不要跟人家結婚在一起是最好的ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "我不是NTR派的我是BL派的，所以不要跟人家結婚在一起是最好的 Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ruf1wV1Duf0",
+            "start": 6926.0,
+            "end": 6933.0
+          }
+        },
+        {
+          "id": "b81292aa-8cf4-4125-bc25-97580968880f",
+          "filename": "貞操.webm",
+          "text": {
+            "zh-tw": "貞操",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "1QksBTCH6Jk",
+            "start": 3416.0,
+            "end": 3419.0
+          }
+        },
+        {
+          "id": "6043fda2-13d4-48c2-a33f-672b0ff64dc7",
+          "filename": "我可以賣這個了嗎笑.webm",
+          "text": {
+            "zh-tw": "我可以賣這個了嗎(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "1QksBTCH6Jk",
+            "start": 3422.0,
+            "end": 3426.0
+          }
         }
       ]
     },

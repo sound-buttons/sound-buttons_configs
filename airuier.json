@@ -294,6 +294,75 @@
             "start": 4596.0,
             "end": 4598.0
           }
+        },
+        {
+          "id": "57ea86a7-f26d-4972-9abe-d580eff955eb",
+          "filename": "嗨垃圾安安.webm",
+          "text": {
+            "zh-tw": "嗨，垃圾安安",
+            "ja": "はい、垃圾"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FHn39-Mk394",
+            "start": 398.0,
+            "end": 400.0
+          }
+        },
+        {
+          "id": "3cc6589b-fb61-440b-b01f-2db888255a11",
+          "filename": "你真的很噁心.webm",
+          "text": {
+            "zh-tw": "你真的很噁心",
+            "ja": "おー!自分の大便を踏まないで! 本当に恥ずかしい! おー!"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nBdJEAcMMqk",
+            "start": 2379.0,
+            "end": 2384.0
+          }
+        },
+        {
+          "id": "832bd210-c5f6-4ecd-8122-afb614c8e503",
+          "filename": "混帳東西你給我跪下.webm",
+          "text": {
+            "zh-tw": "混帳東西你給我跪下",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nTLhTBcFyR0",
+            "start": 4945.0,
+            "end": 4948.0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "奇怪的台詞",
+        "ja": "奇怪的台詞"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/airuier/",
+      "buttons": [
+        {
+          "id": "43fe6d04-5d1e-48d8-a124-3dcbde1c278f",
+          "filename": "瑞兒巴巴大俠.webm",
+          "text": {
+            "zh-tw": "瑞兒巴巴大俠",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "xzMddEJbmVE",
+            "start": 4895.0,
+            "end": 4907.0
+          }
         }
       ]
     }

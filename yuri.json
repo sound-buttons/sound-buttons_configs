@@ -852,6 +852,21 @@
             "start": 5009.0,
             "end": 5014.0
           }
+        },
+        {
+          "id": "8260d84d-a409-4a1b-a86b-3607de8a93c8",
+          "filename": "髒話連發.webm",
+          "text": {
+            "zh-tw": "(髒話連發)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "KzVRZXFUN6s",
+            "start": 5350.0,
+            "end": 5361.0
+          }
         }
       ]
     },
