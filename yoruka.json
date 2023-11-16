@@ -1688,7 +1688,7 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.5,
+          "volume": 1.0,
           "source": {
             "videoId": "DlzUgdp3WNk",
             "start": 7424.0,
@@ -5176,18 +5176,348 @@
           }
         },
         {
-          "id": "bfddb022-039d-4a79-82c9-cb0a27c6c58a",
-          "filename": "殺掉_638341241161539444.webm",
+          "id": "445f68df-1fcd-419e-84a3-4cd960227e92",
+          "filename": "唉呦唉呦唉呦它會一直跳起來這不是我按的誒.webm",
           "text": {
-            "zh-tw": "殺掉！",
+            "zh-tw": "唉呦!唉呦!唉呦!它會一直跳起來這不是我按的誒",
             "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
           "source": {
-            "videoId": "lAJLIByx8oc",
-            "start": 3241.0,
-            "end": 3242.0
+            "videoId": "nuRjSgbK9nw",
+            "start": 7519.0,
+            "end": 7523.0
+          }
+        },
+        {
+          "id": "558baf6b-9553-491e-a6e5-d438dc72e5f5",
+          "filename": "遊戲失誤我幹幹.webm",
+          "text": {
+            "zh-tw": "(遊戲失誤) 我...幹！幹！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nuRjSgbK9nw",
+            "start": 2427.0,
+            "end": 2429.0
+          }
+        },
+        {
+          "id": "c353fc2f-f8f4-4530-ad3d-959a0769352a",
+          "filename": "不要亂花喔.webm",
+          "text": {
+            "zh-tw": "不要亂花喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nuRjSgbK9nw",
+            "start": 1594.0,
+            "end": 1595.2
+          }
+        },
+        {
+          "id": "d5871ab6-1a2c-4809-8b06-6946cd672c16",
+          "filename": "大爆笑畢卡索是渣男www.webm",
+          "text": {
+            "zh-tw": "(大爆笑) 畢卡索是渣男www",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "V627jGHWOmk",
+            "start": 3514.0,
+            "end": 3522.0
+          }
+        },
+        {
+          "id": "bfcc2ea4-fb2b-4638-8f9e-b16f71bdb916",
+          "filename": "講中文好兇誒不要吵笑確實.webm",
+          "text": {
+            "zh-tw": "(講中文好兇誒) 不要吵！(笑) 確實",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ac67Dw0oI1I",
+            "start": 807.5,
+            "end": 811.0
+          }
+        },
+        {
+          "id": "26762cfe-8cbd-4844-aec2-8e2248ae6e49",
+          "filename": "沒有我說是獨角仙我扁你喔ww.webm",
+          "text": {
+            "zh-tw": "(沒有我說是獨角仙) 我扁你喔ww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ac67Dw0oI1I",
+            "start": 816.0,
+            "end": 819.3
+          }
+        },
+        {
+          "id": "4088982e-22e7-4324-8cae-0695abdc2075",
+          "filename": "誒怎麼辦他聽得懂我的中文誒我Steam了.webm",
+          "text": {
+            "zh-tw": "誒怎麼辦他聽得懂我的中文誒，我Steam了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ac67Dw0oI1I",
+            "start": 855.0,
+            "end": 859.9
+          }
+        },
+        {
+          "id": "d9c6d2e6-44a3-4a51-baca-2c68b4283f40",
+          "filename": "我要戴我的綠帽等我一下.webm",
+          "text": {
+            "zh-tw": "我要戴我的綠帽，等我一下",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "u2bdNGQbcmo",
+            "start": 679.0,
+            "end": 682.0
+          }
+        },
+        {
+          "id": "4d61f304-b5ea-4520-97e1-012be34b75cd",
+          "filename": "幹關我屁事啊不是啊關我屁事啊.webm",
+          "text": {
+            "zh-tw": "幹，關我屁事啊！不是啊，關我屁事啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "u2bdNGQbcmo",
+            "start": 770.8,
+            "end": 775.0
+          }
+        },
+        {
+          "id": "d38bfb23-c5db-456a-b559-2f5cc41e4d53",
+          "filename": "不好意思人家是女孩子我就喜歡.webm",
+          "text": {
+            "zh-tw": "不好意思，人家是女孩子我就喜歡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "0tXVWbilIH0",
+            "start": 3116.0,
+            "end": 3119.0
+          }
+        },
+        {
+          "id": "2208548a-e58e-46c7-83b7-78effa2dc511",
+          "filename": "夜花開台了她愛我你怎麼不去撞牆.webm",
+          "text": {
+            "zh-tw": "(夜花開台了，她愛我) 你怎麼不去撞牆",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "0tXVWbilIH0",
+            "start": 3119.0,
+            "end": 3123.0
+          }
+        },
+        {
+          "id": "6552fff5-bd42-4c0c-ad9b-5c10b520be63",
+          "filename": "我們不是在交往嗎幹你娘.webm",
+          "text": {
+            "zh-tw": "(我們不是在交往嗎?) 幹你娘",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "0tXVWbilIH0",
+            "start": 3042.0,
+            "end": 3045.0
+          }
+        },
+        {
+          "id": "a6e3070e-49b2-4dae-bf5e-748b694aacbf",
+          "filename": "看18禁尻什麼雞巴啊誰要看那種東西啊太爛了太爛了我直接看遊戲王.webm",
+          "text": {
+            "zh-tw": "看18禁尻什麼雞巴啊，誰要看那種東西啊太爛了太爛了，我直接看遊戲王",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FoWSdy8RXos",
+            "start": 3117.0,
+            "end": 3123.0
+          }
+        },
+        {
+          "id": "13d8c409-c5ff-41f8-96ff-fe28425b6d26",
+          "filename": "我現在都在看遊戲王尻尻被你發現了太糟糕了性癖被發現了.webm",
+          "text": {
+            "zh-tw": "我現在都在看遊戲王尻尻被你發現了，太糟糕了，性癖被發現了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FoWSdy8RXos",
+            "start": 3134.5,
+            "end": 3144.0
+          }
+        },
+        {
+          "id": "f6c39564-dc41-48da-aa76-fe78d59e225e",
+          "filename": "就是啊他們那麼香你到底為什麼可以不尻尻真是太奇怪了你知道嗎不尻尻根本就是性無能吧對不起不要告我對不起.webm",
+          "text": {
+            "zh-tw": "就是啊他們那麼香，你到底為什麼可以不尻尻，真是太奇怪了你知道嗎，不尻尻根本就是性無能吧...對不起，不要告我對不起",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FoWSdy8RXos",
+            "start": 3168.0,
+            "end": 3183.0
+          }
+        },
+        {
+          "id": "6bb053ec-8ebc-4fe9-b97c-750e779a0873",
+          "filename": "那是你吧我沒有啊我沒有啊我沒誒我沒有吧.webm",
+          "text": {
+            "zh-tw": "那是你吧！我沒有啊！我沒有啊！我沒...誒，我沒有吧?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FoWSdy8RXos",
+            "start": 3337.5,
+            "end": 3347.8
+          }
+        },
+        {
+          "id": "c204bb80-f6e9-4d80-8cd0-83f481090182",
+          "filename": "啊男童我好興奮.webm",
+          "text": {
+            "zh-tw": "啊男童！我好興奮！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FsP5YL959tA",
+            "start": 4064.0,
+            "end": 4066.0
+          }
+        },
+        {
+          "id": "de433142-b228-44c3-82cd-85d363af7f7c",
+          "filename": "嗚嗚嗚我要射了各位我快不行了.webm",
+          "text": {
+            "zh-tw": "嗚嗚嗚我要射了各位，我快不行了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FsP5YL959tA",
+            "start": 2874.0,
+            "end": 2878.0
+          }
+        },
+        {
+          "id": "5bcc310e-6d07-4388-aaa8-6142474382ed",
+          "filename": "應該所有人都要喜歡遊戲王的男童.webm",
+          "text": {
+            "zh-tw": "應該所有人都要喜歡遊戲王的男童",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FsP5YL959tA",
+            "start": 2521.0,
+            "end": 2524.0
+          }
+        },
+        {
+          "id": "6626cdcf-6858-4d89-8850-5683df030ab5",
+          "filename": "爆笑男童ww完了要被剪了嗎.webm",
+          "text": {
+            "zh-tw": "(爆笑) 男童ww完了要被剪了嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FsP5YL959tA",
+            "start": 2530.0,
+            "end": 2534.0
+          }
+        },
+        {
+          "id": "4c84e518-0e9d-4c55-9dd6-32ce816b3725",
+          "filename": "我看同步視聽哪會有暴言啊.webm",
+          "text": {
+            "zh-tw": "我看同步視聽哪會有暴言啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FsP5YL959tA",
+            "start": 1074.0,
+            "end": 1077.5
+          }
+        },
+        {
+          "id": "c96650db-f7d4-450b-bd16-126f8c45e4b1",
+          "filename": "請問有人想要看這樣的直播嗎我才不理你勒操你媽.webm",
+          "text": {
+            "zh-tw": "請問有人想要看這樣的直播嗎? 我才不理你勒，操你媽",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CG006bNZNSI",
+            "start": 11448.0,
+            "end": 11455.0
+          }
+        },
+        {
+          "id": "475604a8-5610-4885-9829-413848f03a67",
+          "filename": "什麼你已經不認得我了嗎.webm",
+          "text": {
+            "zh-tw": "什麼！你已經不認得我了嗎？！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CG006bNZNSI",
+            "start": 11135.0,
+            "end": 11139.0
           }
         }
       ]
@@ -5960,6 +6290,21 @@
             "start": 3385.0,
             "end": 3389.0
           }
+        },
+        {
+          "id": "3ac619ad-49ae-4bee-9f78-bcce51babdf6",
+          "filename": "尖叫矮鵝你們剛剛有看到那個東西嗎.webm",
+          "text": {
+            "zh-tw": "(尖叫) 矮鵝！你們剛剛有看到那個東西嗎！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CG006bNZNSI",
+            "start": 3591.0,
+            "end": 3598.0
+          }
         }
       ]
     },
@@ -6088,6 +6433,66 @@
             "videoId": "QHj7J1e4gm8",
             "start": 8281.0,
             "end": 8282.4
+          }
+        },
+        {
+          "id": "3820be68-dcab-4f9c-b29a-b55ea2a77aa2",
+          "filename": "噴嚏_638357389993179585.webm",
+          "text": {
+            "zh-tw": "噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nuRjSgbK9nw",
+            "start": 10486.0,
+            "end": 10489.0
+          }
+        },
+        {
+          "id": "3bde05e7-e0e8-4050-8967-4a5109b72c00",
+          "filename": "噴嚏_638357392369156196.webm",
+          "text": {
+            "zh-tw": "噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nuRjSgbK9nw",
+            "start": 10499.0,
+            "end": 10502.0
+          }
+        },
+        {
+          "id": "c92b4ac4-9b00-4812-8ca3-5ca0e88d3c9d",
+          "filename": "噴嚏_638357395497080208.webm",
+          "text": {
+            "zh-tw": "噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nuRjSgbK9nw",
+            "start": 7530.0,
+            "end": 7532.0
+          }
+        },
+        {
+          "id": "9f9dcadd-67ec-449b-9d2c-2a9fdf93c9b4",
+          "filename": "噴嚏三兄弟.webm",
+          "text": {
+            "zh-tw": "噴嚏三兄弟",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nuRjSgbK9nw",
+            "start": 1413.5,
+            "end": 1420.8
           }
         }
       ]
@@ -6976,6 +7381,66 @@
             "videoId": "lAJLIByx8oc",
             "start": 7582.0,
             "end": 7594.0
+          }
+        },
+        {
+          "id": "53785bce-52bb-49e6-9acd-ea6118068f49",
+          "filename": "什麼新按鈕操.webm",
+          "text": {
+            "zh-tw": "什麼新按鈕！操！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nuRjSgbK9nw",
+            "start": 2446.0,
+            "end": 2448.0
+          }
+        },
+        {
+          "id": "5a404886-f53d-4607-81cf-a3089cf5c438",
+          "filename": "嗨琳桑安安.webm",
+          "text": {
+            "zh-tw": "嗨！琳桑安安",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nuRjSgbK9nw",
+            "start": 1298.0,
+            "end": 1301.0
+          }
+        },
+        {
+          "id": "fce73375-dad4-4295-bc61-6dad132dc75a",
+          "filename": "琳桑www不噢不wwww等下我講那個應該不會怎麼樣吧你應該沒有要剪吧.webm",
+          "text": {
+            "zh-tw": "琳桑www不，噢不wwww等下我講那個應該不會怎麼樣吧，你應該沒有要剪吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FsP5YL959tA",
+            "start": 2903.0,
+            "end": 2909.0
+          }
+        },
+        {
+          "id": "f95489ab-da39-4645-a1b2-95cc12db8f9c",
+          "filename": "這個按鈕要跟男童放在一起不要啦www不要www白痴不要.webm",
+          "text": {
+            "zh-tw": "(這個按鈕要跟男童放在一起) 不要啦www不要www白痴不要",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FsP5YL959tA",
+            "start": 2947.0,
+            "end": 2955.0
           }
         }
       ]

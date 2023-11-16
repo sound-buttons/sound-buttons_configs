@@ -3687,6 +3687,186 @@
             "start": 8847.2,
             "end": 8850.7
           }
+        },
+        {
+          "id": "b9ab405f-8f7a-41d9-97eb-2abcbc6da4fa",
+          "filename": "機上廣播各位乘客您好飛機即將降落請繫好您的安全帶收起桌椅忘記要講什麼了有人知道要講什麼嗎.webm",
+          "text": {
+            "zh-tw": "(機上廣播) 各位乘客您好，飛機即將降落，請繫好您的安全帶、收起桌椅...忘記要講什麼了，有人知道要講什麼嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qpdjLg_WmLQ",
+            "start": 2879.5,
+            "end": 2891.0
+          }
+        },
+        {
+          "id": "9ee17911-f6bc-4a50-83d0-c3fac1e6d1dd",
+          "filename": "日文清楚偶像謝謝大家一直支持我最喜歡你們了.webm",
+          "text": {
+            "zh-tw": "(日文清楚偶像) 謝謝大家一直支持我，最喜歡你們了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qpdjLg_WmLQ",
+            "start": 6210.0,
+            "end": 6214.7
+          }
+        },
+        {
+          "id": "0d349f0f-5944-4880-888a-7de1553df548",
+          "filename": "大家晚安不是晚安大家byebye明天見おつあるま.webm",
+          "text": {
+            "zh-tw": "大家晚安~~不是晚安！大家byebye明天見~~おつあるま",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qpdjLg_WmLQ",
+            "start": 7248.0,
+            "end": 7255.0
+          }
+        },
+        {
+          "id": "a8a9560e-0bd9-4e3f-9484-2e247208e4d5",
+          "filename": "挺草的不錯.webm",
+          "text": {
+            "zh-tw": "挺「草」的，不錯",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "MPjfUphkFE8",
+            "start": 6062.6,
+            "end": 6064.3
+          }
+        },
+        {
+          "id": "34069c90-a541-4073-85fd-eb6a816496f8",
+          "filename": "我今天很正經對不對我不講幹話然後我也沒有暴言.webm",
+          "text": {
+            "zh-tw": "我今天很正經對不對，我不講幹話，然後我也沒有暴言",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "MPjfUphkFE8",
+            "start": 4126.0,
+            "end": 4129.9
+          }
+        },
+        {
+          "id": "c1b2f9f5-307b-41a9-a812-a09f6a597771",
+          "filename": "把不起妹妹就巴頭.webm",
+          "text": {
+            "zh-tw": "把不起妹妹就巴頭",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 7630.0,
+            "end": 7632.0
+          }
+        },
+        {
+          "id": "f4804971-9c9b-4114-a274-55ade3bb6f45",
+          "filename": "壓媽路補.webm",
+          "text": {
+            "zh-tw": "壓媽路補",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 6202.0,
+            "end": 6206.0
+          }
+        },
+        {
+          "id": "04559e51-a24d-40ea-91c5-3bef69de42e9",
+          "filename": "為什麼是要吃雞雞嗎你是Gay嗎.webm",
+          "text": {
+            "zh-tw": "為什麼，是要吃雞雞嗎? 你是Gay嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 5957.0,
+            "end": 5964.7
+          }
+        },
+        {
+          "id": "e6e0fce8-753a-4df2-94b7-aa50c44c5711",
+          "filename": "傘店3.webm",
+          "text": {
+            "zh-tw": "傘店*3",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 5182.5,
+            "end": 5187.2
+          }
+        },
+        {
+          "id": "8fd4f705-28a1-4d57-ae0b-636cb2c27ce4",
+          "filename": "麻糬.webm",
+          "text": {
+            "zh-tw": "麻糬",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 1137.0,
+            "end": 1138.5
+          }
+        },
+        {
+          "id": "e906009b-0183-4d74-90db-899dbcf0441e",
+          "filename": "ㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇ.webm",
+          "text": {
+            "zh-tw": "ㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇㄩㄇ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 11012.0,
+            "end": 11018.0
+          }
+        },
+        {
+          "id": "6c7558dc-19f4-4c1c-a50c-13a84435caf9",
+          "filename": "啊破防了破防了.webm",
+          "text": {
+            "zh-tw": "啊~破防了破防了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "e6uRvv1h0IQ",
+            "start": 5287.0,
+            "end": 5294.0
+          }
         }
       ]
     },
@@ -4415,6 +4595,51 @@
             "videoId": "5odue1vFfyw",
             "start": 5936.0,
             "end": 5940.0
+          }
+        },
+        {
+          "id": "9f479ad7-f509-4713-8eb3-27489d048509",
+          "filename": "夏油條笑爛.webm",
+          "text": {
+            "zh-tw": "夏油條 (笑爛)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 4882.0,
+            "end": 4910.0
+          }
+        },
+        {
+          "id": "6c282b63-57f2-444d-bc2f-438d678768b6",
+          "filename": "一叩首兩叩首阿哩洗勒叭殺小哈哈.webm",
+          "text": {
+            "zh-tw": "一叩首、兩叩首、阿哩洗勒叭殺小 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 2915.7,
+            "end": 2923.0
+          }
+        },
+        {
+          "id": "d7b93c1c-3221-49aa-9ac8-6b32815b0a75",
+          "filename": "蛤呵呵.webm",
+          "text": {
+            "zh-tw": "蛤? 呵呵?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 7665.0,
+            "end": 7668.0
           }
         }
       ]
@@ -5430,6 +5655,81 @@
             "start": 5055.0,
             "end": 5057.0
           }
+        },
+        {
+          "id": "fca71bec-1a07-4e55-9837-d68cdf968d96",
+          "filename": "話說我昨天在K島上面被人家說我不會唱歌很傷你來啊你那麼屌你來啊我就看看你唱歌有多少人聽啦哼.webm",
+          "text": {
+            "zh-tw": "話說我昨天在K島上面被人家說我不會唱歌很傷，你來啊！你那麼屌你來啊！我就看看你唱歌有多少人聽啦！哼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qpdjLg_WmLQ",
+            "start": 3741.5,
+            "end": 3755.0
+          }
+        },
+        {
+          "id": "9608956c-a352-455d-be51-de8d083ea018",
+          "filename": "如果你的心臟很弱你很不喜歡被嗆被嘴我建議你明天真的不要來你不要泛艦點進來再跟我說艦長講話很嗆玻璃心碎一片你自己要點進來不關我的事泛艦點進來就不要跟我吵沒有腦子去跟你父母要不要這邊鬧哇還押韻耶不愧是天才.webm",
+          "text": {
+            "zh-tw": "如果你的心臟很弱，你很不喜歡被嗆被嘴，我建議你明天真的不要來！ 你不要泛艦點進來，再跟我說艦長講話很嗆玻璃心碎一片，你自己要點進來不關我的事，泛艦點進來就不要跟我吵，沒有腦子去跟你父母要，不要這邊鬧！ 哇還押韻耶，不愧是天才",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qpdjLg_WmLQ",
+            "start": 7221.3,
+            "end": 7247.0
+          }
+        },
+        {
+          "id": "6eb48869-fc2f-4e38-8ce6-b2f57ced5b28",
+          "filename": "我不是自演啦真的很煩誒你們再亂造謠我要詛咒你們便祕喔哈.webm",
+          "text": {
+            "zh-tw": "我不是自演啦~真的很煩誒~你們再亂造謠~我要詛咒你們便祕喔~~哈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 0.7,
+          "source": {
+            "videoId": "MPjfUphkFE8",
+            "start": 7210.0,
+            "end": 7224.0
+          }
+        },
+        {
+          "id": "9354c62b-12f4-4912-b42a-6797fa8265cc",
+          "filename": "誒你到底有沒有腦子啊.webm",
+          "text": {
+            "zh-tw": "誒，你到底有沒有腦子啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "MPjfUphkFE8",
+            "start": 3039.0,
+            "end": 3041.2
+          }
+        },
+        {
+          "id": "c39755b3-9ce0-4ed0-8402-2eda6ef40357",
+          "filename": "閉嘴一群低能兒.webm",
+          "text": {
+            "zh-tw": "閉嘴，一群低能兒！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qLDW6vW2nB4",
+            "start": 11139.0,
+            "end": 11142.0
+          }
         }
       ]
     },
@@ -5588,6 +5888,21 @@
             "videoId": "r5CIFeainI8",
             "start": 5053.0,
             "end": 5078.0
+          }
+        },
+        {
+          "id": "a5269ede-1aa9-40a8-9a5c-c9540424c512",
+          "filename": "被遊戲嚇到尖叫.webm",
+          "text": {
+            "zh-tw": "(被遊戲嚇到尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "DlWmtAT6Ung",
+            "start": 7926.0,
+            "end": 7949.0
           }
         }
       ]
@@ -5996,6 +6311,51 @@
             "videoId": "",
             "start": 0.0,
             "end": 0.0
+          }
+        },
+        {
+          "id": "3cfea08c-4d7c-46ee-b44a-9dd7652f7198",
+          "filename": "你也剪太多了吧.webm",
+          "text": {
+            "zh-tw": "你也剪太多了吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "MPjfUphkFE8",
+            "start": 4157.8,
+            "end": 4160.8
+          }
+        },
+        {
+          "id": "8b4865de-dff3-4c48-8569-a170b843b24a",
+          "filename": "我有一位草執事幫我做了個叫SoundButtons它裡面就會有截錄了一些我至今講過的話.webm",
+          "text": {
+            "zh-tw": "我有一位草執事幫我做了個叫Sound Buttons，它裡面就會有截錄了一些我至今講過的話",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "MPjfUphkFE8",
+            "start": 4139.0,
+            "end": 4146.7
+          }
+        },
+        {
+          "id": "0f9e1bb5-59dd-4179-af71-9849b1e9a5e9",
+          "filename": "有聲音按鈕的網址嗎有聲音按鈕的網址這是一個非常棒的我真的非常感謝它我今年疫情沒聲音的時候都靠這個幫我配信.webm",
+          "text": {
+            "zh-tw": "(有聲音按鈕的網址嗎) 有聲音按鈕的網址，這是一個非常棒的，我真的非常感謝它，我今年疫情沒聲音的時候都靠這個幫我配信",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "MPjfUphkFE8",
+            "start": 4240.0,
+            "end": 4250.0
           }
         }
       ]
