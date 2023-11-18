@@ -149,6 +149,36 @@
             "start": 567.0,
             "end": 568.8
           }
+        },
+        {
+          "id": "acbed127-acba-49d4-96dd-94b797a03d56",
+          "filename": "好色喔.webm",
+          "text": {
+            "zh-tw": "好色喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "unWebd0CdR0",
+            "start": 2074.0,
+            "end": 2075.3
+          }
+        },
+        {
+          "id": "0eb61348-f8a1-4570-aa20-230c49458fdc",
+          "filename": "殺掉.webm",
+          "text": {
+            "zh-tw": "殺掉！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lAJLIByx8oc",
+            "start": 7317.5,
+            "end": 7320.0
+          }
         }
       ]
     },
@@ -4315,21 +4345,6 @@
           }
         },
         {
-          "id": "acbed127-acba-49d4-96dd-94b797a03d56",
-          "filename": "好色喔.webm",
-          "text": {
-            "zh-tw": "好色喔！",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1.0,
-          "source": {
-            "videoId": "unWebd0CdR0",
-            "start": 2074.0,
-            "end": 2075.3
-          }
-        },
-        {
           "id": "2f34f302-f74d-4e3a-80a2-6f623d756dd1",
           "filename": "因為你要賺錢給須多夜花.webm",
           "text": {
@@ -5077,21 +5092,6 @@
             "videoId": "lAJLIByx8oc",
             "start": 7259.6,
             "end": 7262.8
-          }
-        },
-        {
-          "id": "0eb61348-f8a1-4570-aa20-230c49458fdc",
-          "filename": "殺掉.webm",
-          "text": {
-            "zh-tw": "殺掉！",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1.0,
-          "source": {
-            "videoId": "lAJLIByx8oc",
-            "start": 7317.5,
-            "end": 7320.0
           }
         },
         {

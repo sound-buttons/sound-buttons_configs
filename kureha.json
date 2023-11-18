@@ -3581,6 +3581,36 @@
             "start": 18174.0,
             "end": 18181.0
           }
+        },
+        {
+          "id": "463c27a0-d859-404d-8c80-d87819609051",
+          "filename": "謝謝rere嗯不客氣.webm",
+          "text": {
+            "zh-tw": "(謝謝rere) 嗯? 不客氣?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "3xxKEfiaxRU",
+            "start": 8247.0,
+            "end": 8250.0
+          }
+        },
+        {
+          "id": "00cbcadd-5cb7-4ef6-8f23-1a10722d6e76",
+          "filename": "我心情不好的時候喜歡看rere看我.webm",
+          "text": {
+            "zh-tw": "(我心情不好的時候喜歡看rere) 看我！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "3xxKEfiaxRU",
+            "start": 9058.0,
+            "end": 9061.5
+          }
         }
       ]
     },
@@ -3859,6 +3889,21 @@
             "videoId": "ruTE5NakJ9Y",
             "start": 2519.0,
             "end": 2524.0
+          }
+        },
+        {
+          "id": "e0266753-3bc4-426d-9673-a62251fa5ae6",
+          "filename": "魔幻舞台笑.webm",
+          "text": {
+            "zh-tw": "魔幻舞台！(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "3xxKEfiaxRU",
+            "start": 9375.0,
+            "end": 9379.0
           }
         }
       ]
