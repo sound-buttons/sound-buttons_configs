@@ -3,8 +3,8 @@
   "fullName": "伊糯姆",
   "fullConfigURL": "assets/configs/enomu165.json",
   "imgSrc": [
-    "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu165.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/enomu165/enomu1652.png"
+    "https://blob.sound-buttons.click/sound-buttons/enomu165/enomu165.png",
+    "https://blob.sound-buttons.click/sound-buttons/enomu165/enomu1652.png"
   ],
   "intro": "來自鼠鼠星球的黃金鼠!目前在鼠鼠學校讀書，畢業條件是到人類世界，並且想辦法獲得人類的認同!所以~請關注我吧!(⁎˃ᆺ˂)\n中文⭕日文\uD83D\uDD3A英文❌伊糯姆語⭕\n\n= = = = =\n主要配信：遊戲、雜談、唱歌\n= = = = =\n\n團隊：第二鈕扣風味社\nhttps://twitter.com/second2button",
   "color": {
@@ -25,7 +25,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/enomu165/",
+    "baseRoute": "https://blob.sound-buttons.click/sound-buttons/enomu165/",
     "volume": 1,
     "source": {
       "videoId": "Lifr6n9hE3Y",
@@ -39,7 +39,7 @@
         "zh-tw": "伊糯姆語",
         "ja": "伊糯姆語"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/enomu165/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/enomu165/",
       "buttons": [
         {
           "filename": "自我介紹.webm",
@@ -93,7 +93,7 @@
         "zh-tw": "招呼",
         "ja": "招呼"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/enomu165/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/enomu165/",
       "buttons": [
         {
           "filename": "嗨囉.webm",
@@ -117,7 +117,7 @@
         "zh-tw": "歌",
         "ja": "歌"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/enomu165/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/enomu165/",
       "buttons": [
         {
           "filename": "祝你蛋糕發霉.webm",
@@ -141,7 +141,7 @@
         "zh-tw": "迫害與被迫害專區",
         "ja": "迫害與被迫害專區"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/enomu165/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/enomu165/",
       "buttons": [
         {
           "filename": "是不是悠風在搞WWW.webm",

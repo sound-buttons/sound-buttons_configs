@@ -3,8 +3,8 @@
   "fullName": "ねこ咨咨",
   "fullConfigURL": "assets/configs/zizi.json",
   "imgSrc": [
-    "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi2.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/zizi/zizi.png"
+    "https://blob.sound-buttons.click/sound-buttons/zizi/zizi2.png",
+    "https://blob.sound-buttons.click/sound-buttons/zizi/zizi.png"
   ],
   "intro": "Hello~我是ねこ咨咨\n 來自南城的幻靈🐱\n 可以叫我咨咨就好\n 熱愛玩遊戲、唱歌\n 自帶天然呆的貓娘~",
   "color": {
@@ -27,7 +27,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+    "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
     "volume": 1.0,
     "source": {
       "videoId": "c24EncYcQpE",
@@ -41,7 +41,7 @@
         "zh-tw": "Neko咨咨",
         "ja": "Neko咨咨"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "3455b141-c595-45d2-add6-d363af77449f",
@@ -95,7 +95,7 @@
         "zh-tw": "ASMR",
         "ja": "ASMR"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "bcd42d2a-36ad-439a-bd52-c35e2d97ddd0",
@@ -164,7 +164,7 @@
         "zh-tw": "怪聲仔",
         "ja": "怪聲仔"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "42c831e0-bc73-4705-be62-17917c757953",
@@ -383,7 +383,7 @@
         "zh-tw": "驚嚇",
         "ja": "驚嚇"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "5b5cc938-18ce-4674-aafd-ac3c31abe471",
@@ -407,7 +407,7 @@
         "zh-tw": "罵倒",
         "ja": "罵倒"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "93f5f8fa-cec1-4032-8835-0ebbacc1f5c3",
@@ -641,7 +641,7 @@
         "zh-tw": "日常用語",
         "ja": "日常用語"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "0fe89068-6a91-430b-9ab8-e6c87d510a40",
@@ -1145,7 +1145,7 @@
         "zh-tw": "Gay 婚系列",
         "ja": "Gay 婚系列"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "e87f3034-03a7-4802-b1b5-910afb2b7eb7",
@@ -1244,7 +1244,7 @@
         "zh-tw": "母湯喔",
         "ja": "母湯喔"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "3d3ddedd-f54e-4bf7-a8fa-6fc74cbebf02",
@@ -1283,7 +1283,7 @@
         "zh-tw": "洗澡",
         "ja": "洗澡"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "9d603e73-dc00-4545-8b51-4e9070cb7cf1",
@@ -1352,7 +1352,7 @@
         "zh-tw": "太咨了吧",
         "ja": "太咨了吧"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "2b128d0f-8b76-4247-b91c-49266aeb28c2",
@@ -1406,7 +1406,7 @@
         "zh-tw": "迷人的笑",
         "ja": "迷人的笑"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "26f2679e-1057-433a-8796-7ab68a086fc2",
@@ -1460,7 +1460,7 @@
         "zh-tw": "咨咨累累",
         "ja": "咨咨累累"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/zizi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/zizi/",
       "buttons": [
         {
           "id": "8d5b1eab-1136-492a-88e7-b944b8bb190b",

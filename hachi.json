@@ -3,8 +3,8 @@
   "fullName": "HACHI",
   "fullConfigURL": "assets/configs/hachi.json",
   "imgSrc": [
-    "https://soundbuttons.azureedge.net/sound-buttons/hachi/hachi2.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/hachi/hachi.png"
+    "https://blob.sound-buttons.click/sound-buttons/hachi/hachi2.png",
+    "https://blob.sound-buttons.click/sound-buttons/hachi/hachi.png"
   ],
   "intro": "Virtual Singer HACHI\n『あなたの心に寄り添う歌を。』\n\n------------------------------------------------\n\n所属：ライブユニオン \n\nProduced by RK Music / REALITY STUDIO\nhttps://rkmusic.jp/\nhttps://reality.inc/realitystudio/\n\n------------------------------------------------",
   "color": {
@@ -25,7 +25,7 @@
       "zh-tw": "自介語音",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/hachi/",
+    "baseRoute": "https://blob.sound-buttons.click/sound-buttons/hachi/",
     "volume": 1,
     "source": null
   },
@@ -35,7 +35,7 @@
         "zh-tw": "🐝HACHI🐝",
         "ja": "🐝HACHI🐝"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/hachi/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/hachi/",
       "buttons": [
         {
           "filename": "遺忘光線.webm",

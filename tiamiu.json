@@ -3,9 +3,9 @@
   "fullName": "Tia Miu",
   "fullConfigURL": "assets/configs/tiamiu.json",
   "imgSrc": [
-    "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu2.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/tiamiu3.png"
+    "https://blob.sound-buttons.click/sound-buttons/tiamiu/tiamiu.png",
+    "https://blob.sound-buttons.click/sound-buttons/tiamiu/tiamiu2.png",
+    "https://blob.sound-buttons.click/sound-buttons/tiamiu/tiamiu3.png"
   ],
   "intro": "美索不達米亞神話中，提亞馬特轉生之海洋女神，化身成金魚的身分活動中",
   "color": {
@@ -28,7 +28,7 @@
         "zh-tw": "海之女神",
         "ja": ""
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/tiamiu/",
       "buttons": [
         {
           "id": "88856d9e-eca4-4d27-a452-8040d4969f9d",
@@ -877,7 +877,7 @@
         "zh-tw": "海之女神的咆嘯",
         "ja": "海之女神的咆嘯"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/tiamiu/",
       "buttons": [
         {
           "id": "edd02f6f-fc28-4adc-9053-73184c8dd6ec",
@@ -1426,7 +1426,7 @@
         "zh-tw": "海之女神的問號",
         "ja": "海之女神的問號"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/tiamiu/",
       "buttons": [
         {
           "id": "1a0ce62e-f7a4-4179-9939-0a23ae756376",
@@ -1510,7 +1510,7 @@
         "zh-tw": "瘟疫醫生",
         "ja": "瘟疫醫生"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/tiamiu/",
       "buttons": [
         {
           "id": "61c00de1-4e56-47ec-9645-fe98f9d2c287",
@@ -1534,7 +1534,7 @@
         "zh-tw": "Toxic",
         "ja": "Toxic"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/tiamiu/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/tiamiu/",
       "buttons": [
         {
           "id": "fd3b937d-8854-4cac-9799-34bcc9d98366",

@@ -3,10 +3,10 @@
   "fullName": "須多夜花",
   "fullConfigURL": "assets/configs/yoruka.json",
   "imgSrc": [
-    "https://soundbuttons.azureedge.net/sound-buttons/yoruka/yoruka2.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/yoruka/yoruka3.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/yoruka/yoruka4.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/yoruka/yoruka.png"
+    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka2.png",
+    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka3.png",
+    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka4.png",
+    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka.png"
   ],
   "intro": "✨RenewLive一期生✨台灣Vtuber\n🌙須多 ヨルカ/須多 夜花 (すだ ヨルカ)🌸\n\n▍Twitter @sudayoruka \n▍棉花糖/マシュマロ→https://is.gd/z8B9G4 \n▍Facebook fanpage→https://is.gd/jvS7xd \n▍RenewLiveTW→https://is.gd/6xSeWH \n▍Renewlive官方網站→https://www.renewlive.ch/",
   "color": {
@@ -29,7 +29,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+    "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
     "volume": 1.0,
     "source": {
       "videoId": "a6AY-ea-OGM",
@@ -43,7 +43,7 @@
         "zh-tw": "🌙花花常用區🌸",
         "ja": "🌙花花常用區🌸"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
         {
           "id": "1d7b48ec-4267-42a0-82ad-f7896360c6a8",
@@ -157,7 +157,7 @@
         "zh-tw": "🌙夜花花🌸",
         "ja": "🌙夜花花🌸"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
         {
           "id": "8f40ba99-2365-482f-9d0c-1c8e313fb27a",
@@ -5560,7 +5560,7 @@
         "zh-tw": "奇怪的歌",
         "ja": "奇怪的歌"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
         {
           "id": "c49021cd-7fbf-4a7a-b06e-b72ede49f11c",
@@ -5884,7 +5884,7 @@
         "zh-tw": "龍叫",
         "ja": "ドラゴンの声"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
         {
           "id": "d1dd3062-daca-4cee-800f-5a34c281989a",
@@ -5968,7 +5968,7 @@
         "zh-tw": "大叫 (注意音量)",
         "ja": "悲鳴 (音量注意)"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
         {
           "id": "80776f1f-4e0f-42f9-a154-2d89ec942969",
@@ -6322,7 +6322,7 @@
         "zh-tw": "打噴嚏我好了",
         "ja": "くしゃみ助かる"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
         {
           "id": "f7990c3d-7e00-4201-a876-732873ce921f",
@@ -6511,7 +6511,7 @@
         "zh-tw": "💝虛擬情人💝",
         "ja": "💝虛擬情人💝"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
         {
           "id": "16da02c8-a15f-41bc-929d-da551dbde8d8",
@@ -6955,7 +6955,7 @@
         "zh-tw": "自肥",
         "ja": "自肥"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/yoruka/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
         {
           "id": "8b0223e1-250a-49e7-a675-bd7c3fe32d67",

@@ -3,8 +3,8 @@
   "fullName": "薬袋アルマ",
   "fullConfigURL": "assets/configs/aruma.json",
   "imgSrc": [
-    "https://soundbuttons.azureedge.net/sound-buttons/aruma/aruma2.png",
-    "https://soundbuttons.azureedge.net/sound-buttons/aruma/aruma.png"
+    "https://blob.sound-buttons.click/sound-buttons/aruma/aruma2.png",
+    "https://blob.sound-buttons.click/sound-buttons/aruma/aruma.png"
   ],
   "intro": "ご機嫌よう～\n個人勢VtuberグループGuildCQ所属の薬袋アルマ（Minai Aruma）です🌿🧪\n年内登録者一万人を目指しています！\n\nおしゃべりが大好きなので、様々な配信を挑戦しに行きたい思います！\nお時間ありましたら是非遊びにいらしてください✨\nもしお気になって頂けたら\nチャンネル登録・高評価・コメントして頂けるととても嬉しいです💋\n\n毎週歌枠やります🎵\n\n日／中／EN OK",
   "color": {
@@ -27,7 +27,7 @@
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
     },
-    "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
+    "baseRoute": "https://blob.sound-buttons.click/sound-buttons/aruma/",
     "volume": 1.0,
     "source": {
       "videoId": "X7NyMoi-8Pk",
@@ -41,7 +41,7 @@
         "zh-tw": "咩Ꮚ•̀ꈊ•́Ꮚ",
         "ja": "メーᏊ•̀ꈊ•́Ꮚ"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/aruma/",
       "buttons": [
         {
           "id": "9e78d383-ce59-4b29-8314-873304875ce1",
@@ -3875,7 +3875,7 @@
         "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
         "ja": "ハハᏊ•̀ꈊ•́Ꮚ"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/aruma/",
       "buttons": [
         {
           "id": "f9258416-9b9c-4fcf-b881-d450c534a5bb",
@@ -6251,7 +6251,7 @@
         "zh-tw": "自肥",
         "ja": "自肥"
       },
-      "baseRoute": "https://soundbuttons.azureedge.net/sound-buttons/aruma/",
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/aruma/",
       "buttons": [
         {
           "id": "561ce213-fa85-4124-97d1-25b8a1de3b3b",
