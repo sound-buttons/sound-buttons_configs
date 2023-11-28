@@ -3641,6 +3641,66 @@
             "start": 3860.0,
             "end": 3867.0
           }
+        },
+        {
+          "id": "908e520a-0288-4c74-95d1-266dc5189828",
+          "filename": "噴嚏幫大忙_638368030753834855.webm",
+          "text": {
+            "zh-tw": "噴嚏幫大忙",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ok7r5FyQDyk",
+            "start": 17901.0,
+            "end": 17905.0
+          }
+        },
+        {
+          "id": "43f2af85-dc91-40d0-b442-5080aa7345bd",
+          "filename": "哪需要裝裝可愛誒嘿.webm",
+          "text": {
+            "zh-tw": "哪需要裝，裝可愛誒嘿！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Hd80nxzMgkE",
+            "start": 9141.0,
+            "end": 9145.0
+          }
+        },
+        {
+          "id": "6166078e-7f50-4eae-b05b-f4fedc874e7f",
+          "filename": "小哥哥.webm",
+          "text": {
+            "zh-tw": "小哥哥",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Hd80nxzMgkE",
+            "start": 9151.0,
+            "end": 9154.0
+          }
+        },
+        {
+          "id": "5669929e-e7c6-4912-8621-86d215803037",
+          "filename": "小哥哥帶我玩遊戲好嗎哥哥我沒錢買裝備啦哥哥.webm",
+          "text": {
+            "zh-tw": "小哥哥，帶我玩遊戲好嗎? 哥哥，我沒錢買裝備啦哥哥！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Hd80nxzMgkE",
+            "start": 9178.0,
+            "end": 9186.0
+          }
         }
       ]
     },
@@ -4981,6 +5041,21 @@
             "videoId": "ruTE5NakJ9Y",
             "start": 2912.0,
             "end": 2919.8
+          }
+        },
+        {
+          "id": "77879758-5f39-45fb-a651-490d9a8d4ea1",
+          "filename": "小哥哥不要把這個加進按鈕裡我的天啊.webm",
+          "text": {
+            "zh-tw": "小哥哥，不要把這個加進按鈕裡，我的天啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Hd80nxzMgkE",
+            "start": 9170.0,
+            "end": 9174.0
           }
         }
       ]
