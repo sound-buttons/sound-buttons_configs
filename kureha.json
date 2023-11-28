@@ -3611,6 +3611,36 @@
             "start": 9058.0,
             "end": 9061.5
           }
+        },
+        {
+          "id": "85949cac-e493-4dce-a6b2-b21430d842c5",
+          "filename": "你怎麼可以站上面你怎麼可以站比我高沒禮貌.webm",
+          "text": {
+            "zh-tw": "你怎麼可以站上面！你怎麼可以站比我高，沒禮貌！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "1j0k4g85jdw",
+            "start": 2818.7,
+            "end": 2824.0
+          }
+        },
+        {
+          "id": "6314c04f-c79c-4b8f-9ed5-070a2e6bb667",
+          "filename": "今天特別有氣質真的假的哇那我真的是很開心耶.webm",
+          "text": {
+            "zh-tw": "(今天特別有氣質) 真的假的? 哇~ 那我真的是\"很\"開心耶~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "1j0k4g85jdw",
+            "start": 3860.0,
+            "end": 3867.0
+          }
         }
       ]
     },

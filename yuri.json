@@ -1326,6 +1326,36 @@
             "start": 2159.0,
             "end": 2166.0
           }
+        },
+        {
+          "id": "b356cabb-9fc2-4845-ada0-1ec3cf133848",
+          "filename": "是是你說得對你說得對.webm",
+          "text": {
+            "zh-tw": "是是！你說得對！你說得對！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "c9def0ed-e144-4a16-96e7-e65848876e21",
+          "filename": "我不好吃我真的不好吃只有皮包骨我沒有肉OK嗎.webm",
+          "text": {
+            "zh-tw": "我不好吃，我真的不好吃，只有皮包骨，我沒有肉！OK嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     },

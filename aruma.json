@@ -3867,6 +3867,66 @@
             "start": 5287.0,
             "end": 5294.0
           }
+        },
+        {
+          "id": "e3369ca4-5b6d-4f61-9e15-7986b52f5587",
+          "filename": "為什麼這個世界已經變成女生一個人住是很危險的世界了.webm",
+          "text": {
+            "zh-tw": "為什麼這個世界已經變成女生一個人住是很危險的世界了...",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 1313.0,
+            "end": 1317.5
+          }
+        },
+        {
+          "id": "e56afa79-3e53-4ffa-8a67-60e639efea95",
+          "filename": "日文OK買起來反正也不是用我的錢多買一點好了.webm",
+          "text": {
+            "zh-tw": "(日文) OK！買起來！反正也不是用我的錢，多買一點好了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 1913.6,
+            "end": 1918.5
+          }
+        },
+        {
+          "id": "3ac1b33c-a50c-4ba7-88ae-a136c005bcd9",
+          "filename": "WhatsWhats.webm",
+          "text": {
+            "zh-tw": "What's?! What's!!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 2836.0,
+            "end": 2839.0
+          }
+        },
+        {
+          "id": "6fb420f6-9dc0-42e0-b8dc-0ce15bb5e15e",
+          "filename": "我可以去了嗎.webm",
+          "text": {
+            "zh-tw": "我可以去了嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 3542.0,
+            "end": 3543.7
+          }
         }
       ]
     },
@@ -4640,6 +4700,66 @@
             "videoId": "qLDW6vW2nB4",
             "start": 7665.0,
             "end": 7668.0
+          }
+        },
+        {
+          "id": "1984a28d-23ed-4838-af75-be2db9e9038d",
+          "filename": "好想把你推下去喔哈哈哈哈ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "好想把你推下去喔哈哈哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 1388.5,
+            "end": 1392.0
+          }
+        },
+        {
+          "id": "102f0acc-66e9-4943-9029-8db47f8901ea",
+          "filename": "這邊太黑了我不敢單挑哈哈哈.webm",
+          "text": {
+            "zh-tw": "這邊太黑了我不敢單挑哈哈哈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 2238.0,
+            "end": 2241.0
+          }
+        },
+        {
+          "id": "15025eb0-cf91-4f4a-a80c-5db728bd06d3",
+          "filename": "大笑.webm",
+          "text": {
+            "zh-tw": "(大笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 3550.0,
+            "end": 3560.0
+          }
+        },
+        {
+          "id": "5b8bbb7e-43fe-42dc-a6ad-9cf53237bc0c",
+          "filename": "哈哈ᏊꈊᏊ_638364206799865837.webm",
+          "text": {
+            "zh-tw": "哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 3568.0,
+            "end": 3571.0
           }
         }
       ]
@@ -5730,6 +5850,36 @@
             "start": 11139.0,
             "end": 11142.0
           }
+        },
+        {
+          "id": "03275081-915f-46db-8dde-623e5774304b",
+          "filename": "你什麼意思你要不要把話說清楚一點你幹嘛啊啊.webm",
+          "text": {
+            "zh-tw": "你什麼意思！你要不要把話說清楚一點！你幹嘛啊！啊？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 2110.8,
+            "end": 2115.3
+          }
+        },
+        {
+          "id": "50eb9c99-bc4d-4218-bf6a-ad363965137f",
+          "filename": "なんなんですかおいお前來啊來啊來啊Letsfighttogether我會APEX動き音效.webm",
+          "text": {
+            "zh-tw": "なんなんですか? おい、お前，來啊來啊來啊！Let's fight together! 我會APEX動き！(音效)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 2091.032,
+            "end": 2105.706
+          }
         }
       ]
     },
@@ -5903,6 +6053,51 @@
             "videoId": "DlWmtAT6Ung",
             "start": 7926.0,
             "end": 7949.0
+          }
+        },
+        {
+          "id": "e130b237-d7db-49dc-853e-23e3b913f857",
+          "filename": "遊戲嚇到尖叫.webm",
+          "text": {
+            "zh-tw": "(遊戲嚇到尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 2288.0,
+            "end": 2306.0
+          }
+        },
+        {
+          "id": "e06633c4-9fd8-437a-b301-310c3dce39d8",
+          "filename": "大叫.webm",
+          "text": {
+            "zh-tw": "(大叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 3385.0,
+            "end": 3389.0
+          }
+        },
+        {
+          "id": "e5aa8ad0-3f12-4c94-8c5f-9556d12357b4",
+          "filename": "尖叫_638365205181387594.webm",
+          "text": {
+            "zh-tw": "(尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "XaaKWinFBU4",
+            "start": 3691.0,
+            "end": 3694.0
           }
         }
       ]
