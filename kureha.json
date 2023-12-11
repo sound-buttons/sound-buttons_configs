@@ -3701,6 +3701,96 @@
             "start": 9178.0,
             "end": 9186.0
           }
+        },
+        {
+          "id": "0489d451-97ec-4244-a7c2-c72c351ec290",
+          "filename": "我在跟初見講話沒在跟你們講話.webm",
+          "text": {
+            "zh-tw": "我在跟初見講話沒在跟你們講話",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "fkjenmiX0EE",
+            "start": 2641.5,
+            "end": 2644.0
+          }
+        },
+        {
+          "id": "7dda5345-c848-4029-b0a1-b7e1e75d2fb3",
+          "filename": "我去了我去了我一定要去的沒錯我去了.webm",
+          "text": {
+            "zh-tw": "我去了、我去了、我一定要去的，沒錯，我去了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "qWrV0BsTIwc",
+            "start": 13047.8,
+            "end": 13051.7
+          }
+        },
+        {
+          "id": "b97afce1-8fff-408d-876a-2146086c855b",
+          "filename": "我們今天是衝刺能達五千蛤能達到五千的機率非常小.webm",
+          "text": {
+            "zh-tw": "我們今天是衝刺，能達五千$%^@#蛤? 能達到五千的機率非常小",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-oF0FsUL13s",
+            "start": 311.0,
+            "end": 318.0
+          }
+        },
+        {
+          "id": "fe18f24a-ae56-4c41-af7f-e8ec176948d2",
+          "filename": "熟悉的鼻音是怎樣w我早上是不是都長這樣唉呦喂.webm",
+          "text": {
+            "zh-tw": "熟悉的鼻音是怎樣w 我早上是不是都長這樣，唉呦喂",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-oF0FsUL13s",
+            "start": 230.0,
+            "end": 236.0
+          }
+        },
+        {
+          "id": "e2111755-67e5-40e6-8a40-7ed4b9aed61b",
+          "filename": "矮鵝好噁心喔.webm",
+          "text": {
+            "zh-tw": "矮鵝！好噁心喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-oF0FsUL13s",
+            "start": 1204.0,
+            "end": 1208.0
+          }
+        },
+        {
+          "id": "4b3b910b-582f-497a-a95b-fb85eafc2bf2",
+          "filename": "告知就是大家我沒錢了.webm",
+          "text": {
+            "zh-tw": "告知就是: 大家我沒錢了~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "fkjenmiX0EE",
+            "start": 5914.0,
+            "end": 5918.0
+          }
         }
       ]
     },
@@ -3994,6 +4084,36 @@
             "videoId": "3xxKEfiaxRU",
             "start": 9375.0,
             "end": 9379.0
+          }
+        },
+        {
+          "id": "42efa658-4c92-4c84-a0e3-7981e76dde76",
+          "filename": "笑螢光棒好好笑喔.webm",
+          "text": {
+            "zh-tw": "(笑) 螢光棒好好笑喔~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "fkjenmiX0EE",
+            "start": 2077.0,
+            "end": 2091.0
+          }
+        },
+        {
+          "id": "c7dd682f-cd31-4459-9ee0-8a04c1b2dba4",
+          "filename": "啊哈哈.webm",
+          "text": {
+            "zh-tw": "(啊！) 哈哈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "y0v1rpl2Gsk",
+            "start": 1429.0,
+            "end": 1433.0
           }
         }
       ]
@@ -4943,6 +5063,21 @@
             "start": 2068.0,
             "end": 2070.0
           }
+        },
+        {
+          "id": "825d6467-ccee-4af0-b0c6-6c72d7a30931",
+          "filename": "啊大叫.webm",
+          "text": {
+            "zh-tw": "啊~ (大叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "-oF0FsUL13s",
+            "start": 1325.0,
+            "end": 1328.0
+          }
         }
       ]
     },
@@ -5056,6 +5191,21 @@
             "videoId": "Hd80nxzMgkE",
             "start": 9170.0,
             "end": 9174.0
+          }
+        },
+        {
+          "id": "50d8dbae-acb0-4d27-925d-b25127e5ba09",
+          "filename": "自動拍手觸發了自動拍手你可以有點真心誠意嗎.webm",
+          "text": {
+            "zh-tw": "(自動拍手觸發了) 自動拍手，你可以有點真心誠意嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "I43IWauDnlA",
+            "start": 3911.0,
+            "end": 3916.0
           }
         }
       ]
