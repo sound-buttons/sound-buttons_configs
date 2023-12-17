@@ -3791,6 +3791,96 @@
             "start": 5914.0,
             "end": 5918.0
           }
+        },
+        {
+          "id": "d812b128-3ce3-40e8-94e8-619394650c2e",
+          "filename": "我沒有說你一定會愛上男生但你也不能否認這個可能性啊笑.webm",
+          "text": {
+            "zh-tw": "我沒有說你一定會愛上男生...但你也不能否認這個可能性啊！(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 3649.0,
+            "end": 3657.0
+          }
+        },
+        {
+          "id": "0aea3f13-7e16-40c8-a2d9-b57f5607f811",
+          "filename": "太痛了吧斷掉喔拍桌不要這樣.webm",
+          "text": {
+            "zh-tw": "太痛了吧！斷掉！喔！ (拍桌) 不要這樣！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 3848.0,
+            "end": 3854.0
+          }
+        },
+        {
+          "id": "4bf4f2dd-e65c-411d-9870-1645f184a03e",
+          "filename": "休息還休息繼續剪短片啊你不愛れれ了嗎れれ的訂閱數就靠你了快.webm",
+          "text": {
+            "zh-tw": "休息！還休息！繼續剪(短片)啊！你不愛れれ了嗎？れれ的訂閱數就靠你了！快！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 5515.4,
+            "end": 5523.2
+          }
+        },
+        {
+          "id": "ae9d2911-f948-41a4-8287-943a25ba40c3",
+          "filename": "太可憐了我就沒有見過這麼可憐的.webm",
+          "text": {
+            "zh-tw": "太可憐了，我就沒有見過這麼可憐的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 5537.0,
+            "end": 5541.0
+          }
+        },
+        {
+          "id": "7612093d-0740-4493-be7c-fcca431e6809",
+          "filename": "我沒有開我只是沒有關.webm",
+          "text": {
+            "zh-tw": "我沒有開我只是沒有關",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 8610.3,
+            "end": 8613.0
+          }
+        },
+        {
+          "id": "01e42791-3ab4-495b-bf45-4c968f1940ec",
+          "filename": "超氣你就趕快伸出去在那邊磨磨蹭蹭的是不是男人啊我在那邊看得很生氣趕快.webm",
+          "text": {
+            "zh-tw": "(超氣) 你就趕快伸出去在那邊磨磨蹭蹭的是不是男人啊，我在那邊看得很生氣...趕快！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "nhk_4OYlYcs",
+            "start": 6614.0,
+            "end": 6623.0
+          }
         }
       ]
     },
@@ -4114,6 +4204,21 @@
             "videoId": "y0v1rpl2Gsk",
             "start": 1429.0,
             "end": 1433.0
+          }
+        },
+        {
+          "id": "49c167ca-0ce6-400e-b068-d621efa379da",
+          "filename": "日文需要朋友的深處的事情嗎れれ大爆笑我不會翻譯這一句的.webm",
+          "text": {
+            "zh-tw": "(日文) (需要朋友的深處的事情嗎...) (れれ大爆笑) 我不會翻譯這一句的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 7807.0,
+            "end": 7820.0
           }
         }
       ]
@@ -5078,6 +5183,36 @@
             "start": 1325.0,
             "end": 1328.0
           }
+        },
+        {
+          "id": "fc3a3e63-cba0-4dd8-ac33-4253e1fffcab",
+          "filename": "誒閉嘴明明就是它不好用它真的很難用你不覺得嗎.webm",
+          "text": {
+            "zh-tw": "誒！閉嘴！明明就是它不好用！它真的很難用你不覺得嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 6965.0,
+            "end": 6970.7
+          }
+        },
+        {
+          "id": "3f1f5fd2-263b-4dd3-adfd-90d6d929da6a",
+          "filename": "日文啊啊啊啊不行.webm",
+          "text": {
+            "zh-tw": "(日文) 啊！啊！啊！啊！不行！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 7765.5,
+            "end": 7771.0
+          }
         }
       ]
     },
@@ -5206,6 +5341,21 @@
             "videoId": "I43IWauDnlA",
             "start": 3911.0,
             "end": 3916.0
+          }
+        },
+        {
+          "id": "493f2aec-881c-46ef-8de2-4c242174123a",
+          "filename": "れれ在看やらないか現在在幹嘛琳Hello這是你目前問這一句最錯的時機.webm",
+          "text": {
+            "zh-tw": "(れれ在​看やらないか) (現在在幹嘛) 琳 Hello，這是你目前問這一句最錯的時機",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "zxTAv9FB7gg",
+            "start": 8063.0,
+            "end": 8072.0
           }
         }
       ]
