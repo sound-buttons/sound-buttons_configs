@@ -5873,6 +5873,171 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "ec1b2dcc-6f75-461a-ac8a-1ea0e87d912a",
+          "filename": "我不要我不會被你釣到的.webm",
+          "text": {
+            "zh-tw": "我不要！我不會被你釣到的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 10994.0,
+            "end": 10997.0
+          }
+        },
+        {
+          "id": "13bd022c-413c-4b51-97c1-30ec2dcf6e05",
+          "filename": "我我以後要怎麼嫁出去我要怎麼跟蕭逸結婚呢真是的.webm",
+          "text": {
+            "zh-tw": "我..我以後要怎麼嫁出去，我要怎麼跟蕭逸結婚呢? 真是的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 11006.0,
+            "end": 11012.0
+          }
+        },
+        {
+          "id": "abcb6aee-22b6-40b2-a91d-4d74ad79814f",
+          "filename": "你知道嗎你在你的一張紙上畫一個屁股然後這樣就是打屁股了.webm",
+          "text": {
+            "zh-tw": "你知道嗎，你在你的一張紙上畫一個屁股，然後 (%%%%%%) 這樣就是打屁股了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 11055.0,
+            "end": 11064.0
+          }
+        },
+        {
+          "id": "66ecb1c6-795e-41e6-83d9-faf30703e1f4",
+          "filename": "現在我們可以剪阿花打自己的屁屁mp4了不要剪啦.webm",
+          "text": {
+            "zh-tw": "(現在我們可以剪阿花打自己的屁屁.mp4了) 不要剪啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 11088.5,
+            "end": 11093.0
+          }
+        },
+        {
+          "id": "8a36c561-a2dc-457d-bf4b-89cc95290518",
+          "filename": "babyshark那到底是什麼白沒事.webm",
+          "text": {
+            "zh-tw": "(baby shark) 那到底是什麼白...沒事",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 10137.0,
+            "end": 10144.0
+          }
+        },
+        {
+          "id": "b357a41e-3f79-488a-b582-0c2d49b4de64",
+          "filename": "沒關係我們只要分得出來Vocaloid不是Vtuber就夠了.webm",
+          "text": {
+            "zh-tw": "沒關係我們只要分得出來Vocaloid不是Vtuber就夠了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 10149.0,
+            "end": 10155.0
+          }
+        },
+        {
+          "id": "2acf6222-6139-45e1-bf8b-bb60c36d740e",
+          "filename": "唉不是我說你們啊這個真的正常一點好不好.webm",
+          "text": {
+            "zh-tw": "唉~不是我說你們啊，這個真的，正常一點好不好",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 8385.0,
+            "end": 8391.8
+          }
+        },
+        {
+          "id": "0e934611-b7a0-45e6-9cb4-2c0addda37fd",
+          "filename": "超自然震動美江style沒錯.webm",
+          "text": {
+            "zh-tw": "超自然震動！美江style！沒錯",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 7655.0,
+            "end": 7658.8
+          }
+        },
+        {
+          "id": "2cd0e5da-2f57-4be2-b421-9d450bb70815",
+          "filename": "不要再講這些垃圾冷笑話好不好講一些好笑一點的好不好真是的我都沒有笑出來了呵呵.webm",
+          "text": {
+            "zh-tw": "不要再講這些垃圾冷笑話好不好，講一些好笑一點的好不好，真是的我都沒有笑出來了 (呵呵)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 7735.0,
+            "end": 7742.0
+          }
+        },
+        {
+          "id": "bd84537a-4d5a-4729-ae68-1585e5017782",
+          "filename": "那個我是紅色的看到了嗎我是紅色的友軍不要打過來.webm",
+          "text": {
+            "zh-tw": "那個...我是紅色的！看到了嗎，我是紅色的！友軍不要打過來",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 7822.0,
+            "end": 7827.9
+          }
+        },
+        {
+          "id": "c3c84db4-42fe-4b3f-9842-4c919a4a0db4",
+          "filename": "不是那個以上言論不代表本台立場那個是觀眾講的不不不不不是我講的啦.webm",
+          "text": {
+            "zh-tw": " 不是那個...以上言論不代表本台立場，那個是觀眾講的，不不不不不是我講的啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 7817.0,
+            "end": 7822.0
+          }
         }
       ]
     },
@@ -8095,6 +8260,51 @@
             "videoId": "sOu09k4bQqQ",
             "start": 9673.0,
             "end": 9680.0
+          }
+        },
+        {
+          "id": "d2f1e2a5-cb75-4ea4-970e-a1bb1832d2f6",
+          "filename": "不打嗎我很想聽耶你等下把它做成按鈕我要怎麼辦啊.webm",
+          "text": {
+            "zh-tw": "(不打嗎，我很想聽耶) 你等下把它做成按鈕我要怎麼辦啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 11003.0,
+            "end": 11006.0
+          }
+        },
+        {
+          "id": "c9972a5b-84dd-4e2e-8f07-136d279b45e9",
+          "filename": "我要把笑聲變按鈕不要啦.webm",
+          "text": {
+            "zh-tw": "(我要把笑聲變按鈕) 不要啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 8395.0,
+            "end": 8398.0
+          }
+        },
+        {
+          "id": "45083170-4ef7-43f7-b39e-998794811d04",
+          "filename": "你說不要就不要嗎讓我剪剪琳哥不要啦琳哥不要啦.webm",
+          "text": {
+            "zh-tw": "(你說不要就不要嗎，讓我剪剪) 琳哥~不要啦~琳哥~不要啦~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ACdi7421Tcw",
+            "start": 8422.0,
+            "end": 8429.0
           }
         }
       ]
