@@ -1356,6 +1356,21 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "efb2863c-c6f1-452c-b3bb-a1d6f490a28c",
+          "filename": "對對喔對喔.webm",
+          "text": {
+            "zh-tw": "對！對喔！對喔！",
+            "ja": "はい！そうです！そうです！"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     },

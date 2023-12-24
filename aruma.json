@@ -4062,6 +4062,21 @@
             "start": 2005.0,
             "end": 2013.0
           }
+        },
+        {
+          "id": "05d6d629-128c-4168-b561-cb37d33929ef",
+          "filename": "日文我成為偶像了.webm",
+          "text": {
+            "zh-tw": "(日文) 我成為偶像了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "9onCY8tq6Dg",
+            "start": 2108.6,
+            "end": 2112.0
+          }
         }
       ]
     },

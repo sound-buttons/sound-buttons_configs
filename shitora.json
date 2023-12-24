@@ -327,6 +327,21 @@
             "start": 4779.0,
             "end": 4787.5
           }
+        },
+        {
+          "id": "e25e9b6d-9c35-4095-9c2c-c30688b1c06d",
+          "filename": "雜魚謝了.webm",
+          "text": {
+            "zh-tw": "雜魚謝了",
+            "ja": "ざーこ 送れてきたの ざっこざっこー ありがと"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Dvriyq0PTtk",
+            "start": 1355.0,
+            "end": 1361.0
+          }
         }
       ]
     },
