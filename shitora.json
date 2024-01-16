@@ -1638,6 +1638,21 @@
             "start": 2148.0,
             "end": 2170.0
           }
+        },
+        {
+          "id": "8f19f7f5-348f-4220-b26b-81464f8ca30c",
+          "filename": "喔YESDokiDokiSunsine.webm",
+          "text": {
+            "zh-tw": "喔 YES ! Doki Doki Sunsine",
+            "ja": "Oh yes! ドキドキサンシャイン! Oh yes! ドキドキサンシャイン!"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "n-R0bPNNvKA",
+            "start": 3631.0,
+            "end": 3639.0
+          }
         }
       ]
     }

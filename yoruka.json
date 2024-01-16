@@ -6158,6 +6158,36 @@
             "start": 1282.5,
             "end": 1286.7
           }
+        },
+        {
+          "id": "bb97b505-b060-480c-a8e4-b0542b0e1410",
+          "filename": "康O傅不是跟雙響砲一樣破嗎.webm",
+          "text": {
+            "zh-tw": "康O傅不是跟雙響砲一樣破嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "dbrZRRhON28",
+            "start": 959.3,
+            "end": 962.0
+          }
+        },
+        {
+          "id": "c7ebb897-b9fb-4178-9514-1c659c8056f4",
+          "filename": "呃不是啦那個她在跳嘛所以裙子飄起來我不小心看到嘛什麼啦你們幹嘛啦.webm",
+          "text": {
+            "zh-tw": "呃...不是啦！那個...她在跳嘛，所以裙子飄起來我不小心看到嘛...什麼啦！你們...幹嘛啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "dbrZRRhON28",
+            "start": 3014.0,
+            "end": 3030.0
+          }
         }
       ]
     },
