@@ -4256,6 +4256,171 @@
             "start": 4822.5,
             "end": 4824.3
           }
+        },
+        {
+          "id": "ca941c0e-4a0b-4595-8b0c-ad2558ddd6a1",
+          "filename": "台語燒酒螺叫賣.webm",
+          "text": {
+            "zh-tw": "(台語燒酒螺叫賣)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "6EZS7Oah5UQ",
+            "start": 5616.0,
+            "end": 5623.0
+          }
+        },
+        {
+          "id": "e697549a-f0c6-40df-9e87-361e7cf9421a",
+          "filename": "給垃圾車的歌.webm",
+          "text": {
+            "zh-tw": "(給垃圾車的歌)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "6EZS7Oah5UQ",
+            "start": 2461.0,
+            "end": 2468.0
+          }
+        },
+        {
+          "id": "43f85583-d1d1-4e79-874f-8a46339b3954",
+          "filename": "咂嘴唉.webm",
+          "text": {
+            "zh-tw": "(咂嘴) 唉！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 3355.5,
+            "end": 3357.0
+          }
+        },
+        {
+          "id": "763e9f23-2b50-41b1-a1ee-9b6a0712ef90",
+          "filename": "我剛也是唸完想說嚇好假裝不知道謝謝假裝不知道喔我們沒有聽到喔.webm",
+          "text": {
+            "zh-tw": "我剛也是唸完想說 (嚇！) 好假裝不知道謝謝。假裝不知道喔我們沒有聽到喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 2103.0,
+            "end": 2108.8
+          }
+        },
+        {
+          "id": "751fdea1-48ce-4318-acb2-142733ac33c2",
+          "filename": "等下你們為什麼都知道啊你們不是不會日文嗎.webm",
+          "text": {
+            "zh-tw": "等下你們為什麼都知道啊！你們不是不會日文嗎？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 2109.0,
+            "end": 2114.0
+          }
+        },
+        {
+          "id": "53d1f1c4-59fe-48f0-9f66-a77362df4f33",
+          "filename": "okokokok不要剪精華啦.webm",
+          "text": {
+            "zh-tw": "okokokok...不要剪精華啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 2153.0,
+            "end": 2156.0
+          }
+        },
+        {
+          "id": "1f270458-b0f0-40b6-8ce8-0995a5087117",
+          "filename": "不要不要不要拜託不要做這個拜託拜託我求你了我就是一時大意好嗎.webm",
+          "text": {
+            "zh-tw": "不要不要不要拜託不要做這個拜託拜託我求你了！我就是一時大意好嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 2168.0,
+            "end": 2174.3
+          }
+        },
+        {
+          "id": "57072dc0-c379-46c1-b78a-44d4f8fc59c6",
+          "filename": "明明是rere爆言誒可是我又我只是唸錯而已我唸錯而已.webm",
+          "text": {
+            "zh-tw": "(明明是rere爆言誒) 可是我又...我只是唸錯而已...我唸錯而已！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 2206.0,
+            "end": 2213.0
+          }
+        },
+        {
+          "id": "e35576e6-32ac-46bc-8324-f696a04719ca",
+          "filename": "嘆氣啊好痛苦.webm",
+          "text": {
+            "zh-tw": "(嘆氣) 啊~好痛苦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 2214.0,
+            "end": 2218.0
+          }
+        },
+        {
+          "id": "74eab157-9833-4965-92ed-449930a58f45",
+          "filename": "ななななななななな.webm",
+          "text": {
+            "zh-tw": "ななななななななな",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 1605.0,
+            "end": 1609.0
+          }
+        },
+        {
+          "id": "b6bd7e00-cb1f-4aca-8417-09313515e8e1",
+          "filename": "臭北七大北七廢物到底是哪個白癡一直想被罵北七奇怪的人.webm",
+          "text": {
+            "zh-tw": "臭北七！大北七！廢物！到底是哪個白癡一直想被罵北七...奇怪的人",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     },
@@ -4625,6 +4790,21 @@
             "start": 2159.0,
             "end": 2165.0
           }
+        },
+        {
+          "id": "5b2daab9-a84f-45a0-907d-332107be8647",
+          "filename": "小餅子笑爛.webm",
+          "text": {
+            "zh-tw": "小餅子 (笑爛)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 3421.0,
+            "end": 3432.0
+          }
         }
       ]
     },
@@ -4918,6 +5098,21 @@
             "videoId": "TYrp7ZS3X2M",
             "start": 11413.2,
             "end": 11415.0
+          }
+        },
+        {
+          "id": "4a71da91-2b46-4646-b364-ae55d4db7a1d",
+          "filename": "不是啦萬子怎麼唸マンしマンコ不是嚇.webm",
+          "text": {
+            "zh-tw": "不是啦「萬子」怎麼唸？マンし？マンコ...不是 (嚇！)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VUtsSSnZNGs",
+            "start": 2086.2,
+            "end": 2093.0
           }
         }
       ]
