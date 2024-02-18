@@ -4421,6 +4421,51 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "240b8c0f-2e56-4ec4-ba2e-c3eb4594b826",
+          "filename": "好暈喔好暈喔好暈喔.webm",
+          "text": {
+            "zh-tw": "好暈喔好暈喔好暈喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "YkeVNSIZUzU",
+            "start": 490.6,
+            "end": 492.8
+          }
+        },
+        {
+          "id": "b44d829d-3659-46c1-987d-44aa223e9ee4",
+          "filename": "有暴露狂.webm",
+          "text": {
+            "zh-tw": "有暴露狂！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "YkeVNSIZUzU",
+            "start": 1107.0,
+            "end": 1109.0
+          }
+        },
+        {
+          "id": "4d052527-72e4-45d5-833e-8729af8314d0",
+          "filename": "為什麼你的YT購買內容有其他女人的會員和SC說啊為什麼.webm",
+          "text": {
+            "zh-tw": "為什麼你的YT購買內容有其他女人的會員和SC！說啊，為什麼！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "7I_OL8ByLbw",
+            "start": 3511.0,
+            "end": 3518.0
+          }
         }
       ]
     },
@@ -5842,6 +5887,36 @@
             "videoId": "Y9qL_P6u7F0",
             "start": 1436.0,
             "end": 1439.0
+          }
+        },
+        {
+          "id": "eac1786b-6811-4391-a40f-c93189db8848",
+          "filename": "啊嚇死三三三小尖叫.webm",
+          "text": {
+            "zh-tw": "啊嚇死三三三小....(尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "YkeVNSIZUzU",
+            "start": 622.0,
+            "end": 630.0
+          }
+        },
+        {
+          "id": "6d1856e8-5a40-4231-ad14-70b5def2762c",
+          "filename": "大叫誰啦喂.webm",
+          "text": {
+            "zh-tw": "(大叫) ...誰啦，喂！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "YkeVNSIZUzU",
+            "start": 1193.0,
+            "end": 1198.0
           }
         }
       ]
