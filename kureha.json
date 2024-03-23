@@ -4466,6 +4466,36 @@
             "start": 3511.0,
             "end": 3518.0
           }
+        },
+        {
+          "id": "80012ec7-4144-4ae7-81ae-16f7bc42bb1c",
+          "filename": "我超級難過的我唉喘.webm",
+          "text": {
+            "zh-tw": "我超級難過的！我...唉！(喘)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "9h93oTTWMTs",
+            "start": 8360.0,
+            "end": 8366.0
+          }
+        },
+        {
+          "id": "da9e7c0b-30a5-4cf1-a85f-e47fbe29c3d8",
+          "filename": "啊_638463484929301742.webm",
+          "text": {
+            "zh-tw": "(啊~)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     },
@@ -4850,6 +4880,21 @@
             "start": 3421.0,
             "end": 3432.0
           }
+        },
+        {
+          "id": "0e748c54-8af2-44e6-ae96-870c5e2f39e4",
+          "filename": "號買爬號買爬是什麼www.webm",
+          "text": {
+            "zh-tw": "號買爬...號買爬是什麼www",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "9h93oTTWMTs",
+            "start": 8321.5,
+            "end": 8333.5
+          }
         }
       ]
     },
@@ -5158,6 +5203,21 @@
             "videoId": "VUtsSSnZNGs",
             "start": 2086.2,
             "end": 2093.0
+          }
+        },
+        {
+          "id": "3234d312-5429-4ab6-98f2-157ddf2a86a1",
+          "filename": "觀眾名5MA.webm",
+          "text": {
+            "zh-tw": "(觀眾名) 5MA",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
           }
         }
       ]
