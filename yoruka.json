@@ -6352,6 +6352,30 @@
     },
     {
       "name": {
+        "zh-tw": "💜入相知夜🎀",
+        "ja": "💜入相知夜🎀"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
+      "buttons": [
+        {
+          "id": "a12da3ec-e4cc-405c-a031-8c071c880628",
+          "filename": "學烏龜叫.webm",
+          "text": {
+            "zh-tw": "(學烏龜叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        }
+      ]
+    },
+    {
+      "name": {
         "zh-tw": "奇怪的歌",
         "ja": "奇怪的歌"
       },
