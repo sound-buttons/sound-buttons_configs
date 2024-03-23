@@ -4637,7 +4637,7 @@
           "filename": "日文兇你給我閉嘴開什麼玩笑.webm",
           "text": {
             "zh-tw": "(日文兇) 你給我閉嘴，開什麼玩笑",
-            "ja": "[useSTT]"
+            "ja": "黙れよお前ガチで、ふざけんな"
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -4802,7 +4802,7 @@
           "filename": "日文等一下.webm",
           "text": {
             "zh-tw": "(日文) 等一下",
-            "ja": "[useSTT]"
+            "ja": "ちょっと待って"
           },
           "baseRoute": null,
           "volume": 1.0,
