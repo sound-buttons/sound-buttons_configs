@@ -6248,6 +6248,81 @@
             "start": 4752.7,
             "end": 4757.7
           }
+        },
+        {
+          "id": "5f5ac26b-9927-4790-8157-b7513eb30230",
+          "filename": "我是清楚系偶像須多夜花.webm",
+          "text": {
+            "zh-tw": "「我是清楚系偶像須多夜花！」",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "9gqthL0k6GQ",
+            "start": 6833.0,
+            "end": 6837.0
+          }
+        },
+        {
+          "id": "0dace5f4-1271-4474-9967-959a7f1910bc",
+          "filename": "亂叫.webm",
+          "text": {
+            "zh-tw": "(亂叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "5s297KM1f3Y",
+            "start": 2235.0,
+            "end": 2237.0
+          }
+        },
+        {
+          "id": "25b45972-6123-4f07-8870-5fffef78802a",
+          "filename": "胡說八道.webm",
+          "text": {
+            "zh-tw": "胡說八道",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "5s297KM1f3Y",
+            "start": 2249.0,
+            "end": 2250.0
+          }
+        },
+        {
+          "id": "9cc6ba3b-e74c-4a2b-a558-67b36bd66476",
+          "filename": "臭甲很棒啊臭甲哪裡不好了是吧這裡一堆臭甲誒.webm",
+          "text": {
+            "zh-tw": "臭甲很棒啊！臭甲哪裡不好了是吧，這裡一堆臭甲誒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "5s297KM1f3Y",
+            "start": 2516.0,
+            "end": 2520.0
+          }
+        },
+        {
+          "id": "6e032d60-ae2f-4155-af81-3328de6f5cad",
+          "filename": "這裡根本就不是須多夜花的頻道這裡是臭甲俱樂部啊各位.webm",
+          "text": {
+            "zh-tw": "這裡根本就不是須多夜花的頻道，這裡是臭甲俱樂部啊，各位！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "5s297KM1f3Y",
+            "start": 2520.0,
+            "end": 2525.0
+          }
         }
       ]
     },
@@ -7153,6 +7228,21 @@
             "videoId": "_SNjlpZDXCQ",
             "start": 124.6,
             "end": 128.2
+          }
+        },
+        {
+          "id": "5cec59d1-f034-4975-bc8c-737698e3b0fc",
+          "filename": "5MAPUNCH_638467849216767300.webm",
+          "text": {
+            "zh-tw": "5MA PUNCH！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "ekTCLDQ7_Sg",
+            "start": 10488.0,
+            "end": 10498.0
           }
         }
       ]
