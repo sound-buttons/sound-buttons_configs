@@ -6371,6 +6371,21 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "bd1e7508-476e-4180-8526-9b129e6237fa",
+          "filename": "汪汪音階.webm",
+          "text": {
+            "zh-tw": "(汪汪音階)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
         }
       ]
     },

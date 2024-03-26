@@ -4871,6 +4871,231 @@
             "start": 1869.0,
             "end": 1872.0
           }
+        },
+        {
+          "id": "8abff100-ad79-4a75-a30c-e1f25f51f358",
+          "filename": "你誰啦.webm",
+          "text": {
+            "zh-tw": "你誰啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 2040.0,
+            "end": 2041.0
+          }
+        },
+        {
+          "id": "d5e19a6e-29cc-4dd5-900d-c64c78215172",
+          "filename": "錢我自己去賺.webm",
+          "text": {
+            "zh-tw": "錢我自己去賺",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 2129.0,
+            "end": 2130.7
+          }
+        },
+        {
+          "id": "eeaf2f55-e97d-4fd8-8160-cdcd56fa409e",
+          "filename": "紅綠燈你好Hi.webm",
+          "text": {
+            "zh-tw": "紅綠燈你好~Hi~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 2209.0,
+            "end": 2212.0
+          }
+        },
+        {
+          "id": "85aca1fe-dcb7-440f-b5ac-315a82b477bd",
+          "filename": "日文什麼都沒發生.webm",
+          "text": {
+            "zh-tw": "(日文) 什麼都沒發生",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 2222.0,
+            "end": 2224.0
+          }
+        },
+        {
+          "id": "66cc8ee6-f1c3-4741-b217-e70c6e9cd2d6",
+          "filename": "快走不要看他你不讀書以後就會變那樣喔.webm",
+          "text": {
+            "zh-tw": "快走不要看他，你不讀書以後就會變那樣喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 2260.5,
+            "end": 2264.0
+          }
+        },
+        {
+          "id": "ff5ddd45-50c6-43ef-9a4c-4fbe776776c8",
+          "filename": "我管你有沒有關係我有關係你有在乎過我嗎我在問你問題你有在尊重我的問題嗎有嗎你知道答非所問就是在說你這種人對牛彈琴就是在說你這種人嗎蛤.webm",
+          "text": {
+            "zh-tw": "我管你有沒有關係我有關係，你有在乎過我嗎? 我在問你問題你有在尊重我的問題嗎? 有嗎? 你知道答非所問就是在說你這種人對牛彈琴就是在說你這種人嗎? 蛤?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 4668.0,
+            "end": 4681.0
+          }
+        },
+        {
+          "id": "8d1b8ee7-7896-44ce-9877-9c33e890330b",
+          "filename": "找到的話我就給你錢好給錢你一開始就說要給我錢就好了.webm",
+          "text": {
+            "zh-tw": "(找到的話我就給你錢) 好~給錢，你一開始就說要給我錢就好了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 4708.0,
+            "end": 4712.0
+          }
+        },
+        {
+          "id": "99b4c2be-6b05-4a87-a8e5-654ea9f8dee4",
+          "filename": "羊咩咩.webm",
+          "text": {
+            "zh-tw": "羊咩咩~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 4727.0,
+            "end": 4730.0
+          }
+        },
+        {
+          "id": "164f7a14-88a4-475b-ba90-43406d7532ab",
+          "filename": "羊.webm",
+          "text": {
+            "zh-tw": "羊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 4744.5,
+            "end": 4746.0
+          }
+        },
+        {
+          "id": "f4ff35a9-1402-4bfa-a7a4-278a4b70bf96",
+          "filename": "不爽你怎樣.webm",
+          "text": {
+            "zh-tw": "(不爽) 你怎樣",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 4804.0,
+            "end": 4805.0
+          }
+        },
+        {
+          "id": "a106c104-709c-4b9a-96e1-ab22539bc8cf",
+          "filename": "我最不缺的就是錢.webm",
+          "text": {
+            "zh-tw": "我最不缺的就是錢",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 5334.0,
+            "end": 5336.0
+          }
+        },
+        {
+          "id": "2b26b276-cec5-4f9e-8763-3bbb41c40df9",
+          "filename": "剛剛的我很有錢現在沒錢了.webm",
+          "text": {
+            "zh-tw": "剛剛的我很有錢，現在沒錢了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 8706.0,
+            "end": 8710.0
+          }
+        },
+        {
+          "id": "6f81541e-8f11-421d-83eb-71db54b4d3c3",
+          "filename": "被遊戲嚇Ohmygod.webm",
+          "text": {
+            "zh-tw": "(被遊戲嚇) Oh my god~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 8740.0,
+            "end": 8742.0
+          }
+        },
+        {
+          "id": "6a70132d-c5e4-4c52-8a6e-003e1a3ef02d",
+          "filename": "親一下chu.webm",
+          "text": {
+            "zh-tw": "親一下 chu!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 8797.0,
+            "end": 8801.0
+          }
+        },
+        {
+          "id": "cf50a77f-16a1-45f5-9b53-7967d1a1d433",
+          "filename": "不高興的rere叫聲.webm",
+          "text": {
+            "zh-tw": "(不高興的rere叫聲)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 9233.5,
+            "end": 9235.2
+          }
         }
       ]
     },
@@ -6442,6 +6667,36 @@
             "videoId": "dXMVbt7ABEM",
             "start": 2775.0,
             "end": 2777.0
+          }
+        },
+        {
+          "id": "50a684b3-b439-4ce2-8710-84d97bd0d6c1",
+          "filename": "大叫_638470519341894440.webm",
+          "text": {
+            "zh-tw": "大叫",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 2028.0,
+            "end": 2029.0
+          }
+        },
+        {
+          "id": "89ace31b-bb2a-4dde-a0e0-53c89dc1e590",
+          "filename": "大叫我受夠了.webm",
+          "text": {
+            "zh-tw": "(大叫) 我受夠了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "eiRsPnlim0w",
+            "start": 4795.0,
+            "end": 4799.0
           }
         }
       ]

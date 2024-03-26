@@ -4167,6 +4167,126 @@
             "start": 1038.0,
             "end": 1041.5
           }
+        },
+        {
+          "id": "de586e22-9289-44a1-af97-e802b509ca0c",
+          "filename": "溫柔的約你去吃飯.webm",
+          "text": {
+            "zh-tw": "(溫柔的約你去吃飯)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lsh7CFYnaZ4",
+            "start": 8332.0,
+            "end": 8340.5
+          }
+        },
+        {
+          "id": "8ff57043-e3cd-4c18-85e0-541d5993dadc",
+          "filename": "日文版溫柔的約你去吃飯.webm",
+          "text": {
+            "zh-tw": "(日文版) (溫柔的約你去吃飯)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lsh7CFYnaZ4",
+            "start": 8349.0,
+            "end": 8358.0
+          }
+        },
+        {
+          "id": "bf6bb6bf-a334-4c7a-ad97-f4ff4a6715a6",
+          "filename": "呷飽未.webm",
+          "text": {
+            "zh-tw": "呷飽未",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lsh7CFYnaZ4",
+            "start": 8358.0,
+            "end": 8360.0
+          }
+        },
+        {
+          "id": "a89f648a-1aa4-47de-9d7f-784d36501f29",
+          "filename": "一起吃東西語音.webm",
+          "text": {
+            "zh-tw": "(一起吃東西語音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lsh7CFYnaZ4",
+            "start": 8387.6,
+            "end": 8402.5
+          }
+        },
+        {
+          "id": "4ad68e00-3c51-4b79-b58f-e4b4aa7abae8",
+          "filename": "不要不要被騙喔你們只可以被我騙.webm",
+          "text": {
+            "zh-tw": "不要被騙喔！你們只可以被我騙",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lsh7CFYnaZ4",
+            "start": 8505.0,
+            "end": 8508.2
+          }
+        },
+        {
+          "id": "f6386338-34ee-4dd0-8408-ce5c4e378f60",
+          "filename": "不要.webm",
+          "text": {
+            "zh-tw": "不要",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lsh7CFYnaZ4",
+            "start": 8504.0,
+            "end": 8505.0
+          }
+        },
+        {
+          "id": "62c47fad-7340-49fb-b873-13d8f25187ed",
+          "filename": "我有小孩了耶各位.webm",
+          "text": {
+            "zh-tw": "我有小孩了耶，各位！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lsh7CFYnaZ4",
+            "start": 366.0,
+            "end": 367.8
+          }
+        },
+        {
+          "id": "76178fbc-33ff-4e03-9146-ffad1842cdac",
+          "filename": "說得也是說得有道理好吧.webm",
+          "text": {
+            "zh-tw": "說得也是，說得有道理，好吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lsh7CFYnaZ4",
+            "start": 911.0,
+            "end": 914.0
+          }
         }
       ]
     },
