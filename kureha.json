@@ -5096,6 +5096,141 @@
             "start": 9233.5,
             "end": 9235.2
           }
+        },
+        {
+          "id": "8848ec60-a0f9-47bb-95aa-596682278c93",
+          "filename": "台語咖啡.webm",
+          "text": {
+            "zh-tw": "(台語) 咖啡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "c758-TwyTL8",
+            "start": 16593.0,
+            "end": 16594.2
+          }
+        },
+        {
+          "id": "723eacc9-c3f3-43e3-bd8b-710c0bd1ecd4",
+          "filename": "吸口水.webm",
+          "text": {
+            "zh-tw": "(吸口水)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "c758-TwyTL8",
+            "start": 6117.0,
+            "end": 6120.0
+          }
+        },
+        {
+          "id": "0e7f640d-bce8-40df-b5fc-b45bf11fbb37",
+          "filename": "看到くれは不用特別跟れれ打招呼.webm",
+          "text": {
+            "zh-tw": "看到くれは不用特別跟れれ打招呼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FWvnIzNlryM",
+            "start": 6526.0,
+            "end": 6528.9
+          }
+        },
+        {
+          "id": "95b0f323-c02c-4231-96d3-67c8d3c4bab7",
+          "filename": "屁孩.webm",
+          "text": {
+            "zh-tw": "屁孩~！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FWvnIzNlryM",
+            "start": 6602.5,
+            "end": 6605.0
+          }
+        },
+        {
+          "id": "619d7ee8-57b1-43a6-81c2-09800f7ae79d",
+          "filename": "日語屁孩.webm",
+          "text": {
+            "zh-tw": "(日語) 屁孩",
+            "ja": "ガキ"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FWvnIzNlryM",
+            "start": 6351.0,
+            "end": 6353.0
+          }
+        },
+        {
+          "id": "9a460a35-54c2-4742-84b1-89f715eb3eae",
+          "filename": "灰姑娘的王子對啊他就是個拿著你穿過的鞋子到處找你的怪人很恐怖誒.webm",
+          "text": {
+            "zh-tw": "(灰姑娘的王子) 對啊他就是個拿著你穿過的鞋子到處找你的怪人，很恐怖誒！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "BEC8D2X5vKQ",
+            "start": 13393.0,
+            "end": 13397.0
+          }
+        },
+        {
+          "id": "e9db80b5-2fd1-4c9b-8ae3-9577770d087c",
+          "filename": "愛情從來就不是那麼美好的東西.webm",
+          "text": {
+            "zh-tw": "愛情從來就不是那麼美好的東西",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "BEC8D2X5vKQ",
+            "start": 13016.0,
+            "end": 13020.0
+          }
+        },
+        {
+          "id": "576b6eae-302c-4d6c-b4f8-be28fcd7d23a",
+          "filename": "不喜歡地獄哏.webm",
+          "text": {
+            "zh-tw": "(不喜歡地獄哏)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "BEC8D2X5vKQ",
+            "start": 12513.0,
+            "end": 12520.0
+          }
+        },
+        {
+          "id": "773af816-56dc-4938-82cc-c5406bb8eeae",
+          "filename": "還有帥哥還有帥哥帥哥帥哥帥哥帥哥.webm",
+          "text": {
+            "zh-tw": "還有帥哥。還有帥哥帥哥帥哥帥哥帥哥",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "BEC8D2X5vKQ",
+            "start": 12650.0,
+            "end": 12654.0
+          }
         }
       ]
     },
@@ -6698,6 +6833,36 @@
             "start": 4795.0,
             "end": 4799.0
           }
+        },
+        {
+          "id": "10685a3f-734d-4ac9-8a33-83ddf1b10d92",
+          "filename": "筷子掉地上尖叫.webm",
+          "text": {
+            "zh-tw": "(筷子掉地上尖叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "c758-TwyTL8",
+            "start": 17048.0,
+            "end": 17051.0
+          }
+        },
+        {
+          "id": "ff96fd9c-ad82-4b2e-bbac-f5b8ea0007d7",
+          "filename": "慘叫我好崩潰啊.webm",
+          "text": {
+            "zh-tw": "(慘叫) 我好崩潰啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "BEC8D2X5vKQ",
+            "start": 13433.0,
+            "end": 13438.0
+          }
         }
       ]
     },
@@ -6811,6 +6976,51 @@
             "videoId": "ctVSohFo7Cc",
             "start": 5968.0,
             "end": 5975.0
+          }
+        },
+        {
+          "id": "7ff983be-3d66-4abf-a152-e05ce27490a8",
+          "filename": "嗆到.webm",
+          "text": {
+            "zh-tw": "嗆到",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "c758-TwyTL8",
+            "start": 17426.0,
+            "end": 17430.0
+          }
+        },
+        {
+          "id": "67fcec2b-1a93-4a0c-8bf7-e126164f5ac5",
+          "filename": "普通噴嚏.webm",
+          "text": {
+            "zh-tw": "普通噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "c758-TwyTL8",
+            "start": 6129.0,
+            "end": 6132.0
+          }
+        },
+        {
+          "id": "69374476-7008-4f15-8192-9fed3190c592",
+          "filename": "不用那麼多噴嚏按鈕好不好講到這個就氣.webm",
+          "text": {
+            "zh-tw": "不用那麼多噴嚏按鈕好不好！ 講到這個就氣！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
           }
         }
       ]
@@ -7045,6 +7255,66 @@
             "videoId": "ctVSohFo7Cc",
             "start": 5961.0,
             "end": 5965.0
+          }
+        },
+        {
+          "id": "039727b1-ad3a-4e61-9c63-beaeb3bb06eb",
+          "filename": "吸鼻子我們還有吸鼻子按鈕.webm",
+          "text": {
+            "zh-tw": "(吸鼻子) 我們還有吸鼻子按鈕",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FWvnIzNlryM",
+            "start": 6911.0,
+            "end": 6915.0
+          }
+        },
+        {
+          "id": "d8b8f860-1c77-4932-a477-94d29805ce3b",
+          "filename": "屁孩按鈕NO屁孩按鈕這有誰會去點.webm",
+          "text": {
+            "zh-tw": "(屁孩按鈕) NO! 屁孩按鈕...這...有誰會去點",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "FWvnIzNlryM",
+            "start": 6590.0,
+            "end": 6599.7
+          }
+        },
+        {
+          "id": "1c252e6a-873a-4b15-ab0a-8a89bfa59537",
+          "filename": "剛這句可以剪嗎可以啊拿去吧拿去吧無奈.webm",
+          "text": {
+            "zh-tw": "(剛這句可以剪嗎) 可以啊...拿去吧...拿去吧...(無奈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "520da766-9ed2-4f35-8167-4e927e6a616f",
+          "filename": "琳你真是個好人.webm",
+          "text": {
+            "zh-tw": "琳，你真是個好人",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "BEC8D2X5vKQ",
+            "start": 13726.4,
+            "end": 13729.0
           }
         }
       ]
