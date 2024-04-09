@@ -1350,6 +1350,21 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "79ab644e-7aed-4584-bf14-48e294f6ddc9",
+          "filename": "炒飯中之歌.webm",
+          "text": {
+            "zh-tw": "炒飯中之歌",
+            "ja": "炒飯中之歌"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CcmQHRItp7g",
+            "start": 925.7,
+            "end": 931.999
+          }
         }
       ]
     },

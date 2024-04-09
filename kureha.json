@@ -5231,6 +5231,156 @@
             "start": 12650.0,
             "end": 12654.0
           }
+        },
+        {
+          "id": "35396ea8-5121-46f5-8284-e90180d090c1",
+          "filename": "誒為什麼同接那麼高笑嚇爛先關掉先不要看.webm",
+          "text": {
+            "zh-tw": "誒為什麼同接那麼高 (笑) 嚇爛先關掉，先不要看",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "g3LoILqCL3Q",
+            "start": 1692.0,
+            "end": 1697.0
+          }
+        },
+        {
+          "id": "5b7deb6e-cd26-453b-b79e-62aa1d43f7ba",
+          "filename": "破爛的英文歡迎詞.webm",
+          "text": {
+            "zh-tw": "(破爛的英文歡迎詞)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "g3LoILqCL3Q",
+            "start": 2058.0,
+            "end": 2077.0
+          }
+        },
+        {
+          "id": "e306de19-96c6-47c5-9994-18ca864e48ae",
+          "filename": "Thankyouverymuch.webm",
+          "text": {
+            "zh-tw": "Thank you very much!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "g3LoILqCL3Q",
+            "start": 2239.3,
+            "end": 2245.0
+          }
+        },
+        {
+          "id": "b7611af6-1e04-4023-98b6-013c9b314696",
+          "filename": "rere好麻煩我一直都是麻煩的女人.webm",
+          "text": {
+            "zh-tw": "(rere好麻煩) 我一直都是麻煩的女人",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CsnFduJvRsI",
+            "start": 11166.0,
+            "end": 11170.0
+          }
+        },
+        {
+          "id": "b9ab6a29-51a3-4cf7-90e5-d270b52d65e3",
+          "filename": "各位抖M早安等很久了嗎.webm",
+          "text": {
+            "zh-tw": "各位抖M早安~~等很久了嗎~~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "CsnFduJvRsI",
+            "start": 6721.2,
+            "end": 6727.0
+          }
+        },
+        {
+          "id": "44f9a529-cd6f-412d-a43f-0cfda4598279",
+          "filename": "這隻rere已經壞掉了.webm",
+          "text": {
+            "zh-tw": "這隻rere已經壞掉了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "RWjRW1vVAGA",
+            "start": 5333.0,
+            "end": 5350.0
+          }
+        },
+        {
+          "id": "5680700e-db6c-45b8-b374-b3eee37eb3c6",
+          "filename": "我正要去買宵夜買啦嗨起來.webm",
+          "text": {
+            "zh-tw": "(我正要去買宵夜) 買啦嗨起來~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "RWjRW1vVAGA",
+            "start": 5153.0,
+            "end": 5158.0
+          }
+        },
+        {
+          "id": "c7b23c75-a01d-4965-884c-15d17f5aa937",
+          "filename": "我是rere寶寶寶寶寶寶寶寶.webm",
+          "text": {
+            "zh-tw": "我是rere寶寶，寶寶寶寶寶寶~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "RWjRW1vVAGA",
+            "start": 5172.0,
+            "end": 5196.0
+          }
+        },
+        {
+          "id": "7c700eb2-c663-4569-8acb-111654ff5dca",
+          "filename": "哇哇.webm",
+          "text": {
+            "zh-tw": "哇~哇~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "NdUPENZntyU",
+            "start": 6706.0,
+            "end": 6708.5
+          }
+        },
+        {
+          "id": "ac4b4604-694b-4137-97c2-69c40592ac2c",
+          "filename": "我不要長大.webm",
+          "text": {
+            "zh-tw": "我不要長大！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "NdUPENZntyU",
+            "start": 4317.0,
+            "end": 4319.0
+          }
         }
       ]
     },
@@ -5704,6 +5854,36 @@
             "videoId": "Fgz3I3xL7RQ",
             "start": 2135.5,
             "end": 2137.8
+          }
+        },
+        {
+          "id": "0f988945-9ebd-4f62-86dd-bdbaa6dad400",
+          "filename": "你們今天過得咋樣我今天好re喔笑.webm",
+          "text": {
+            "zh-tw": "你們今天過得咋樣? 我今天好re喔！(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "g3LoILqCL3Q",
+            "start": 636.0,
+            "end": 641.0
+          }
+        },
+        {
+          "id": "2acd3422-8494-437d-b26e-5b28ef7837c3",
+          "filename": "HappyHappyHappy.webm",
+          "text": {
+            "zh-tw": "Happy Happy Happy~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "NdUPENZntyU",
+            "start": 6077.0,
+            "end": 6087.0
           }
         }
       ]
@@ -7022,6 +7202,36 @@
             "start": 0.0,
             "end": 0.0
           }
+        },
+        {
+          "id": "ca2686da-e001-41b6-8d45-6ee00241118e",
+          "filename": "噴嚏_638480987062567250.webm",
+          "text": {
+            "zh-tw": "噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "NdUPENZntyU",
+            "start": 8037.0,
+            "end": 8044.0
+          }
+        },
+        {
+          "id": "1079e2bd-6afa-49d2-b1f1-eccd9a9bd97a",
+          "filename": "噴嚏_638480988195845021.webm",
+          "text": {
+            "zh-tw": "噴嚏",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "NdUPENZntyU",
+            "start": 8027.0,
+            "end": 8031.0
+          }
         }
       ]
     },
@@ -7315,6 +7525,36 @@
             "videoId": "BEC8D2X5vKQ",
             "start": 13726.4,
             "end": 13729.0
+          }
+        },
+        {
+          "id": "a77e0b5f-30c1-4614-bde1-100d54379ae2",
+          "filename": "按鈕真有用謝謝你的豐功偉業.webm",
+          "text": {
+            "zh-tw": "按鈕真有用！謝謝你的豐功偉業",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "NdUPENZntyU",
+            "start": 6695.0,
+            "end": 6700.7
+          }
+        },
+        {
+          "id": "00c5da2c-0d83-4adc-921e-9349625a309e",
+          "filename": "你在懷疑什麼剪按鈕不用有道理哇你這句話太有道理了.webm",
+          "text": {
+            "zh-tw": "(你在懷疑什麼，剪按鈕不用有道理) ...哇！你這句話太有道理了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "NdUPENZntyU",
+            "start": 4463.0,
+            "end": 4468.0
           }
         }
       ]

@@ -4287,6 +4287,21 @@
             "start": 911.0,
             "end": 914.0
           }
+        },
+        {
+          "id": "4aebd191-50e5-4bff-8f1c-dd0e64097ffb",
+          "filename": "唉呦你們好low喔這我不想唸了跳過.webm",
+          "text": {
+            "zh-tw": "唉呦你們好 low 喔！這我不想唸了，跳過！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "iWjrtx6nMsE",
+            "start": 2111.0,
+            "end": 2115.0
+          }
         }
       ]
     },
@@ -5225,6 +5240,36 @@
             "videoId": "leLAsTunmYg",
             "start": 5677.0,
             "end": 5689.0
+          }
+        },
+        {
+          "id": "4aee85c2-475c-4170-97f2-5d670804730c",
+          "filename": "艦長超興奮.webm",
+          "text": {
+            "zh-tw": "(​​艦長超興奮)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "iWjrtx6nMsE",
+            "start": 9710.0,
+            "end": 9724.0
+          }
+        },
+        {
+          "id": "f4edb4be-2619-4fc8-a1dd-b21fde96c5ee",
+          "filename": "日文快來快來快來.webm",
+          "text": {
+            "zh-tw": "(日文) 快來快來快來~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "iWjrtx6nMsE",
+            "start": 9577.0,
+            "end": 9583.0
           }
         }
       ]
@@ -6375,6 +6420,21 @@
             "start": 4979.0,
             "end": 4983.0
           }
+        },
+        {
+          "id": "101bedf1-ad79-4d00-a1e2-89bec9d3f1aa",
+          "filename": "智慧一直在追逐著你但你總是跑得更快.webm",
+          "text": {
+            "zh-tw": "智慧一直在追逐著你，但你總是跑得更快",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "iWjrtx6nMsE",
+            "start": 9571.0,
+            "end": 9576.0
+          }
         }
       ]
     },
@@ -7076,6 +7136,36 @@
             "videoId": "",
             "start": 0.0,
             "end": 0.0
+          }
+        },
+        {
+          "id": "a93fdc10-e56f-4088-a88a-a8631ee33075",
+          "filename": "琳桑快來幫我剪語音包啊快點.webm",
+          "text": {
+            "zh-tw": "琳桑，快來幫我剪語音包啊，快點！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "iWjrtx6nMsE",
+            "start": 9567.0,
+            "end": 9570.0
+          }
+        },
+        {
+          "id": "6aa6dd3c-1947-41e3-95ac-5d2761abe4e4",
+          "filename": "唸了就有按鈕了可惜我才不要勒.webm",
+          "text": {
+            "zh-tw": "(唸了就有按鈕了，可惜) 我才不要勒",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "iWjrtx6nMsE",
+            "start": 2139.0,
+            "end": 2142.0
           }
         }
       ]
