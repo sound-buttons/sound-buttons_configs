@@ -5381,6 +5381,171 @@
             "start": 4317.0,
             "end": 4319.0
           }
+        },
+        {
+          "id": "c465037c-2185-4a83-9066-4a97deca6217",
+          "filename": "Vtuber只是娛樂而已吃飯比較重要.webm",
+          "text": {
+            "zh-tw": "Vtuber只是娛樂而已，吃飯比較重要",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lCexFoBu3UM",
+            "start": 4310.0,
+            "end": 4315.0
+          }
+        },
+        {
+          "id": "90c30c60-619e-4053-997b-abd1037ae782",
+          "filename": "台語你是在哭喔.webm",
+          "text": {
+            "zh-tw": "(台語) 你是在哭喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Py5hM6QTGOI",
+            "start": 3291.0,
+            "end": 3293.3
+          }
+        },
+        {
+          "id": "8e0b6e31-f1f3-427e-8f51-86455b2be622",
+          "filename": "完了我覺得我壞掉了我有自覺我有自覺我覺得我現在怪怪的.webm",
+          "text": {
+            "zh-tw": "完了我覺得我壞掉了。我有自覺...我有自覺，我覺得我現在怪怪的",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Py5hM6QTGOI",
+            "start": 4036.0,
+            "end": 4045.0
+          }
+        },
+        {
+          "id": "2f0b925d-277c-44b1-b0a8-10f77b535c39",
+          "filename": "當我們同在一起.webm",
+          "text": {
+            "zh-tw": "(當我們同在一起)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Py5hM6QTGOI",
+            "start": 4147.0,
+            "end": 4169.0
+          }
+        },
+        {
+          "id": "dd06b9a8-b1ef-44ac-b1f2-9a61269b0ac4",
+          "filename": "雖然我現在看起來呆呆的但我平常不呆我平常是非常睿智的.webm",
+          "text": {
+            "zh-tw": "雖然我現在看起來呆呆的，但我平常不呆，我平常是非常睿智的！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Py5hM6QTGOI",
+            "start": 4227.0,
+            "end": 4232.0
+          }
+        },
+        {
+          "id": "0eec1b27-faae-4cf0-b385-dacfd87466a7",
+          "filename": "我英明睿智沒有PonPon.webm",
+          "text": {
+            "zh-tw": "我英明睿智，沒有PonPon",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Py5hM6QTGOI",
+            "start": 4319.0,
+            "end": 4322.0
+          }
+        },
+        {
+          "id": "cecd3416-8ad9-48c5-9229-886de4259cf4",
+          "filename": "狙擊成功BiuBiuBiuBiu.webm",
+          "text": {
+            "zh-tw": "狙擊成功BiuBiuBiuBiu！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Py5hM6QTGOI",
+            "start": 4395.0,
+            "end": 4402.0
+          }
+        },
+        {
+          "id": "eac9d015-8a20-4935-b6c7-2954c499a773",
+          "filename": "為什麼那麼可愛受不了.webm",
+          "text": {
+            "zh-tw": "為什麼那麼可愛，受不了~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Py5hM6QTGOI",
+            "start": 4574.0,
+            "end": 4578.0
+          }
+        },
+        {
+          "id": "cb7b7749-d01a-4f65-b491-1e0fd10dc2a5",
+          "filename": "生命會自己找到出路.webm",
+          "text": {
+            "zh-tw": "生命會自己找到出路",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Py5hM6QTGOI",
+            "start": 4928.0,
+            "end": 4930.0
+          }
+        },
+        {
+          "id": "701cc05f-17f2-406d-ad15-db3430c41e8f",
+          "filename": "突然變拉麵店.webm",
+          "text": {
+            "zh-tw": "(突然變拉麵店)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "g40KcdYUZLM",
+            "start": 1187.0,
+            "end": 1199.3
+          }
+        },
+        {
+          "id": "9dbfadbc-6ae7-4a80-8407-636ac26f1b9c",
+          "filename": "超級酷的喔讓你的心臟跟著砰砰跳的喔.webm",
+          "text": {
+            "zh-tw": "超級酷的喔！讓你的心臟跟著砰砰跳的喔！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "g40KcdYUZLM",
+            "start": 2410.7,
+            "end": 2416.0
+          }
         }
       ]
     },
@@ -5884,6 +6049,36 @@
             "videoId": "NdUPENZntyU",
             "start": 6077.0,
             "end": 6087.0
+          }
+        },
+        {
+          "id": "b95457d6-df60-4fa8-bc61-1783cb183ff4",
+          "filename": "所以我現在心情蠻複雜的我有點難過笑我有點難過.webm",
+          "text": {
+            "zh-tw": "所以我現在心情蠻複雜的，我有點難過 (笑) 我有點難過！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "g40KcdYUZLM",
+            "start": 1284.0,
+            "end": 1289.8
+          }
+        },
+        {
+          "id": "f8f152ad-1e2b-4622-a43f-6e4972324360",
+          "filename": "我剛就唱錯歌詞怪聲所以現在到哪裡.webm",
+          "text": {
+            "zh-tw": "我剛就唱錯歌詞 (怪聲) 所以現在到哪裡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "g40KcdYUZLM",
+            "start": 1728.0,
+            "end": 1733.0
           }
         }
       ]
@@ -7042,6 +7237,36 @@
             "videoId": "BEC8D2X5vKQ",
             "start": 13433.0,
             "end": 13438.0
+          }
+        },
+        {
+          "id": "4950b5dc-1ce2-459a-bf0d-6f44291ab17f",
+          "filename": "碰.webm",
+          "text": {
+            "zh-tw": "碰！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lCexFoBu3UM",
+            "start": 5548.0,
+            "end": 5549.0
+          }
+        },
+        {
+          "id": "d37633ab-a93b-434b-a683-2f51823c6e49",
+          "filename": "乾你屁事閉嘴絕交.webm",
+          "text": {
+            "zh-tw": "乾你屁事閉嘴絕交",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "lCexFoBu3UM",
+            "start": 5853.4,
+            "end": 5855.7
           }
         }
       ]

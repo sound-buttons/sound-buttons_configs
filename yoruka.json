@@ -6347,6 +6347,36 @@
             "start": 8995.0,
             "end": 9000.0
           }
+        },
+        {
+          "id": "f21222ce-e1db-431b-b153-36f34083471a",
+          "filename": "我頭太大了笑.webm",
+          "text": {
+            "zh-tw": "我頭太大了 (笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "kZdELR6aZmg",
+            "start": 3678.0,
+            "end": 3681.0
+          }
+        },
+        {
+          "id": "1532ca54-23de-4698-82cd-886934bb81f8",
+          "filename": "摸摸鼻子摸摸鼻子笑摸摸鼻子.webm",
+          "text": {
+            "zh-tw": "摸摸鼻子摸摸鼻子 (笑) 摸摸鼻子",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "kZdELR6aZmg",
+            "start": 3744.0,
+            "end": 3749.0
+          }
         }
       ]
     },
