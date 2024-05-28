@@ -2793,7 +2793,7 @@
           "filename": "13c4146bbcad4346ad735a23a0baf635.webm",
           "text": {
             "zh-tw": "我跟你們說啊,這個是個匿名投稿啊 這個今天是個匿名投稿 我跟你們說,我認識這個台灣的男生啊 他們真的都是呢,唉,非常的 都不知道該怎麼說呢 我們這個國內啊,都沒有遇到過這樣子的人啊 那這個台灣的男生真的是,唉,不懂啊 哈哈",
-            "ja": "私はあなたたちに言っておくけど、これは匿名投稿だよ。今日は匿名投稿だよ。私はこの台湾の男性を知っているんだけど、彼らは本当にね、ああ、とても分からないよ。私たちの国内では、こういう人に出会ったことがないんだよ。その台湾の男性は本当に、ああ、わからないんだよ。笑"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -2823,7 +2823,7 @@
           "filename": "7fe8345e38c9446d99fbd03e11d2e27d.webm",
           "text": {
             "zh-tw": "先生我跟你說啊 其實這個我們中國啊 不是每個字都捲舌的你知道嗎 這地方是看地方的 北部的呢當然是舌頭捲的厲害了點 我們這個沿岸地區沒那麼捲的 你鐵定是沒去過我們內地是吧 哈哈哈哈",
-            "ja": "実は中国語には、すべての音節が舌を巻くわけではないんですよ。その地域によって異なるんです。北部の方言は舌を巻く音が強いですが、沿岸地域の方言はそこまで巻かないんです。きっとあなたは私たちの内陸地域に行ったことがないんですね。笑"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -2838,7 +2838,7 @@
           "filename": "0ee5f2b751944c6cb8b105ea53a80470.webm",
           "text": {
             "zh-tw": "感謝大家昨天綠了這麼多人 今天就來帶大家看一下什麼叫做綠到底吧",
-            "ja": "昨日はこんなに人が来てくれてありがとう 今日は皆さんに見てみましょう 私はこれから綺麗にしていくよ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -2883,7 +2883,7 @@
           "filename": "13d18cd530d748c3914e113f388865c7.webm",
           "text": {
             "zh-tw": "看起來好像便便喔",
-            "ja": "うんちに見える"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -2898,7 +2898,7 @@
           "filename": "我的小膀胱n.webm",
           "text": {
             "zh-tw": "我的小膀胱*n",
-            "ja": "私の小さな膀胱*n"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -2912,8 +2912,8 @@
           "id": "c37ac7b8-4e75-4e76-8d2e-215a9db2c0ed",
           "filename": "c0a5c42512b344ed82e718eb69a3dbb8.webm",
           "text": {
-            "zh-tw": "投錢前可以讓艦長唱歌",
-            "ja": "えっと、投錢前に艦長が歌を歌ってもらえますか?"
+            "zh-tw": "投錢錢可以讓艦長唱歌",
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -2928,7 +2928,7 @@
           "filename": "是食物者為俊傑.webm",
           "text": {
             "zh-tw": "是食物者為俊傑",
-            "ja": "事実を誤解する者は聚集"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -2943,7 +2943,7 @@
           "filename": "fe0adcb6457c424ea2feb3359e0f9f5c.webm",
           "text": {
             "zh-tw": "我有練新歌啊,只是我練的新歌還是舊歌啊",
-            "ja": "でも新曲練習したよ、でも新曲練習したのか、古い曲だよ"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -3002,8 +3002,8 @@
           "id": "cef04e60-77d7-469d-90f0-ef2467b45b03",
           "filename": "卡比的叫聲.webm",
           "text": {
-            "zh-tw": "(卡比的叫聲?)",
-            "ja": "(カービィの鳴き声？)"
+            "zh-tw": "(卡比的叫聲)",
+            "ja": "(カービィの鳴き声)"
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -4019,36 +4019,6 @@
           }
         },
         {
-          "id": "3f6c693c-a3d4-446c-b3d8-1c7408037967",
-          "filename": "台語你是在哭喔.webm",
-          "text": {
-            "zh-tw": "(台語) 你是在哭喔?",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1.0,
-          "source": {
-            "videoId": "",
-            "start": 0.0,
-            "end": 0.0
-          }
-        },
-        {
-          "id": "a857fdae-f635-4b22-9239-ee21f8dec429",
-          "filename": "台語看什麼看.webm",
-          "text": {
-            "zh-tw": "(台語) 看什麼看",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1.0,
-          "source": {
-            "videoId": "",
-            "start": 0.0,
-            "end": 0.0
-          }
-        },
-        {
           "id": "1419eed9-11de-4505-82c1-2939794d3554",
           "filename": "我我我我可以收錢我艦長我可以收錢.webm",
           "text": {
@@ -4451,6 +4421,156 @@
             "videoId": "jpn6mZKzyLM",
             "start": 11678.0,
             "end": 11683.0
+          }
+        },
+        {
+          "id": "e8c50a1f-0edb-4dce-8767-f2377fdc9ef4",
+          "filename": "感冒艦長啊不要再打我的頭了.webm",
+          "text": {
+            "zh-tw": "(感冒艦長) 啊，不要再打我的頭了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 546.0,
+            "end": 548.0
+          }
+        },
+        {
+          "id": "1389e7ca-c775-4ea0-b53d-38cc376bd8d8",
+          "filename": "やれやれItstimetogotobed.webm",
+          "text": {
+            "zh-tw": "やれやれ、It's time to go to bed.",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 568.0,
+            "end": 573.0
+          }
+        },
+        {
+          "id": "b605b430-94f3-42fc-8d21-247b7a839c11",
+          "filename": "艦長阿嬤叫你不要看抖音.webm",
+          "text": {
+            "zh-tw": "(艦長阿嬤叫你不要看抖音)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 599.0,
+            "end": 616.6
+          }
+        },
+        {
+          "id": "a39fa893-fb58-4d10-814c-49875cffc034",
+          "filename": "艦長阿嬤叫你讀書不要看二次元的妹妹.webm",
+          "text": {
+            "zh-tw": "(艦長阿嬤叫你讀書不要看二次元的妹妹)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 672.0,
+            "end": 685.0
+          }
+        },
+        {
+          "id": "b5a8b2ef-38eb-4912-a8aa-e2e578ec0f51",
+          "filename": "艦長阿嬤吃飽沒.webm",
+          "text": {
+            "zh-tw": "(艦長阿嬤) 吃飽沒?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 922.0,
+            "end": 923.4
+          }
+        },
+        {
+          "id": "4b3597f3-ed9c-445e-9b4f-0f8f9e195bad",
+          "filename": "磁性聽說隔壁新開了一家燒肉店要不要一起去吃呢.webm",
+          "text": {
+            "zh-tw": "(磁性) 聽說隔壁新開了一家燒肉店，要不要一起去吃呢?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 966.0,
+            "end": 970.0
+          }
+        },
+        {
+          "id": "c5acc7c2-c0f8-4ec5-8ed0-006201276499",
+          "filename": "日文艦長阿嬤我成為偶像了.webm",
+          "text": {
+            "zh-tw": "(日文艦長阿嬤) 我成為偶像了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 1060.0,
+            "end": 1064.8
+          }
+        },
+        {
+          "id": "ba6a2cd9-5218-4a60-88e1-feb9aaa5bb8f",
+          "filename": "磁性喔變大了變大了.webm",
+          "text": {
+            "zh-tw": "(磁性) 喔~~變大了變大了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 1342.0,
+            "end": 1346.0
+          }
+        },
+        {
+          "id": "13eec745-498e-4f3a-8624-8980249a1f91",
+          "filename": "喔.webm",
+          "text": {
+            "zh-tw": "喔~なるほどね~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 2165.0,
+            "end": 2171.0
+          }
+        },
+        {
+          "id": "7b0cb3aa-3b5b-4515-b168-8678a8b56502",
+          "filename": "艦長的中文不行了當我沒說.webm",
+          "text": {
+            "zh-tw": "艦長的中文不行了！當我沒說",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 2293.0,
+            "end": 2295.8
           }
         }
       ]
@@ -6336,7 +6456,7 @@
           "filename": "什麼勇者妳不要偷看我的台好不好.webm",
           "text": {
             "zh-tw": "什麼！勇者妳不要偷看我的台好不好！",
-            "ja": "何だ！勇者、私の配信を覗かないでくれよ！"
+            "ja": ""
           },
           "baseRoute": null,
           "volume": 1.0,
@@ -6419,6 +6539,36 @@
             "videoId": "-pWT5PnrZfU",
             "start": 3132.0,
             "end": 3138.0
+          }
+        },
+        {
+          "id": "3f6c693c-a3d4-446c-b3d8-1c7408037967",
+          "filename": "台語你是在哭喔.webm",
+          "text": {
+            "zh-tw": "(台語) 你是在哭喔?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
+          }
+        },
+        {
+          "id": "a857fdae-f635-4b22-9239-ee21f8dec429",
+          "filename": "台語看什麼看.webm",
+          "text": {
+            "zh-tw": "(台語) 看什麼看",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "",
+            "start": 0.0,
+            "end": 0.0
           }
         },
         {
@@ -6704,6 +6854,36 @@
             "videoId": "Og33oLRLYHU",
             "start": 4191.0,
             "end": 4195.0
+          }
+        },
+        {
+          "id": "d78142f8-1626-43dc-b24b-1e23ebe79adf",
+          "filename": "台語你是在哭喔_638524785771000179.webm",
+          "text": {
+            "zh-tw": "(台語) 你是在哭喔?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 1177.0,
+            "end": 1182.0
+          }
+        },
+        {
+          "id": "05b0a8c8-fa20-43a0-9f75-2780e32cca9c",
+          "filename": "台語看什麼看_638524785086242114.webm",
+          "text": {
+            "zh-tw": "(台語) 看什麼看",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 1153.0,
+            "end": 1154.5
           }
         }
       ]
@@ -7451,6 +7631,36 @@
             "videoId": "iWjrtx6nMsE",
             "start": 2139.0,
             "end": 2142.0
+          }
+        },
+        {
+          "id": "476abdfe-f238-4a45-a75f-f2a29cb6ac64",
+          "filename": "阿嬤語音包.webm",
+          "text": {
+            "zh-tw": "阿嬤語音包！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 931.0,
+            "end": 932.8
+          }
+        },
+        {
+          "id": "a1b02971-79f8-4f4a-bbf2-c00cdffda367",
+          "filename": "這誰做的這是琳桑做的我們觀眾有位叫琳它就是我至今配信講過的話但我自己不知道.webm",
+          "text": {
+            "zh-tw": "(這誰做的) 這是琳桑做的，我們觀眾有位叫琳，它就是我至今配信講過的話但我自己不知道",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "8_lXF22Mo7s",
+            "start": 2067.0,
+            "end": 2077.0
           }
         }
       ]
