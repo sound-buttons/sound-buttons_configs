@@ -867,6 +867,51 @@
             "start": 5350.0,
             "end": 5361.0
           }
+        },
+        {
+          "id": "5a54fe63-3c01-41ea-a43f-03082d570d30",
+          "filename": "想吃漢堡.webm",
+          "text": {
+            "zh-tw": "想吃漢堡",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Yr-NsscYWwU",
+            "start": 1614.0,
+            "end": 1622.0
+          }
+        },
+        {
+          "id": "b88a44ba-3a6f-4e14-8298-e4e71e0dd092",
+          "filename": "起司漢堡起司漢堡不錯呢我想吃起司漢堡.webm",
+          "text": {
+            "zh-tw": "(起司漢堡) 起司漢堡！不錯呢，我想吃起司漢堡！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Yr-NsscYWwU",
+            "start": 1695.0,
+            "end": 1702.0
+          }
+        },
+        {
+          "id": "6bfb80c9-f6d9-4a6c-8d66-a4714f16ff5a",
+          "filename": "吸氣誒現在無法提供服務開什麼玩笑吃不到漢堡騙人.webm",
+          "text": {
+            "zh-tw": "(吸氣) 誒~~「現在無法提供服務」開什麼玩笑！吃不到漢堡，騙人~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "Yr-NsscYWwU",
+            "start": 1729.0,
+            "end": 1739.0
+          }
         }
       ]
     },
