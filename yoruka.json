@@ -6377,6 +6377,21 @@
             "start": 3744.0,
             "end": 3749.0
           }
+        },
+        {
+          "id": "afff83c0-8b4c-46a1-affc-3a9edce39d7b",
+          "filename": "我將會繼承那個人的意志成為一個偶ㄒ不要好累.webm",
+          "text": {
+            "zh-tw": "我將會繼承那個人的意志——成為一個偶ㄒ...不要好累",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "VFcaLhoalX0",
+            "start": 2706.0,
+            "end": 2713.8
+          }
         }
       ]
     },

@@ -342,6 +342,51 @@
             "start": 1355.0,
             "end": 1361.0
           }
+        },
+        {
+          "id": "3f4e2967-c144-4e91-85bb-78a5a9f169bd",
+          "filename": "嘎起結婚了這傢伙ﾒﾟДﾟﾒ恭喜.webm",
+          "text": {
+            "zh-tw": "嘎起結婚了? 這傢伙!! (ﾒﾟДﾟ)ﾒ恭喜",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "LKIUUCIBmWQ",
+            "start": 4714.0,
+            "end": 4725.0
+          }
+        },
+        {
+          "id": "2695b039-1e9b-4eda-b70f-9c4bdd848d93",
+          "filename": "那女的是誰.webm",
+          "text": {
+            "zh-tw": "那女的是誰",
+            "ja": "誰だよその女！"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "X5vt5n-fH-o",
+            "start": 2888.0,
+            "end": 2898.0
+          }
+        },
+        {
+          "id": "f0098ed5-9326-429f-bab7-9d6c85996eec",
+          "filename": "愛睏.webm",
+          "text": {
+            "zh-tw": "愛睏~（¯﹃¯） ",
+            "ja": "眠いよう～（¯﹃¯） "
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "3VD9KEqS8tE",
+            "start": 1492.0,
+            "end": 1496.0
+          }
         }
       ]
     },

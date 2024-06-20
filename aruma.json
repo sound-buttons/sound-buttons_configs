@@ -4572,6 +4572,66 @@
             "start": 2293.0,
             "end": 2295.8
           }
+        },
+        {
+          "id": "d19646d4-1360-42f2-86ac-c3ffda63d4d7",
+          "filename": "為什麼你們說聲音不一樣嗎可是我自己覺得我聲音是一樣的啊是echo而已吧有差那麼多嗎.webm",
+          "text": {
+            "zh-tw": "為什麼你們說聲音不一樣嗎? 可是我自己覺得我聲音是一樣的啊！是 echo 而已吧，有差那麼多嗎?",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "4Pqvo0QcLFY",
+            "start": 308.0,
+            "end": 315.0
+          }
+        },
+        {
+          "id": "72fb15df-610a-4926-8a1f-a8d58a7dc86a",
+          "filename": "小妹妹艦長我聽起來聲音是一樣的啊你們不覺得嗎我覺得只是因為echo的關係讓我聽起來像小妹妹其實我的聲音是一樣的啦.webm",
+          "text": {
+            "zh-tw": "(小妹妹艦長) 我聽起來聲音是一樣的啊！你們不覺得嗎？我覺得只是因為 echo 的關係讓我聽起來像小妹妹，其實我的聲音是一樣的啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "4Pqvo0QcLFY",
+            "start": 316.0,
+            "end": 326.0
+          }
+        },
+        {
+          "id": "809f40e3-4c5e-4de4-ae6b-bde6e33aa044",
+          "filename": "耶吃晚餐囉.webm",
+          "text": {
+            "zh-tw": "耶！吃晚餐囉！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "4Pqvo0QcLFY",
+            "start": 669.0,
+            "end": 671.0
+          }
+        },
+        {
+          "id": "80504b69-f54f-4e6c-aa9a-f73a76b276c1",
+          "filename": "日文大家給我跪下.webm",
+          "text": {
+            "zh-tw": "(日文) 大家給我跪下！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "4Pqvo0QcLFY",
+            "start": 4436.0,
+            "end": 4439.0
+          }
         }
       ]
     },
@@ -7133,6 +7193,21 @@
             "videoId": "lITEp_u0noA",
             "start": 13405.0,
             "end": 13408.0
+          }
+        },
+        {
+          "id": "860b8ebc-acec-454c-9b77-03807bbb078f",
+          "filename": "撞到了大哭拜拜.webm",
+          "text": {
+            "zh-tw": "撞到了 大哭 拜拜",
+            "ja": "打つ"
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "x6FUe6evxxg",
+            "start": 13072.0,
+            "end": 13078.0
           }
         }
       ]
