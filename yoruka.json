@@ -6443,6 +6443,21 @@
             "start": 3671.0,
             "end": 3682.0
           }
+        },
+        {
+          "id": "39605b85-86a0-4dbf-a421-eb83257a14c0",
+          "filename": "新年要到了我們要講一些吉祥話例如說ry.webm",
+          "text": {
+            "zh-tw": "新年要到了我們要講一些吉祥話，例如說(ry",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1.0,
+          "source": {
+            "videoId": "HfictlOZ62k",
+            "start": 527.0,
+            "end": 538.7
+          }
         }
       ]
     },
