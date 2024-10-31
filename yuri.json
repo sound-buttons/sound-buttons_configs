@@ -6,7 +6,7 @@
     "https://blob.sound-buttons.click/sound-buttons/yuri/yuri.png",
     "https://blob.sound-buttons.click/sound-buttons/yuri/yuri2.png"
   ],
-  "intro": "クリスタルボイスで歌っています、四条ユリです‼\n\n2020年5月4日、オリジナル曲『ハレイロ・スキップ』をデビューと同時にリリースしました‼\n名古屋県在住20才社畜。料理が得意な彼女と暮らしています💛\n深夜（０時～1時スタート）歌枠を中心に活動中、バラードが得意。\n好きなアーティストはKalafina、sound horizon、Aimer、田村ゆかり\n田舎に憧れがあり、夢は田舎に家を建てて引きこもって暮らすこと。",
+  "intro": "クリスタルボイスで歌っています、四条ユリです‼\n\n2020年5月4日、オリジナル曲『ハレイロ・スキップ』をデビューと同時にリリースしました‼\n名古屋県在住20才社畜。料理が得意な彼女と暮らしています\uD83D\uDC9B\n深夜（０時～1時スタート）歌枠を中心に活動中、バラードが得意。\n好きなアーティストはKalafina、sound horizon、Aimer、田村ゆかり\n田舎に憧れがあり、夢は田舎に家を建てて引きこもって暮らすこと。",
   "color": {
     "primary": "#3B428A",
     "secondary": "#FEB1C2"
@@ -28,18 +28,18 @@
       "ja": "自己紹介"
     },
     "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
-    "volume": 1.0,
+    "volume": 1,
     "source": {
       "videoId": "r5XLeYXLeM0",
-      "start": 229.0,
-      "end": 240.0
+      "start": 229,
+      "end": 240
     }
   },
   "buttonGroups": [
     {
       "name": {
-        "zh-tw": "四条ユリ🌙",
-        "ja": "四条ユリ🌙"
+        "zh-tw": "四条ユリ\uD83C\uDF19",
+        "ja": "四条ユリ\uD83C\uDF19"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
       "buttons": [
@@ -51,11 +51,11 @@
             "ja": "自己紹介"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "r5XLeYXLeM0",
-            "start": 229.0,
-            "end": 240.0
+            "start": 229,
+            "end": 240
           }
         },
         {
@@ -66,11 +66,11 @@
             "ja": "merry christmas"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Wt7ZwTkiLgk",
-            "start": 189.0,
-            "end": 194.0
+            "start": 189,
+            "end": 194
           }
         },
         {
@@ -81,7 +81,7 @@
             "ja": "乾杯"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Wt7ZwTkiLgk",
             "start": 294.016,
@@ -96,11 +96,11 @@
             "ja": "全然わかりません"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "H0k0kcGj8UQ",
-            "start": 604.0,
-            "end": 606.0
+            "start": 604,
+            "end": 606
           }
         },
         {
@@ -111,11 +111,11 @@
             "ja": "(群青) もう、今は、あの日、のXXXXXXX"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "9z9lemR23HQ",
-            "start": 3547.0,
-            "end": 3555.0
+            "start": 3547,
+            "end": 3555
           }
         },
         {
@@ -126,7 +126,7 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Wt7ZwTkiLgk",
             "start": 1461.195,
@@ -141,7 +141,7 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Wt7ZwTkiLgk",
             "start": 1846.371,
@@ -156,7 +156,7 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "QQtw8VFe9PU",
             "start": 115.352,
@@ -171,7 +171,7 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "K2dhNq8Ob0Q",
             "start": 5137.713,
@@ -186,11 +186,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "5vtp3D8fDpU",
-            "start": 15647.0,
-            "end": 15650.0
+            "start": 15647,
+            "end": 15650
           }
         },
         {
@@ -201,11 +201,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "5vtp3D8fDpU",
-            "start": 15777.0,
-            "end": 15790.0
+            "start": 15777,
+            "end": 15790
           }
         },
         {
@@ -216,11 +216,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "ZE46sgAbVuc",
-            "start": 11870.0,
-            "end": 11874.0
+            "start": 11870,
+            "end": 11874
           }
         },
         {
@@ -231,11 +231,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "ZE46sgAbVuc",
-            "start": 14468.0,
-            "end": 14470.0
+            "start": 14468,
+            "end": 14470
           }
         },
         {
@@ -246,11 +246,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "ZE46sgAbVuc",
-            "start": 14473.0,
-            "end": 14477.0
+            "start": 14473,
+            "end": 14477
           }
         },
         {
@@ -261,11 +261,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
-            "start": 5754.0,
-            "end": 5762.0
+            "start": 5754,
+            "end": 5762
           }
         },
         {
@@ -276,11 +276,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
-            "start": 8060.0,
-            "end": 8068.0
+            "start": 8060,
+            "end": 8068
           }
         },
         {
@@ -291,11 +291,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
-            "start": 8094.0,
-            "end": 8100.0
+            "start": 8094,
+            "end": 8100
           }
         },
         {
@@ -306,11 +306,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
-            "start": 8126.0,
-            "end": 8131.0
+            "start": 8126,
+            "end": 8131
           }
         },
         {
@@ -321,11 +321,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
-            "start": 7507.0,
-            "end": 7513.0
+            "start": 7507,
+            "end": 7513
           }
         },
         {
@@ -336,11 +336,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
-            "start": 7834.0,
-            "end": 7840.0
+            "start": 7834,
+            "end": 7840
           }
         },
         {
@@ -351,11 +351,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
             "start": 8152.1,
-            "end": 8157.0
+            "end": 8157
           }
         },
         {
@@ -366,11 +366,11 @@
             "ja": "最近マジでおっぱいが好き"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "-0Pg4N0tDUE",
-            "start": 4676.0,
-            "end": 4679.0
+            "start": 4676,
+            "end": 4679
           }
         },
         {
@@ -381,11 +381,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "xnTq4MiVL4E",
-            "start": 1422.0,
-            "end": 1431.0
+            "start": 1422,
+            "end": 1431
           }
         },
         {
@@ -396,7 +396,7 @@
             "ja": "落ち着く美声ですわ～美声ですわ！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "gNJdbP8kmec",
             "start": 1867.2,
@@ -411,11 +411,11 @@
             "ja": "(蝉の鳴き声)"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "gNJdbP8kmec",
-            "start": 5806.0,
-            "end": 5823.0
+            "start": 5806,
+            "end": 5823
           }
         },
         {
@@ -426,11 +426,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "gNJdbP8kmec",
-            "start": 2342.0,
-            "end": 2346.0
+            "start": 2342,
+            "end": 2346
           }
         },
         {
@@ -441,11 +441,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "gNJdbP8kmec",
-            "start": 2386.0,
-            "end": 2395.0
+            "start": 2386,
+            "end": 2395
           }
         },
         {
@@ -456,11 +456,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "gNJdbP8kmec",
-            "start": 2397.0,
-            "end": 2404.0
+            "start": 2397,
+            "end": 2404
           }
         },
         {
@@ -471,11 +471,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "vpMW8VNXRNI",
-            "start": 103.0,
-            "end": 115.0
+            "start": 103,
+            "end": 115
           }
         },
         {
@@ -486,11 +486,11 @@
             "ja": "小学生はかわいいな！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "vpMW8VNXRNI",
             "start": 5912.5,
-            "end": 5915.0
+            "end": 5915
           }
         },
         {
@@ -501,11 +501,11 @@
             "ja": "小学生は最高だぜ！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "vpMW8VNXRNI",
-            "start": 5959.0,
-            "end": 5962.0
+            "start": 5959,
+            "end": 5962
           }
         },
         {
@@ -516,11 +516,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "vpMW8VNXRNI",
-            "start": 6699.0,
-            "end": 6702.0
+            "start": 6699,
+            "end": 6702
           }
         },
         {
@@ -531,11 +531,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "vpMW8VNXRNI",
-            "start": 6838.0,
-            "end": 6844.0
+            "start": 6838,
+            "end": 6844
           }
         },
         {
@@ -546,7 +546,7 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "xnTq4MiVL4E",
             "start": 3775.133,
@@ -561,11 +561,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "XJbsNGyCOJc",
-            "start": 1474.0,
-            "end": 1476.0
+            "start": 1474,
+            "end": 1476
           }
         },
         {
@@ -576,11 +576,11 @@
             "ja": "中国語喋れますか? うーん、ちょっとだけ中国語喋れます。"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
-            "start": 8299.0,
-            "end": 8309.0
+            "start": 8299,
+            "end": 8309
           }
         },
         {
@@ -591,11 +591,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "sdTd2QvenyY",
-            "start": 8504.0,
-            "end": 8513.0
+            "start": 8504,
+            "end": 8513
           }
         },
         {
@@ -606,11 +606,11 @@
             "ja": "Minecraftの村人"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "kjcjmp0xDJs",
-            "start": 716.0,
-            "end": 723.0
+            "start": 716,
+            "end": 723
           }
         },
         {
@@ -621,11 +621,11 @@
             "ja": "(欠伸)"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "NvySAKZHBrw+",
-            "start": 3574.0,
-            "end": 3583.0
+            "start": 3574,
+            "end": 3583
           }
         },
         {
@@ -636,11 +636,11 @@
             "ja": "(四条蝉)"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "x_hhxx73EgA+",
-            "start": 5835.0,
-            "end": 5851.0
+            "start": 5835,
+            "end": 5851
           }
         },
         {
@@ -651,11 +651,11 @@
             "ja": "なんだそのスタンプの名前、「(中国語)泣いている叔母さん」、「(中国語)叔母さん」てどういうこと、ふざけんなよ、誰だよそれ設定したの、火あぶりにしてやる"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "J7vs2yr0R18",
-            "start": 260.0,
-            "end": 278.0
+            "start": 260,
+            "end": 278
           }
         },
         {
@@ -666,11 +666,11 @@
             "ja": "誰だ謝れ!そうだ謝れ!許さんぞ!"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "J7vs2yr0R18",
-            "start": 287.0,
-            "end": 292.0
+            "start": 287,
+            "end": 292
           }
         },
         {
@@ -681,11 +681,11 @@
             "ja": "くしゃみ助かる"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "OrxNgd9feqg",
-            "start": 836.0,
-            "end": 843.0
+            "start": 836,
+            "end": 843
           }
         },
         {
@@ -696,11 +696,11 @@
             "ja": "(歌い間違えた)"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "OrxNgd9feqg",
-            "start": 2348.0,
-            "end": 2357.0
+            "start": 2348,
+            "end": 2357
           }
         },
         {
@@ -711,11 +711,11 @@
             "ja": "まあまあまあ"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "OrxNgd9feqg",
-            "start": 2422.0,
-            "end": 2429.0
+            "start": 2422,
+            "end": 2429
           }
         },
         {
@@ -726,7 +726,7 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Z1QqfYD1E6c",
             "start": 7659.689,
@@ -741,11 +741,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "qyIV8BUenTk",
-            "start": 7992.0,
-            "end": 8001.0
+            "start": 7992,
+            "end": 8001
           }
         },
         {
@@ -756,11 +756,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
             "start": 735.7,
-            "end": 748.0
+            "end": 748
           }
         },
         {
@@ -771,10 +771,10 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
-            "start": 2054.0,
+            "start": 2054,
             "end": 2062.3
           }
         },
@@ -786,11 +786,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
-            "start": 5361.0,
-            "end": 5367.0
+            "start": 5361,
+            "end": 5367
           }
         },
         {
@@ -801,11 +801,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
-            "start": 8295.0,
-            "end": 8313.0
+            "start": 8295,
+            "end": 8313
           }
         },
         {
@@ -816,11 +816,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
-            "start": 8321.0,
-            "end": 8329.0
+            "start": 8321,
+            "end": 8329
           }
         },
         {
@@ -831,11 +831,11 @@
             "ja": "(ユリちゃんツキツキチュッチュッ) ごまかそうとしてるな、ごまかそうとしてるな！ ふーん～"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
-            "start": 8354.0,
-            "end": 8363.0
+            "start": 8354,
+            "end": 8363
           }
         },
         {
@@ -846,11 +846,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
-            "start": 5009.0,
-            "end": 5014.0
+            "start": 5009,
+            "end": 5014
           }
         },
         {
@@ -861,11 +861,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KzVRZXFUN6s",
-            "start": 5350.0,
-            "end": 5361.0
+            "start": 5350,
+            "end": 5361
           }
         },
         {
@@ -876,11 +876,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Yr-NsscYWwU",
-            "start": 1614.0,
-            "end": 1622.0
+            "start": 1614,
+            "end": 1622
           }
         },
         {
@@ -891,11 +891,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Yr-NsscYWwU",
-            "start": 1695.0,
-            "end": 1702.0
+            "start": 1695,
+            "end": 1702
           }
         },
         {
@@ -906,19 +906,34 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Yr-NsscYWwU",
-            "start": 1729.0,
-            "end": 1739.0
+            "start": 1729,
+            "end": 1739
+          }
+        },
+        {
+          "id": "f8d22002-7bb9-4d6d-9f2b-0ff758320697",
+          "filename": "大聲起床早上了大家快起床.webm",
+          "text": {
+            "zh-tw": "(大聲) 起床！早上了！大家快起床！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
           }
         }
       ]
     },
     {
       "name": {
-        "zh-tw": "中国語本当上手🌙",
-        "ja": "中国語本当上手🌙"
+        "zh-tw": "中国語本当上手\uD83C\uDF19",
+        "ja": "中国語本当上手\uD83C\uDF19"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
       "buttons": [
@@ -930,11 +945,11 @@
             "ja": "(中国語) 水ありがとう〜 水? 水"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "9z9lemR23HQ",
-            "start": 1749.0,
-            "end": 1753.0
+            "start": 1749,
+            "end": 1753
           }
         },
         {
@@ -945,10 +960,10 @@
             "ja": "(中国語) 私はかわいい日本人女性です"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "Wt7ZwTkiLgk",
-            "start": 1386.0,
+            "start": 1386,
             "end": 1398.099
           }
         },
@@ -960,11 +975,11 @@
             "ja": "(中国語) 誰かここに来て"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "ZE46sgAbVuc",
-            "start": 11867.0,
-            "end": 11870.0
+            "start": 11867,
+            "end": 11870
           }
         },
         {
@@ -975,11 +990,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "UqZwfkf0_N8",
             "start": 4052.5,
-            "end": 4063.0
+            "end": 4063
           }
         },
         {
@@ -990,11 +1005,11 @@
             "ja": "(中国語) 二十歳、可愛い二十歳の女の子です！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "vpMW8VNXRNI",
-            "start": 9656.0,
-            "end": 9667.0
+            "start": 9656,
+            "end": 9667
           }
         },
         {
@@ -1005,11 +1020,11 @@
             "ja": "(中国語) いやいやいやいやいや！いいえ！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "vpMW8VNXRNI",
-            "start": 9749.0,
-            "end": 9753.0
+            "start": 9749,
+            "end": 9753
           }
         },
         {
@@ -1020,11 +1035,11 @@
             "ja": "(中国語) かわいい女の子...女の子！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "vpMW8VNXRNI",
-            "start": 9754.0,
-            "end": 9759.0
+            "start": 9754,
+            "end": 9759
           }
         },
         {
@@ -1035,11 +1050,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "0k6k1qhIjho",
-            "start": 260.0,
-            "end": 263.0
+            "start": 260,
+            "end": 263
           }
         },
         {
@@ -1050,10 +1065,10 @@
             "ja": "(中国語) 土下座しろ"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
-            "start": 8188.0,
+            "start": 8188,
             "end": 8188.8
           }
         },
@@ -1065,11 +1080,11 @@
             "ja": "(中国語の汚い言葉)"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
             "start": 8209.4,
-            "end": 8211.0
+            "end": 8211
           }
         },
         {
@@ -1080,10 +1095,10 @@
             "ja": "(中国語) あなたの罪"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
-            "start": 8215.0,
+            "start": 8215,
             "end": 8216.4
           }
         },
@@ -1095,11 +1110,11 @@
             "ja": "(中国語) ありがとう"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
             "start": 8244.5,
-            "end": 8248.0
+            "end": 8248
           }
         },
         {
@@ -1110,11 +1125,11 @@
             "ja": "(笑) (中国語) 笑って死ぬ"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
-            "start": 8247.0,
-            "end": 8251.0
+            "start": 8247,
+            "end": 8251
           }
         },
         {
@@ -1125,11 +1140,11 @@
             "ja": "(中国語) 私は二十歳のかわいい日本のVtuberです"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
-            "start": 8339.0,
-            "end": 8353.0
+            "start": 8339,
+            "end": 8353
           }
         },
         {
@@ -1140,11 +1155,11 @@
             "ja": "(中国語) ユリはかわいい日本の女の子です! 女の子です!"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
-            "start": 8353.0,
-            "end": 8361.0
+            "start": 8353,
+            "end": 8361
           }
         },
         {
@@ -1155,11 +1170,11 @@
             "ja": "(中国語) 5歳"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KG_GlcjuKdI",
-            "start": 8371.0,
-            "end": 8373.0
+            "start": 8371,
+            "end": 8373
           }
         },
         {
@@ -1170,11 +1185,11 @@
             "ja": "(中国語) (姉さんは私の恋人だ) あなたの恋人じゃない！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "sdTd2QvenyY",
-            "start": 2656.0,
-            "end": 2669.0
+            "start": 2656,
+            "end": 2669
           }
         },
         {
@@ -1185,11 +1200,11 @@
             "ja": "(中国語)(ユリが美味しい) ユリが美味しくない~"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "GU2f5mMDNnM",
-            "start": 6064.0,
-            "end": 6070.0
+            "start": 6064,
+            "end": 6070
           }
         },
         {
@@ -1200,11 +1215,11 @@
             "ja": "仕事がない"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "7ciBRHO27hE",
-            "start": 2228.0,
-            "end": 2230.0
+            "start": 2228,
+            "end": 2230
           }
         },
         {
@@ -1215,11 +1230,11 @@
             "ja": "(中国語) 私は20歳の可愛い女の子です！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "VNzm-rmgdhM",
             "start": 771.5,
-            "end": 780.0
+            "end": 780
           }
         },
         {
@@ -1230,11 +1245,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "KObl1XJ5o70",
             "start": 5911.4,
-            "end": 5915.0
+            "end": 5915
           }
         },
         {
@@ -1245,11 +1260,11 @@
             "ja": "あなたの罪よ！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "J7vs2yr0R18",
-            "start": 346.0,
-            "end": 349.0
+            "start": 346,
+            "end": 349
           }
         },
         {
@@ -1260,11 +1275,11 @@
             "ja": "(中国語) ユリは、可愛い20歳の女の子お姉ちゃん！女の子お姉ちゃん"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "J7vs2yr0R18",
-            "start": 447.0,
-            "end": 458.0
+            "start": 447,
+            "end": 458
           }
         },
         {
@@ -1275,11 +1290,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "OrxNgd9feqg",
             "start": 8505.5,
-            "end": 8507.0
+            "end": 8507
           }
         },
         {
@@ -1290,11 +1305,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "OrxNgd9feqg",
-            "start": 8469.0,
-            "end": 8475.0
+            "start": 8469,
+            "end": 8475
           }
         },
         {
@@ -1305,11 +1320,11 @@
             "ja": "泣かない、泣かない、真珠のような涙"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "",
-            "start": 0.0,
-            "end": 0.0
+            "start": 0,
+            "end": 0
           }
         },
         {
@@ -1320,11 +1335,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
-            "start": 711.0,
-            "end": 718.0
+            "start": 711,
+            "end": 718
           }
         },
         {
@@ -1335,11 +1350,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
-            "start": 1985.0,
-            "end": 1991.0
+            "start": 1985,
+            "end": 1991
           }
         },
         {
@@ -1350,11 +1365,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
             "start": 2083.7,
-            "end": 2085.0
+            "end": 2085
           }
         },
         {
@@ -1365,11 +1380,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "l6VLl2bBVog",
-            "start": 2159.0,
-            "end": 2166.0
+            "start": 2159,
+            "end": 2166
           }
         },
         {
@@ -1380,11 +1395,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "",
-            "start": 0.0,
-            "end": 0.0
+            "start": 0,
+            "end": 0
           }
         },
         {
@@ -1395,11 +1410,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "",
-            "start": 0.0,
-            "end": 0.0
+            "start": 0,
+            "end": 0
           }
         },
         {
@@ -1410,19 +1425,19 @@
             "ja": "はい！そうです！そうです！"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "",
-            "start": 0.0,
-            "end": 0.0
+            "start": 0,
+            "end": 0
           }
         }
       ]
     },
     {
       "name": {
-        "zh-tw": "悲鳴 (注意音量) 🌙",
-        "ja": "悲鳴 (音量注意) 🌙"
+        "zh-tw": "悲鳴 (注意音量) \uD83C\uDF19",
+        "ja": "悲鳴 (音量注意) \uD83C\uDF19"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yuri/",
       "buttons": [
@@ -1434,11 +1449,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "zXd2maJP_hE",
-            "start": 8150.0,
-            "end": 8155.0
+            "start": 8150,
+            "end": 8155
           }
         },
         {
@@ -1449,11 +1464,11 @@
             "ja": "Minecraftでモンスターに襲われる"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "rrax5BFyAhM",
-            "start": 2730.0,
-            "end": 2741.0
+            "start": 2730,
+            "end": 2741
           }
         },
         {
@@ -1464,11 +1479,11 @@
             "ja": "Minecraftでモンスターに襲われる"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "rrax5BFyAhM",
-            "start": 2612.0,
-            "end": 2626.0
+            "start": 2612,
+            "end": 2626
           }
         },
         {
@@ -1479,11 +1494,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "8JmAjQtqpBg",
-            "start": 7043.0,
-            "end": 7050.0
+            "start": 7043,
+            "end": 7050
           }
         }
       ]
@@ -1503,11 +1518,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "ZE46sgAbVuc",
-            "start": 4681.0,
-            "end": 4709.0
+            "start": 4681,
+            "end": 4709
           }
         },
         {
@@ -1518,11 +1533,11 @@
             "ja": "（ハローキティの歌）"
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "J7vs2yr0R18",
-            "start": 1474.0,
-            "end": 1509.0
+            "start": 1474,
+            "end": 1509
           }
         },
         {
@@ -1533,11 +1548,11 @@
             "ja": ""
           },
           "baseRoute": null,
-          "volume": 1.0,
+          "volume": 1,
           "source": {
             "videoId": "J7vs2yr0R18",
-            "start": 1668.0,
-            "end": 1684.0
+            "start": 1668,
+            "end": 1684
           }
         }
       ]

@@ -5082,6 +5082,141 @@
             "start": 7692,
             "end": 7695
           }
+        },
+        {
+          "id": "08ec3aca-24f8-4419-87b6-2701bec0f7a7",
+          "filename": "誒等下哇靠啊.webm",
+          "text": {
+            "zh-tw": "誒? 等下，哇靠.....啊~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "-NNnTS8Ej8k",
+            "start": 4192,
+            "end": 4198
+          }
+        },
+        {
+          "id": "c13fcdc1-aa51-4668-9b6e-15fc97e7e3d6",
+          "filename": "麥當勞都是維尼.webm",
+          "text": {
+            "zh-tw": "麥當勞都是~維尼~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "-NNnTS8Ej8k",
+            "start": 4072.7,
+            "end": 4076
+          }
+        },
+        {
+          "id": "366a6294-4846-4e9a-a722-c006dd604761",
+          "filename": "怪聲我在講什麼.webm",
+          "text": {
+            "zh-tw": "(怪聲) 我在講什麼...",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "-NNnTS8Ej8k",
+            "start": 7951.3,
+            "end": 7952.8
+          }
+        },
+        {
+          "id": "6cb7bc55-353c-415c-ba32-28b63881d266",
+          "filename": "反正你們等下就跑了.webm",
+          "text": {
+            "zh-tw": "反正你們等下就跑了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "-NNnTS8Ej8k",
+            "start": 7958.8,
+            "end": 7960.3
+          }
+        },
+        {
+          "id": "6b0e5a5b-23d8-4c21-9674-416d3737cf73",
+          "filename": "我要自己降落我自己誒嘿ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "我要自己降落我自己~誒嘿~Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "-NNnTS8Ej8k",
+            "start": 7962,
+            "end": 7967
+          }
+        },
+        {
+          "id": "6c27720e-2800-42c0-a7c2-316a63b8b199",
+          "filename": "我是自肥的羊羊自肥的羊羊ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "我是自肥的羊羊！自肥的羊羊！Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "-NNnTS8Ej8k",
+            "start": 7977,
+            "end": 7980.5
+          }
+        },
+        {
+          "id": "0950f904-763a-471f-85cb-78571db6381a",
+          "filename": "自肥的羊羊我太瘦了我吃胖一點.webm",
+          "text": {
+            "zh-tw": "自肥的羊羊...我太瘦了，我吃胖一點",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "-NNnTS8Ej8k",
+            "start": 7990,
+            "end": 7995
+          }
+        },
+        {
+          "id": "3c80078c-cca8-4578-87e8-fee52f9683ef",
+          "filename": "我太興奮了.webm",
+          "text": {
+            "zh-tw": "我太興奮了",
+            "ja": "私はとても興奮しています"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "6354774b-5828-48eb-b091-c064208aeb67",
+          "filename": "爸我想要這個買給我買給我.webm",
+          "text": {
+            "zh-tw": "爸我想要這個！買給我買給我！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "lhDeRLP2DfY",
+            "start": 1973.234,
+            "end": 1981.066
+          }
         }
       ]
     },
@@ -6170,6 +6305,21 @@
             "videoId": "ds15d6SVCZk",
             "start": 7659,
             "end": 7663
+          }
+        },
+        {
+          "id": "0e364828-7ecc-4658-aa84-2b32bf0dae6c",
+          "filename": "艦長的姦笑.webm",
+          "text": {
+            "zh-tw": "艦長的奸笑",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ak5dHMMCOQ0",
+            "start": 6071.02,
+            "end": 6076.02
           }
         }
       ]

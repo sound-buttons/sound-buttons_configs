@@ -8,7 +8,7 @@
     "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka4.png",
     "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka.png"
   ],
-  "intro": "✨RenewLive一期生✨台灣Vtuber\n🌙須多 ヨルカ/須多 夜花 (すだ ヨルカ)🌸\n\n▍Twitter @sudayoruka \n▍棉花糖/マシュマロ→https://is.gd/z8B9G4 \n▍Facebook fanpage→https://is.gd/jvS7xd \n▍RenewLiveTW→https://is.gd/6xSeWH \n▍Renewlive官方網站→https://www.renewlive.ch/",
+  "intro": "✨RenewLive一期生✨台灣Vtuber\n\uD83C\uDF19須多 ヨルカ/須多 夜花 (すだ ヨルカ)\uD83C\uDF38\n\n▍Twitter @sudayoruka \n▍棉花糖/マシュマロ→https://is.gd/z8B9G4 \n▍Facebook fanpage→https://is.gd/jvS7xd \n▍RenewLiveTW→https://is.gd/6xSeWH \n▍Renewlive官方網站→https://www.renewlive.ch/",
   "color": {
     "primary": "#E55A74",
     "secondary": "#33272B"
@@ -40,8 +40,8 @@
   "buttonGroups": [
     {
       "name": {
-        "zh-tw": "🌙花花常用區🌸",
-        "ja": "🌙花花常用區🌸"
+        "zh-tw": "\uD83C\uDF19花花常用區\uD83C\uDF38",
+        "ja": "\uD83C\uDF19花花常用區\uD83C\uDF38"
       },
       "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
@@ -184,8 +184,8 @@
     },
     {
       "name": {
-        "zh-tw": "🌙夜花花🌸",
-        "ja": "🌙夜花花🌸"
+        "zh-tw": "\uD83C\uDF19夜花花\uD83C\uDF38",
+        "ja": "\uD83C\uDF19夜花花\uD83C\uDF38"
       },
       "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
       "buttons": [
@@ -703,7 +703,7 @@
           "id": "a4521b5a-a1cc-412a-845a-2b2f7d7bdad2",
           "filename": "沒錯你已經跟我談戀愛了喔誒嘿嘿嘿.webm",
           "text": {
-            "zh-tw": "沒錯！你已經跟我談戀愛了喔！誒嘿嘿嘿💗",
+            "zh-tw": "沒錯！你已經跟我談戀愛了喔！誒嘿嘿嘿\uD83D\uDC97",
             "ja": ""
           },
           "baseRoute": null,
@@ -6488,13 +6488,313 @@
             "start": 6614,
             "end": 6615
           }
+        },
+        {
+          "id": "55dcb923-7502-44c6-a0c0-dca700dd86e4",
+          "filename": "可以罵我嗎你去呷賽啦.webm",
+          "text": {
+            "zh-tw": "(可以罵我嗎?) 你去呷賽啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 375,
+            "end": 379
+          }
+        },
+        {
+          "id": "730ea300-ce37-4f23-9674-dffbcb76e360",
+          "filename": "想要Hi我就對了.webm",
+          "text": {
+            "zh-tw": "想要 Hi 我就對了",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 720,
+            "end": 722
+          }
+        },
+        {
+          "id": "22f84c00-9a68-4b32-9331-f7e1db1e850a",
+          "filename": "哪一天我真的會被投訴誒各位.webm",
+          "text": {
+            "zh-tw": "哪一天我真的會被投訴誒各位",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 712.3,
+            "end": 714.7
+          }
+        },
+        {
+          "id": "bd837ce0-ccc9-48fb-862f-78da698cd4b7",
+          "filename": "你現在是什麼蛋餅什麼蛋餅愚蠢的夜花蛋餅.webm",
+          "text": {
+            "zh-tw": "(你現在是什麼！) ...蛋餅 (什麼蛋餅！) ...愚蠢的夜花蛋餅",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 1868,
+            "end": 1879
+          }
+        },
+        {
+          "id": "b740efcc-bbab-4058-b64e-631d1f2ef3d1",
+          "filename": "我講話好sexy喔.webm",
+          "text": {
+            "zh-tw": "我講話好 sexy 喔",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 2416,
+            "end": 2418.5
+          }
+        },
+        {
+          "id": "6f51ecc7-a998-4d0e-a362-c74017fb75d6",
+          "filename": "我就喜歡夜花的聲音.webm",
+          "text": {
+            "zh-tw": "我就喜歡夜花的聲音！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 2504,
+            "end": 2506
+          }
+        },
+        {
+          "id": "427b7c2d-7221-4f04-b42b-7618d7b63760",
+          "filename": "超超派哪有哪有派.webm",
+          "text": {
+            "zh-tw": "(超...超派) 哪有...哪有派",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 3383.6,
+            "end": 3386
+          }
+        },
+        {
+          "id": "b0153a4f-9bb0-47be-b3d1-dee53f6a49dc",
+          "filename": "大家不是都說我是偶像嗎アイドルじゃないですか.webm",
+          "text": {
+            "zh-tw": "大家不是都說我是偶像嗎? アイドルじゃないですか？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 3638.3,
+            "end": 3642
+          }
+        },
+        {
+          "id": "a69192e3-bab6-4336-9b26-2e65b3897815",
+          "filename": "每次都被你們說的好像我墮落了一樣你知道嗎.webm",
+          "text": {
+            "zh-tw": "每次都被你們說的好像我墮落了一樣你知道嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 3643.2,
+            "end": 3648
+          }
+        },
+        {
+          "id": "f01d42f7-fc6c-47e4-83bf-494386f32541",
+          "filename": "WTF.webm",
+          "text": {
+            "zh-tw": "WTF",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 4594,
+            "end": 4596
+          }
+        },
+        {
+          "id": "1afd0cb6-eea9-4114-8bc6-339fe6360a59",
+          "filename": "嗚聲.webm",
+          "text": {
+            "zh-tw": "(嗚聲)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 4640,
+            "end": 4642
+          }
+        },
+        {
+          "id": "fa78925f-8b5a-43c0-987b-596442dd9939",
+          "filename": "太奇怪了.webm",
+          "text": {
+            "zh-tw": "太奇怪了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 4881,
+            "end": 4883
+          }
+        },
+        {
+          "id": "dae4634f-89f5-4b9c-8a5c-5e5c10b05f14",
+          "filename": "我還在練習.webm",
+          "text": {
+            "zh-tw": "我還在練習",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 5158,
+            "end": 5160.3
+          }
+        },
+        {
+          "id": "5eeb9dee-3012-48f1-a5c1-7aa361b5d141",
+          "filename": "沒事的他總不能再把你開除吧大爆笑.webm",
+          "text": {
+            "zh-tw": "(沒事的，他總不能再把你開除吧) (大爆笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 6285.1,
+            "end": 6289
+          }
+        },
+        {
+          "id": "3e7b1a6a-9d09-46dd-88e7-1f2f000fae0c",
+          "filename": "MyGo就是垃圾.webm",
+          "text": {
+            "zh-tw": "MyGo 就是垃圾",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 6888,
+            "end": 6891
+          }
+        },
+        {
+          "id": "ac4ca41e-edd2-4220-8c1e-12d3b5cbcc92",
+          "filename": "有趣的女人.webm",
+          "text": {
+            "zh-tw": "有趣的女人",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 6909,
+            "end": 6912
+          }
+        },
+        {
+          "id": "a9afe0bf-b272-4d55-b9c2-3a9b58228c81",
+          "filename": "還真是只想著自己啊.webm",
+          "text": {
+            "zh-tw": "還真是只想著自己啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 6913,
+            "end": 6915.3
+          }
+        },
+        {
+          "id": "a9cc1187-37b1-460f-9362-5868e655e826",
+          "filename": "是又怎樣我就愛慕虛榮啦.webm",
+          "text": {
+            "zh-tw": "是又怎樣！我就愛慕虛榮啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 6918.3,
+            "end": 6921.2
+          }
+        },
+        {
+          "id": "82008ccc-1b38-4b1f-8bef-283d36072933",
+          "filename": "怪我囉啊不怪你怪誰怪我喔會是我的錯嗎會是我的錯嗎.webm",
+          "text": {
+            "zh-tw": "(怪我囉) 啊不怪你怪誰？怪我喔，會是我的錯嗎？會是我的錯嗎？",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 8261.7,
+            "end": 8270
+          }
+        },
+        {
+          "id": "d473eae3-145f-4385-9c9b-842f05b2dceb",
+          "filename": "我彷彿還能聽到她還在講話我確實在講話啊幹你娘.webm",
+          "text": {
+            "zh-tw": "(我彷彿還能聽到她還在講話) 我確實在講話啊幹你娘",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 8398,
+            "end": 8402
+          }
         }
       ]
     },
     {
       "name": {
-        "zh-tw": "🌞琉璃川歌晴🎀",
-        "ja": "🌞琉璃川歌晴🎀"
+        "zh-tw": "\uD83C\uDF1E琉璃川歌晴\uD83C\uDF80",
+        "ja": "\uD83C\uDF1E琉璃川歌晴\uD83C\uDF80"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
       "buttons": [
@@ -6557,13 +6857,43 @@
             "start": 2706,
             "end": 2713.8
           }
+        },
+        {
+          "id": "32e0c0e9-476a-456f-912f-59725d39ef23",
+          "filename": "嗚呼.webm",
+          "text": {
+            "zh-tw": "嗚呼！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "ef90ab04-0643-4729-980e-2cfba3724ee6",
+          "filename": "唱歌唱到一半想打嗝.webm",
+          "text": {
+            "zh-tw": "(唱歌唱到一半想打嗝)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
     {
       "name": {
-        "zh-tw": "💜入相知夜🎀",
-        "ja": "💜入相知夜🎀"
+        "zh-tw": "\uD83D\uDC9C入相知夜\uD83C\uDF80",
+        "ja": "\uD83D\uDC9C入相知夜\uD83C\uDF80"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/yoruka/",
       "buttons": [
@@ -7552,6 +7882,51 @@
             "videoId": "TumcIuqtfYM",
             "start": 2385.5,
             "end": 2388
+          }
+        },
+        {
+          "id": "3f2d27f1-bad6-4149-a217-8f32ff91bcda",
+          "filename": "哇靠我現在沒有資格玩了大爆笑.webm",
+          "text": {
+            "zh-tw": "哇靠我現在沒有資格玩了 (大爆笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "2jicu5sVdgg",
+            "start": 2736,
+            "end": 2740
+          }
+        },
+        {
+          "id": "3ca5dd9c-7098-4688-95db-3535a18b366a",
+          "filename": "BoingBoing是一顆球.webm",
+          "text": {
+            "zh-tw": "(Boing Boing 是一顆球)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 1259.801,
+            "end": 1282.945
+          }
+        },
+        {
+          "id": "6060ac3a-f8a0-41ea-85cc-c4132c09edfd",
+          "filename": "大爆笑.webm",
+          "text": {
+            "zh-tw": "(大爆笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "QtSwDZDIkSU",
+            "start": 4143,
+            "end": 4150
           }
         }
       ]
