@@ -6788,6 +6788,96 @@
             "start": 8398,
             "end": 8402
           }
+        },
+        {
+          "id": "c2dd1749-02d8-4d5e-8312-0a9eb15c4a16",
+          "filename": "恭喜恭喜什麼恭喜有小孩嗎大爆笑.webm",
+          "text": {
+            "zh-tw": "(恭喜) 恭喜什麼?! 恭喜有小孩嗎 (大爆笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "IWUQvjgj4IQ",
+            "start": 3423,
+            "end": 3433
+          }
+        },
+        {
+          "id": "e58e09c0-a6d6-4de6-a2ac-563cdc9e8001",
+          "filename": "這個設定是小朋友可以看得嗎ww.webm",
+          "text": {
+            "zh-tw": "這個設定是小朋友可以看得嗎ww",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "IWUQvjgj4IQ",
+            "start": 4484,
+            "end": 4487
+          }
+        },
+        {
+          "id": "c3b0162d-6f1c-4c2f-8cef-59290638e387",
+          "filename": "想不到的小北百貨.webm",
+          "text": {
+            "zh-tw": "想不到的，小北百貨",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "IWUQvjgj4IQ",
+            "start": 4537,
+            "end": 4539.8
+          }
+        },
+        {
+          "id": "c231088a-29df-48ce-98a9-c69b626955cc",
+          "filename": "你們看我有大雞雞.webm",
+          "text": {
+            "zh-tw": "你們看我有大雞雞",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "IWUQvjgj4IQ",
+            "start": 4566,
+            "end": 4569
+          }
+        },
+        {
+          "id": "0a6599f6-59f7-4cad-abe2-251d1f6c6491",
+          "filename": "初見夜花安安屁啦你來很多次了你以為我不記得你嗎你的名字那麼奇怪.webm",
+          "text": {
+            "zh-tw": "(初見夜花安安) 屁啦你來很多次了，你以為我不記得你嗎？你的名字那麼奇怪",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yVQA1jHl4RA",
+            "start": 559,
+            "end": 564
+          }
+        },
+        {
+          "id": "b7d05af6-7761-4b52-b316-d82004e0f307",
+          "filename": "夜花我本來就是偶像我本來就是偶像wwwww大爆笑.webm",
+          "text": {
+            "zh-tw": "(夜花: 我本來就是偶像) 我本來就是偶像wwwww (大爆笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "xb3Mv_AHXHI",
+            "start": 6783,
+            "end": 6790
+          }
         }
       ]
     },
@@ -7927,6 +8017,36 @@
             "videoId": "QtSwDZDIkSU",
             "start": 4143,
             "end": 4150
+          }
+        },
+        {
+          "id": "eb56effa-d00a-4382-b30c-bae52684b2ee",
+          "filename": "喔喔喔我好醜喔.webm",
+          "text": {
+            "zh-tw": "喔喔喔！！我好醜喔！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "IWUQvjgj4IQ",
+            "start": 4361,
+            "end": 4371
+          }
+        },
+        {
+          "id": "fba40a84-3484-4af6-b62e-309a3d49ec50",
+          "filename": "大聲這到底什麼遊戲啊.webm",
+          "text": {
+            "zh-tw": "(大聲) 這到底什麼遊戲啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "aferkfprm_Y",
+            "start": 1571,
+            "end": 1574
           }
         }
       ]
@@ -9364,6 +9484,81 @@
             "videoId": "y4f4lkcuVp0",
             "start": 1946.5,
             "end": 1951
+          }
+        },
+        {
+          "id": "02e56b61-aab6-4bf3-b119-a49f6e03ef20",
+          "filename": "琳桑我愛你好了爽沒嘆氣.webm",
+          "text": {
+            "zh-tw": "琳桑我愛你...好了，爽沒？ (嘆氣)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yVQA1jHl4RA",
+            "start": 544,
+            "end": 549
+          }
+        },
+        {
+          "id": "80a0f7f5-3c57-40cf-b66f-d457ba670ce4",
+          "filename": "愛我按鈕不要做這種按鈕啦.webm",
+          "text": {
+            "zh-tw": "(愛我按鈕) 不要做這種按鈕啦",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "yVQA1jHl4RA",
+            "start": 568.5,
+            "end": 571
+          }
+        },
+        {
+          "id": "bd65e802-643f-4c99-a782-7dd287686ad8",
+          "filename": "最後的里程碑42個月謝謝琳桑加入救夜油民42個月.webm",
+          "text": {
+            "zh-tw": "(最後的里程碑 42 個月) 謝謝琳桑加入救夜油民 42 個月",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZGUsTLIsPsw",
+            "start": 6845,
+            "end": 6850
+          }
+        },
+        {
+          "id": "597c63b0-f2b4-494b-946f-583f360fb9d6",
+          "filename": "明年生日只能自己按按鈕了沒錯.webm",
+          "text": {
+            "zh-tw": "(明年生日只能自己按按鈕了) 沒錯",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ZGUsTLIsPsw",
+            "start": 6881,
+            "end": 6884
+          }
+        },
+        {
+          "id": "309e9edc-e33d-4c40-a98e-9abf71d61979",
+          "filename": "我頭號的寶是你真的嗎琳桑我好開心喔謝謝營業聲線.webm",
+          "text": {
+            "zh-tw": "(我頭號的寶是你) 真的嗎琳桑！我好開心喔！謝謝～ (營業聲線)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "xb3Mv_AHXHI",
+            "start": 8195.4,
+            "end": 8201
           }
         }
       ]
