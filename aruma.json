@@ -5487,6 +5487,21 @@
             "start": 2121.3,
             "end": 2126
           }
+        },
+        {
+          "id": "02f4c8a7-ea39-49aa-bf27-ca27bb8544d6",
+          "filename": "我要畢業了啦氣死我了.webm",
+          "text": {
+            "zh-tw": "我要畢業了啦！氣死我了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "323DASy7GO0",
+            "start": 623.3,
+            "end": 626.4
+          }
         }
       ]
     },

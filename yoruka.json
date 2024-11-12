@@ -6878,6 +6878,36 @@
             "start": 6783,
             "end": 6790
           }
+        },
+        {
+          "id": "d06196e9-6761-4358-8802-c55fc665b28f",
+          "filename": "是偶像公司還是娛樂公司.webm",
+          "text": {
+            "zh-tw": "(是偶像公司還是娛樂公司)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "1qifa3GwBUY",
+            "start": 2601.038,
+            "end": 2608.899
+          }
+        },
+        {
+          "id": "9f163ac9-bbe8-4b2f-94e6-7263bd1cf92c",
+          "filename": "大吸一口涼氣.webm",
+          "text": {
+            "zh-tw": "(大吸一口涼氣)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "iOuHnDQ9mCM",
+            "start": 4853,
+            "end": 4855.7
+          }
         }
       ]
     },
