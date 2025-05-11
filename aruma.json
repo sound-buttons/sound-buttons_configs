@@ -5757,6 +5757,21 @@
             "start": 10210,
             "end": 10213
           }
+        },
+        {
+          "id": "31526864-edc7-4f24-8663-43fb52c6f767",
+          "filename": "反正錢這麼多我錢多.webm",
+          "text": {
+            "zh-tw": "反正錢這麼多...我錢多！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "6OksLwW9oc8",
+            "start": 8872,
+            "end": 8875.3
+          }
         }
       ]
     },
@@ -6905,6 +6920,21 @@
             "videoId": "",
             "start": 0,
             "end": 0
+          }
+        },
+        {
+          "id": "f51f2409-df2b-4c72-8431-303b5a63cb7e",
+          "filename": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈對不起.webm",
+          "text": {
+            "zh-tw": "哈哈哈哈，哈哈哈哈哈哈，哈哈哈哈哈哈！...對不起",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "4zxWDhjSOwc",
+            "start": 2016,
+            "end": 2026
           }
         }
       ]
@@ -9476,6 +9506,21 @@
             "videoId": "",
             "start": 0,
             "end": 0
+          }
+        },
+        {
+          "id": "f41ec7b2-6cd8-48a8-8b9b-d2691c7572af",
+          "filename": "我錢多按鈕你不要冤枉我我是遊戲裡面錢多我錢很少.webm",
+          "text": {
+            "zh-tw": "「我錢多按鈕」你不要冤枉我！我是遊戲裡面錢多，我錢很少",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "6OksLwW9oc8",
+            "start": 8892,
+            "end": 8900
           }
         }
       ]
