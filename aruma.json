@@ -6891,6 +6891,21 @@
             "start": 12847,
             "end": 12850
           }
+        },
+        {
+          "id": "46058c51-c972-453a-bf9e-259510f4f070",
+          "filename": "哈哈ᏊꈊᏊ你好我是艦長.webm",
+          "text": {
+            "zh-tw": "哈哈 Ꮚ•̀ꈊ•́Ꮚ 你好，我是艦長！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
@@ -8444,6 +8459,21 @@
             "videoId": "2S69uzTG8u4",
             "start": 1238.5,
             "end": 1247
+          }
+        },
+        {
+          "id": "47c51cd6-3b9d-4ecf-a516-59d77fc3f3f2",
+          "filename": "太無能了太蠢了受不了了.webm",
+          "text": {
+            "zh-tw": "太無能了！太蠢了！受不了了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
           }
         }
       ]
