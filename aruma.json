@@ -5862,6 +5862,21 @@
             "start": 356,
             "end": 378
           }
+        },
+        {
+          "id": "48fb1ab9-a438-4379-925f-f5c76641a514",
+          "filename": "不用擔心我可是艦長耶做事還是很吊兒郎當的哈哈.webm",
+          "text": {
+            "zh-tw": "不用擔心，我可是艦長耶，做事，還是很吊兒郎當的 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "k7Bu2c_cYDs",
+            "start": 325,
+            "end": 332.8
+          }
         }
       ]
     },
@@ -8609,6 +8624,21 @@
             "videoId": "",
             "start": 0,
             "end": 0
+          }
+        },
+        {
+          "id": "7b4d946d-b9d8-4852-996f-1c074d6c1ee2",
+          "filename": "對不起因為對我來說貧困這兩個字離我有點太遙遠了所以我沒有理解到有這個東西.webm",
+          "text": {
+            "zh-tw": "對不起，因為對我來說「貧困」這兩個字離我有點太遙遠了，所以我沒有理解到有這個東西",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "q9lde3_Wlu8",
+            "start": 4131,
+            "end": 4140
           }
         }
       ]
