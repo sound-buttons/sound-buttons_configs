@@ -5877,6 +5877,21 @@
             "start": 325,
             "end": 332.8
           }
+        },
+        {
+          "id": "0adfb25b-a63d-4273-8ea0-d923ab04f500",
+          "filename": "我就是因為愛吃才死的不是嗎.webm",
+          "text": {
+            "zh-tw": "我就是因為愛吃才死的不是嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "cBCEoMLbJOY",
+            "start": 4208,
+            "end": 4211
+          }
         }
       ]
     },
@@ -8640,6 +8655,81 @@
             "start": 4131,
             "end": 4140
           }
+        },
+        {
+          "id": "7c39ca41-969d-4754-84ed-d01c90edd670",
+          "filename": "這個正常人的門檻.webm",
+          "text": {
+            "zh-tw": "這個正常人的門檻到底是有多高，怎麼有些人邁都邁不進來呢？哼w",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "o09Re1dax3U",
+            "start": 7379.5,
+            "end": 7388
+          }
+        },
+        {
+          "id": "e8d5a540-81e8-4595-abc1-c2668f6a7334",
+          "filename": "女人嘛就是要三從四得從商從政從法得權得勢得財得利哈哈.webm",
+          "text": {
+            "zh-tw": "女人嘛，就是要三從四得：從商從政從法、得權得勢得財得利 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "o09Re1dax3U",
+            "start": 7408,
+            "end": 7420
+          }
+        },
+        {
+          "id": "f47274bf-3da3-4c17-94f5-867ff20bd92f",
+          "filename": "對呀我覺得很會耶我再多收集一點看能不能開一場直播跟你們分享一下祖國的偉大文學罵人技巧哈哈.webm",
+          "text": {
+            "zh-tw": "對呀我覺得很會耶！我再多收集一點看能不能開一場直播，跟你們分享一下——祖國的偉大文學罵人技巧 (哈哈)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "o09Re1dax3U",
+            "start": 7448,
+            "end": 7458
+          }
+        },
+        {
+          "id": "274c011c-f0a7-4911-b593-e99209fdad7e",
+          "filename": "我覺得我現在看迪士尼跟看廁紙小說的程度是差不多我會不會等下被宰了這會不會炎上啊我的媽呀叮.webm",
+          "text": {
+            "zh-tw": "我覺得我現在看迪士尼跟看廁紙小說的程度是差不多，我會不會等下被宰了這會不會炎上啊我的媽呀 (叮)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "o09Re1dax3U",
+            "start": 8984,
+            "end": 8993
+          }
+        },
+        {
+          "id": "1c5bc36a-0da2-4e51-b890-8bc246c37717",
+          "filename": "我要告你們我要把你們野放回山上.webm",
+          "text": {
+            "zh-tw": "我要告你們，我要把你們野放回山上",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "cBCEoMLbJOY",
+            "start": 5582,
+            "end": 5587
+          }
         }
       ]
     },
@@ -9686,6 +9776,21 @@
             "videoId": "6OksLwW9oc8",
             "start": 8892,
             "end": 8900
+          }
+        },
+        {
+          "id": "128aa63e-3aa6-48ff-9a2c-53b37b1d7983",
+          "filename": "琳剪這段幫我剪語音.webm",
+          "text": {
+            "zh-tw": "琳！剪這段！幫我剪語音~",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "o09Re1dax3U",
+            "start": 7387.381,
+            "end": 7394.009
           }
         }
       ]
