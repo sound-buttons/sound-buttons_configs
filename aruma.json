@@ -7236,6 +7236,21 @@
             "start": 7639,
             "end": 7651
           }
+        },
+        {
+          "id": "2c660c09-b2ad-4e94-ac97-a786626e85f9",
+          "filename": "呵呵呵哈哈ᏊꈊᏊ.webm",
+          "text": {
+            "zh-tw": "呵呵。呵哈哈Ꮚ•̀ꈊ•́Ꮚ",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "YrpIKj9p6I4",
+            "start": 3222.8,
+            "end": 3225
+          }
         }
       ]
     },
@@ -9248,6 +9263,21 @@
             "videoId": "dUfHdunor2E",
             "start": 7775,
             "end": 7795
+          }
+        },
+        {
+          "id": "6616061a-3b0e-40a0-a365-320ed80322b3",
+          "filename": "大聲音效看屁啊.webm",
+          "text": {
+            "zh-tw": "(大聲音效) ...看屁啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "XQjS_5dV6VQ",
+            "start": 2975,
+            "end": 2978.4
           }
         }
       ]
