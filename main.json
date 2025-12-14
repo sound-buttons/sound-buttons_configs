@@ -194,5 +194,18 @@
       "primary": "#FABF20",
       "secondary": "#FFE5A1"
     }
+  },
+  {
+    "name": "hanazonosayaka",
+    "fullName": "花園さやか",
+    "fullConfigURL": "assets/configs/hanazonosayaka.json",
+    "liveUpdateURL": "https://blob.sound-buttons.click/sound-buttons/hanazonosayaka/hanazonosayaka.json",
+    "imgSrc": [
+      "https://blob.sound-buttons.click/sound-buttons/hanazonosayaka/hanazonosayaka.png"
+    ],
+    "color": {
+      "primary": "#D3B674",
+      "secondary": "#ECC45F"
+    }
   }
 ]

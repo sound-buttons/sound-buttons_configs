@@ -1,0 +1,33 @@
+{
+  "name": "hanazonosayaka",
+  "fullName": "花園さやか",
+  "fullConfigURL": "assets/configs/hanazonosayaka.json",
+  "imgSrc": [
+    "https://blob.sound-buttons.click/sound-buttons/hanazonosayaka/hanazonosayaka.png"
+  ],
+  "intro": "たくさんの情報を分かりやすく整理整頓し、自分の言葉で伝えられるようになることが目標。\n頭を使う(?)ためか甘いものが大好きで、おやつは欠かさず持ち歩いている。\nSNSに投稿される視聴者さんのホロ活報告を、こっそり眺めるのが最近の幸せ。",
+  "color": {
+    "primary": "#2A5CAB",
+    "secondary": "#B3CEF0"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/watch?v=voYUTS9uLh0&list=PLYWHLZk82krsdAKXxA-ap7ptsy-0Q6QqG",
+    "twitch": null,
+    "twitter": null,
+    "facebook": null,
+    "instagram": null,
+    "discord": null,
+    "other": null
+  },
+  "introButton": null,
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "花園さやか",
+        "ja": "花園さやか"
+      },
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/hanazonosayaka/",
+      "buttons": []
+    }
+  ]
+}
