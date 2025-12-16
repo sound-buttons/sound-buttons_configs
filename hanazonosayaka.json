@@ -102,6 +102,186 @@
             "start": 767,
             "end": 771
           }
+        },
+        {
+          "id": "ca86a910-e40c-4868-a14c-6a89b607bf23",
+          "filename": "怪叫.webm",
+          "text": {
+            "zh-tw": "(怪叫)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 929,
+            "end": 931
+          }
+        },
+        {
+          "id": "8f6ac84a-be47-4d81-9070-d61bc23b7e19",
+          "filename": "笑.webm",
+          "text": {
+            "zh-tw": "(笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 958,
+            "end": 960
+          }
+        },
+        {
+          "id": "8615343f-86b0-49d7-ab9c-3251ba8182bb",
+          "filename": "聽話.webm",
+          "text": {
+            "zh-tw": "聽話!",
+            "ja": "聞きなさい!"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 966,
+            "end": 968
+          }
+        },
+        {
+          "id": "c7ca37a9-dcc7-4081-bc6d-76b4daf7e2dc",
+          "filename": "噔噔.webm",
+          "text": {
+            "zh-tw": "噔噔!",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1106,
+            "end": 1107
+          }
+        },
+        {
+          "id": "84dec7b0-c18d-4285-a84b-7383f0782c3c",
+          "filename": "阿不小心弄錯了可愛聲.webm",
+          "text": {
+            "zh-tw": "阿不小心弄錯了(可愛聲",
+            "ja": "あ間違えっちゃったて"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1128,
+            "end": 1130
+          }
+        },
+        {
+          "id": "7b4825e4-1399-49c9-b23c-8aa438a2459b",
+          "filename": "さやか效果音.webm",
+          "text": {
+            "zh-tw": "さやか效果音",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1266,
+            "end": 1268
+          }
+        },
+        {
+          "id": "64e8bf40-c98e-4a61-8a63-73d8686b1298",
+          "filename": "媽媽媽媽.webm",
+          "text": {
+            "zh-tw": "媽媽...媽媽?",
+            "ja": "ママ。。。ママ？"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1358,
+            "end": 1362
+          }
+        },
+        {
+          "id": "36ef2866-e96b-4803-907d-06b1089dd3d7",
+          "filename": "好難哦.webm",
+          "text": {
+            "zh-tw": "好難哦",
+            "ja": "難しいなぁ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1362,
+            "end": 1364
+          }
+        },
+        {
+          "id": "52c56fc7-7ce1-4460-ae6b-c1ebfad29bf3",
+          "filename": "阿咧只有我.webm",
+          "text": {
+            "zh-tw": "阿咧只有我!?",
+            "ja": "あれ私だけ!?"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1421,
+            "end": 1423
+          }
+        },
+        {
+          "id": "f506a579-ff88-43d9-8cee-ac7e687885e4",
+          "filename": "哈哈哈.webm",
+          "text": {
+            "zh-tw": "哈哈哈",
+            "ja": "ハハハ"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1764,
+            "end": 1766
+          }
+        },
+        {
+          "id": "98eb9194-5296-4e4b-8469-b44e241485ed",
+          "filename": "生氣了生氣了w.webm",
+          "text": {
+            "zh-tw": "生氣了生氣了w",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1806,
+            "end": 1808
+          }
+        },
+        {
+          "id": "d13e97f9-e31a-41d9-990c-dddc2b38dd58",
+          "filename": "不要生氣.webm",
+          "text": {
+            "zh-tw": "不要生氣",
+            "ja": "おこんないの"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "voYUTS9uLh0",
+            "start": 1818,
+            "end": 1820
+          }
         }
       ]
     }
