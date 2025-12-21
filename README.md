@@ -1,4 +1,17 @@
-# Sound Buttons Configs - 聲音按鈕設定檔
+# ![icon](https://github.com/sound-buttons/sound-buttons/blob/master/src/assets/img/favicon/favicon-32x32.png?raw=true) Sound Buttons Config - 聲音按鈕設定檔
+
+<p align="center">
+  <img src="https://github.com/sound-buttons/.github/assets/16995691/e0851a90-9ef7-42b0-9c61-2f4b79c085a9" alt="open graph" width="500" />
+</p>
+
+<p align="center">
+  此專案是一個 Vtuber 聲音按鈕網站的實作。<br>
+  This project is a implementation of the Vtuber voice button website.
+</p>
+
+<p align="center">
+  <a href="https://sound-buttons.click" target="_blank">https://sound-buttons.click</a>
+</p>
 
 此儲存庫存放 [Sound Buttons 聲音按鈕](https://sound-buttons.click) 網站的 JSON 設定資料，作為主前端專案 [sound-buttons](https://github.com/sound-buttons/sound-buttons) 的 git submodule 使用。
 
