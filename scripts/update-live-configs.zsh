@@ -104,6 +104,9 @@ fetch_and_update_config() {
         return 1
     fi
 
+    # Normalize line endings to LF (some sources may have CRLF)
+    sed -i 's/\r$//' "$temp_file"
+
     # Copy raw content directly to preserve Unicode escapes and original formatting
     if cp "$temp_file" "$local_config"; then
         echo "${GREEN}OK${RESET}"
