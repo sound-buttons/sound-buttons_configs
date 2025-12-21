@@ -158,10 +158,17 @@ main() {
     echo "${GREEN}main.json has been reordered.${RESET}"
     echo ""
 
+    # Check if there are any changes to commit
+    cd "$PROJECT_ROOT"
+    if git diff --quiet main.json; then
+        echo "${YELLOW}No changes detected in main.json. The order is already correct.${RESET}"
+        echo "${GREEN}Done! Nothing to commit.${RESET}"
+        return 0
+    fi
+
     # Git commit
     echo "${GRAY}Creating git commit...${RESET}"
 
-    cd "$PROJECT_ROOT"
     git add main.json
 
     # Create commit message
