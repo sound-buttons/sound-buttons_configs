@@ -68,6 +68,12 @@ jobs:
 
           This ensures the config files stay synchronized with the latest data."
 
+      - name: 🤖 Run update script
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: |
+          chmod +x ./scripts/sort-by-button-count.zsh
+          ./scripts/sort-by-button-count.zsh
+
       - name: 🚀 Push branch
         if: steps.check_changes.outputs.changes_detected == 'true'
         run: git push origin ci/update-live-configs --force
