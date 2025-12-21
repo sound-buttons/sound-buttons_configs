@@ -1,0 +1,127 @@
+name: "🔄 Update Live Configs"
+
+on:
+  schedule:
+    # Run every day at 02:00 UTC
+    - cron: "0 2 * * *"
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  update-configs:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: 📥 Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetch full history for branch operations
+
+      - name: 🔧 Setup Git configuration
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "bot@ChenJ.im"
+
+      - name: 🌿 Setup update branch
+        run: |
+          # Check if ci/update-live-configs branch exists
+          if git ls-remote --heads origin ci/update-live-configs | grep -q ci/update-live-configs; then
+            echo "Branch ci/update-live-configs exists, checking out and resetting"
+            git checkout ci/update-live-configs
+            git reset --hard origin/master
+          else
+            echo "Creating new branch ci/update-live-configs from master"
+            git checkout -b ci/update-live-configs
+          fi
+
+      - name: 📦 Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y curl jq zsh
+
+      - name: 🤖 Run update script
+        run: |
+          chmod +x ./scripts/update-live-configs.zsh
+          ./scripts/update-live-configs.zsh
+
+      - name: 🔍 Check for changes
+        id: check_changes
+        run: |
+          # Check if there are any changes to JSON files (excluding main.json)
+          if git diff --quiet HEAD -- '*.json' ':!main.json'; then
+            echo "No changes detected in config files"
+            echo "changes_detected=false" >> $GITHUB_OUTPUT
+          else
+            echo "Changes detected in config files"
+            echo "changes_detected=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: 📝 Commit changes
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: |
+          git add '*.json'
+          git commit -m "chore: update live configs from liveUpdateURL
+
+          Automated daily update of character configs from live sources.
+
+          This ensures the config files stay synchronized with the latest data."
+
+      - name: 🚀 Push branch
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        run: git push origin ci/update-live-configs --force
+
+      - name: 🔄 Create Pull Request
+        if: steps.check_changes.outputs.changes_detected == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const { data: pulls } = await github.rest.pulls.list({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              head: `${context.repo.owner}:ci/update-live-configs`,
+              state: 'open'
+            });
+
+            if (pulls.length === 0) {
+              const currentDate = new Date().toISOString().split('T')[0];
+
+              const prBody = `## 🔄 Automated Live Config Update
+
+            This PR contains the latest character configs fetched from \`liveUpdateURL\`.
+
+            ### Changes
+            - 📊 Updated character config files from live sources
+            - 🤖 Automatically generated on ${currentDate}
+
+            ### What's included
+            - All current character configurations from live update endpoints
+            - Maintains data integrity and structure
+
+            This automated update ensures our config files stay synchronized with the latest live data.
+
+            ---
+            *This PR was automatically created by the daily config update workflow.*`;
+
+              await github.rest.pulls.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `chore: update live configs (${currentDate})`,
+                head: 'ci/update-live-configs',
+                base: 'master',
+                body: prBody
+              });
+
+              console.log('✅ Pull request created successfully');
+            } else {
+              console.log('ℹ️ Pull request already exists, updating existing PR');
+            }
+
+      - name: 📋 Summary
+        run: |
+          if [ "${{ steps.check_changes.outputs.changes_detected }}" == "true" ]; then
+            echo "✅ Configs updated successfully and PR created/updated"
+          else
+            echo "ℹ️ No changes detected, no action needed"
+          fi
