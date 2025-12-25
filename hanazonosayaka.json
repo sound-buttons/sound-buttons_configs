@@ -608,6 +608,30 @@
           }
         }
       ]
+    },
+    {
+      "name": {
+        "zh-tw": "12月23日",
+        "ja": "12月23日"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/hanazonosayaka/",
+      "buttons": [
+        {
+          "id": "9c6a6752-f9ad-4dbf-aea7-5b4a477e2507",
+          "filename": "午安印尼語.webm",
+          "text": {
+            "zh-tw": "午安(印尼語",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "ariJisoISNo",
+            "start": 660,
+            "end": 661
+          }
+        }
+      ]
     }
   ]
 }
