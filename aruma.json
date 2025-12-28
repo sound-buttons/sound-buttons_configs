@@ -3,10 +3,12 @@
   "fullName": "薬袋アルマ",
   "fullConfigURL": "assets/configs/aruma.json",
   "imgSrc": [
+    "https://blob.sound-buttons.click/sound-buttons/aruma/aruma4.png",
+    "https://blob.sound-buttons.click/sound-buttons/aruma/aruma3.png",
     "https://blob.sound-buttons.click/sound-buttons/aruma/aruma2.png",
     "https://blob.sound-buttons.click/sound-buttons/aruma/aruma.png"
   ],
-  "intro": "ご機嫌よう～\n個人勢VtuberグループGuildCQ所属の薬袋アルマ（Minai Aruma）です\uD83C\uDF3F\uD83E\uDDEA\n年内登録者一万人を目指しています！\n\nおしゃべりが大好きなので、様々な配信を挑戦しに行きたい思います！\nお時間ありましたら是非遊びにいらしてください✨\nもしお気になって頂けたら\nチャンネル登録・高評価・コメントして頂けるととても嬉しいです\uD83D\uDC8B\n\n毎週歌枠やります\uD83C\uDFB5\n\n日／中／EN OK",
+  "intro": "ご機嫌よう～\n個人勢Vtuberの薬袋アルマ（Minai Aruma）です\uD83C\uDF3F\uD83E\uDDEA\n登録者2.5万人を目指しています！\n\nおしゃべりが大好きなので、様々な配信を挑戦しに行きたい思います！\nお時間ありましたら是非遊びにいらしてください✨\nもしお気になって頂けたら\nチャンネル登録・高評価・コメントして頂けるととても嬉しいです\uD83D\uDC8B\n\n毎週歌枠やります\uD83C\uDFB5\n\n日／中／EN OK",
   "color": {
     "primary": "#2A5CAB",
     "secondary": "#B3CEF0"

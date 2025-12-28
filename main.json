@@ -5,6 +5,8 @@
     "fullConfigURL": "assets/configs/aruma.json",
     "liveUpdateURL": "https://blob.sound-buttons.click/sound-buttons/aruma/aruma.json",
     "imgSrc": [
+      "https://blob.sound-buttons.click/sound-buttons/aruma/aruma4.png",
+      "https://blob.sound-buttons.click/sound-buttons/aruma/aruma3.png",
       "https://blob.sound-buttons.click/sound-buttons/aruma/aruma2.png",
       "https://blob.sound-buttons.click/sound-buttons/aruma/aruma.png"
     ],
