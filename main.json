@@ -19,10 +19,11 @@
     "fullConfigURL": "assets/configs/yoruka.json",
     "liveUpdateURL": "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka.json",
     "imgSrc": [
+      "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka1.png",
+      "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka.png",
       "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka2.png",
       "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka3.png",
-      "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka4.png",
-      "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka.png"
+      "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka4.png"
     ],
     "color": {
       "primary": "#E55A74",

@@ -3,10 +3,11 @@
   "fullName": "須多夜花",
   "fullConfigURL": "assets/configs/yoruka.json",
   "imgSrc": [
+    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka1.png",
+    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka.png",
     "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka2.png",
     "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka3.png",
-    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka4.png",
-    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka.png"
+    "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka4.png"
   ],
   "intro": "「只要這個世上的角落還有人需要我的歌聲，那就是我的使命所在。」\n\n台灣VTuber - 須多夜花 Suda Yoruka\n\nFan Mark→🌙🌸\nFan Name #賞花油民\nFan Art #夜Art花 \n\n💟親愛ㄉ繪師馬麻 / X@Machi7769\n💟親愛ㄉ建模馬麻 / X@huacha_oc\n💟超酷ㄉLOGO設計 / X@Hisenya",
   "color": {
@@ -16,10 +17,10 @@
   "link": {
     "youtube": "https://www.youtube.com/channel/UCuy-kZJ7HWwUU-eKv0zUZFQ/",
     "twitch": "https://www.twitch.tv/sudayoruka",
-    "twitter": "https://twitter.com/sudayoruka",
-    "facebook": "https://www.facebook.com/sudayoruka",
+    "twitter": "https://x.com/sudayoruka",
+    "facebook": "",
     "instagram": "",
-    "discord": "https://discord.com/invite/p6CRD63Mzc",
+    "discord": "https://discord.gg/bVJq88QeVa",
     "other": ""
   },
   "introButton": {
