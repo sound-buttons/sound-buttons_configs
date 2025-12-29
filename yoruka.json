@@ -9,7 +9,7 @@
     "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka3.png",
     "https://blob.sound-buttons.click/sound-buttons/yoruka/yoruka4.png"
   ],
-  "intro": "「只要這個世上的角落還有人需要我的歌聲，那就是我的使命所在。」\n\n台灣VTuber - 須多夜花 Suda Yoruka\n\nFan Mark→🌙🌸\nFan Name #賞花油民\nFan Art #夜Art花 \n\n💟親愛ㄉ繪師馬麻 / X@Machi7769\n💟親愛ㄉ建模馬麻 / X@huacha_oc\n💟超酷ㄉLOGO設計 / X@Hisenya",
+  "intro": "「只要這個世上的角落還有人需要我的歌聲，那就是我的使命所在。」\n\n台灣VTuber - 須多夜花 Suda Yoruka\n\nFan Mark→\uD83C\uDF19\uD83C\uDF38\nFan Name #賞花油民\nFan Art #夜Art花 \n\n\uD83D\uDC9F親愛ㄉ繪師馬麻 / X@Machi7769\n\uD83D\uDC9F親愛ㄉ建模馬麻 / X@huacha_oc\n\uD83D\uDC9F超酷ㄉLOGO設計 / X@Hisenya",
   "color": {
     "primary": "#E55A74",
     "secondary": "#33272B"
@@ -6909,6 +6909,111 @@
             "start": 4853,
             "end": 4855.7
           }
+        },
+        {
+          "id": "65af0373-1b9c-41e9-9d56-c96298d03fbf",
+          "filename": "誒王八蛋笑.webm",
+          "text": {
+            "zh-tw": "誒王八蛋(笑",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "po1Fv1u1ytg",
+            "start": 1132,
+            "end": 1135
+          }
+        },
+        {
+          "id": "bc6141b7-7d88-4614-bb43-583fceb2845e",
+          "filename": "這什麼東西大笑.webm",
+          "text": {
+            "zh-tw": "這什麼東西(大笑",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "po1Fv1u1ytg",
+            "start": 1135,
+            "end": 1138
+          }
+        },
+        {
+          "id": "52fb752a-eafe-4d17-a257-2097f4c319cc",
+          "filename": "自我介紹_639026071672821358.webm",
+          "text": {
+            "zh-tw": "自我介紹",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "po1Fv1u1ytg",
+            "start": 1516.7,
+            "end": 1526.3
+          }
+        },
+        {
+          "id": "20190d61-72f6-4b58-9623-3cae46336906",
+          "filename": "大中天啊好舒服大中天.webm",
+          "text": {
+            "zh-tw": "大中天！啊，好舒服，大中天！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "po1Fv1u1ytg",
+            "start": 2685,
+            "end": 2688.3
+          }
+        },
+        {
+          "id": "5a4af7ed-f966-4db8-8a4e-9712abc4ec16",
+          "filename": "屁啦.webm",
+          "text": {
+            "zh-tw": "屁啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "po1Fv1u1ytg",
+            "start": 2983,
+            "end": 2984
+          }
+        },
+        {
+          "id": "5eecc055-dee4-4f80-b296-e1483d30eb4e",
+          "filename": "不是啦.webm",
+          "text": {
+            "zh-tw": "不是啦！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "po1Fv1u1ytg",
+            "start": 2987.8,
+            "end": 2989
+          }
+        },
+        {
+          "id": "bfa00b5b-6f7b-4809-a32c-b882598c0c94",
+          "filename": "那個女的很過激嗎.webm",
+          "text": {
+            "zh-tw": "那個女的很過激嗎？！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "po1Fv1u1ytg",
+            "start": 2992,
+            "end": 2994
+          }
         }
       ]
     },
@@ -8093,6 +8198,21 @@
             "videoId": "aferkfprm_Y",
             "start": 1571,
             "end": 1574
+          }
+        },
+        {
+          "id": "c2307dda-7081-45b7-a836-44ef955849fd",
+          "filename": "嬰靈戰車.webm",
+          "text": {
+            "zh-tw": "嬰靈戰車！！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "po1Fv1u1ytg",
+            "start": 1338,
+            "end": 1341
           }
         }
       ]
@@ -9605,6 +9725,21 @@
             "videoId": "xb3Mv_AHXHI",
             "start": 8195.4,
             "end": 8201
+          }
+        },
+        {
+          "id": "da8cd1b7-796b-4d69-af08-70b1d0ef1861",
+          "filename": "你什麼時候要來學怎麼發文好麻煩喔我發twitter你幫我發一發就行了吧.webm",
+          "text": {
+            "zh-tw": "(你什麼時候要來學怎麼發文) 好麻煩喔，我發 twitter 你幫我發一發就行了吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "Z3kwCbShLlc",
+            "start": 7859,
+            "end": 7865
           }
         }
       ]
