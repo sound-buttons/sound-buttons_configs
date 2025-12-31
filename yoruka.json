@@ -7014,6 +7014,21 @@
             "start": 2992,
             "end": 2994
           }
+        },
+        {
+          "id": "b83bcf8c-bcba-460b-aa90-50a1a64da76a",
+          "filename": "喔好好聽喔這誰唱的啊.webm",
+          "text": {
+            "zh-tw": "喔好好聽喔這誰唱的啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
