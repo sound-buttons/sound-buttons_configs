@@ -7029,6 +7029,111 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "id": "950c310c-2abe-4e32-a301-ed4cb6ee75e8",
+          "filename": "奇怪的喂喂喂.webm",
+          "text": {
+            "zh-tw": "奇怪的「喂喂喂」",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "puRicp7EKOk",
+            "start": 448.573,
+            "end": 453.573
+          }
+        },
+        {
+          "id": "fdfa3b86-9ff7-47bf-a223-7119e645dbb5",
+          "filename": "你媽沒了哭啊你媽死了.webm",
+          "text": {
+            "zh-tw": "(你媽沒了) 哭啊！你媽死了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "9727f937-1fca-4e60-9ee4-c4bc3d406f1f",
+          "filename": "怎麼有人在假裝自己是新人VTuber啊我沒有假裝我就是啊我就是啊.webm",
+          "text": {
+            "zh-tw": "(怎麼有人在假裝自己是新人 VTuber 啊?) 我沒有假裝我就是啊？我就是啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "puRicp7EKOk",
+            "start": 595.621,
+            "end": 602.249
+          }
+        },
+        {
+          "id": "049387ec-e23b-4525-84aa-a2984267f3ef",
+          "filename": "被窩太溫暖了我現在跟大家報完平安我可以去窩在我的被窩裡面了.webm",
+          "text": {
+            "zh-tw": "被窩太溫暖了！我現在跟大家報完平安，我可以去窩在我的被窩裡面了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "puRicp7EKOk",
+            "start": 776,
+            "end": 784
+          }
+        },
+        {
+          "id": "f707b386-e87f-4a0c-9e14-0c5cace9c88b",
+          "filename": "開台三年的新人VTuber誰啊不是我吧跟我沒關係吧我沒有開台三年啊.webm",
+          "text": {
+            "zh-tw": "(開台三年的新人 VTuber) 誰啊不是我吧...跟我沒關係吧...我沒有開台三年啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "puRicp7EKOk",
+            "start": 1152.3,
+            "end": 1158
+          }
+        },
+        {
+          "id": "8a737b17-7950-48ae-ad2a-0f673631566f",
+          "filename": "女僕咖啡廳非常好啊超棒的啊.webm",
+          "text": {
+            "zh-tw": "女僕咖啡廳非常好啊！超棒的啊！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "puRicp7EKOk",
+            "start": 2561.106,
+            "end": 2566.106
+          }
+        },
+        {
+          "id": "f9569cdd-3c9a-493e-826b-e8ab79e7107d",
+          "filename": "我要殺了你.webm",
+          "text": {
+            "zh-tw": "我要殺了你！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "puRicp7EKOk",
+            "start": 3591,
+            "end": 3592.3
+          }
         }
       ]
     },
