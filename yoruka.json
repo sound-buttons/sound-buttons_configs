@@ -21,11 +21,11 @@
     "facebook": "",
     "instagram": "",
     "discord": "https://discord.gg/bVJq88QeVa",
-    "other": ""
+    "other": "https://sudayoruka.com/"
   },
   "introButton": {
-    "id": "0983e92c-8616-4589-9c4a-2c6cb164b6d9",
-    "filename": "自我介紹.webm",
+    "id": "52fb752a-eafe-4d17-a257-2097f4c319cc",
+    "filename": "自我介紹_639026071672821358.webm",
     "text": {
       "zh-tw": "自我介紹",
       "ja": "自己紹介"
@@ -33,9 +33,9 @@
     "baseRoute": "https://blob.sound-buttons.click/sound-buttons/yoruka/",
     "volume": 1,
     "source": {
-      "videoId": "a6AY-ea-OGM",
-      "start": 5848,
-      "end": 5858
+      "videoId": "po1Fv1u1ytg",
+      "start": 1516.7,
+      "end": 1526.3
     }
   },
   "buttonGroups": [
