@@ -387,6 +387,21 @@
             "start": 1492,
             "end": 1496
           }
+        },
+        {
+          "id": "43183440-072b-4f12-a739-1386d220eb86",
+          "filename": "愛的啾啾啾.webm",
+          "text": {
+            "zh-tw": "愛的啾啾啾",
+            "ja": "愛の啾啾啾"
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "lPSAA4x-WEM",
+            "start": 7241,
+            "end": 7257
+          }
         }
       ]
     },
