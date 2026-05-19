@@ -1,6 +1,6 @@
 {
   "name": "anainainainai",
-  "fullName": "阿奈奈 𝒜𝒩𝒶𝒾 ",
+  "fullName": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE ",
   "fullConfigURL": "assets/configs/anainainainai.json",
   "imgSrc": [
     "https://blob.sound-buttons.click/sound-buttons/anainainainai/anainainainai.png",
@@ -21,15 +21,39 @@
     "discord": "https://discord.gg/fTN66vBrfA",
     "other": "https://piku.page/@anainainainai"
   },
-  "introButton": {},
+  "introButton": null,
   "buttonGroups": [
     {
       "name": {
-        "zh-tw": "阿奈奈 𝒜𝒩𝒶𝒾 ",
-        "ja": "阿奈奈 𝒜𝒩𝒶𝒾 "
+        "zh-tw": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE ",
+        "ja": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE "
       },
       "baseRoute": "https://blob.sound-buttons.click/sound-buttons/anainainainai/",
       "buttons": []
+    },
+    {
+      "name": {
+        "zh-tw": "暴言阿奈奈",
+        "ja": "暴言阿奈奈"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/anainainainai/",
+      "buttons": [
+        {
+          "id": "e2cceae1-be8b-48aa-ae3d-ffaca4a89cbf",
+          "filename": "不要再射了操.webm",
+          "text": {
+            "zh-tw": "不要再射了，操！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
     }
   ]
 }
