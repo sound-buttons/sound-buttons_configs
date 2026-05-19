@@ -1,0 +1,35 @@
+{
+  "name": "anainainainai",
+  "fullName": "阿奈奈 𝒜𝒩𝒶𝒾 ",
+  "fullConfigURL": "assets/configs/anainainainai.json",
+  "imgSrc": [
+    "https://blob.sound-buttons.click/sound-buttons/anainainainai/anainainainai.png",
+    "https://blob.sound-buttons.click/sound-buttons/anainainainai/anainainainai2.png",
+    "https://blob.sound-buttons.click/sound-buttons/anainainainai/anainainainai3.png"
+  ],
+  "intro": "安安你好我叫阿奈你也可以叫我阿奈奈或是奈奈!!\n有低機率變成紗愛醬代班!!\n\n⊹₊ ˚‧︵‿₊୨୧₊‿︵‧ ˚ ₊⊹\n\n希望隨著時間的推進我能變成對自己更有自信的樣子˶ᵔ ᵕ ᵔ˶\n我希望自己能成為跟自己的偶像一樣的人\n那種可以鼓舞別人讓他們對生活重新\n燃起希望的人!!(感覺好多語病)",
+  "color": {
+    "primary": "#E88CA6",
+    "secondary": "#EFBDCB"
+  },
+  "link": {
+    "youtube": "https://www.youtube.com/channel/UCaMik40bbeF2qpfGvqC3HRQ",
+    "twitch": "https://www.twitch.tv/anainainai",
+    "twitter": "https://x.com/a_nai_nai",
+    "facebook": "",
+    "instagram": "https://www.instagram.com/anainai_momo",
+    "discord": "https://discord.gg/fTN66vBrfA",
+    "other": "https://piku.page/@anainainainai"
+  },
+  "introButton": {},
+  "buttonGroups": [
+    {
+      "name": {
+        "zh-tw": "阿奈奈 𝒜𝒩𝒶𝒾 ",
+        "ja": "阿奈奈 𝒜𝒩𝒶𝒾 "
+      },
+      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/anainainainai/",
+      "buttons": []
+    }
+  ]
+}

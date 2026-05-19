@@ -210,5 +210,20 @@
       "primary": "#FABF20",
       "secondary": "#FFE5A1"
     }
+  },
+  {
+    "name": "anainainainai",
+    "fullName": "阿奈奈 𝒜𝒩𝒶𝒾 ",
+    "fullConfigURL": "assets/configs/anainainainai.json",
+    "liveUpdateURL": "https://blob.sound-buttons.click/sound-buttons/anainainainai/anainainainai.json",
+    "imgSrc": [
+      "https://blob.sound-buttons.click/sound-buttons/anainainainai/anainainainai.png",
+      "https://blob.sound-buttons.click/sound-buttons/anainainainai/anainainainai2.png",
+      "https://blob.sound-buttons.click/sound-buttons/anainainainai/anainainainai3.png"
+    ],
+    "color": {
+      "primary": "#E88CA6",
+      "secondary": "#EFBDCB"
+    }
   }
 ]
