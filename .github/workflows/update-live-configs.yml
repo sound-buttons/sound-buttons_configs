@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: 📥 Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0 # Fetch full history for branch operations
 
@@ -80,7 +80,7 @@ jobs:
 
       - name: 🔄 Create Pull Request
         if: steps.check_changes.outputs.changes_detected == 'true'
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const { data: pulls } = await github.rest.pulls.list({
