@@ -54,6 +54,45 @@
           }
         }
       ]
+    },
+    {
+      "name": {
+        "zh-tw": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE",
+        "ja": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/anainainainai/",
+      "buttons": [
+        {
+          "id": "8a6c0f89-9aa2-4822-bb14-b0cc489e1363",
+          "filename": "好好奇喔笑.webm",
+          "text": {
+            "zh-tw": "好好奇喔 (笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "MSsJvJdwPz8",
+            "start": 3756,
+            "end": 3760
+          }
+        },
+        {
+          "id": "4b2bedb8-14f9-4778-bd64-b5133b5fcb0a",
+          "filename": "霹靂卡霹靂拉拉波波力那貝貝魯多.webm",
+          "text": {
+            "zh-tw": "霹靂卡霹靂拉拉 波波力那貝貝魯多",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        }
+      ]
     }
   ]
 }
