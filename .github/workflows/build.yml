@@ -23,9 +23,15 @@ jobs:
         with:
           target-branch: minify
 
-      # Use https://github.com/Josee9988/MinifyAllCli
-      - name: Minify Action
-        run: "npx @josee9988/minifyall -d ."
+      # Minify all JSON files in place using jq (pre-installed on GitHub runners).
+      # Replaces the abandoned @josee9988/minifyall CLI, which crashed on install.
+      - name: Minify JSON files
+        run: |
+          find . -name '*.json' -not -path './.git/*' -print0 | while IFS= read -r -d '' file; do
+            tmp="$(mktemp)"
+            jq -c . "$file" > "$tmp" && mv "$tmp" "$file"
+            echo "Minified: $file"
+          done
 
       - name: Git Auto Commit
         uses: stefanzweifel/git-auto-commit-action@v7
