@@ -25,40 +25,8 @@
   "buttonGroups": [
     {
       "name": {
-        "zh-tw": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE ",
-        "ja": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE "
-      },
-      "baseRoute": "https://blob.sound-buttons.click/sound-buttons/anainainainai/",
-      "buttons": []
-    },
-    {
-      "name": {
-        "zh-tw": "暴言阿奈奈",
-        "ja": "暴言阿奈奈"
-      },
-      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/anainainainai/",
-      "buttons": [
-        {
-          "id": "e2cceae1-be8b-48aa-ae3d-ffaca4a89cbf",
-          "filename": "不要再射了操.webm",
-          "text": {
-            "zh-tw": "不要再射了，操！",
-            "ja": ""
-          },
-          "baseRoute": null,
-          "volume": 1,
-          "source": {
-            "videoId": "",
-            "start": 0,
-            "end": 0
-          }
-        }
-      ]
-    },
-    {
-      "name": {
-        "zh-tw": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE",
-        "ja": "阿奈奈 \uD835\uDC9C\uD835\uDCA9\uD835\uDCB6\uD835\uDCBE"
+        "zh-tw": "阿奈奈",
+        "ja": "阿奈奈"
       },
       "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/anainainainai/",
       "buttons": [
@@ -90,6 +58,75 @@
             "videoId": "",
             "start": 0,
             "end": 0
+          }
+        },
+        {
+          "id": "03560f02-799b-4900-961a-1f549ff2b81b",
+          "filename": "誒就是怎麼解釋啊我表達能力好差喔笑.webm",
+          "text": {
+            "zh-tw": "誒...就是...怎麼解釋啊...我表達能力好差喔 (笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "SdGu_7KqE6Y",
+            "start": 11304,
+            "end": 11316
+          }
+        },
+        {
+          "id": "c5a29edc-a8cf-4f5d-b2f8-0ff6ed084c3c",
+          "filename": "我想要姓王我想要叫王阿奈.webm",
+          "text": {
+            "zh-tw": "我想要姓王，我想要叫王阿奈",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "N0A8t-zqVdE",
+            "start": 1704.8,
+            "end": 1710
+          }
+        }
+      ]
+    },
+    {
+      "name": {
+        "zh-tw": "暴言阿奈奈",
+        "ja": "暴言阿奈奈"
+      },
+      "baseRoute": "https://soundbuttons.blob.core.windows.net/sound-buttons/anainainainai/",
+      "buttons": [
+        {
+          "id": "e2cceae1-be8b-48aa-ae3d-ffaca4a89cbf",
+          "filename": "不要再射了操.webm",
+          "text": {
+            "zh-tw": "不要再射了，操！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "925e953f-e0e5-41a9-af64-5eab65cd4612",
+          "filename": "4I的意思就是一個女生的身上裝了一根假屌去操男生的屁眼.webm",
+          "text": {
+            "zh-tw": "4I 的意思就是一個女生的身上裝了一根假屌去操男生的屁眼",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "N0A8t-zqVdE",
+            "start": 8494,
+            "end": 8501.3
           }
         }
       ]
