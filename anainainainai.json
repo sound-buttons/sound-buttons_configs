@@ -89,6 +89,36 @@
             "start": 1704.8,
             "end": 1710
           }
+        },
+        {
+          "id": "65bd8c91-8935-4a17-b3c3-0e5373c1df8c",
+          "filename": "摸著良心再講一次我是一個普通的女孩子平常也文文靜靜安安靜靜的沒幹什麼壞事情興趣是畫圖.webm",
+          "text": {
+            "zh-tw": "(摸著良心再講一次) 我是一個普通的女孩子，平常也文文靜靜安安靜靜的，沒幹什麼壞事情，興趣是畫圖",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "c02c83ee-c33e-4a93-b2db-6cd3a17a2da0",
+          "filename": "我才不髒我一點都不髒吐口水.webm",
+          "text": {
+            "zh-tw": "我才不髒，我一點都不髒 (吐口水)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
@@ -127,6 +157,51 @@
             "videoId": "N0A8t-zqVdE",
             "start": 8494,
             "end": 8501.3
+          }
+        },
+        {
+          "id": "395c576d-eb43-4bc1-9a75-3aa68ec38070",
+          "filename": "傻笑你是多吵你吵什麼吵啊.webm",
+          "text": {
+            "zh-tw": "(傻笑) (你是多吵) 你吵什麼吵啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "3b334229-a8e8-4d52-af71-ab7ade882871",
+          "filename": "幹.webm",
+          "text": {
+            "zh-tw": "幹！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "ae5a84d8-583b-4b67-baf6-fd1f363c9da9",
+          "filename": "加油大聲.webm",
+          "text": {
+            "zh-tw": "加油！(大聲)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
           }
         }
       ]
