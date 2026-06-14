@@ -233,6 +233,21 @@
             "start": 2820,
             "end": 2825
           }
+        },
+        {
+          "id": "16d523fc-6acc-438c-af9b-8332ba32efa7",
+          "filename": "拿啦拿啦你拿一下啦你是他媽的推銷愛心筆的人嗎三小笑.webm",
+          "text": {
+            "zh-tw": "(拿啦拿啦你拿一下啦) 你是他媽的推銷愛心筆的人嗎...三小 (笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     }
