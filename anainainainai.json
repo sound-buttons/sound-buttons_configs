@@ -134,6 +134,21 @@
             "start": 769,
             "end": 773
           }
+        },
+        {
+          "id": "5c278b77-f7aa-43bb-8723-dd478fa955b9",
+          "filename": "超級大爆噴嚏.webm",
+          "text": {
+            "zh-tw": "(超級大爆噴嚏)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
@@ -239,6 +254,21 @@
           "filename": "拿啦拿啦你拿一下啦你是他媽的推銷愛心筆的人嗎三小笑.webm",
           "text": {
             "zh-tw": "(拿啦拿啦你拿一下啦) 你是他媽的推銷愛心筆的人嗎...三小 (笑)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "c03b83cf-f608-48ab-885b-d3a3fb98b6dd",
+          "filename": "媽的射了誒草射.webm",
+          "text": {
+            "zh-tw": "媽的射了誒，草，射！",
             "ja": ""
           },
           "baseRoute": null,
