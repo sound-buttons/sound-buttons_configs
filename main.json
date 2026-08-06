@@ -143,20 +143,6 @@
     }
   },
   {
-    "name": "hachi",
-    "fullName": "HACHI",
-    "fullConfigURL": "assets/configs/hachi.json",
-    "liveUpdateURL": "https://blob.sound-buttons.click/sound-buttons/hachi/hachi.json",
-    "imgSrc": [
-      "https://blob.sound-buttons.click/sound-buttons/hachi/hachi2.png",
-      "https://blob.sound-buttons.click/sound-buttons/hachi/hachi.png"
-    ],
-    "color": {
-      "primary": "#3C3942",
-      "secondary": "#F4B505"
-    }
-  },
-  {
     "name": "anainainainai",
     "fullName": "阿奈奈 𝒜𝒩𝒶𝒾 ",
     "fullConfigURL": "assets/configs/anainainainai.json",
@@ -169,6 +155,20 @@
     "color": {
       "primary": "#E88CA6",
       "secondary": "#EFBDCB"
+    }
+  },
+  {
+    "name": "hachi",
+    "fullName": "HACHI",
+    "fullConfigURL": "assets/configs/hachi.json",
+    "liveUpdateURL": "https://blob.sound-buttons.click/sound-buttons/hachi/hachi.json",
+    "imgSrc": [
+      "https://blob.sound-buttons.click/sound-buttons/hachi/hachi2.png",
+      "https://blob.sound-buttons.click/sound-buttons/hachi/hachi.png"
+    ],
+    "color": {
+      "primary": "#3C3942",
+      "secondary": "#F4B505"
     }
   },
   {
