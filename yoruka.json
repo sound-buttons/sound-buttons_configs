@@ -7284,6 +7284,51 @@
             "start": 3591,
             "end": 3592.3
           }
+        },
+        {
+          "id": "d6139c71-3cd6-443a-9322-25d44e2b432c",
+          "filename": "下下個月會開台.webm",
+          "text": {
+            "zh-tw": "下、下個月會開台",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbUeDW2GqHk",
+            "start": 6447,
+            "end": 6449
+          }
+        },
+        {
+          "id": "35d9bc15-f2b7-429b-a233-6bc207f6fb34",
+          "filename": "嗯喔嗯喔好吧.webm",
+          "text": {
+            "zh-tw": "嗯...喔...嗯...喔...好吧",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "wbUeDW2GqHk",
+            "start": 6460,
+            "end": 6464
+          }
+        },
+        {
+          "id": "92f12a69-1402-41e8-bd87-c837b3c252af",
+          "filename": "清喉嚨.webm",
+          "text": {
+            "zh-tw": "(清喉嚨)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "BvnxzYgK1qc",
+            "start": 2800,
+            "end": 2802
+          }
         }
       ]
     },
