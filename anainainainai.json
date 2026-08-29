@@ -164,6 +164,36 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "id": "f3e61d3a-fc10-4af6-bd2a-6258f7e9e445",
+          "filename": "你這個懶惰鬼嗚哇爛透了.webm",
+          "text": {
+            "zh-tw": "你這個懶惰鬼！嗚哇爛透了！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "a24b7afd-b549-426d-8fbf-a5ef41063bde",
+          "filename": "大叫騙人的騙我.webm",
+          "text": {
+            "zh-tw": "(大叫) 騙人的騙我",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
@@ -284,6 +314,51 @@
           "filename": "媽的射了誒草射.webm",
           "text": {
             "zh-tw": "媽的射了誒，草，射！",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "02d76406-6eda-4750-b67c-4150a205396e",
+          "filename": "主播都兇MOD因為我的MOD都是我的斐濟杯所以我會兇MOD.webm",
+          "text": {
+            "zh-tw": "(主播都兇MOD) 因為我的 MOD 都是我的斐濟杯，所以我會兇 MOD",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "f50061e6-9240-4a02-802f-8f46ccb0e986",
+          "filename": "幹敲桌子.webm",
+          "text": {
+            "zh-tw": "幹！(敲桌子)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "01ecd580-a0ca-4a1f-a3b8-f4e2700dbf8e",
+          "filename": "WTF.webm",
+          "text": {
+            "zh-tw": "WTF",
             "ja": ""
           },
           "baseRoute": null,
