@@ -194,6 +194,36 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "id": "f4193774-6130-40cf-8abb-f2020cb63b43",
+          "filename": "文字重新排列組合之後居然還可以變成這個樣子天哪.webm",
+          "text": {
+            "zh-tw": "文字、重新排列組合之後、居然還可以變成、這個樣子、天哪",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "57V8qiUMYhA",
+            "start": 7003,
+            "end": 7011
+          }
+        },
+        {
+          "id": "a416b3a9-3b74-4024-a967-8954f1f927d9",
+          "filename": "幼兒台的姊姊.webm",
+          "text": {
+            "zh-tw": "(幼兒台的姊姊)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "57V8qiUMYhA",
+            "start": 2073,
+            "end": 2102
+          }
         }
       ]
     },
@@ -367,6 +397,21 @@
             "videoId": "",
             "start": 0,
             "end": 0
+          }
+        },
+        {
+          "id": "dea154ae-3f50-4474-8dea-a07a94309443",
+          "filename": "靠腰.webm",
+          "text": {
+            "zh-tw": "靠腰",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "57V8qiUMYhA",
+            "start": 6996,
+            "end": 6997
           }
         }
       ]
