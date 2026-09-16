@@ -129,20 +129,6 @@
     }
   },
   {
-    "name": "airuier",
-    "fullName": "東域艾瑞兒",
-    "fullConfigURL": "assets/configs/airuier.json",
-    "liveUpdateURL": "https://blob.sound-buttons.click/sound-buttons/airuier/airuier.json",
-    "imgSrc": [
-      "https://blob.sound-buttons.click/sound-buttons/airuier/airuier2.png",
-      "https://blob.sound-buttons.click/sound-buttons/airuier/airuier.png"
-    ],
-    "color": {
-      "primary": "#DF90BA",
-      "secondary": "#372A31"
-    }
-  },
-  {
     "name": "anainainainai",
     "fullName": "阿奈奈 𝒜𝒩𝒶𝒾 ",
     "fullConfigURL": "assets/configs/anainainainai.json",
@@ -155,6 +141,20 @@
     "color": {
       "primary": "#E88CA6",
       "secondary": "#EFBDCB"
+    }
+  },
+  {
+    "name": "airuier",
+    "fullName": "東域艾瑞兒",
+    "fullConfigURL": "assets/configs/airuier.json",
+    "liveUpdateURL": "https://blob.sound-buttons.click/sound-buttons/airuier/airuier.json",
+    "imgSrc": [
+      "https://blob.sound-buttons.click/sound-buttons/airuier/airuier2.png",
+      "https://blob.sound-buttons.click/sound-buttons/airuier/airuier.png"
+    ],
+    "color": {
+      "primary": "#DF90BA",
+      "secondary": "#372A31"
     }
   },
   {
