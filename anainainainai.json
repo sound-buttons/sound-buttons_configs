@@ -224,6 +224,51 @@
             "start": 2073,
             "end": 2102
           }
+        },
+        {
+          "id": "916a9d72-d1d1-43bc-81d9-e1eaeaa91818",
+          "filename": "你也是怪人啊我才不是怪人好不好何意味啊這我一點都不怪吧我沒幹什麼壞事情耶說什麼東西啊.webm",
+          "text": {
+            "zh-tw": "(你也是怪人啊) 我才不是怪人好不好，何意味啊這，我一點都不怪吧，我沒幹什麼壞事情耶，說什麼東西啊",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "bd672c44-854f-49da-b923-fc46fac68a28",
+          "filename": "我是螢火蟲好了啦不要再把仙女棒插到PY裡了你冷靜點.webm",
+          "text": {
+            "zh-tw": "(我是螢火蟲) 好了啦不要再把仙女棒插到 PY 裡了，你冷靜點",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "fd93a8d0-0906-4669-89f6-6e01de352d82",
+          "filename": "徒手殺蟑螂都是狠人對我今天可以徒手殺蟑螂我明天就可以徒手殺了你沒錯.webm",
+          "text": {
+            "zh-tw": "(徒手殺蟑螂都是狠人) 對，我今天可以徒手殺蟑螂，我明天就可以徒手殺了你，沒錯",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
