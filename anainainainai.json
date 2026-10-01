@@ -284,6 +284,21 @@
             "start": 0,
             "end": 0
           }
+        },
+        {
+          "id": "f5c2aa8f-7e20-4481-9d27-6aec90866819",
+          "filename": "英雄聯盟一刀P死.webm",
+          "text": {
+            "zh-tw": "(英雄聯盟一刀P死)",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
         }
       ]
     },
@@ -479,6 +494,21 @@
           "filename": "你是笨蛋嗎你在說什麼東西啊你是笨蛋嗎.webm",
           "text": {
             "zh-tw": "你是笨蛋嗎 你在說什麼東西啊 你是笨蛋嗎",
+            "ja": ""
+          },
+          "baseRoute": null,
+          "volume": 1,
+          "source": {
+            "videoId": "",
+            "start": 0,
+            "end": 0
+          }
+        },
+        {
+          "id": "f1e3993b-0eaa-4b05-bb21-c1280c0ccabd",
+          "filename": "媽的你就被操一操啦幹你娘.webm",
+          "text": {
+            "zh-tw": "媽的你就被操一操啦，幹你娘",
             "ja": ""
           },
           "baseRoute": null,
